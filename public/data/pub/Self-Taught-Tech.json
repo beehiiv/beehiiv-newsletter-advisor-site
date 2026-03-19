@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "interview-update",
+    "title": "Interview Update",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-12-22",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/interview-update",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/interview-update.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "upcoming-layoffs",
+    "title": "Upcoming Layoffs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-12-15",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/upcoming-layoffs",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/upcoming-layoffs.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-path-forward",
+    "title": "The Path Forward",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-path-forward",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/the-path-forward.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "why-i-didn-t-fail",
+    "title": "Why I Didn't Fail",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-11-10",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/why-i-didn-t-fail",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/why-i-didn-t-fail.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "just-build",
+    "title": "Just Build",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-11-03",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/just-build",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/just-build.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "azure-detour",
+    "title": "Azure Detour",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-10-27",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/azure-detour",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/azure-detour.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "crash-and-burn",
+    "title": "Crash and Burn",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-10-20",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/crash-and-burn",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/crash-and-burn.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "my-first-app",
+    "title": "My First App",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-10-13",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/my-first-app",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/my-first-app.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-bleakness",
+    "title": "The Bleakness",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-10-06",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-bleakness",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/the-bleakness.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-imposter-is-creeping",
+    "title": "The Imposter is Creeping",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-09-01",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-imposter-is-creeping",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/the-imposter-is-creeping.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "testing-in-3-2-1",
+    "title": "Testing in 3, 2, 1...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/testing-in-3-2-1",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/testing-in-3-2-1.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-aws-conundrum",
+    "title": "The AWS Conundrum ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-08-18",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-aws-conundrum",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-aws-conundrum.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "easy-is-the-new-difficult",
+    "title": "Easy Is The New Difficult",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/easy-is-the-new-difficult",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/easy-is-the-new-difficult.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-about-face",
+    "title": "The About-Face",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-about-face",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/the-about-face.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "if-one-starts",
+    "title": "If One Starts...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-07-07",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/if-one-starts",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/if-one-starts.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-conversation-with-an-intern",
+    "title": "A Conversation with an Intern",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-06-23",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/a-conversation-with-an-intern",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-conversation-with-an-intern.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "learn-like-an-athlete",
+    "title": "Learn Like an Athlete",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-06-16",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/learn-like-an-athlete",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/learn-like-an-athlete.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "small-wins-big-confidence",
+    "title": "Small Wins, Big Confidence",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-06-09",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/small-wins-big-confidence",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/small-wins-big-confidence.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "it-s-not-what-you-know",
+    "title": "It's Not What You Know...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-06-02",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/it-s-not-what-you-know",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-not-what-you-know.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "you-re-just-to-close-to-it",
+    "title": "You're Just To Close To It",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-05-26",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/you-re-just-to-close-to-it",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/you-re-just-to-close-to-it.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-conflict",
+    "title": "The Conflict",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-05-18",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-conflict",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-conflict.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "you-won-t-remember-everything",
+    "title": "You Won’t Remember Everything",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-05-12",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/you-won-t-remember-everything",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/you-won-t-remember-everything.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "mentality-talent",
+    "title": "Mentality >>> Talent",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-05-05",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/mentality-talent",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/mentality-talent.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "that-lightbulb-moment",
+    "title": "That Lightbulb Moment",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-04-28",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/that-lightbulb-moment",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/that-lightbulb-moment.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-it-means-to-be-good-at-tech",
+    "title": "What It Means to Be “Good” at Tech",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-04-14",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/what-it-means-to-be-good-at-tech",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/what-it-means-to-be-good-at-tech.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-not-to-breaking-into-tech",
+    "title": "How Not to Breaking Into Tech",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-04-07",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/how-not-to-breaking-into-tech",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/how-not-to-breaking-into-tech.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-myth-of-the-perfect-job",
+    "title": "The Myth of the Perfect Job",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-03-31",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-myth-of-the-perfect-job",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-myth-of-the-perfect-job.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "job-hunting-in-this-market",
+    "title": "Job Hunting in this Market",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-03-24",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/job-hunting-in-this-market",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/job-hunting-in-this-market.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "journaling-your-learning",
+    "title": "Journaling Your Learning",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-03-17",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/journaling-your-learning",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/journaling-your-learning.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "oh-it-s-easier-than",
+    "title": "Oh, it's easier than....",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-03-10",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/oh-it-s-easier-than",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/oh-it-s-easier-than.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "learning-on-the-job",
+    "title": "Learning on the Job",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-03-03",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/learning-on-the-job",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/learning-on-the-job.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "eww-leetcode",
+    "title": "Eww, Leetcode",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-02-24",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/eww-leetcode",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/eww-leetcode.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-doomsday-sayers",
+    "title": "The Doomsday Sayers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-02-17",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-doomsday-sayers",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-doomsday-sayers.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-phone-screening",
+    "title": "The Phone Screening",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-02-10",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/the-phone-screening",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/the-phone-screening.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "at-the-crossroads",
+    "title": "At The Crossroads",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-02-03",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/at-the-crossroads",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "htmlFile": "/emails/at-the-crossroads.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "choose-your-career",
+    "title": "Choose Your Career",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2025-01-20",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/choose-your-career",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "mavenagi.png"
+      }
+    ],
+    "htmlFile": "/emails/choose-your-career.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "tech-prep-i-don-t-know",
+    "title": "Tech Prep: I Don't Know",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-11-25",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/tech-prep-i-don-t-know",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "Codeium_Logo_Wordmark__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-prep-i-don-t-know.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "no-stem-degree-do-you-stand-a-chance",
+    "title": "No STEM Degree, Do You Stand A Chance?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-11-18",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/no-stem-degree-do-you-stand-a-chance",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/no-stem-degree-do-you-stand-a-chance.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "rejection-it-s-part-of-the-process",
+    "title": "Rejection, It's Part of The Process",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-11-11",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/rejection-it-s-part-of-the-process",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/rejection-it-s-part-of-the-process.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "grinding-leetcode",
+    "title": "Grinding Leetcode",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-11-04",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/grinding-leetcode",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "Codeium_Logo_Wordmark__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/grinding-leetcode.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "tech-prep-gather-your-tools",
+    "title": "Tech Prep: Gather Your Tools",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-10-28",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/tech-prep-gather-your-tools",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-prep-gather-your-tools.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "learn-this-learn-that",
+    "title": "Learn This, Learn That",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-10-21",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/learn-this-learn-that",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/learn-this-learn-that.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "i-know-i-know-nothing",
+    "title": "I Know, I Know Nothing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/i-know-i-know-nothing",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/i-know-i-know-nothing.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "first-job-52-000",
+    "title": "First Job - $52,000",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-09-30",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/first-job-52-000",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "htmlFile": "/emails/first-job-52-000.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "tech-prep-research-with-purpose",
+    "title": "Tech Prep: Research With Purpose",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-09-23",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/tech-prep-research-with-purpose",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "oneleet.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-prep-research-with-purpose.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "little-better-day",
+    "title": "A Little Better Each Day",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-09-16",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/little-better-day",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/little-better-day.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "fuels",
+    "title": "What Fuels You?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-09-09",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/fuels",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/fuels.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "interview-purpose",
+    "title": "Interview with Purpose",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-09-02",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/interview-purpose",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/interview-purpose.html",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "tech-prep-phone-screening",
+    "title": "Tech Prep: Phone Screening",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-08-26",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/tech-prep-phone-screening",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-prep-phone-screening.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "never-know-try",
+    "title": "You Never Know, Until You Try",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-08-12",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/never-know-try",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/never-know-try.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "frustrations-come-frustrations-go",
+    "title": "Frustrations come, Frustrations Go",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Self Taught Tech",
+    "date": "2024-08-05",
+    "hasAds": true,
+    "url": "https://selftaughttech.beehiiv.com/p/frustrations-come-frustrations-go",
+    "publisher": {
+      "name": "Self Taught Tech",
+      "url": "https://selftaughttech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/frustrations-come-frustrations-go.html",
+    "tags": [
+      "Health"
+    ]
+  }
+]

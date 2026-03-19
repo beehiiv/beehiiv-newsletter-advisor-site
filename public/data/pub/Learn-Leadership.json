@@ -1,0 +1,813 @@
+[
+  {
+    "id": "operating-rhythm-that-scales",
+    "title": "Operating Rhythm That Scales",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Learn Leadership",
+    "date": "2025-10-05",
+    "hasAds": true,
+    "url": "https://learnleadership.co/p/operating-rhythm-that-scales",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/operating-rhythm-that-scales.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "systems-thinking-for-leaders",
+    "title": "Systems Thinking for Leaders",
+    "category": "Digital Products",
+    "description": "Seeing the Whole to Solve the Root Cause",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/systems-thinking-for-leaders",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-09-30T11:55:08.950718Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/systems-thinking-for-leaders.html"
+  },
+  {
+    "id": "narrative-power-in-leadership",
+    "title": "Narrative Power in Leadership",
+    "category": "Digital Products",
+    "description": "Using Narrative to Align, Motivate, and Drive Action",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/narrative-power-in-leadership",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-09-27T13:26:42.499984Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/narrative-power-in-leadership.html"
+  },
+  {
+    "id": "focus-to-go-faster",
+    "title": "Focus to Go Faster",
+    "category": "Digital Products",
+    "description": "Saying No to Move Faster on What Matters",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/focus-to-go-faster",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-09-24T14:29:44.271357Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/focus-to-go-faster.html"
+  },
+  {
+    "id": "the-hybrid-leader-s-playbook",
+    "title": "The Hybrid Leader’s Playbook",
+    "category": "Digital Products",
+    "description": "Building Trust, Clarity, and Performance Across Distance",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/the-hybrid-leader-s-playbook",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-18T17:27:52.229055Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hybrid-leader-s-playbook.html"
+  },
+  {
+    "id": "leading-with-adaptability",
+    "title": "Leading with Adaptability",
+    "category": "Digital Products",
+    "description": "Leading Well When Plans Keep Shifting",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-adaptability",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-09-16T18:42:50.518314Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/leading-with-adaptability.html",
+    "hasAds": true
+  },
+  {
+    "id": "leading-with-vision",
+    "title": "Leading with Vision",
+    "category": "Digital Products",
+    "description": "Guiding Your Team Toward a Future They Believe In",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-vision",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-13T10:39:04.511785Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-with-vision.html"
+  },
+  {
+    "id": "leading-with-patience",
+    "title": "Leading with Patience",
+    "category": "Digital Products",
+    "description": "The Power of Slowing Down to Lead with Clarity and Confidence",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-patience",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-08T20:07:18.286583Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-with-patience.html"
+  },
+  {
+    "id": "leading-with-resilience",
+    "title": "Leading with Resilience",
+    "category": "Digital Products",
+    "description": "Building Strength and Stability in Times of Ongoing Pressure",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-resilience",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-09-05T16:34:23.115876Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-with-resilience.html"
+  },
+  {
+    "id": "leading-with-accountability",
+    "title": "Leading with Accountability",
+    "category": "Digital Products",
+    "description": "How to Build a Culture of Ownership and Responsibility",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-accountability",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-09-02T17:58:25.279114Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/leading-with-accountability.html",
+    "hasAds": true
+  },
+  {
+    "id": "leading-through-feedback",
+    "title": "Leading Through Feedback",
+    "category": "Digital Products",
+    "description": "How to Give and Receive Feedback That Fuels Growth",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-through-feedback",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-30T09:50:02.620632Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-through-feedback.html"
+  },
+  {
+    "id": "leading-with-curiosity",
+    "title": "Leading with Curiosity",
+    "category": "Digital Products",
+    "description": "How Asking Better Questions Creates Stronger Teams",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-curiosity",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-23T11:00:56.868976Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-with-curiosity.html"
+  },
+  {
+    "id": "emotional-agility-in-leadership",
+    "title": "Emotional Agility in Leadership",
+    "category": "Digital Products",
+    "description": "How to Stay Flexible and Resilient When Challenges Keep Shifting",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/emotional-agility-in-leadership",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-08-20T02:41:38.820214Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickUp",
+        "url": "https://clickup.com/",
+        "logo": "https://clickup.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/emotional-agility-in-leadership.html"
+  },
+  {
+    "id": "leading-change-with-confidence",
+    "title": "Leading Change with Confidence",
+    "category": "Digital Products",
+    "description": "How to Guide Your Team Through Transitions Without Losing Momentum",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-change-with-confidence",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-08-16T12:38:49.761586Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickUp",
+        "url": "https://clickup.com/",
+        "logo": "https://clickup.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-change-with-confidence.html"
+  },
+  {
+    "id": "building-trust-across-teams",
+    "title": "Building Trust Across Teams",
+    "category": "Digital Products",
+    "description": "How Leaders Create Alignment and Collaboration in a Multi-Team Environment",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/building-trust-across-teams",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-08-12T18:30:32.584905Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/building-trust-across-teams.html",
+    "hasAds": true
+  },
+  {
+    "id": "decision-making-under-pressure",
+    "title": "Decision-Making Under Pressure",
+    "category": "Digital Products",
+    "description": "How Great Leaders Choose Wisely When Stakes Are High",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/decision-making-under-pressure",
+    "tags": [
+      "Business",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-09T15:38:23.088149Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/decision-making-under-pressure.html"
+  },
+  {
+    "id": "leading-yourself-first",
+    "title": "Leading Yourself First",
+    "category": "Digital Products",
+    "description": "Why Self-Leadership Is the Foundation of Great Leadership",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-yourself-first",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-08-06T16:21:07.539555Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-yourself-first.html"
+  },
+  {
+    "id": "leading-with-clarity",
+    "title": "Leading with Clarity",
+    "category": "Digital Products",
+    "description": "How to Communicate Clearly When It Matters Most",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-with-clarity",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-03T16:00:34.374968Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      },
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.readtangle.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/leading-with-clarity.html",
+    "hasAds": true
+  },
+  {
+    "id": "leading-through-influence",
+    "title": "Leading Through Influence",
+    "category": "Digital Products",
+    "description": "How to Drive Change Without Authority",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/leading-through-influence",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-30T12:18:05.878147Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leading-through-influence.html"
+  },
+  {
+    "id": "authentic-leadership",
+    "title": "Authentic Leadership",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Learn Leadership",
+    "date": "2025-07-24",
+    "hasAds": true,
+    "url": "https://learnleadership.co/p/authentic-leadership",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Prompt Engineering Daily",
+        "url": "https://www.neatprompts.com/",
+        "logo": "Removebg_Preview__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/authentic-leadership.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "values-driven-decisions",
+    "title": "Values-Driven Decisions",
+    "category": "Digital Products",
+    "description": "Aligning Strategy with Principles",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/values-driven-decisions",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-06T07:14:35.553427Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/values-driven-decisions.html"
+  },
+  {
+    "id": "the-listening-leader",
+    "title": "The Listening Leader",
+    "category": "Digital Products",
+    "description": "Why Deep Listening Drives Results",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/the-listening-leader",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-03T08:42:48.802441Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-listening-leader.html"
+  },
+  {
+    "id": "empowered-delegation",
+    "title": "Empowered Delegation",
+    "category": "Digital Products",
+    "description": "How to Multiply Your Impact through Others",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/empowered-delegation",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-25T21:29:53.125772Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/empowered-delegation.html",
+    "hasAds": true
+  },
+  {
+    "id": "from-vision-to-action",
+    "title": "From Vision to Action",
+    "category": "Digital Products",
+    "description": "Turning Bold Ideas Into Movement",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/from-vision-to-action",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-22T03:47:47.841747Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/from-vision-to-action.html"
+  },
+  {
+    "id": "the-leadership-flywheel",
+    "title": "The Leadership Flywheel",
+    "category": "Digital Products",
+    "description": "How Small Wins Create Big Momentum",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/the-leadership-flywheel",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-17T06:16:34.710846Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-leadership-flywheel.html"
+  },
+  {
+    "id": "mastering-difficult-conversations",
+    "title": "Mastering Difficult Conversations",
+    "category": "Digital Products",
+    "description": "Turning Tension into Trust Without Losing Your Cool",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/mastering-difficult-conversations",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-15T17:46:41.931161Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mastering-difficult-conversations.html"
+  },
+  {
+    "id": "uncertainty-advantage",
+    "title": "Uncertainty Advantage",
+    "category": "Digital Products",
+    "description": "Leading with Clarity When the Path Keeps Shifting",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/uncertainty-advantage",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-12T11:10:07.542896Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/uncertainty-advantage.html"
+  },
+  {
+    "id": "how-to-rebuild-trust-after-you-ve-lost-it",
+    "title": "How to Rebuild Trust After You’ve Lost It",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/how-to-rebuild-trust-after-you-ve-lost-it",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-08T08:02:42.176029Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-rebuild-trust-after-you-ve-lost-it.html"
+  },
+  {
+    "id": "the-hidden-cost-of-micromanagement-and-how-to-let-go-ffc63d433270bbb3",
+    "title": "The Hidden Cost of Micromanagement and How to Let Go",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Learn Leadership",
+    "url": "https://learnleadership.co/p/the-hidden-cost-of-micromanagement-and-how-to-let-go-ffc63d433270bbb3",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-29T05:03:13.709336Z",
+    "publisher": {
+      "name": "Learn Leadership",
+      "url": "https://learnleadership.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hidden-cost-of-micromanagement-and-how-to-let-go-ffc63d433270bbb3.html"
+  }
+]

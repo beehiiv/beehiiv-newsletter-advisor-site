@@ -1,0 +1,83 @@
+[
+  {
+    "id": "oku",
+    "title": "Oku",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Vancity Lookout Eats",
+    "url": "https://vancitylookouteats.beehiiv.com/p/oku",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-27T16:00:00.4036Z",
+    "publisher": {
+      "name": "Vancity Lookout Eats",
+      "url": "https://vancitylookouteats.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/oku.html"
+  },
+  {
+    "id": "collective-goods-bench-bakehouse",
+    "title": "Collective Goods, Bench Bakehouse",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Vancity Lookout Eats",
+    "url": "https://vancitylookouteats.beehiiv.com/p/collective-goods-bench-bakehouse",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-08T01:11:52.476443Z",
+    "publisher": {
+      "name": "Vancity Lookout Eats",
+      "url": "https://vancitylookouteats.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/collective-goods-bench-bakehouse.html"
+  },
+  {
+    "id": "ganh-pelicana",
+    "title": "Ganh, Pelicana",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Vancity Lookout Eats",
+    "url": "https://vancitylookouteats.beehiiv.com/p/ganh-pelicana",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-29T04:34:45.630063Z",
+    "publisher": {
+      "name": "Vancity Lookout Eats",
+      "url": "https://vancitylookouteats.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ganh-pelicana.html"
+  }
+]

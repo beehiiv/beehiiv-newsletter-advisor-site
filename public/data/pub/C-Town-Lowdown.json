@@ -1,0 +1,111 @@
+[
+  {
+    "id": "january-27-2026",
+    "title": "January 27, 2026",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "C-Town Lowdown",
+    "date": "2026-01-27",
+    "hasAds": true,
+    "url": "https://ctownlowdown.beehiiv.com/p/january-27-2026",
+    "publisher": {
+      "name": "C-Town Lowdown",
+      "url": "https://ctownlowdown.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Acadia Learning",
+        "url": "https://acadialearning.org/",
+        "logo": "ALlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/january-27-2026.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "december-09-2025",
+    "title": "December 09, 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "C-Town Lowdown",
+    "date": "2025-12-09",
+    "hasAds": true,
+    "url": "https://ctownlowdown.beehiiv.com/p/december-09-2025",
+    "publisher": {
+      "name": "C-Town Lowdown",
+      "url": "https://ctownlowdown.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/december-09-2025.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "november-04-2025",
+    "title": "November 04, 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "C-Town Lowdown",
+    "date": "2025-11-04",
+    "hasAds": true,
+    "url": "https://ctownlowdown.beehiiv.com/p/november-04-2025",
+    "publisher": {
+      "name": "C-Town Lowdown",
+      "url": "https://ctownlowdown.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/november-04-2025.html",
+    "tags": [
+      "Entertainment",
+      "Finance",
+      "Technology"
+    ]
+  },
+  {
+    "id": "october-28-2025",
+    "title": "October 28, 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "C-Town Lowdown",
+    "date": "2025-10-28",
+    "hasAds": true,
+    "url": "https://ctownlowdown.beehiiv.com/p/october-28-2025",
+    "publisher": {
+      "name": "C-Town Lowdown",
+      "url": "https://ctownlowdown.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "AUTHOR_INC.png"
+      }
+    ],
+    "htmlFile": "/emails/october-28-2025.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "freelance-friday-how-to-win-bigger-better-clients",
+    "title": "Freelance Friday: How to Win Bigger, Better Clients",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Freelance Friday",
+    "url": "https://freelancefridaynewsletter.com/p/freelance-friday-how-to-win-bigger-better-clients",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-11T14:50:33.913477Z",
+    "publisher": {
+      "name": "Freelance Friday",
+      "url": "https://freelancefridaynewsletter.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/freelance-friday-how-to-win-bigger-better-clients.html"
+  },
+  {
+    "id": "freelance-friday-the-top-5-challenges",
+    "title": "Freelance Friday: The Top 5 Challenges Freelancers Face ",
+    "category": "Digital Products",
+    "description": "(And How to Solve Them)",
+    "author": "Freelance Friday",
+    "url": "https://freelancefridaynewsletter.com/p/freelance-friday-the-top-5-challenges",
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "date": "2025-06-12T13:11:10.516448Z",
+    "publisher": {
+      "name": "Freelance Friday",
+      "url": "https://freelancefridaynewsletter.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Besolo",
+        "url": "https://www.besolo.io/",
+        "logo": "https://www.besolo.io/wp-content/uploads/2025/05/cropped-Besolo-Icon-Rounded-Corners-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/freelance-friday-the-top-5-challenges.html"
+  }
+]

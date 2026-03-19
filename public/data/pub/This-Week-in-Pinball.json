@@ -1,0 +1,705 @@
+[
+  {
+    "id": "artificial-future",
+    "title": "Artificial Future",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "This Week in Pinball",
+    "date": "2025-06-27",
+    "hasAds": true,
+    "url": "https://twip.kineticist.com/p/artificial-future",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/artificial-future.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "controversial-releases",
+    "title": "Controversial Releases",
+    "category": "Digital Products",
+    "description": "Predator Launched | Predator Controversy | Moving Units: The State of Pinball Brothers Before Predator | Harry Potter and the AI Art | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/controversial-releases",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-19T12:15:53.273059Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/controversial-releases.html"
+  },
+  {
+    "id": "next-up",
+    "title": "Next Up",
+    "category": "Digital Products",
+    "description": "Leftover Potter Bits | One Exciting Predator Development | The Score Card #4 | New Brian Allen Art | Digitizing Play Meters | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/next-up",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-12T18:19:38.083661Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/next-up.html"
+  },
+  {
+    "id": "pinball-wizard",
+    "title": "Pinball Wizard",
+    "category": "Digital Products",
+    "description": "Harry Potter Revealed | JJP Needs a Hit | Predator Teased | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/pinball-wizard",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-06-05T19:26:49.072057Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pinball-wizard.html"
+  },
+  {
+    "id": "rising-tensions",
+    "title": "Rising Tensions",
+    "category": "Digital Products",
+    "description": "THE SCORE CARD | David vs Gorilla | New Batman Forever Tutorial | Stern Hires New VP | How Will Tarriffs Impact Pinball? | RIP Pinball Long Island | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/rising-tensions",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-03T20:33:07.889089Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rising-tensions.html"
+  },
+  {
+    "id": "hype-cycle",
+    "title": "Hype Cycle",
+    "category": "Digital Products",
+    "description": "Why Licensing Matters | D&D Review | Barrels Updates | Potter Confirmed | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/hype-cycle",
+    "tags": [
+      "Education"
+    ],
+    "date": "2025-03-27T20:14:24.215948Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Babbel",
+        "url": "https://www.babbel.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.babbel.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hype-cycle.html"
+  },
+  {
+    "id": "texas-two-step",
+    "title": "Texas Two Step",
+    "category": "Digital Products",
+    "description": "Portal Pinball | Merlin's Arcade Pinball | New DPX Alice Code | TEP Pulp Fiction Topper Release | Dungeons & Dragons Tutorial | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/texas-two-step",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-03-18T13:09:48.62592Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/texas-two-step.html"
+  },
+  {
+    "id": "twipy-week",
+    "title": "TWIPY WEEK!",
+    "category": "Digital Products",
+    "description": "TWIPY Streaming Info | Kiss Tutorials | Scorbit & INDISC | Hybrid Best Game Tips Wick Acessories | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/twipy-week",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-19T15:28:03.195218Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "6AM City",
+        "url": "https://6amcity.com/",
+        "logo": "https://6amcity.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/twipy-week.html"
+  },
+  {
+    "id": "community-standards",
+    "title": "Community Standards",
+    "category": "Digital Products",
+    "description": "Road Trip Pinball Pics | IFPA State Champ Experience | Avatar Tutorial | TEP Interview | Meme of the Week | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/community-standards",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-02-06T19:44:43.220482Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.thecbdistillery.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/community-standards.html"
+  },
+  {
+    "id": "ice-cream-nachos",
+    "title": "Ice Cream Nachos",
+    "category": "Digital Products",
+    "description": "IFPA Rookie of the Year | TMNT Tutorial | Wonderland Update | RIP Fred Young | Product of the Week | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/ice-cream-nachos",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-01-30T15:53:23.956494Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lysted",
+        "url": "https://lysted.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=lysted.com&sz=128"
+      },
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ice-cream-nachos.html"
+  },
+  {
+    "id": "it-s-more-fun-to-compete",
+    "title": "It's More Fun to Compete",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "This Week in Pinball",
+    "date": "2025-01-24",
+    "hasAds": true,
+    "url": "https://twip.kineticist.com/p/it-s-more-fun-to-compete",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "Light_background_horizontal.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-more-fun-to-compete.html",
+    "tags": [
+      "E-commerce",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "record-breaking-year",
+    "title": "Record Breaking Year",
+    "category": "Digital Products",
+    "description": "Blues Brothers First Impressions | Number Crunching 2024 Releases | Terminator 2 Tutorial | Product of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/record-breaking-year",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-15T15:10:51.514553Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/record-breaking-year.html"
+  },
+  {
+    "id": "dungeon-crawling",
+    "title": "Dungeon Crawling",
+    "category": "Digital Products",
+    "description": "Hands-on with D&D | Greatest Showman Interview | No Easy Fix for AP | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/dungeon-crawling",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-09T16:36:18.358976Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dungeon-crawling.html"
+  },
+  {
+    "id": "last-newsletter",
+    "title": "Last Newsletter",
+    "category": "Digital Products",
+    "description": "Pincinnati Recap | New Pin*Bot Tutorial | Stern’s Vault Program | AP Glassdoor Reviews | New DPX Rumors | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/last-newsletter",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-12-19T20:52:04.309117Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/last-newsletter.html"
+  },
+  {
+    "id": "the-twipy-awards-return",
+    "title": "The TWIPY Awards Return!",
+    "category": "Digital Products",
+    "description": "Save the Date for the 2024 TWIPY Awards | Favorite Expo Homebrew Games | Updated Venom Tutorial | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/the-twipy-awards-return",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-03T22:27:55.177938Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-twipy-awards-return.html"
+  },
+  {
+    "id": "pinball-black-friday-deals-bonanza",
+    "title": "Pinball Black Friday Deals Bonanza",
+    "category": "Digital Products",
+    "description": "All the Black Friday Deals We've Found So Far | Song of the Week | Links | That's It!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/pinball-black-friday-deals-bonanza",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-11-27T21:01:23.649693Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bettersleep.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pinball-black-friday-deals-bonanza.html"
+  },
+  {
+    "id": "story-time",
+    "title": "Story Time",
+    "category": "Digital Products",
+    "description": "The Story of Zane Montana | Obscure Pinball Facts | Wonderland Playfield Renderings Updated Wick Tutorial | AP Rumors | Cloud Connected Pinball | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/story-time",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-11-15T00:34:55.182566Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/story-time.html"
+  },
+  {
+    "id": "pinball",
+    "title": "Pinball!",
+    "category": "Digital Products",
+    "description": "Spooky Reveals Evil Dead | Rocky & Bullwinkle Tutorial | Pinball XP | News of the Week | Product(s) of the Week | Location(s) of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/pinball",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-11-14T19:45:14.646826Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pinball.html"
+  },
+  {
+    "id": "sail-away",
+    "title": "Sail Away",
+    "category": "Digital Products",
+    "description": "Creating Memories at the Media Mixer | Johnny Mnemonic Tutorial | Stern IC App Updates | Product of the Week | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/sail-away",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-11-07T19:08:09.773084Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=comparecredit.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sail-away.html"
+  },
+  {
+    "id": "expo-euphoria",
+    "title": "Expo Euphoria",
+    "category": "Digital Products",
+    "description": "Expo Highlights | OG Metallica Tutorial | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/expo-euphoria",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-25T00:48:41.401622Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/expo-euphoria.html"
+  },
+  {
+    "id": "creative-processing",
+    "title": "Creative Processing",
+    "category": "Digital Products",
+    "description": "New JJP Film Photos | Barrels of Fun Updates | New Avatar Tidbits | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/creative-processing",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-26T13:38:49.826927Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/creative-processing.html"
+  },
+  {
+    "id": "jacked-up",
+    "title": "Jacked Up",
+    "category": "Digital Products",
+    "description": "A Day at Jersey Jack | The Hankin Story | Jurassic Park Tutorial | Pinball Planet | Location of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/jacked-up",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-09-19T17:24:52.690244Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jacked-up.html"
+  },
+  {
+    "id": "costco-guys",
+    "title": "We're Costco Guys",
+    "category": "Digital Products",
+    "description": "JJP Avatar Leaks | Stern Goes to Costco | More Open Source Blues Code",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/costco-guys",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-29T14:28:04.43039Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/costco-guys.html"
+  },
+  {
+    "id": "open-sourced",
+    "title": "Open Sourced",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "This Week in Pinball",
+    "date": "2024-08-23",
+    "hasAds": true,
+    "url": "https://twip.kineticist.com/p/open-sourced",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/open-sourced.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "like-magic",
+    "title": "I heard you like magic? 🪄",
+    "category": "Digital Products",
+    "description": "Tour de Pinball | Pinball Magic Tutorial | Song of the Week | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/like-magic",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-08-07T13:03:40.875884Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tiege Hanley",
+        "url": "https://www.tiege.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.tiege.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/like-magic.html"
+  },
+  {
+    "id": "brat-pinball-summer",
+    "title": "Brat Pinball Summer",
+    "category": "Digital Products",
+    "description": "Best Pinball Podcasts of '24 (so far) | TRON Tutorial | Sweeper City Recap | Haggis Updates | Song | Links | More!",
+    "author": "This Week in Pinball",
+    "url": "https://twip.kineticist.com/p/brat-pinball-summer",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-08-01T12:14:29.686394Z",
+    "publisher": {
+      "name": "This Week in Pinball",
+      "url": "https://twip.kineticist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Moonwlkr",
+        "url": "https://moonwlkr.com/",
+        "logo": "https://cdn.brandfetch.io/idQurOjGIi/w/820/h/147/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1752303107888"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/brat-pinball-summer.html"
+  }
+]

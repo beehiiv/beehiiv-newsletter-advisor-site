@@ -1,0 +1,135 @@
+[
+  {
+    "id": "show-and-tell-vol-4-b813269737e3a173",
+    "title": "Let's hear from the athletes...",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Athletes & Assets Backstage Newsletter",
+    "url": "https://backstage.athletesandassets.com/p/show-and-tell-vol-4-b813269737e3a173",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-26T15:42:45.471983Z",
+    "publisher": {
+      "name": "Athletes & Assets Backstage Newsletter",
+      "url": "https://backstage.athletesandassets.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/show-and-tell-vol-4-b813269737e3a173.html"
+  },
+  {
+    "id": "a-non-stop-november",
+    "title": "A Non-Stop November",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Athletes & Assets Backstage Newsletter",
+    "url": "https://backstage.athletesandassets.com/p/a-non-stop-november",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2024-12-03T06:21:42.553723Z",
+    "publisher": {
+      "name": "Athletes & Assets Backstage Newsletter",
+      "url": "https://backstage.athletesandassets.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "https://cdn.brandfetch.io/id_0dwKPKT/w/399/h/399/theme/dark/icon.jpeg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-non-stop-november.html"
+  },
+  {
+    "id": "athletefounders-please-dont-3-things",
+    "title": "Fundraising tactics that are hurting athlete-entrepreneurs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Athletes & Assets Backstage Newsletter",
+    "date": "2024-08-23",
+    "hasAds": true,
+    "url": "https://backstage.athletesandassets.com/p/athletefounders-please-dont-3-things",
+    "publisher": {
+      "name": "Athletes & Assets Backstage Newsletter",
+      "url": "https://backstage.athletesandassets.com"
+    },
+    "advertisers": [
+      {
+        "name": "Harlo",
+        "url": "https://drinkharlo.com/",
+        "logo": "Harlo_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/athletefounders-please-dont-3-things.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "olympians-get-pto",
+    "title": "Do Olympians get PTO? ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Athletes & Assets Backstage Newsletter",
+    "url": "https://backstage.athletesandassets.com/p/olympians-get-pto",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-07-31T22:33:33.226533Z",
+    "publisher": {
+      "name": "Athletes & Assets Backstage Newsletter",
+      "url": "https://backstage.athletesandassets.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Purple Carrot",
+        "url": "https://www.purplecarrot.com/",
+        "logo": "https://www.purplecarrot.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/olympians-get-pto.html"
+  },
+  {
+    "id": "jamming-july",
+    "title": "JAMMING in July...",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Athletes & Assets Backstage Newsletter",
+    "url": "https://backstage.athletesandassets.com/p/jamming-july",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ],
+    "date": "2024-07-31T17:30:18.976401Z",
+    "publisher": {
+      "name": "Athletes & Assets Backstage Newsletter",
+      "url": "https://backstage.athletesandassets.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Public Rec",
+        "url": "https://www.publicrec.com/",
+        "logo": "https://publicrec.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jamming-july.html"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "id": "student-housing",
+    "title": "Student Housing 🏠👨‍🎓",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/student-housing",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-01-12T19:05:53.472773Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/student-housing.html"
+  },
+  {
+    "id": "chasing-multi-bagger-stocks",
+    "title": "Chasing multi-bagger stocks 🏃‍♂️‍➡️",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/chasing-multi-bagger-stocks",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-05T08:40:08.291307Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chasing-multi-bagger-stocks.html"
+  },
+  {
+    "id": "farmland",
+    "title": "Farmland 👩‍🌾🌽🐄",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/farmland",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2024-11-20T21:25:37.27587Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/about/how-it-works",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/farmland.html"
+  },
+  {
+    "id": "ai-drug-discovery",
+    "title": "AI Drug Discovery 👩‍💻💊 ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/ai-drug-discovery",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-27T19:43:38.084486Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      },
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-drug-discovery.html"
+  },
+  {
+    "id": "search-funds",
+    "title": "Search Funds 🔍",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/search-funds",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-13T14:25:40.187186Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/search-funds.html"
+  },
+  {
+    "id": "zyn-for-the-win",
+    "title": "Zyn for the Win 🧠",
+    "category": "Digital Products",
+    "description": "Boosting brain power with nicotine",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/zyn-for-the-win",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-10-06T13:00:09.41505Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/90298f9d-06ec-45f0-b666-36d18354215a/thumb_Screenshot_2025-10-22_at_4.47.53_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/zyn-for-the-win.html"
+  },
+  {
+    "id": "cat-bonds",
+    "title": "Catastrophe Bonds 🌩️",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/cat-bonds",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-06T11:19:13.900007Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cat-bonds.html"
+  },
+  {
+    "id": "monthly-roundup-september",
+    "title": "Monthly Roundup - September 🍂",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/monthly-roundup-september",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-09-23T19:54:43.35373Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/monthly-roundup-september.html"
+  },
+  {
+    "id": "galderma",
+    "title": "The medical aesthetics leader you might have never heard of 💉💉💉",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/galderma",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-15T17:27:45.587037Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/galderma.html"
+  },
+  {
+    "id": "monthly-roundup-august",
+    "title": "Monthly Roundup - August 😎☀️🍹",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Alternate Universe",
+    "url": "https://www.alternateuniverse.io/p/monthly-roundup-august",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-29T11:57:04.23437Z",
+    "publisher": {
+      "name": "Alternate Universe",
+      "url": "https://www.alternateuniverse.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/monthly-roundup-august.html"
+  }
+]

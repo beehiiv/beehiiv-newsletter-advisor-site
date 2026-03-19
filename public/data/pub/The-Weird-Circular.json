@@ -1,0 +1,161 @@
+[
+  {
+    "id": "freelance-editing",
+    "title": "How to Get Started as a Freelance Book Editor ",
+    "category": "Digital Products",
+    "description": "Ten Years Later, I'm Still in Love with Editing: Focusing Your Business on What You Love",
+    "author": "The Weird Circular",
+    "url": "https://newsletter.hlwalrath.com/p/freelance-editing",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-12T15:54:48.581238Z",
+    "publisher": {
+      "name": "The Weird Circular",
+      "url": "https://newsletter.hlwalrath.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/freelance-editing.html"
+  },
+  {
+    "id": "speculative-poetry",
+    "title": "Why Speculative Poetry Matters to SFF",
+    "category": "Digital Products",
+    "description": "Speculative Poetry Should Be a Permanent Hugo Award Category and the Nebula Award Should Recognize Poetry Books",
+    "author": "The Weird Circular",
+    "url": "https://newsletter.hlwalrath.com/p/speculative-poetry",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2025-02-19T18:24:13.861218Z",
+    "publisher": {
+      "name": "The Weird Circular",
+      "url": "https://newsletter.hlwalrath.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.lulu.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/speculative-poetry.html"
+  },
+  {
+    "id": "guestpoststewartbaker",
+    "title": "The Understory: A Versatile Technique for Outlining Short Stories",
+    "category": "Digital Products",
+    "description": "A Weird Circular Guest Post from Stewart C Baker",
+    "author": "The Weird Circular",
+    "url": "https://newsletter.hlwalrath.com/p/guestpoststewartbaker",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-04T20:59:24.931805Z",
+    "publisher": {
+      "name": "The Weird Circular",
+      "url": "https://newsletter.hlwalrath.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/guestpoststewartbaker.html"
+  },
+  {
+    "id": "2024awardseligibility",
+    "title": "What I Published and Edited in 2024 + Things I Loved in 2024",
+    "category": "Digital Products",
+    "description": "What a Time to Be Alive, Amirite?",
+    "author": "The Weird Circular",
+    "url": "https://newsletter.hlwalrath.com/p/2024awardseligibility",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-31T19:03:53.498409Z",
+    "publisher": {
+      "name": "The Weird Circular",
+      "url": "https://newsletter.hlwalrath.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/2024awardseligibility.html",
+    "hasAds": true
+  },
+  {
+    "id": "self-editing",
+    "title": "Self-Editing for Writers",
+    "category": "Digital Products",
+    "description": "How to Revise Creative writing without an Editor",
+    "author": "The Weird Circular",
+    "url": "https://newsletter.hlwalrath.com/p/self-editing",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-21T21:56:52.395355Z",
+    "publisher": {
+      "name": "The Weird Circular",
+      "url": "https://newsletter.hlwalrath.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/self-editing.html"
+  },
+  {
+    "id": "theaiboom",
+    "title": "The AI Writing \"Boom\" and the Myths That Surround It ",
+    "category": "Digital Products",
+    "description": "LLMs Are Not AI, and They Certainly Aren't Toothpaste",
+    "author": "The Weird Circular",
+    "url": "https://newsletter.hlwalrath.com/p/theaiboom",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-10-24T15:51:12.257909Z",
+    "publisher": {
+      "name": "The Weird Circular",
+      "url": "https://newsletter.hlwalrath.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.lulu.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/theaiboom.html"
+  }
+]

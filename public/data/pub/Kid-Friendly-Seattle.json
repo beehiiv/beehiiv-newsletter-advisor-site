@@ -1,0 +1,590 @@
+[
+  {
+    "id": "weekend-events-feb-27-march-1",
+    "title": "🐙 Weekend Events (Feb 27 - March 1)",
+    "category": "Digital Products",
+    "description": "Seattle (& Eastside) Family Friendly Weekend Events",
+    "author": "Kid Friendly Seattle",
+    "url": "https://www.kidfriendlyseattle.com",
+    "tags": [
+      "Education"
+    ],
+    "date": "2026-02-25T19:43:02.173851Z",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Acadia Learning",
+        "url": "https://acadialearning.org/",
+        "logo": "https://www.google.com/s2/favicons?domain=acadialearning.org&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/weekend-events-feb-27-march-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "weekend-events-feb-20-feb-22",
+    "title": "🐙 Weekend Events (Feb 20 - Feb 22)",
+    "category": "Digital Products",
+    "description": "Seattle (& Eastside) Family Friendly Weekend Events",
+    "author": "Kid Friendly Seattle",
+    "url": "https://www.kidfriendlyseattle.com",
+    "tags": [
+      "Education"
+    ],
+    "date": "2026-02-18T21:23:43.026967Z",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Acadia Learning",
+        "url": "https://acadialearning.org/",
+        "logo": "https://www.google.com/s2/favicons?domain=acadialearning.org&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/weekend-events-feb-20-feb-22.html",
+    "hasAds": true
+  },
+  {
+    "id": "weekend-events-january-23-25",
+    "title": "🐙 Weekend Events (January 23-25)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2026-01-22",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/weekend-events-january-23-25",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Acadia Learning",
+        "url": "https://acadialearning.org/",
+        "logo": "ALlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/weekend-events-january-23-25.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "weekend-events-january-16-18",
+    "title": "🐙 Weekend Events (January 16-18)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2026-01-15",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/weekend-events-january-16-18",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "logo-full-dark.png"
+      }
+    ],
+    "htmlFile": "/emails/weekend-events-january-16-18.html",
+    "tags": [
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans-3031",
+    "title": "🐙 Kid Friendly Weekend Plans ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-12-18",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans-3031",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Relatable",
+        "url": "https://relatable.com/",
+        "logo": "Relatablelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans-3031.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-ube-pancakes-and-snowflake-lane",
+    "title": "🐙 Kid Friendly Seattle - Ube pancakes and Snowflake Lane",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-12-09",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-ube-pancakes-and-snowflake-lane",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Relatable",
+        "url": "https://relatable.com/",
+        "logo": "Relatablelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-ube-pancakes-and-snowflake-lane.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans-f19d",
+    "title": "🐙 Kid Friendly Weekend Plans",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-12-04",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans-f19d",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Relatable",
+        "url": "https://relatable.com/",
+        "logo": "Relatablelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans-f19d.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-blitzen-is-clocking-in",
+    "title": "🐙 Kid Friendly Seattle - Blitzen is clocking in",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-25",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-blitzen-is-clocking-in",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-blitzen-is-clocking-in.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans-760a",
+    "title": "🐙 Kid Friendly Weekend Plans ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-20",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans-760a",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans-760a.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-a-six-foot-candy-village",
+    "title": "🐙 Kid Friendly Seattle - a six foot candy village",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-18",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-a-six-foot-candy-village",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-a-six-foot-candy-village.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans-3b26",
+    "title": "🐙 Kid Friendly Weekend Plans",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-13",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans-3b26",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans-3b26.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-indoor-play-yoga",
+    "title": "🐙 Kid Friendly Seattle - Indoor Play + Yoga = ❤️ ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-11",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-indoor-play-yoga",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-indoor-play-yoga.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans-e27c",
+    "title": "🐙 Kid Friendly Weekend Plans ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-07",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans-e27c",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans-e27c.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-creepy-crawlies-free-museums-and-giant-jungle-gyms",
+    "title": "🐙 Kid Friendly Seattle - Creepy crawlies, free museums, and giant jungle gyms",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-11-04",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-creepy-crawlies-free-museums-and-giant-jungle-gyms",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-creepy-crawlies-free-museums-and-giant-jungle-gyms.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans-0016",
+    "title": "🐙 Kid Friendly Weekend Plans",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-10-30",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans-0016",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans-0016.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-bonsai-tree-houses-and-sand-castles",
+    "title": "🐙 Kid Friendly Seattle - Bonsai Tree Houses and Sand Castles",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-10-28",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-bonsai-tree-houses-and-sand-castles",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-bonsai-tree-houses-and-sand-castles.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "kid-friendly-weekend-plans",
+    "title": "🐙 Kid Friendly Weekend Plans",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-10-23",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-weekend-plans",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Contrarian Thinking",
+        "url": "https://contrarianthinking.co/",
+        "logo": "CT_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-weekend-plans.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-wanna-be-in-a-game-show",
+    "title": "🐙 Kid Friendly Seattle - Wanna be in a game show?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-10-21",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-wanna-be-in-a-game-show",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-wanna-be-in-a-game-show.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-pumpkin-curling-is-a-thing-and-you-re-invited",
+    "title": "🐙 Kid Friendly Seattle - Pumpkin curling is a thing, and you’re invited",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-10-14",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-pumpkin-curling-is-a-thing-and-you-re-invited",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-pumpkin-curling-is-a-thing-and-you-re-invited.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-monster-mash-is-peak-seattle-weird",
+    "title": "🐙 Kid Friendly Seattle - Monster Mash is peak Seattle weird",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-10-07",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-monster-mash-is-peak-seattle-weird",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-monster-mash-is-peak-seattle-weird.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-the-most-underrated-picnic-spot-in-the-city",
+    "title": "🐙 Kid Friendly Seattle - the most underrated picnic spot in the city",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-09-16",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-the-most-underrated-picnic-spot-in-the-city",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-the-most-underrated-picnic-spot-in-the-city.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-the-pnw-jurassic-park",
+    "title": "🐙 Kid Friendly Seattle - The PNW Jurassic Park",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-09-02",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-the-pnw-jurassic-park",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-the-pnw-jurassic-park.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kid-friendly-seattle-last-chance-dinosaurs",
+    "title": "🐙 Kid Friendly Seattle - Last Chance Dinosaurs ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kid Friendly Seattle",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://www.kidfriendlyseattle.com/p/kid-friendly-seattle-last-chance-dinosaurs",
+    "publisher": {
+      "name": "Kid Friendly Seattle",
+      "url": "https://www.kidfriendlyseattle.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/kid-friendly-seattle-last-chance-dinosaurs.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  }
+]

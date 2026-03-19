@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "l",
+    "title": "💡Why Your Competitors Are The Trusted Name",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Lead Memo",
+    "date": "2025-11-01",
+    "hasAds": true,
+    "url": "https://leadmemo.com/p/l",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/l.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "start-a-newsletter",
+    "title": "💡START YOUR CITY'S FIRST NEWSLETTER",
+    "category": "Digital Products",
+    "description": "How a local newsletter can make you money!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/start-a-newsletter",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-03T15:03:56.306674Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/start-a-newsletter.html"
+  },
+  {
+    "id": "the-24-hour-rule",
+    "title": "💡 #1 - THE 24-HR RULE",
+    "category": "Digital Products",
+    "description": "This tiny delay is killing your sales.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-24-hour-rule",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-10-01T16:49:57.708923Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-24-hour-rule.html"
+  },
+  {
+    "id": "struggling-to-get-leads",
+    "title": "💡 WHERE TO START?",
+    "category": "Digital Products",
+    "description": "Step-by-step starting point to generate leads fast",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/struggling-to-get-leads",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-10-01T11:41:53.313815Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/struggling-to-get-leads.html"
+  },
+  {
+    "id": "the-local-blitz-formula-dno",
+    "title": "💡 THE LOCAL BLITZ FORMULA (DNO)",
+    "category": "Digital Products",
+    "description": "3x Your Leads with Yard Signs, Flyers, and Digital Ads",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-local-blitz-formula-dno",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-14T17:06:50.300858Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/the-local-blitz-formula-dno.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-local-blitz-formula",
+    "title": "💡 THE LOCAL BLITZ FORMULA",
+    "category": "Digital Products",
+    "description": "3x Your Leads with Yard Signs, Flyers, and Digital Ads",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-local-blitz-formula",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-06T12:37:29.834748Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-local-blitz-formula.html"
+  },
+  {
+    "id": "power-of-consistency",
+    "title": "💡 BECOME CONSISTENT IN LEAD GEN!",
+    "category": "Digital Products",
+    "description": "The Simple Trick That Will Boost Your Local Lead Generation",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/power-of-consistency",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-06-27T12:23:00.738853Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/power-of-consistency.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-hidden-power-of-yard-signs-re-eng",
+    "title": "💡 THE HIDDEN POWER OF YARD SIGNS! (re-eng)",
+    "category": "Digital Products",
+    "description": "Maximize Your Local Lead Generation with High-Converting Flyers and Yard Signs",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-hidden-power-of-yard-signs-re-eng",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-06-23T14:26:02.598485Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hidden-power-of-yard-signs-re-eng.html"
+  },
+  {
+    "id": "the-hidden-power-of-yard-signs",
+    "title": "💡 THE HIDDEN POWER OF YARD SIGNS!",
+    "category": "Digital Products",
+    "description": "Maximize Your Local Lead Generation with High-Converting Flyers and Yard Signs",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-hidden-power-of-yard-signs",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-06-16T19:01:12.990144Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/the-hidden-power-of-yard-signs.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-one-simple-question-could-unlock-a-gold-mine-re-eng",
+    "title": "💡 HOW ONE SIMPLE QUESTION COULD UNLOCK A GOLD MINE (re-eng)",
+    "category": "Digital Products",
+    "description": "THE ASK METHOD: What It Is and Why It Works",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/how-one-simple-question-could-unlock-a-gold-mine-re-eng",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-06-16T13:53:54.688997Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-one-simple-question-could-unlock-a-gold-mine-re-eng.html"
+  },
+  {
+    "id": "how-we-drive-local-foot-traffic-re-eng",
+    "title": "💡 HOW WE DRIVE LOCAL FOOT TRAFFIC (re-eng)",
+    "category": "Digital Products",
+    "description": "How a $1,700 Meta Campaign Helped Us Drive Traffic, Generate Leads & Create Sales!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/how-we-drive-local-foot-traffic-re-eng",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-13T15:24:57.441586Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/how-we-drive-local-foot-traffic-re-eng.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-one-simple-question-could-unlock-a-gold-mine",
+    "title": "💡 HOW ONE SIMPLE QUESTION COULD UNLOCK A GOLD MINE",
+    "category": "Digital Products",
+    "description": "THE ASK METHOD: What It Is and Why It Works",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/how-one-simple-question-could-unlock-a-gold-mine",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-01T13:04:30.288873Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-one-simple-question-could-unlock-a-gold-mine.html"
+  },
+  {
+    "id": "the-ultimate-guide-to-building-a-local-newsletter",
+    "title": "💡 THE ULTIMATE GUIDE TO BUILDING A LOCAL NEWSLETTER!",
+    "category": "Digital Products",
+    "description": "Why Your Local Business Needs a Newsletter That’s All About Your City",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-ultimate-guide-to-building-a-local-newsletter",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-05-26T12:40:31.33273Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-ultimate-guide-to-building-a-local-newsletter.html"
+  },
+  {
+    "id": "the-secret-to-winning-locally",
+    "title": "💡 THE SECRET TO WINNING LOCALLY",
+    "category": "Digital Products",
+    "description": "Mixing Digital and Traditional Marketing for Maximum Reach",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-secret-to-winning-locally",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-05-25T13:35:18.058353Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-secret-to-winning-locally.html"
+  },
+  {
+    "id": "old-school-style-big-results-re-eng",
+    "title": "💡 OLD SCHOOL STYLE, BIG RESULTS (re-eng)",
+    "category": "Digital Products",
+    "description": "Build a Lead Machine with a single piece of paper.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/old-school-style-big-results-re-eng",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-05-12T14:55:55.033492Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "htmlFile": "/emails/old-school-style-big-results-re-eng.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-flyer-formula",
+    "title": "💡 OLD SCHOOL STYLE, BIG RESULTS",
+    "category": "Digital Products",
+    "description": "Build a Lead Machine with a single piece of paper.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-flyer-formula",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-07T15:04:19.771578Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/the-flyer-formula.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-local-lead-machine-re-eng",
+    "title": "💡 THE LOCAL LEAD MACHINE (re-eng)",
+    "category": "Digital Products",
+    "description": "Turn Local Interest into Loyal Customers with This Simple, Proven System.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-local-lead-machine-re-eng",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-05-05T16:19:29.663566Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Republic",
+        "url": "https://republic.com/",
+        "logo": "https://cdn.brandfetch.io/idt0S2PKY3/w/256/h/256/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1692978664555"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-local-lead-machine-re-eng.html"
+  },
+  {
+    "id": "the-local-lead-machine",
+    "title": "💡 THE LOCAL LEAD MACHINE",
+    "category": "Digital Products",
+    "description": "Turn Local Interest into Loyal Customers with This Simple, Proven System.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-local-lead-machine",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-05-02T14:40:39.17889Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-local-lead-machine.html"
+  },
+  {
+    "id": "small-budget-big-results-re-eng",
+    "title": "💡 SMALL BUDGET, BIG RESULTS! (re-eng)",
+    "category": "Digital Products",
+    "description": "Lead Gen on a Budget: How to Stretch $100 into a Month of Results",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/small-budget-big-results-re-eng",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-29T14:15:04.792418Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/small-budget-big-results-re-eng.html",
+    "hasAds": true
+  },
+  {
+    "id": "lead-gen-on-a-budget",
+    "title": "💡 SMALL BUDGET, BIG RESULTS!",
+    "category": "Digital Products",
+    "description": "Lead Gen on a Budget: How to Stretch $100 into a Month of Results",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/lead-gen-on-a-budget",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-14T14:04:14.854431Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lead-gen-on-a-budget.html"
+  },
+  {
+    "id": "what-to-do-when-leads-stop-re-eng",
+    "title": "💡 WHAT TO DO WHEN LEADS STOP! (re-eng)",
+    "category": "Digital Products",
+    "description": "Learn how to troubleshoot, adapt, and rebuild your lead generation strategy to keep your pipeline thriving.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/what-to-do-when-leads-stop-re-eng",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-14T13:58:00.620676Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-to-do-when-leads-stop-re-eng.html"
+  },
+  {
+    "id": "what-to-do-when-leads-stop",
+    "title": "💡 WHAT TO DO WHEN LEADS STOP!",
+    "category": "Digital Products",
+    "description": "Learn how to troubleshoot, adapt, and rebuild your lead generation strategy to keep your pipeline thriving.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/what-to-do-when-leads-stop",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-04-08T14:22:08.606655Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-to-do-when-leads-stop.html"
+  },
+  {
+    "id": "turning-leads-into-deals-re-eng",
+    "title": "💡 TURNING LEADS INTO DEALS! (re-eng)",
+    "category": "Digital Products",
+    "description": "How to build, nurture, and optimize an email list that delivers qualified leads on autopilot",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/turning-leads-into-deals-re-eng",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-07T13:28:07.489396Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turning-leads-into-deals-re-eng.html"
+  },
+  {
+    "id": "most-valuable-lead-gen-asset",
+    "title": "💡 TURNING LEADS INTO DEALS!",
+    "category": "Digital Products",
+    "description": "How to build, nurture, and optimize an email list that delivers qualified leads on autopilot",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/most-valuable-lead-gen-asset",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-25T13:59:15.857934Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/most-valuable-lead-gen-asset.html"
+  },
+  {
+    "id": "ad-budgets-that-work-re-eng",
+    "title": "💡 AD BUDGETS THAT WORK (re-eng)",
+    "category": "Digital Products",
+    "description": "The strategies you need to maximize ROI and stop wasting money!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/ad-budgets-that-work-re-eng",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-24T15:14:33.588308Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ad-budgets-that-work-re-eng.html"
+  },
+  {
+    "id": "ad-budgets-that-work",
+    "title": "💡 AD BUDGETS THAT WORK",
+    "category": "Digital Products",
+    "description": "The strategies you need to maximize ROI and stop wasting money!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/ad-budgets-that-work",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-20T15:40:16.916326Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ad-budgets-that-work.html"
+  },
+  {
+    "id": "the-future-of-lead-gen-re-eng",
+    "title": "💡 THE FUTURE OF LEAD GEN! (re-eng)",
+    "category": "Digital Products",
+    "description": "The key to reimagining how we grow and scale businesses. Here's a taste of what’s coming.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-future-of-lead-gen-re-eng",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-03-17T13:17:26.334035Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "htmlFile": "/emails/the-future-of-lead-gen-re-eng.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-future-of-lead-gen",
+    "title": "💡 THE FUTURE OF LEAD GEN!",
+    "category": "Digital Products",
+    "description": "The key to reimagining how we grow and scale businesses. Here's a taste of what’s coming.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-future-of-lead-gen",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-03-11T14:27:43.493176Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-future-of-lead-gen.html"
+  },
+  {
+    "id": "the-top-4-lead-gen-tools-every-local-business-should-use",
+    "title": "💡 The Top 4 Lead Gen Tools Every Local Business Should Use (re-eng)",
+    "category": "Digital Products",
+    "description": "Boost Your Business with These Must-Have Tools for Effortless Lead Generation!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-top-4-lead-gen-tools-every-local-business-should-use",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-10T15:05:04.028971Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-top-4-lead-gen-tools-every-local-business-should-use.html"
+  },
+  {
+    "id": "4-lead-gen-tools",
+    "title": "💡 Are You Using These 4 Tools?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Lead Memo",
+    "date": "2025-03-07",
+    "hasAds": true,
+    "url": "https://leadmemo.com/p/4-lead-gen-tools",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com"
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "FBZ_logo__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/4-lead-gen-tools.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "google-leads",
+    "title": "💡 GOOGLE ADS VS ORGANIC LEADS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/google-leads",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-28T12:40:05.353308Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-leads.html"
+  },
+  {
+    "id": "why-you-dont-make-money-off-leads",
+    "title": "💡 THE #1 REASON MOST BUSINESS OWNERS DON'T MAKE MONEY WITH THEIR LEADS",
+    "category": "Digital Products",
+    "description": "This stat will shock you",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/why-you-dont-make-money-off-leads",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-22T12:35:26.876679Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-you-dont-make-money-off-leads.html"
+  },
+  {
+    "id": "lead-gen-system",
+    "title": "💡 HERE IS MY 5-STEP CHECKLIST TO BUILD A $1M LEAD SYSTEM.",
+    "category": "Digital Products",
+    "description": "Blow up your lead gen with my 5-step checklist",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/lead-gen-system",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-13T15:50:53.379134Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lead-gen-system.html"
+  },
+  {
+    "id": "theory-of-constraints",
+    "title": "💡 THEORY OF CONSTRAINTS",
+    "category": "Digital Products",
+    "description": "The Car Factory Story. Fixing Your Business's Bottleneck",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/theory-of-constraints",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-07T13:52:15.231998Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/theory-of-constraints.html"
+  },
+  {
+    "id": "struggling-with-lead-gen",
+    "title": "💡 STRUGGLING WITH LEAD GEN?",
+    "category": "Digital Products",
+    "description": "Unlock the 5 strategies to get your leads to convert",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/struggling-with-lead-gen",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-28T18:02:19.445694Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/struggling-with-lead-gen.html"
+  },
+  {
+    "id": "social-media-no-longer-enough",
+    "title": "💡 SOCIAL MEDIA IS NOT ENOUGH",
+    "category": "Digital Products",
+    "description": "The Risks of Relying Solely on Social Media Platforms",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/social-media-no-longer-enough",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-01-25T16:18:45.299985Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/social-media-no-longer-enough.html"
+  },
+  {
+    "id": "day-12-of-12",
+    "title": "💡 DAY 12: 2025 LEAD GEN BLUEPRINT",
+    "category": "Digital Products",
+    "description": "Day 12 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-12-of-12",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-26T13:13:45.076442Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-12-of-12.html"
+  },
+  {
+    "id": "day-11-of-12",
+    "title": "💡 DAY 11: YOUR SECRET WEAPON: RETARGETING",
+    "category": "Digital Products",
+    "description": "Day 11 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-11-of-12",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-24T15:30:54.30548Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-11-of-12.html"
+  },
+  {
+    "id": "day-10-of-12",
+    "title": "💡 DAY 10: TRUST THE ALGORITHM",
+    "category": "Digital Products",
+    "description": "Day 10 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-10-of-12",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-23T13:32:19.341369Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=comparecredit.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-10-of-12.html"
+  },
+  {
+    "id": "day-9-of-12",
+    "title": "💡 DAY 9: LOW-BUDGET ADS THAT WORK.",
+    "category": "Digital Products",
+    "description": "Day 9 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-9-of-12",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-12-22T15:04:35.308142Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-9-of-12.html"
+  },
+  {
+    "id": "day-8-of-12",
+    "title": "💡 DAY 8: REFERRALS = FREE LEADS",
+    "category": "Digital Products",
+    "description": "Day 8 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-8-of-12",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-21T13:48:38.942733Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-8-of-12.html"
+  },
+  {
+    "id": "day-7-of-12",
+    "title": "💡 DAY 7: FREE LEADS START ON GOOGLE",
+    "category": "Digital Products",
+    "description": "Day 7 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-7-of-12",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-20T12:41:45.224652Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-7-of-12.html"
+  },
+  {
+    "id": "day-6-of-12",
+    "title": "💡 DAY 6: GOOGLE ADS MADE EASY W/ GLSA",
+    "category": "Digital Products",
+    "description": "Day 6 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-6-of-12",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-12-19T17:55:10.35501Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Analytica Investor",
+        "url": "https://analyticainvestor.com/",
+        "logo": "https://analyticainvestor.com/wp-content/uploads/2021/10/Favicon-analyticalinvestor-2-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-6-of-12.html"
+  },
+  {
+    "id": "day-5-of-12",
+    "title": "💡 DAY 5: OUTRANK COMPETITORS WITH TRUST.",
+    "category": "Digital Products",
+    "description": "Day 5 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-5-of-12",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-18T13:37:23.714287Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-5-of-12.html"
+  },
+  {
+    "id": "day-4-of-12",
+    "title": "💡 DAY 4: SUPERCHARGE LEAD GEN WITH LEAD FORMS.",
+    "category": "Digital Products",
+    "description": "Day 4 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-4-of-12",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2024-12-17T12:43:24.764584Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/about/how-it-works",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-4-of-12.html"
+  },
+  {
+    "id": "day-3-of-12",
+    "title": "💡 DAY 3: THE ULTIMATE FB ADS FORMULA FOR LOCAL LEADS.",
+    "category": "Digital Products",
+    "description": "Day 3 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-3-of-12",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-12-16T14:05:40.476987Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/day-3-of-12.html",
+    "hasAds": true
+  },
+  {
+    "id": "day-2-of-12",
+    "title": "💡 DAY 2: PERFECTING YOUR OFFER",
+    "category": "Digital Products",
+    "description": "Day 2 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-2-of-12",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-15T13:10:36.516804Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-2-of-12.html"
+  },
+  {
+    "id": "day-1-of-12",
+    "title": "💡 DAY 1: WHY LEAD GEN FAILS (& FIXES)",
+    "category": "Digital Products",
+    "description": "Day 1 of the 12 Days of Lead Gen Mastery!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/day-1-of-12",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-14T14:04:50.900383Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-1-of-12.html"
+  },
+  {
+    "id": "a-holiday-gift-from-lead-memo",
+    "title": "💡 A Holiday 🎁 Gift from Lead Memo",
+    "category": "Digital Products",
+    "description": "Our gift to you: holiday lead gen mastery.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/a-holiday-gift-from-lead-memo",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-12T14:18:48.553143Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-holiday-gift-from-lead-memo.html"
+  },
+  {
+    "id": "optimize-meta-ads-in-10-mins-a-day-re-engage",
+    "title": "💡 Spend 10 Minutes, Maximize Your Leads",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Lead Memo",
+    "date": "2024-12-08",
+    "hasAds": true,
+    "url": "https://leadmemo.com/p/optimize-meta-ads-in-10-mins-a-day-re-engage",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/optimize-meta-ads-in-10-mins-a-day-re-engage.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "gift-cards-made-simple",
+    "title": "💡 GIFT CARDS MADE SIMPLE",
+    "category": "Digital Products",
+    "description": "A Low-Effort Way to Attract Leads and Boost Sales This Holiday",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/gift-cards-made-simple",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-07T20:42:25.253619Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gift-cards-made-simple.html"
+  },
+  {
+    "id": "optimize-meta-ads-in-10-mins-a-day",
+    "title": "💡 Spend 10 Minutes, Maximize Your Leads",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Lead Memo",
+    "date": "2024-12-02",
+    "hasAds": true,
+    "url": "https://leadmemo.com/p/optimize-meta-ads-in-10-mins-a-day",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/optimize-meta-ads-in-10-mins-a-day.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "google-lead-gen-hack",
+    "title": "💡 GOOGLE'S LEAD GEN HACK.",
+    "category": "Digital Products",
+    "description": "3 Simple Changes to Boost Leads Without Spending a Dime",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/google-lead-gen-hack",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-09T17:16:37.254205Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-lead-gen-hack.html"
+  },
+  {
+    "id": "keep-it-simple-5-23x-return",
+    "title": "💡 KEEP IT SIMPLE – 5.23x Return",
+    "category": "Digital Products",
+    "description": "Case Study & Story Inside: my 1 + 1 = 2 approach",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/keep-it-simple-5-23x-return",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-11-02T11:56:40.168225Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/keep-it-simple-5-23x-return.html"
+  },
+  {
+    "id": "30-ways-to-generate-local-leads-for-free",
+    "title": "💡 30 WAYS TO GENERATE LOCAL LEADS (FOR FREE)",
+    "category": "Digital Products",
+    "description": "Here’s a list of 30 ways to generate local leads — without spending a dime.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/30-ways-to-generate-local-leads-for-free",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-19T12:43:54.404344Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/30-ways-to-generate-local-leads-for-free.html"
+  },
+  {
+    "id": "when-lead-gen-goes-wrong",
+    "title": "💡 WHEN LEAD GEN GOES WRONG",
+    "category": "Digital Products",
+    "description": "Why Most Campaigns Fail (And How to Keep Yours Running)",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/when-lead-gen-goes-wrong",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-10-19T11:41:17.944227Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-lead-gen-goes-wrong.html"
+  },
+  {
+    "id": "the-end-to-detailed-targeting",
+    "title": "💡 THE END TO DETAILED TARGETING",
+    "category": "Digital Products",
+    "description": "Unlock the Secrets to Winning Audiences on Meta’s Evolving Ad Platform",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/the-end-to-detailed-targeting",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2024-10-12T16:07:33.886569Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-end-to-detailed-targeting.html"
+  },
+  {
+    "id": "my-lead-calculator-5ad1",
+    "title": "💡 MY LEAD CALCULATOR (re-engage)",
+    "category": "Digital Products",
+    "description": "Find your goal Cost Per Lead with this calculator",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/my-lead-calculator-5ad1",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-11T14:50:30.377368Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/my-lead-calculator-5ad1.html"
+  },
+  {
+    "id": "30-ways-to-generate-local-leads",
+    "title": "💡 30 WAYS TO GENERATE LOCAL LEADS (FOR FREE)",
+    "category": "Digital Products",
+    "description": "Here’s a list of 30 ways to generate local leads — without spending a dime.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/30-ways-to-generate-local-leads",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-05T16:36:40.441276Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/30-ways-to-generate-local-leads.html",
+    "hasAds": true
+  },
+  {
+    "id": "dominate-google-calls",
+    "title": "💡 DOMINATE GOOGLE CALLS",
+    "category": "Digital Products",
+    "description": "How Local Businesses Dominate Google Calls",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/dominate-google-calls",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-09-28T19:49:16.759842Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dominate-google-calls.html"
+  },
+  {
+    "id": "my-lead-calculator",
+    "title": "💡 MY LEAD CALCULATOR",
+    "category": "Digital Products",
+    "description": "Find your goal Cost Per Lead with this calculator",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/my-lead-calculator",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-26T16:16:01.74012Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/my-lead-calculator.html"
+  },
+  {
+    "id": "lead-gen-atm",
+    "title": "💡 LEAD GEN ATM",
+    "category": "Digital Products",
+    "description": "Local Businesses Can Print Money Like An ATM With This!",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/lead-gen-atm",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-09-21T14:13:09.742649Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lead-gen-atm.html"
+  },
+  {
+    "id": "failed-marketing-explained",
+    "title": "💡 FAILED MARKETING EXPLAINED",
+    "category": "Digital Products",
+    "description": "Comin' To The Rescue – Saving Lead Gen",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/failed-marketing-explained",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-07T22:54:57.227433Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/failed-marketing-explained.html"
+  },
+  {
+    "id": "what-is-a-good-cpl",
+    "title": "💡 WHAT IS A GOOD CPL?",
+    "category": "Digital Products",
+    "description": "How to find the right Cost Per Lead for your business.",
+    "author": "Lead Memo",
+    "url": "https://leadmemo.com/p/what-is-a-good-cpl",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-08-05T13:32:26.745722Z",
+    "publisher": {
+      "name": "Lead Memo",
+      "url": "https://leadmemo.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-is-a-good-cpl.html"
+  }
+]

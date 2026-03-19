@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ecb-news-99",
+    "title": "Your Ecommerce Coffee Break Newsletter ⭐ (Issue 99)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Ecommerce Coffee Break Newsletter",
+    "date": "2024-12-12",
+    "hasAds": true,
+    "url": "https://ecommerce-coffee-break.beehiiv.com/p/ecb-news-99",
+    "publisher": {
+      "name": "Ecommerce Coffee Break Newsletter",
+      "url": "https://ecommerce-coffee-break.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Ahrefs",
+        "url": "https://ahrefs.com/",
+        "logo": "Ahrefs_Logo_Transparent.png"
+      }
+    ],
+    "htmlFile": "/emails/ecb-news-99.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

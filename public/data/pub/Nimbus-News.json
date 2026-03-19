@@ -1,0 +1,80 @@
+[
+  {
+    "id": "this-week-driverless-taxis-smart-farming-10x-teams",
+    "title": "🌈This Week: Driverless Taxis, Smart Farming & 10x Teams",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nimbus News",
+    "date": "2025-11-15",
+    "hasAds": true,
+    "url": "https://www.nimbusnews.org/p/this-week-driverless-taxis-smart-farming-10x-teams",
+    "publisher": {
+      "name": "Nimbus News",
+      "url": "https://www.nimbusnews.org"
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-driverless-taxis-smart-farming-10x-teams.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "this-week-earn-5000-in-ad-credits-rare-interstellar-comet-smarter-goal-setting",
+    "title": "🌈 This Week: Earn $5000 in Ad Credits, Rare Interstellar Comet & Smarter Goal-Setting",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nimbus News",
+    "date": "2025-11-08",
+    "hasAds": true,
+    "url": "https://www.nimbusnews.org/p/this-week-earn-5000-in-ad-credits-rare-interstellar-comet-smarter-goal-setting",
+    "publisher": {
+      "name": "Nimbus News",
+      "url": "https://www.nimbusnews.org"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-earn-5000-in-ad-credits-rare-interstellar-comet-smarter-goal-setting.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "this-week-nvidia-s-100b-openai-deal-global-ai-red-lines-amazon-s-seller-ai",
+    "title": "🌈 This Week: Nvidia's $100B OpenAI Deal, Global AI Red Lines & Amazon’s Seller AI",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nimbus News",
+    "date": "2025-10-18",
+    "hasAds": true,
+    "url": "https://www.nimbusnews.org/p/this-week-nvidia-s-100b-openai-deal-global-ai-red-lines-amazon-s-seller-ai",
+    "publisher": {
+      "name": "Nimbus News",
+      "url": "https://www.nimbusnews.org"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-nvidia-s-100b-openai-deal-global-ai-red-lines-amazon-s-seller-ai.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

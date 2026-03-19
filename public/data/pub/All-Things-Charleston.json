@@ -1,0 +1,81 @@
+[
+  {
+    "id": "coffee-walk-spots-big-win-for-local-homeowners",
+    "title": "Coffee & Walk Spots + Big Win for Local Homeowners",
+    "category": "Digital Products",
+    "description": "Plus: a closing of a downtown burger spot & a new South Korean cafe",
+    "author": "All Things Charleston",
+    "url": "https://www.allthingschs.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-23T12:42:16.782141Z",
+    "publisher": {
+      "name": "All Things Charleston",
+      "url": "https://www.allthingschs.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/coffee-walk-spots-big-win-for-local-homeowners.html",
+    "hasAds": true
+  },
+  {
+    "id": "sewe-local-scoop-earthquake-in-charleston",
+    "title": "SEWE Local Scoop + Earthquake in Charleston",
+    "category": "Digital Products",
+    "description": "Plus: the Piggly Wiggly House is officially on the market",
+    "author": "All Things Charleston",
+    "url": "https://www.allthingschs.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-08T14:50:11.430096Z",
+    "publisher": {
+      "name": "All Things Charleston",
+      "url": "https://www.allthingschs.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/sewe-local-scoop-earthquake-in-charleston.html",
+    "hasAds": true
+  },
+  {
+    "id": "charleston-ranked-as-20-most-expensive-city-more-hidden-gems",
+    "title": "💰Charleston Ranked as #20 Most Expensive City + More Hidden Gems",
+    "category": "Digital Products",
+    "description": "Numbeo lists Charleston as #20 Most Expensive City & Hidden Gems Only Locals Know",
+    "author": "All Things Charleston",
+    "url": "https://mfggmv2axf.beehiiv.com/p/charleston-ranked-as-20-most-expensive-city-more-hidden-gems",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-25T21:00:20.732275Z",
+    "publisher": {
+      "name": "All Things Charleston",
+      "url": "https://mfggmv2axf.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/charleston-ranked-as-20-most-expensive-city-more-hidden-gems.html",
+    "hasAds": true
+  }
+]

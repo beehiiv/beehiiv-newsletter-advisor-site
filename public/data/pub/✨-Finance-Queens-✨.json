@@ -1,0 +1,28 @@
+[
+  {
+    "id": "stock-market-stabilized",
+    "title": "💵Has the stock market stabilized?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "✨ Finance Queens ✨",
+    "url": "https://financequeens.com/p/stock-market-stabilized",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-08-06T18:05:34.543304Z",
+    "publisher": {
+      "name": "✨ Finance Queens ✨",
+      "url": "https://financequeens.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lumen",
+        "url": "https://www.lumen.me/",
+        "logo": "https://src.metaflow.co/html-images/favicon/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stock-market-stabilized.html"
+  }
+]

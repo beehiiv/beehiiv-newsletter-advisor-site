@@ -1,0 +1,28 @@
+[
+  {
+    "id": "say-hello-to-the-premier-league",
+    "title": "Say Hello to the Premier League. ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "3L Sportive's Newsletter",
+    "date": "2025-10-24",
+    "hasAds": true,
+    "url": "https://3l-sportives-newsletter.beehiiv.com/p/say-hello-to-the-premier-league",
+    "publisher": {
+      "name": "3L Sportive's Newsletter",
+      "url": "https://3l-sportives-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/say-hello-to-the-premier-league.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

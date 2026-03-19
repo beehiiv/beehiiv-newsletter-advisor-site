@@ -1,0 +1,54 @@
+[
+  {
+    "id": "issue-004-beyond-the-pelvic-floor-core-respiratory-links",
+    "title": "Beyond the Pelvic Floor: Core & Respiratory Links ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pelvic Health Post",
+    "date": "2025-12-03",
+    "hasAds": true,
+    "url": "https://www.pelvichealthpost.com/p/issue-004-beyond-the-pelvic-floor-core-respiratory-links",
+    "publisher": {
+      "name": "Pelvic Health Post",
+      "url": "https://www.pelvichealthpost.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/issue-004-beyond-the-pelvic-floor-core-respiratory-links.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-condition-that-isn-t-as-fun-as-it-sounds",
+    "title": "The Condition That Isn't As Fun As It Sounds ...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pelvic Health Post",
+    "date": "2025-09-15",
+    "hasAds": true,
+    "url": "https://www.pelvichealthpost.com/p/the-condition-that-isn-t-as-fun-as-it-sounds",
+    "publisher": {
+      "name": "Pelvic Health Post",
+      "url": "https://www.pelvichealthpost.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-condition-that-isn-t-as-fun-as-it-sounds.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

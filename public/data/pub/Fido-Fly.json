@@ -1,0 +1,886 @@
+[
+  {
+    "id": "the-lean-in",
+    "title": "The Lean-In",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2026-01-23",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/the-lean-in",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/the-lean-in.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "back-inside-bliss",
+    "title": "Back Inside Bliss ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-12-26",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/back-inside-bliss",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/back-inside-bliss.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "frozen-opinions",
+    "title": "Frozen Opinions",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-12-19",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/frozen-opinions",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/frozen-opinions.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "a-sweet-dog-a-salty-fridge",
+    "title": "A Sweet Dog, A Salty Fridge",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-12-12",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/a-sweet-dog-a-salty-fridge",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/a-sweet-dog-a-salty-fridge.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "new-post-e266",
+    "title": "Two Kinds of Peace ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-12-05",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/new-post-e266",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/new-post-e266.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "the-unusual-cart",
+    "title": "The Unusual Cart ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-11-28",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/the-unusual-cart",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/the-unusual-cart.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "wonder-served-warm",
+    "title": "Wonder Served Warm ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-11-14",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/wonder-served-warm",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/wonder-served-warm.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "massage-for-pups",
+    "title": "Quiet Comforts",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-11-07",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/massage-for-pups",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "fintech-logo-300x139.png"
+      }
+    ],
+    "htmlFile": "/emails/massage-for-pups.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "instinct-meets-introspection",
+    "title": "Instinct Meets Introspection",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-10-10",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/instinct-meets-introspection",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/instinct-meets-introspection.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "after-sunset-secrets-1",
+    "title": "When The Air Turns Crisp ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-09-26",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/after-sunset-secrets-1",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/after-sunset-secrets-1.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "secrets-in-the-wall-and-sky",
+    "title": "Secrets in the Wall and Sky",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-09-05",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/secrets-in-the-wall-and-sky",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/secrets-in-the-wall-and-sky.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "who-hired-that-dog",
+    "title": "Tales From the Other Resume Pile ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-08-15",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/who-hired-that-dog",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HomeBuddy",
+        "url": "https://www.homebuddy.com/",
+        "logo": "HB_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/who-hired-that-dog.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "smaller-than-expected-stranger-than-fiction",
+    "title": "Smaller Than Expected. Stranger Than Fiction",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-08-08",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/smaller-than-expected-stranger-than-fiction",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/smaller-than-expected-stranger-than-fiction.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "building-wild-worlds-at-home",
+    "title": "Building Wild Worlds at Home",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-06-20",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/building-wild-worlds-at-home",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/building-wild-worlds-at-home.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "leash-tugs-and-empty-mugs",
+    "title": "Leash Tugs and Empty Mugs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-06-13",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/leash-tugs-and-empty-mugs",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/leash-tugs-and-empty-mugs.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "turbulence-and-treats",
+    "title": "Turbulence and Treats",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-06-06",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/turbulence-and-treats",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/turbulence-and-treats.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "breathe-in-ice-out",
+    "title": "Breathe in. Ice out.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-05-30",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/breathe-in-ice-out",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/breathe-in-ice-out.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "sit-stay-testify",
+    "title": "Sit. Stay. Testify.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-05-23",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/sit-stay-testify",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/sit-stay-testify.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "suite-life",
+    "title": "Suite Life",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-05-09",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/suite-life",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/suite-life.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "paws-herbs-and-rock-n-roll-a-holistic-spin",
+    "title": "Paws, Herbs, and Rock 'n Roll: A Holistic Spin ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-05-02",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/paws-herbs-and-rock-n-roll-a-holistic-spin",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/paws-herbs-and-rock-n-roll-a-holistic-spin.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "smart-fences-stranger-hotels",
+    "title": "Smart fences. Stranger hotels.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-04-25",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/smart-fences-stranger-hotels",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/smart-fences-stranger-hotels.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "your-dog-called-they-want-this",
+    "title": "Your dog called. They want this.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-03-28",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/your-dog-called-they-want-this",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/your-dog-called-they-want-this.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "mower-munchies",
+    "title": "Mower Munchies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-03-21",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/mower-munchies",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/mower-munchies.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "prevent-the-ouch",
+    "title": "Prevent the ouch!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-03-14",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/prevent-the-ouch",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/prevent-the-ouch.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "drunkest-cloud-ever",
+    "title": "Drunkest Cloud Ever",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-03-07",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/drunkest-cloud-ever",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/drunkest-cloud-ever.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "reverse-gravity",
+    "title": "Reverse Gravity",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-02-28",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/reverse-gravity",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/reverse-gravity.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "alle-working-on-toward-2-21-the-other-one-you-set-up-raw-original-template-doesn-t-have-a-lot-of-the",
+    "title": "Diamonds Are Furever",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-02-21",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/alle-working-on-toward-2-21-the-other-one-you-set-up-raw-original-template-doesn-t-have-a-lot-of-the",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/alle-working-on-toward-2-21-the-other-one-you-set-up-raw-original-template-doesn-t-have-a-lot-of-the.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "cupid-retired",
+    "title": "Cupid retired",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-02-14",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/cupid-retired",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "RunDot",
+        "url": "https://www.rundot.com/",
+        "logo": "Remove.bg_Image.png"
+      }
+    ],
+    "htmlFile": "/emails/cupid-retired.html",
+    "tags": [
+      "Health",
+      "Sports"
+    ]
+  },
+  {
+    "id": "dog-walk-gone-wild",
+    "title": "38 Dogs. 2 feet.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-02-07",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/dog-walk-gone-wild",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "CBDISTILLERY.png"
+      }
+    ],
+    "htmlFile": "/emails/dog-walk-gone-wild.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "snacks-for-butterflies",
+    "title": "New snacks and tricks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-01-10",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/snacks-for-butterflies",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lumen",
+        "url": "https://www.lumen.me/",
+        "logo": "Lumen_Logo_removebg.png"
+      }
+    ],
+    "htmlFile": "/emails/snacks-for-butterflies.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "new-tricks-for-touring-the-snack-aisle",
+    "title": "New snacks and tricks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2025-01-03",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/new-tricks-for-touring-the-snack-aisle",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "bslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/new-tricks-for-touring-the-snack-aisle.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "crystal-energy-and-collars-that-snitch-on-your-dog",
+    "title": "Collars That Snitch On Your Dog and Crystal Energy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2024-12-27",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/crystal-energy-and-collars-that-snitch-on-your-dog",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/crystal-energy-and-collars-that-snitch-on-your-dog.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "the-winner-of-the-north-pole-pup-parade",
+    "title": "The winner of the North Pole Pup Parade Is...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2024-12-20",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/the-winner-of-the-north-pole-pup-parade",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "nikelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-winner-of-the-north-pole-pup-parade.html",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ]
+  },
+  {
+    "id": "shocking-the-first-christmas-card-was-scandalous",
+    "title": "Shocking! The First Christmas Card Was Scandalous.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2024-12-13",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/shocking-the-first-christmas-card-was-scandalous",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Timeline",
+        "url": "https://www.timeline.com/",
+        "logo": "1.jpeg"
+      }
+    ],
+    "htmlFile": "/emails/shocking-the-first-christmas-card-was-scandalous.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "naughty-children-coins-and-a-happiness-survey",
+    "title": "Naughty Children, Coins, and A Happiness Survey",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fido Fly",
+    "date": "2024-12-06",
+    "hasAds": true,
+    "url": "https://fido-fly-newsletter.beehiiv.com/p/naughty-children-coins-and-a-happiness-survey",
+    "publisher": {
+      "name": "Fido Fly",
+      "url": "https://fido-fly-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "bslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/naughty-children-coins-and-a-happiness-survey.html",
+    "tags": [
+      "Health"
+    ]
+  }
+]

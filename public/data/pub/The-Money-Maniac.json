@@ -1,0 +1,273 @@
+[
+  {
+    "id": "whale-watching-season",
+    "title": "💰 Whale Watching Season Is Here",
+    "category": "Digital Products",
+    "description": "A fresh round of 13Fs just dropped. These quarterly filings reveal how Wall Street whales shuffled billions of dollars last quarter",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com",
+    "tags": [
+      "AI",
+      "Business",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2026-02-13T00:43:59.454287Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      },
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/whale-watching-season.html",
+    "hasAds": true
+  },
+  {
+    "id": "tesla-speed-bump",
+    "title": "💰 Maniac Minute: Tesla Hits a Speed Bump",
+    "category": "Digital Products",
+    "description": "Tech enthusiasts geeked out over the walking, talking Optimus robot. But investors felt shorted on details about the autonomous Robotaxi.",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/tesla-speed-bump",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2024-10-09T16:05:53.755154Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Miso Robotics",
+        "url": "https://www.misorobotics.com",
+        "logo": "https://misorobotics.com/wp-content/uploads/misio-fav-icon-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tesla-speed-bump.html"
+  },
+  {
+    "id": "yield-curve-warning",
+    "title": "💰 5 Fact Friday: The Yield Curve's Recession Warning",
+    "category": "Digital Products",
+    "description": "After a record-breaking 26 months the longest inverted yield curve in history recently flipped back to normal. Does this mean we’re in the clear? Not quite",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/yield-curve-warning",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-09-12T18:07:16.391792Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      },
+      {
+        "name": "Value Investor Daily",
+        "url": "https://www.valueinvestordaily.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5b95b266-b0ef-4a8e-9dd9-14bf17c05fac/thumb_VID_avatar_logo.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/yield-curve-warning.html"
+  },
+  {
+    "id": "september-slump",
+    "title": "💰 5 Fact Friday: The September Slump Strikes Again",
+    "category": "Digital Products",
+    "description": "September started with a thud as stocks logged one of their worst days in two years. Why the sudden plunge? It’s a perfect storm of factors.",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/september-slump",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2024-09-03T19:27:28.578107Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "https://www.vinovest.co/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/september-slump.html"
+  },
+  {
+    "id": "defense-stocks-sausage-sales",
+    "title": "💰 5 Fact Friday: Sausage Sales Signal What, Exactly?",
+    "category": "Digital Products",
+    "description": "Fed Chair Jerome Powell all but declared victory over inflation at the Jackson Hole summit. But sausage sales tell a different story",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/defense-stocks-sausage-sales",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-25T15:27:51.130075Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/defense-stocks-sausage-sales.html"
+  },
+  {
+    "id": "savvy-money-moves",
+    "title": "💰 5 Fact Friday: How To Prep Your Portfolio For Rate Cuts",
+    "category": "Digital Products",
+    "description": "The Fed’s first rate cut is widely predicted for the September 17th meeting. While everyone’s buzzing about the potential pivot, let’s talk strategy",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/savvy-money-moves",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-08-02T03:32:49.841599Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/savvy-money-moves.html"
+  },
+  {
+    "id": "starbucks-poaches-brian-niccol",
+    "title": "💰 5 Fact Friday: How Starbucks Turned $113M Into $20B",
+    "category": "Digital Products",
+    "description": "Brian Niccol, the CEO who led Chipotle to a stunning 765% gain in under seven years, has been poached by Starbucks—where shares have climbed just 52% in the same period.",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/starbucks-poaches-brian-niccol",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-07-22T19:21:36.312547Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      },
+      {
+        "name": "Value Investor Daily",
+        "url": "https://www.valueinvestordaily.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5b95b266-b0ef-4a8e-9dd9-14bf17c05fac/thumb_VID_avatar_logo.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/starbucks-poaches-brian-niccol.html"
+  },
+  {
+    "id": "5-fact-friday-time-hit-panic-button",
+    "title": "💰 5 Fact Friday: Time To Hit The Panic Button?",
+    "category": "Digital Products",
+    "description": "This week, the VIX—Wall Street’s \"fear gauge\"—spiked to its highest level since March 2020, closing at 38.6. After an unusually calm spring and summer, volatility is back.",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/5-fact-friday-time-hit-panic-button",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2024-07-22T19:21:22.790208Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "https://www.vinovest.co/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-fact-friday-time-hit-panic-button.html"
+  },
+  {
+    "id": "5-fact-friday-americas-35-trillion-problem",
+    "title": "💰 5 Fact Friday: America’s $35 Trillion Problem",
+    "category": "Digital Products",
+    "description": "In 2024, the government is on track to record a $1.9 trillion deficit. That may sound like a lot, but as the world’s largest economy, is it really a problem?",
+    "author": "The Money Maniac",
+    "url": "https://read.themoneymaniac.com/p/5-fact-friday-americas-35-trillion-problem",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-07-22T19:21:07.115106Z",
+    "publisher": {
+      "name": "The Money Maniac",
+      "url": "https://read.themoneymaniac.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      },
+      {
+        "name": "Value Investor Daily",
+        "url": "https://www.valueinvestordaily.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5b95b266-b0ef-4a8e-9dd9-14bf17c05fac/thumb_VID_avatar_logo.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-fact-friday-americas-35-trillion-problem.html"
+  }
+]

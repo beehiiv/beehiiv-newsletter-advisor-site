@@ -1,0 +1,136 @@
+[
+  {
+    "id": "the-great-physician-for-the-broken",
+    "title": "The Great Physician for the Broken",
+    "category": "Digital Products",
+    "description": "Called in Your Brokenness, Not Your Perfection",
+    "author": "The Holy Athlete",
+    "url": "https://the-holy-athlete.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-25T14:51:20.851939Z",
+    "publisher": {
+      "name": "The Holy Athlete",
+      "url": "https://the-holy-athlete.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SuppCo",
+        "url": "https://supp.co/",
+        "logo": "https://supp.co/images/pwa-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/the-great-physician-for-the-broken.html",
+    "hasAds": true
+  },
+  {
+    "id": "faith-in-the-middle-of-the-journey",
+    "title": "Faith in the Middle of the Journey",
+    "category": "Digital Products",
+    "description": "Not the Start. Not the Finish. Right Now.",
+    "author": "The Holy Athlete",
+    "url": "https://the-holy-athlete.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-18T18:51:35.092319Z",
+    "publisher": {
+      "name": "The Holy Athlete",
+      "url": "https://the-holy-athlete.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/faith-in-the-middle-of-the-journey.html",
+    "hasAds": true
+  },
+  {
+    "id": "strength-that-comes-from-dependence",
+    "title": "Strength That Comes From Dependence",
+    "category": "Digital Products",
+    "description": "Why Relying on God Is Real Power",
+    "author": "The Holy Athlete",
+    "url": "https://the-holy-athlete.beehiiv.com",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-12T16:32:37.343265Z",
+    "publisher": {
+      "name": "The Holy Athlete",
+      "url": "https://the-holy-athlete.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/strength-that-comes-from-dependence.html",
+    "hasAds": true
+  },
+  {
+    "id": "spiritual-stamina",
+    "title": "Spiritual Stamina",
+    "category": "Digital Products",
+    "description": "Training Endurance in Your Faith the Same Way You Would Train Endurance in Sports or Life",
+    "author": "The Holy Athlete",
+    "url": "https://the-holy-athlete.beehiiv.com",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-11T16:31:36.025899Z",
+    "publisher": {
+      "name": "The Holy Athlete",
+      "url": "https://the-holy-athlete.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/spiritual-stamina.html",
+    "hasAds": true
+  },
+  {
+    "id": "trusting-god-with-confidence",
+    "title": "Trusting God With Confidence",
+    "category": "Digital Products",
+    "description": "Believing Without Becoming Prideful",
+    "author": "The Holy Athlete",
+    "url": "https://the-holy-athlete.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-07T16:32:39.200317Z",
+    "publisher": {
+      "name": "The Holy Athlete",
+      "url": "https://the-holy-athlete.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/trusting-god-with-confidence.html",
+    "hasAds": true
+  }
+]

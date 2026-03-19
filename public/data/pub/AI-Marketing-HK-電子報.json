@@ -1,0 +1,969 @@
+[
+  {
+    "id": "ai-2028",
+    "title": "AI 正在取代你? 2028 年的警告已經來了",
+    "category": "Digital Products",
+    "description": "本週最震撼的 AI 報告、複製自己的 AI 分身、同埋幫你管好 Gemini 的免費神器",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://www.aimarketinghk.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-26T02:33:48.154279Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://www.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/ai-2028.html",
+    "hasAds": true
+  },
+  {
+    "id": "gemini-3-1-pro-ai-agent",
+    "title": "Gemini 3.1 Pro 來了 | AI Agent 你管得住嗎?",
+    "category": "Digital Products",
+    "description": "本週 AI 行銷 3 大重點,5 分鐘睇晒",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://www.aimarketinghk.com",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2026-02-21T16:03:46.052363Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://www.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "htmlFile": "/emails/gemini-3-1-pro-ai-agent.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-agent",
+    "title": "🐴 搜尋零點擊時代 + AI Agent 無處不在",
+    "category": "Digital Products",
+    "description": "祝各位讀者新年快樂! 馬年,帶著好奇心,一步一步往前跑",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-agent",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-19T05:39:21.578427Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-agent.html"
+  },
+  {
+    "id": "seedance-2-0-prompt-claude-opus-4-6-perplexity",
+    "title": "Seedance 2.0 爆紅 | 一句 Prompt 生成廣告級短片 + Claude Opus 4.6 升級 + Perplexity 多模型協作",
+    "category": "Digital Products",
+    "description": "本週最強 AI 工具實戰指南 + 免費 Prompt Engineering 導師教你寫出最強 Prompt",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://www.aimarketinghk.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T04:38:59.486393Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://www.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/seedance-2-0-prompt-claude-opus-4-6-perplexity.html",
+    "hasAds": true
+  },
+  {
+    "id": "gemini-chatgpt-import-drops-2026-workflow",
+    "title": "Gemini × ChatGPT Import 測試中|點用「多模型+新 Drops」升級你 2026 行銷 Workflow?",
+    "category": "Digital Products",
+    "description": "從跨平台 AI 對話、Gemini Drops Hub 新功能,到一條即用 Social Listening Prompt,幫香港 marketer 用 5 分鐘捉緊本週最實用 AI 行銷招式。",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/gemini-chatgpt-import-drops-2026-workflow",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2026-02-05T04:31:19.848155Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gemini-chatgpt-import-drops-2026-workflow.html"
+  },
+  {
+    "id": "chrome-gemini-3-ai-agent",
+    "title": "Chrome × Gemini 自動幫你做嘢 | 本週 3 大 AI Agent 更新",
+    "category": "Digital Products",
+    "description": "從自動化 research 到 AI 團隊協作,本週 3 個你要知道的 AI 突破",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/chrome-gemini-3-ai-agent",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-03T03:47:55.53824Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chrome-gemini-3-ai-agent.html"
+  },
+  {
+    "id": "ai-marketing-hk-clawdbot-aws-re-invent-claude-excel",
+    "title": "Clawdbot 爆紅全網、AWS re:Invent 免費活動、Claude 入主 Excel",
+    "category": "Digital Products",
+    "description": "一隻「住喺你電腦嘅龍蝦助理」點解令全球 marketer 癲狂? + AWS Best of re:Invent 免費線上活動(1 月 28-29 日)+ Shopify 推出 AI 對話購物 + 9 宮格 Storyboard Prompt 即攞即用",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-marketing-hk-clawdbot-aws-re-invent-claude-excel",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-01-27T03:00:49.126452Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-marketing-hk-clawdbot-aws-re-invent-claude-excel.html"
+  },
+  {
+    "id": "chatgpt-ai-marketer",
+    "title": "ChatGPT 開始賣廣告 | AI 由工具變平台,香港 Marketer 點應對?",
+    "category": "Digital Products",
+    "description": "OpenAI 測試廣告功能、Microsoft 揭示 AI 鴻溝擴大、Anthropic 推出 Cowork | 一週 AI 行銷大事全面睇",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/chatgpt-ai-marketer",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-20T04:00:07.129134Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chatgpt-ai-marketer.html"
+  },
+  {
+    "id": "ai-inbox-checkout",
+    "title": "AI 助理入侵 inbox、checkout 同書枱",
+    "category": "Digital Products",
+    "description": "Gmail 進入 Gemini 時代 : 香港 marketer 應該即刻做嘅 3 件事",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-inbox-checkout",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-12T09:31:27.638103Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-inbox-checkout.html"
+  },
+  {
+    "id": "2026-nano-banana-ai-slop",
+    "title": "2026 第一波 : Nano Banana、AI Slop 同行銷人自救指南",
+    "category": "Digital Products",
+    "description": "PLUS 2026 Marketing Prompt + AI MKT 工作流",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/2026-nano-banana-ai-slop",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-06T03:32:17.400116Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/2026-nano-banana-ai-slop.html",
+    "hasAds": true
+  },
+  {
+    "id": "2026-google-gemini-40-ai",
+    "title": "2026必睇! Google Gemini 40 個 AI 應用重點,一次睇清!",
+    "category": "Digital Products",
+    "description": "",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/2026-google-gemini-40-ai",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2026-01-02T03:41:59.435163Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2026-google-gemini-40-ai.html"
+  },
+  {
+    "id": "ai-leaderboard-2025",
+    "title": "AI 模型大洗牌:建立你的多模型工作流程",
+    "category": "Digital Products",
+    "description": "",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-leaderboard-2025",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-08T07:41:49.220573Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/ai-leaderboard-2025.html",
+    "hasAds": true
+  },
+  {
+    "id": "google-workspace-studio-ai-agents",
+    "title": "Google Workspace Studio 即將推出用「AI Agents」幫你做晒雜務",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/google-workspace-studio-ai-agents",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-12-05T04:43:50.447785Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/google-workspace-studio-ai-agents.html",
+    "hasAds": true
+  },
+  {
+    "id": "gemini-3-google",
+    "title": "Gemini 3 震撼登場:Google 最強大腦,正式改寫行銷人嘅工作流程",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/gemini-3-google",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-23T13:56:51.578962Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gemini-3-google.html"
+  },
+  {
+    "id": "adobe-max-adobe-ai-creative-cloud-photoshop-lightroom-premiere-illustrator",
+    "title": "Adobe MAX 推出——Adobe 把全新 AI 創新與模型引入 Creative Cloud(Photoshop、Lightroom、Premiere、Illustrator)",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/adobe-max-adobe-ai-creative-cloud-photoshop-lightroom-premiere-illustrator",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-16T15:14:25.829179Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/adobe-max-adobe-ai-creative-cloud-photoshop-lightroom-premiere-illustrator.html",
+    "hasAds": true
+  },
+  {
+    "id": "canva-create-2025-ai",
+    "title": "Canva Create 2025 | 歷年來最大的更新配合多個 AI 功能",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/canva-create-2025-ai",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-15T06:25:16.512713Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Prezi",
+        "url": "https://prezi.com/",
+        "logo": "https://assets.prezicdn.net/assets-versioned/staticpages-versioned/v1.0-389-g9e97a2d717-r22489864847a3/common/img/prezi-apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/canva-create-2025-ai.html"
+  },
+  {
+    "id": "ai-prompting-3-modes",
+    "title": "【AI提示技巧】掌握大型語言模型三大提示模式,提升應用效率",
+    "category": "Digital Products",
+    "description": "",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-prompting-3-modes",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-06T08:42:55.137882Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Prezi",
+        "url": "https://prezi.com/",
+        "logo": "https://assets.prezicdn.net/assets-versioned/staticpages-versioned/v1.0-389-g9e97a2d717-r22489864847a3/common/img/prezi-apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-prompting-3-modes.html"
+  },
+  {
+    "id": "google-deepmind-gemini-2-5",
+    "title": "Google DeepMind 推出 Gemini 2.5 模型 (免費使用!)",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/google-deepmind-gemini-2-5",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-02T03:19:36.438081Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-deepmind-gemini-2-5.html"
+  },
+  {
+    "id": "gpt-4o-image-generation",
+    "title": "GPT-4o 全新多模態功能: 精準圖像生成的時代來臨!",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/gpt-4o-image-generation",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-27T02:05:03.031122Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gpt-4o-image-generation.html"
+  },
+  {
+    "id": "manus-ai-ai",
+    "title": "從指令執行到主動思考 : Manus AI 如何顛覆行銷人使用 AI 的方式",
+    "category": "Digital Products",
+    "description": "",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/manus-ai-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-17T02:24:00.856021Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/manus-ai-ai.html"
+  },
+  {
+    "id": "google-chatgpt",
+    "title": "Google 搜尋仍穩坐霸主之位,ChatGPT 難以撼動",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/google-chatgpt",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-13T01:40:32.832152Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-chatgpt.html"
+  },
+  {
+    "id": "claude-3-7-sonnet-anthropic-ai",
+    "title": "Claude 3.7 Sonnet:Anthropic 再次領跑 AI 模型競賽!",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/claude-3-7-sonnet-anthropic-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-27T04:05:39.15231Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/claude-3-7-sonnet-anthropic-ai.html"
+  },
+  {
+    "id": "ai-090d",
+    "title": "AI 職場革命:效率提升三倍",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-090d",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-24T13:38:38.850103Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-090d.html"
+  },
+  {
+    "id": "xai-grok-3",
+    "title": "xAI推出Grok-3搶佔市場 (香港用到!)",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/xai-grok-3",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-21T04:18:13.819028Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/xai-grok-3.html"
+  },
+  {
+    "id": "ai-5ad8",
+    "title": "你的專屬 AI 行銷「夢之隊」現已推出! 隨時為你效勞!",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-5ad8",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-17T15:49:11.010438Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-5ad8.html"
+  },
+  {
+    "id": "deepseek-ai-janus-pro-ai-openai-dall-e-3",
+    "title": "DeepSeek 這家備受矚目的 AI 公司, 推出了名為 Janus-Pro 的多模態 AI 模型, 據稱在性能上超越了 OpenAI 的 DALL-E 3",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/deepseek-ai-janus-pro-ai-openai-dall-e-3",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-28T05:02:31.067839Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deepseek-ai-janus-pro-ai-openai-dall-e-3.html"
+  },
+  {
+    "id": "agentic-ai",
+    "title": "ChatGPT 只是開始,真正的 AI 革命還在後頭",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/agentic-ai",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-21T02:19:53.578282Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/agentic-ai.html",
+    "hasAds": true
+  },
+  {
+    "id": "google-ai-aio-marketers",
+    "title": "🚀 Google AI 新功能 AIO 蓄勢待發 ,香港 Marketers 準備好未?",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/google-ai-aio-marketers",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-15T15:11:00.143973Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "htmlFile": "/emails/google-ai-aio-marketers.html",
+    "hasAds": true
+  },
+  {
+    "id": "panasonic-well",
+    "title": "Panasonic Well 推出全面健康生態系統",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/panasonic-well",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-09T01:01:39.318414Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/panasonic-well.html"
+  },
+  {
+    "id": "facebook-ai-user-is-coming",
+    "title": "Facebook即將迎來AI生成用戶",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/facebook-ai-user-is-coming",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-03T03:17:09.032076Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/facebook-ai-user-is-coming.html"
+  },
+  {
+    "id": "ai-llm-affect-human-language",
+    "title": "你以為AI只會改變科技?其實,它已經悄悄改變了我們的語言。",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-llm-affect-human-language",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-30T00:11:54.404283Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-llm-affect-human-language.html"
+  },
+  {
+    "id": "ai-5-1",
+    "title": "🔥 零成本自製爆紅 AI 寵物小精靈影片! 新手都學得識嘅 5 分鐘教學 (1)",
+    "category": "Digital Products",
+    "description": "香港人專用 | 無需 VPN | 完全免費 | 新手教學",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-5-1",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-27T04:47:53.28116Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-5-1.html"
+  },
+  {
+    "id": "ai-5",
+    "title": "🔥 零成本自製爆紅 AI 寵物小精靈影片! 新手都學得識嘅 5 分鐘教學",
+    "category": "Digital Products",
+    "description": "香港人專用 | 無需 VPN | 完全免費 | 新手教學",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/ai-5",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-27T04:29:37.771098Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-5.html"
+  },
+  {
+    "id": "o3",
+    "title": "解鎖新可能性:迎接革命性的o3模型!",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/o3",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-12-22T08:55:20.53284Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/o3.html",
+    "hasAds": true
+  },
+  {
+    "id": "google-veo-2-imagen-3-whisk",
+    "title": "Google 推出 Veo 2、Imagen 3 及全新實驗工具 Whisk",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/google-veo-2-imagen-3-whisk",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-19T12:29:12.440365Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-veo-2-imagen-3-whisk.html"
+  },
+  {
+    "id": "gemini-2-0-google-ai-ai-agent",
+    "title": "Gemini 2.0 震撼發布:Google 最強 AI 將帶你進入「AI Agent」新時代🔥",
+    "category": "Digital Products",
+    "description": "PLUS 最新 AI 工具推薦 及 新世代 AI 工作術",
+    "author": "AI Marketing HK 電子報",
+    "url": "https://blog.aimarketinghk.com/p/gemini-2-0-google-ai-ai-agent",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-12T00:09:27.695615Z",
+    "publisher": {
+      "name": "AI Marketing HK 電子報",
+      "url": "https://blog.aimarketinghk.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gemini-2-0-google-ai-ai-agent.html"
+  }
+]

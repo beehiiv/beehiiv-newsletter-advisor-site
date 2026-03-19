@@ -1,0 +1,79 @@
+[
+  {
+    "id": "i-went-to-a-lovb-atlanta-game",
+    "title": "🏐 I Went to a LOVB Atlanta Game ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Melanin MVP",
+    "date": "2026-02-02",
+    "hasAds": true,
+    "url": "https://melaninmvp.beehiiv.com/p/i-went-to-a-lovb-atlanta-game",
+    "publisher": {
+      "name": "Melanin MVP",
+      "url": "https://melaninmvp.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "White_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/i-went-to-a-lovb-atlanta-game.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "may-is-for-memories",
+    "title": "May is for Memories",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Melanin MVP",
+    "date": "2025-05-28",
+    "hasAds": true,
+    "url": "https://melaninmvp.beehiiv.com/p/may-is-for-memories",
+    "publisher": {
+      "name": "Melanin MVP",
+      "url": "https://melaninmvp.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "Beehiiv_Newsletter_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/may-is-for-memories.html",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  },
+  {
+    "id": "latinooutdoors",
+    "title": "Vamos Outdoors",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Melanin MVP",
+    "date": "2025-01-26",
+    "hasAds": true,
+    "url": "https://melaninmvp.beehiiv.com/p/latinooutdoors",
+    "publisher": {
+      "name": "Melanin MVP",
+      "url": "https://melaninmvp.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/latinooutdoors.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "the-tattooed-nomads-frozen-in-siberia",
+    "title": "The tattooed nomads frozen in Siberia",
+    "category": "Digital Products",
+    "description": "Ice preserved the bodies, clothing, and body art of Iron Age elites beneath the Altai Mountains.",
+    "author": "Emails From Afar",
+    "url": "https://www.emailsfromafar.com",
+    "tags": [
+      "Lifestyle",
+      "Travel"
+    ],
+    "date": "2026-02-09T19:17:33.613796Z",
+    "publisher": {
+      "name": "Emails From Afar",
+      "url": "https://www.emailsfromafar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intrepid Travel",
+        "url": "https://www.intrepidtravel.com",
+        "logo": "https://www.intrepidtravel.com/files/icons/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/the-tattooed-nomads-frozen-in-siberia.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-secret-train-platform-beneath-new-york-s-most-famous-hotel-df348d2c16624a22",
+    "title": "The Secret Train Platform Beneath New York’s Most Famous Hotel",
+    "category": "Digital Products",
+    "description": "A hidden rail platform once used by presidents and tycoons still lingers beneath the Waldorf Astoria.",
+    "author": "Emails From Afar",
+    "url": "https://www.emailsfromafar.com/p/the-secret-train-platform-beneath-new-york-s-most-famous-hotel-df348d2c16624a22",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-07T16:27:43.153808Z",
+    "publisher": {
+      "name": "Emails From Afar",
+      "url": "https://www.emailsfromafar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-secret-train-platform-beneath-new-york-s-most-famous-hotel-df348d2c16624a22.html"
+  },
+  {
+    "id": "the-world-s-most-unusual-libraries-b5185bb5dadaa4b8",
+    "title": "The City Built on Top of an Ancient Shipyard",
+    "category": "Digital Products",
+    "description": "How Istanbul’s subway project uncovered a lost Byzantine harbor.",
+    "author": "Emails From Afar",
+    "url": "https://www.emailsfromafar.com/p/the-world-s-most-unusual-libraries-b5185bb5dadaa4b8",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-29T02:45:33.179319Z",
+    "publisher": {
+      "name": "Emails From Afar",
+      "url": "https://www.emailsfromafar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-world-s-most-unusual-libraries-b5185bb5dadaa4b8.html"
+  }
+]

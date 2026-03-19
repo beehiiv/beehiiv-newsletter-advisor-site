@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sommer24-4",
+    "title": "📫 Footer-Hack + chill @ home",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Newsletter-Newsletter",
+    "date": "2024-08-23",
+    "hasAds": true,
+    "url": "https://newsletter-newsletter.beehiiv.com/p/sommer24-4",
+    "publisher": {
+      "name": "Newsletter-Newsletter",
+      "url": "https://newsletter-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Inbox Hacking",
+        "url": "https://inboxhacking.com/",
+        "logo": "Removebg_Preview_May_15.png"
+      }
+    ],
+    "htmlFile": "/emails/sommer24-4.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  }
+]

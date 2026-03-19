@@ -1,0 +1,136 @@
+[
+  {
+    "id": "the-ai-solo-founder-earning-100k-month",
+    "title": "The AI Solo Founder Earning $100K/Month",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Future Seek AI",
+    "date": "2025-11-27",
+    "hasAds": true,
+    "url": "https://futures-seek.beehiiv.com/p/the-ai-solo-founder-earning-100k-month",
+    "publisher": {
+      "name": "Future Seek AI",
+      "url": "https://futures-seek.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      },
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "UDACITY.png"
+      }
+    ],
+    "htmlFile": "/emails/the-ai-solo-founder-earning-100k-month.html",
+    "tags": [
+      "Education",
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "build-a-startup-with-no-team-no-code-no-stress",
+    "title": "Build a Startup With No Team, No Code, No Stress",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Future Seek AI",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://futures-seek.beehiiv.com/p/build-a-startup-with-no-team-no-code-no-stress",
+    "publisher": {
+      "name": "Future Seek AI",
+      "url": "https://futures-seek.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "Haus_logotype.png"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/build-a-startup-with-no-team-no-code-no-stress.html",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-ai-startups-vcs-don-t-want-you-knowing-about-yet",
+    "title": "The AI Startups VCs Don’t Want You Knowing About (Yet)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Future Seek AI",
+    "date": "2025-11-20",
+    "hasAds": true,
+    "url": "https://futures-seek.beehiiv.com/p/the-ai-startups-vcs-don-t-want-you-knowing-about-yet",
+    "publisher": {
+      "name": "Future Seek AI",
+      "url": "https://futures-seek.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/the-ai-startups-vcs-don-t-want-you-knowing-about-yet.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "inside-the-machine-mind-how-ai-actually-thinks",
+    "title": "Inside the Machine Mind: How AI Actually Thinks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Future Seek AI",
+    "date": "2025-11-17",
+    "hasAds": true,
+    "url": "https://futures-seek.beehiiv.com/p/inside-the-machine-mind-how-ai-actually-thinks",
+    "publisher": {
+      "name": "Future Seek AI",
+      "url": "https://futures-seek.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      },
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      },
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/inside-the-machine-mind-how-ai-actually-thinks.html",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

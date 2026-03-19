@@ -1,0 +1,157 @@
+[
+  {
+    "id": "leaf-peeping-with-the-best-of-them",
+    "title": "Leaf peeping with the best of them",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Jiffy",
+    "date": "2025-10-13",
+    "hasAds": true,
+    "url": "https://thejiffy.beehiiv.com/p/leaf-peeping-with-the-best-of-them",
+    "publisher": {
+      "name": "The Jiffy",
+      "url": "https://thejiffy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/leaf-peeping-with-the-best-of-them.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "a-postcard-from-pinkster-fest-801c17f11e7d4050",
+    "title": "My short audio doc from Pinkster Fest!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Jiffy",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://thejiffy.beehiiv.com/p/a-postcard-from-pinkster-fest-801c17f11e7d4050",
+    "publisher": {
+      "name": "The Jiffy",
+      "url": "https://thejiffy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HomeBuddy",
+        "url": "https://www.homebuddy.com/",
+        "logo": "HB_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/a-postcard-from-pinkster-fest-801c17f11e7d4050.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "csa-series-so-far",
+    "title": "CSA Series, So Far",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Jiffy",
+    "date": "2025-06-23",
+    "hasAds": true,
+    "url": "https://thejiffy.beehiiv.com/p/csa-series-so-far",
+    "publisher": {
+      "name": "The Jiffy",
+      "url": "https://thejiffy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/csa-series-so-far.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "behind-my-decision-to-go-all-organic",
+    "title": "Behind My Decision To Go All Organic",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Jiffy",
+    "date": "2025-05-24",
+    "hasAds": true,
+    "url": "https://thejiffy.beehiiv.com/p/behind-my-decision-to-go-all-organic",
+    "publisher": {
+      "name": "The Jiffy",
+      "url": "https://thejiffy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/behind-my-decision-to-go-all-organic.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "it-s-time-for-a-very-historic-podcast-episode",
+    "title": "It's Time For A Very Historic Podcast Episode",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Jiffy",
+    "date": "2025-02-22",
+    "hasAds": true,
+    "url": "https://thejiffy.beehiiv.com/p/it-s-time-for-a-very-historic-podcast-episode",
+    "publisher": {
+      "name": "The Jiffy",
+      "url": "https://thejiffy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-time-for-a-very-historic-podcast-episode.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "out-with-this-old-vibe-in-with-this-new-site",
+    "title": "Out With This Old Vibe, In With This New Site",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Jiffy",
+    "date": "2025-01-08",
+    "hasAds": true,
+    "url": "https://thejiffy.beehiiv.com/p/out-with-this-old-vibe-in-with-this-new-site",
+    "publisher": {
+      "name": "The Jiffy",
+      "url": "https://thejiffy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/out-with-this-old-vibe-in-with-this-new-site.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

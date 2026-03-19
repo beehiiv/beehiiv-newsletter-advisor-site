@@ -1,0 +1,28 @@
+[
+  {
+    "id": "perfect-travel-companions",
+    "title": "The Perfect travel companions? ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Definitely Greece",
+    "date": "2024-09-11",
+    "hasAds": true,
+    "url": "https://definitelygreece.beehiiv.com/p/perfect-travel-companions",
+    "publisher": {
+      "name": "Definitely Greece",
+      "url": "https://definitelygreece.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kenny Flowers",
+        "url": "https://www.kennyflowers.com/",
+        "logo": "Screenshot_April_23.png"
+      }
+    ],
+    "htmlFile": "/emails/perfect-travel-companions.html",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ]
+  }
+]

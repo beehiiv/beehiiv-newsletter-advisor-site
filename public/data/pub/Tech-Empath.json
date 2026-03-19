@@ -1,0 +1,818 @@
+[
+  {
+    "id": "dang-imagine-how-that-guy-feels",
+    "title": "Dang, Imagine How That Guy Feels",
+    "category": "Digital Products",
+    "description": "How Putting Yourself In Someone Else's Shoes Can Invalidate Them",
+    "author": "Tech Empath",
+    "url": "https://techempath.beehiiv.com",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-15T19:11:52.945255Z",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/dang-imagine-how-that-guy-feels.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-day-without-the-sun-rise",
+    "title": "A Day Without The Sun Rise",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2026-02-02",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/a-day-without-the-sun-rise",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      },
+      {
+        "name": "Wall Street Prep",
+        "url": "https://wallstreetprep.business.columbia.edu/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      }
+    ],
+    "htmlFile": "/emails/a-day-without-the-sun-rise.html",
+    "tags": [
+      "Business",
+      "Education",
+      "Finance",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "clocking-in-in-a-bad-mood",
+    "title": "Clocking In, In A Bad Mood",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2026-01-26",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/clocking-in-in-a-bad-mood",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      }
+    ],
+    "htmlFile": "/emails/clocking-in-in-a-bad-mood.html",
+    "tags": [
+      "Finance",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "workplace-wellness",
+    "title": "Workplace Wellness",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2026-01-19",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/workplace-wellness",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/workplace-wellness.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "so-many-emotions-so-little-regulation",
+    "title": "So Many Emotions, So Little Regulation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2026-01-12",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/so-many-emotions-so-little-regulation",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/so-many-emotions-so-little-regulation.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "beauty-in-the-breakdown",
+    "title": "Beauty In The Breakdown",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-12-08",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/beauty-in-the-breakdown",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/beauty-in-the-breakdown.html",
+    "tags": [
+      "AI",
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "it-s-the-most-wonderful-time-of-the-year",
+    "title": "It's The Most Wonderful Time Of The Year",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-12-01",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/it-s-the-most-wonderful-time-of-the-year",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      },
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-the-most-wonderful-time-of-the-year.html",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "textbook-definition",
+    "title": "Textbook Definition",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/textbook-definition",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/textbook-definition.html",
+    "tags": [
+      "AI",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "from-prom-to-com",
+    "title": "From Prom To .COM",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-11-17",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/from-prom-to-com",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/from-prom-to-com.html",
+    "tags": [
+      "AI",
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "rolling-with-the-punches",
+    "title": "Rolling With The Punches",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-11-10",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/rolling-with-the-punches",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/rolling-with-the-punches.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "imagination-beyond-graduation",
+    "title": "Imagination Beyond Graduation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-11-03",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/imagination-beyond-graduation",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/imagination-beyond-graduation.html",
+    "tags": [
+      "AI",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "take-on-me-take-me-on",
+    "title": "Take On Me, Take Me On",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-10-27",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/take-on-me-take-me-on",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "BelayLogo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/take-on-me-take-me-on.html",
+    "tags": [
+      "AI",
+      "Business",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "cakes-have-layers-so-do-problems",
+    "title": "Cakes Have Layers, So Do Problems",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-10-20",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/cakes-have-layers-so-do-problems",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/cakes-have-layers-so-do-problems.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "share-your-toys-please-thank-you",
+    "title": "Share Your Toys, Please & Thank You",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-10-13",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/share-your-toys-please-thank-you",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/share-your-toys-please-thank-you.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "teamwork-makes-your-dreams-worse",
+    "title": "Teamwork Makes Your Dreams Worse",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-10-06",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/teamwork-makes-your-dreams-worse",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/teamwork-makes-your-dreams-worse.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "m-i-a-the-b-i-a-s",
+    "title": "M.I.A The B.I.A.S",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-09-29",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/m-i-a-the-b-i-a-s",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/m-i-a-the-b-i-a-s.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "shipwreck-code",
+    "title": "Shipwreck Code 🌊",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-09-22",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/shipwreck-code",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Speedeon Data",
+        "url": "https://speedeondata.com/",
+        "logo": "sdlogo.png"
+      },
+      {
+        "name": "Zipchat",
+        "url": "https://zipchat.ai/",
+        "logo": "zipchat_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/shipwreck-code.html",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "cut-your-hair-get-a-job-go-to-woodstock",
+    "title": "Cut Your Hair, Get A Job & Go To Woodstock",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-09-15",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/cut-your-hair-get-a-job-go-to-woodstock",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/cut-your-hair-get-a-job-go-to-woodstock.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "shampoo-toothpaste-active-listening",
+    "title": "Shampoo, Toothpaste & Active Listening",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-09-08",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/shampoo-toothpaste-active-listening",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/shampoo-toothpaste-active-listening.html",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "it-s-like-looking-in-a-mirror",
+    "title": "It's Like Looking In A Mirror",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-09-01",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/it-s-like-looking-in-a-mirror",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-like-looking-in-a-mirror.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-roller-coaster-of-a-career",
+    "title": "A Roller Coaster Of A Career",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/a-roller-coaster-of-a-career",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/a-roller-coaster-of-a-career.html",
+    "tags": [
+      "Finance",
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "empathy-is-an-instinct",
+    "title": "Empathy Is An Instinct",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-08-18",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/empathy-is-an-instinct",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "White_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/empathy-is-an-instinct.html",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "lights-camera-passion",
+    "title": "Lights, Camera...Passion",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/lights-camera-passion",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/lights-camera-passion.html",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "burnout-beats",
+    "title": "Burnout & Beats",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/burnout-beats",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "tangle.png"
+      }
+    ],
+    "htmlFile": "/emails/burnout-beats.html",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "do-you-like-your-job-c785221b59617b5d",
+    "title": "Do You Like Your Job?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech Empath",
+    "date": "2025-07-28",
+    "hasAds": true,
+    "url": "https://techempath.beehiiv.com/p/do-you-like-your-job-c785221b59617b5d",
+    "publisher": {
+      "name": "Tech Empath",
+      "url": "https://techempath.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/do-you-like-your-job-c785221b59617b5d.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "Newsletter"
+    ]
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "reset-strategique",
+    "title": "Reset stratégique",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-02-08T08:16:08.666406Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "https://fintechtakes.com/wp-content/uploads/sites/8/2024/03/fav-icon-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/reset-strategique.html",
+    "hasAds": true
+  },
+  {
+    "id": "illusion-de-la-loi",
+    "title": "Illusion de la loi",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/illusion-de-la-loi",
+    "tags": [
+      "Education",
+      "Finance"
+    ],
+    "date": "2026-02-01T06:44:50.930589Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wall Street Prep",
+        "url": "https://www.wallstreetprep.com/",
+        "logo": "https://www.wallstreetprep.com/learn-financial-modeling/wp-content/themes/wallstreetprep/assets/icons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/illusion-de-la-loi.html"
+  },
+  {
+    "id": "tyrannosaurus-rex",
+    "title": "Tyrannosaurus Rex",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/tyrannosaurus-rex",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-25T04:46:20.611013Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tyrannosaurus-rex.html"
+  },
+  {
+    "id": "escalades",
+    "title": "Escalades",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/escalades",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-18T07:41:38.99176Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/escalades.html"
+  },
+  {
+    "id": "jacqueries",
+    "title": "Jacqueries",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/jacqueries",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-11T08:07:10.761523Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/jacqueries.html",
+    "hasAds": true
+  },
+  {
+    "id": "spheres-d-influence",
+    "title": "Sphères d'influence",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/spheres-d-influence",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-04T07:12:19.702599Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/spheres-d-influence.html"
+  },
+  {
+    "id": "impasse",
+    "title": "Impasse",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/impasse",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-12-21T06:39:14.08581Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/impasse.html"
+  },
+  {
+    "id": "comme-un-fremissement",
+    "title": "Comme un frémissement",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/comme-un-fremissement",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-12-14T09:57:49.108606Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "htmlFile": "/emails/comme-un-fremissement.html",
+    "hasAds": true
+  },
+  {
+    "id": "le-bruit-des-bottes",
+    "title": "Le bruit des bottes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/le-bruit-des-bottes",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-11-23T07:38:10.448182Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "htmlFile": "/emails/le-bruit-des-bottes.html",
+    "hasAds": true
+  },
+  {
+    "id": "demolition",
+    "title": "Démolition",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/demolition",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-11-16T04:04:23.436036Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/demolition.html"
+  },
+  {
+    "id": "le-dentifrice-sorti-du-tube",
+    "title": "Le dentifrice sorti du tube",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/le-dentifrice-sorti-du-tube",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-11-09T07:50:29.222125Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/le-dentifrice-sorti-du-tube.html"
+  },
+  {
+    "id": "massacre-a-la-loi-de-finances",
+    "title": "Massacre à la loi de finances",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/massacre-a-la-loi-de-finances",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-11-02T04:26:17.771851Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/massacre-a-la-loi-de-finances.html"
+  },
+  {
+    "id": "mission-creep",
+    "title": "Mission creep",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/mission-creep",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-10-26T08:03:22.737344Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mission-creep.html"
+  },
+  {
+    "id": "retraite-en-rase-campagne",
+    "title": "Retraite en rase campagne",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/retraite-en-rase-campagne",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-19T05:06:29.435152Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/retraite-en-rase-campagne.html"
+  },
+  {
+    "id": "projet-de-loi-de-finances-2026-100-d-effort-fiscal",
+    "title": "Projet de loi de finances 2026 : 100 % d'effort fiscal",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/projet-de-loi-de-finances-2026-100-d-effort-fiscal",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-10-14T14:41:22.373529Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "htmlFile": "/emails/projet-de-loi-de-finances-2026-100-d-effort-fiscal.html",
+    "hasAds": true
+  },
+  {
+    "id": "las-de-ce-monde-ancien",
+    "title": "Las de ce monde ancien",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/las-de-ce-monde-ancien",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-12T06:38:32.43058Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/las-de-ce-monde-ancien.html"
+  },
+  {
+    "id": "egaux-devant-la-loi",
+    "title": "Égaux devant la loi",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/egaux-devant-la-loi",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-09-27T09:41:00.679779Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "htmlFile": "/emails/egaux-devant-la-loi.html",
+    "hasAds": true
+  },
+  {
+    "id": "zucmania",
+    "title": "Zucmania",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/zucmania",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-20T14:47:38.233503Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/zucmania.html"
+  },
+  {
+    "id": "etre-charlie",
+    "title": "Être Charlie",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/etre-charlie",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-14T05:30:12.050781Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/etre-charlie.html"
+  },
+  {
+    "id": "le-temps-perdu",
+    "title": "Le temps perdu",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/le-temps-perdu",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-08-31T06:31:35.625693Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/le-temps-perdu.html"
+  },
+  {
+    "id": "aux-armes-etc",
+    "title": "Aux armes, etc.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MoneySmart",
+    "date": "2025-06-29",
+    "hasAds": true,
+    "url": "https://www.moneysmart.fr/p/aux-armes-etc",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/aux-armes-etc.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ouverture-de-la-foire-a-l-inventivite-fiscale",
+    "title": "Ouverture de la foire à l'inventivité fiscale",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MoneySmart",
+    "date": "2025-06-15",
+    "hasAds": true,
+    "url": "https://www.moneysmart.fr/p/ouverture-de-la-foire-a-l-inventivite-fiscale",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/ouverture-de-la-foire-a-l-inventivite-fiscale.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "inconsequence",
+    "title": "Inconséquence",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/inconsequence",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-06-08T06:30:42.145743Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "htmlFile": "/emails/inconsequence.html",
+    "hasAds": true
+  },
+  {
+    "id": "jusqu-au-dernier-souffle",
+    "title": "Jusqu'au dernier souffle",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/jusqu-au-dernier-souffle",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-06-01T05:43:52.068296Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "htmlFile": "/emails/jusqu-au-dernier-souffle.html",
+    "hasAds": true
+  },
+  {
+    "id": "pensee-magique",
+    "title": "Pensée magique",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/pensee-magique",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-25T08:58:55.804063Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pensee-magique.html"
+  },
+  {
+    "id": "downgrade",
+    "title": "Downgrade",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/downgrade",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-05-18T04:24:50.049745Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/downgrade.html"
+  },
+  {
+    "id": "le-choc-protectionniste",
+    "title": "Le choc protectionniste",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/le-choc-protectionniste",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-06T08:02:09.291238Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/le-choc-protectionniste.html"
+  },
+  {
+    "id": "jugement-dernier",
+    "title": "Jugement dernier",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/jugement-dernier",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-03-30T07:19:08.793712Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jugement-dernier.html"
+  },
+  {
+    "id": "des-souris-et-des-hommes",
+    "title": "Des souris et des hommes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/des-souris-et-des-hommes",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-03-23T05:53:22.241948Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/des-souris-et-des-hommes.html"
+  },
+  {
+    "id": "a-la-recherche-du-temps-perdu",
+    "title": "À la recherche du temps perdu",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/a-la-recherche-du-temps-perdu",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-22T15:58:27.231205Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-la-recherche-du-temps-perdu.html"
+  },
+  {
+    "id": "recherche-consensus-desesperement",
+    "title": "Recherche consensus désespérément",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/recherche-consensus-desesperement",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-09T10:16:38.066328Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/recherche-consensus-desesperement.html"
+  },
+  {
+    "id": "etrangers-les-uns-aux-autres",
+    "title": "Étrangers les uns aux autres",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/etrangers-les-uns-aux-autres",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-02-02T04:39:05.597988Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/etrangers-les-uns-aux-autres.html"
+  },
+  {
+    "id": "une-semaine-folle",
+    "title": "Une semaine folle !",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/une-semaine-folle",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-01-26T09:18:10.742102Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/une-semaine-folle.html"
+  },
+  {
+    "id": "2025-annee-du-rebond",
+    "title": "2025, année du rebond ?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/2025-annee-du-rebond",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-19T10:24:16.607781Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2025-annee-du-rebond.html"
+  },
+  {
+    "id": "le-match-des-strategies-d-investissement",
+    "title": "Le match des stratégies d'investissement",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/le-match-des-strategies-d-investissement",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-12T11:09:20.757577Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/le-match-des-strategies-d-investissement.html"
+  },
+  {
+    "id": "censure",
+    "title": "Censuré !",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/censure",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-08T05:24:41.698315Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/censure.html"
+  },
+  {
+    "id": "2025-budget-plac-bo",
+    "title": "2025 : budget placébo",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/2025-budget-plac-bo",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-10-13T11:53:20.751807Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2025-budget-plac-bo.html"
+  },
+  {
+    "id": "bye-bye-l-euro",
+    "title": "Bye bye l'euro",
+    "category": "Digital Products",
+    "description": "Fatalité ? Non. Risque ? Oui. Comment protéger votre patrimoine.",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/bye-bye-l-euro",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-06T09:45:51.951841Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bye-bye-l-euro.html"
+  },
+  {
+    "id": "voyage-en-amerique-1",
+    "title": "Eh, eh, Mario est arrivé",
+    "category": "Digital Products",
+    "description": "Constats lucides, préconisations discutables",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/voyage-en-amerique-1",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-09-22T09:37:39.019337Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Value Investor Daily",
+        "url": "https://www.valueinvestordaily.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5b95b266-b0ef-4a8e-9dd9-14bf17c05fac/thumb_VID_avatar_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/voyage-en-amerique-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "irresponsable",
+    "title": "Irresponsable !",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MoneySmart",
+    "url": "https://www.moneysmart.fr/p/irresponsable",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-01T06:44:15.497683Z",
+    "publisher": {
+      "name": "MoneySmart",
+      "url": "https://www.moneysmart.fr",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/irresponsable.html"
+  }
+]

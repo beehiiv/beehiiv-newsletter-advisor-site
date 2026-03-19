@@ -1,0 +1,82 @@
+[
+  {
+    "id": "5-tips-to-help-your-baby-sleep-better",
+    "title": "5 Tips to Help Your Baby Sleep Better",
+    "category": "Digital Products",
+    "description": "Simple Strategies for a Good Night’s Sleep",
+    "author": "Baby Steps",
+    "url": "https://appbabysteps.com/p/5-tips-to-help-your-baby-sleep-better",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ],
+    "date": "2024-10-02T11:50:40.679745Z",
+    "publisher": {
+      "name": "Baby Steps",
+      "url": "https://appbabysteps.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Cozy Earth",
+        "url": "https://cozyearth.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=cozyearth.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-tips-to-help-your-baby-sleep-better.html"
+  },
+  {
+    "id": "when-can-kids-sit-in-the-front-seat",
+    "title": "When Can Kids Sit in the Front Seat? A Safety Guide for Parents",
+    "category": "Digital Products",
+    "description": "Understand the Guidelines for Front Seat Safety",
+    "author": "Baby Steps",
+    "url": "https://appbabysteps.com/p/when-can-kids-sit-in-the-front-seat",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-10-01T20:52:29.366133Z",
+    "publisher": {
+      "name": "Baby Steps",
+      "url": "https://appbabysteps.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Little Bellies",
+        "url": "https://littlebellies.com/",
+        "logo": "https://littlebellies.com/wp-content/uploads/Little-Bellies-Icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-can-kids-sit-in-the-front-seat.html"
+  },
+  {
+    "id": "fun-and-educational-toddler-learning-activities",
+    "title": "Fun and Educational Toddler Learning Activities",
+    "category": "Digital Products",
+    "description": "Boost Your Toddler’s Development with Engaging Play",
+    "author": "Baby Steps",
+    "url": "https://appbabysteps.com/p/fun-and-educational-toddler-learning-activities",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-09-22T13:21:38.706478Z",
+    "publisher": {
+      "name": "Baby Steps",
+      "url": "https://appbabysteps.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/fun-and-educational-toddler-learning-activities.html",
+    "hasAds": true
+  }
+]

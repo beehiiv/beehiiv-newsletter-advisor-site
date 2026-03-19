@@ -1,0 +1,132 @@
+[
+  {
+    "id": "biggest-marketing-mistake",
+    "title": "I made the biggest mistake in marketing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nudges",
+    "date": "2025-05-14",
+    "hasAds": true,
+    "url": "https://nudges.beehiiv.com/p/biggest-marketing-mistake",
+    "publisher": {
+      "name": "Nudges",
+      "url": "https://nudges.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/biggest-marketing-mistake.html"
+  },
+  {
+    "id": "how-to-build-a-cult-like-personal-brand",
+    "title": "How to build a cult like personal brand",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nudges",
+    "date": "2025-04-18",
+    "hasAds": true,
+    "url": "https://nudges.beehiiv.com/p/how-to-build-a-cult-like-personal-brand",
+    "publisher": {
+      "name": "Nudges",
+      "url": "https://nudges.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wistia",
+        "url": "https://wistia.com/",
+        "logo": "Wistia_Lockup_Full_Color.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/how-to-build-a-cult-like-personal-brand.html"
+  },
+  {
+    "id": "authority-brand",
+    "title": "Build a personal brand that pays bills | Maximize your authority",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nudges",
+    "date": "2024-11-13",
+    "hasAds": true,
+    "url": "https://nudges.beehiiv.com/p/authority-brand",
+    "publisher": {
+      "name": "Nudges",
+      "url": "https://nudges.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/authority-brand.html"
+  },
+  {
+    "id": "online-business",
+    "title": "Online business solved, let's go!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nudges",
+    "date": "2024-09-14",
+    "hasAds": true,
+    "url": "https://nudges.beehiiv.com/p/online-business",
+    "publisher": {
+      "name": "Nudges",
+      "url": "https://nudges.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/online-business.html"
+  },
+  {
+    "id": "video-editing-dead-2024",
+    "title": "Is video editing dead in 2024?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Nudges",
+    "date": "2024-08-14",
+    "hasAds": true,
+    "url": "https://nudges.beehiiv.com/p/video-editing-dead-2024",
+    "publisher": {
+      "name": "Nudges",
+      "url": "https://nudges.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Inbox Hacking",
+        "url": "https://inboxhacking.com/",
+        "logo": "Removebg_Preview_May_15.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/video-editing-dead-2024.html"
+  }
+]

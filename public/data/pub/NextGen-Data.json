@@ -1,0 +1,184 @@
+[
+  {
+    "id": "embracing-data-contracts-for-safer-data-pipelines",
+    "title": "Embracing Data Contracts for Safer Data Pipelines",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-06-18",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/embracing-data-contracts-for-safer-data-pipelines",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/embracing-data-contracts-for-safer-data-pipelines.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "bridging-data-silos-how-the-model-context-protocol-connects-ai-to-your-data",
+    "title": "Bridging Data Silos – How the Model Context Protocol Connects AI to Your Data",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-05-28",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/bridging-data-silos-how-the-model-context-protocol-connects-ai-to-your-data",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/bridging-data-silos-how-the-model-context-protocol-connects-ai-to-your-data.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-won-t-replace-data-engineers-but-data-engineers-who-embrace-ai-will-thrive",
+    "title": "AI in Data Engineering: Copilot, Not Replacement",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-05-26",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/ai-won-t-replace-data-engineers-but-data-engineers-who-embrace-ai-will-thrive",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-won-t-replace-data-engineers-but-data-engineers-who-embrace-ai-will-thrive.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "why-apache-iceberg-has-everybody-excited-fefe",
+    "title": "Why Apache Iceberg Has Everybody Excited",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-05-25",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/why-apache-iceberg-has-everybody-excited-fefe",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/why-apache-iceberg-has-everybody-excited-fefe.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "why-duckdb-s-rise-matters-even-if-your-data-warehouse-isn-t-going-anywhere-adda",
+    "title": "Why DuckDB’s Rise Matters—Even If Your Data Warehouse Isn’t Going Anywhere",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-05-22",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/why-duckdb-s-rise-matters-even-if-your-data-warehouse-isn-t-going-anywhere-adda",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/why-duckdb-s-rise-matters-even-if-your-data-warehouse-isn-t-going-anywhere-adda.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "infinite-resources-finite-budget",
+    "title": "Infinite Resources, Finite Budget",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-05-20",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/infinite-resources-finite-budget",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/infinite-resources-finite-budget.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "broadcast-joins-in-spark-when-less-shuffle-is-more-speed",
+    "title": "Broadcast Joins in Spark: When Less Shuffle Is More Speed",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "NextGen Data",
+    "date": "2025-05-04",
+    "hasAds": true,
+    "url": "https://nextgendata.beehiiv.com/p/broadcast-joins-in-spark-when-less-shuffle-is-more-speed",
+    "publisher": {
+      "name": "NextGen Data",
+      "url": "https://nextgendata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/broadcast-joins-in-spark-when-less-shuffle-is-more-speed.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

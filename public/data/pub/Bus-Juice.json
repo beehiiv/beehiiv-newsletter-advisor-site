@@ -1,0 +1,29 @@
+[
+  {
+    "id": "whats-it-doing-now",
+    "title": "What's it doing now?",
+    "category": "Digital Products",
+    "description": "Understanding Ground Speed Mini.",
+    "author": "Bus Juice",
+    "url": "https://busjuice.aero/p/whats-it-doing-now",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-14T05:38:00.967361Z",
+    "publisher": {
+      "name": "Bus Juice",
+      "url": "https://busjuice.aero",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/whats-it-doing-now.html"
+  }
+]

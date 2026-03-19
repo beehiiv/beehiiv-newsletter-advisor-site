@@ -1,0 +1,579 @@
+[
+  {
+    "id": "break-the-mold-or-stay-mediocre",
+    "title": "Break the Mold or Stay Mediocre",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-07-10",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/break-the-mold-or-stay-mediocre",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/break-the-mold-or-stay-mediocre.html"
+  },
+  {
+    "id": "the-retention-economy",
+    "title": "The Retention Economy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-07-08",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/the-retention-economy",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/the-retention-economy.html"
+  },
+  {
+    "id": "the-truth-about-work-life-balance",
+    "title": " The Truth About Work-Life Balance",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-07-05",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/the-truth-about-work-life-balance",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/the-truth-about-work-life-balance.html"
+  },
+  {
+    "id": "stop-wasting-your-life",
+    "title": "Stop Wasting Your Life ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-07-03",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/stop-wasting-your-life",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      },
+      {
+        "name": "Trust & Will",
+        "url": "https://trustandwill.com/",
+        "logo": "tw.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/stop-wasting-your-life.html"
+  },
+  {
+    "id": "how-to-build-trust-at-scale",
+    "title": "How to Build Trust at Scale",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-26",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/how-to-build-trust-at-scale",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/how-to-build-trust-at-scale.html"
+  },
+  {
+    "id": "stop-selling-start-selecting",
+    "title": "Stop Selling. Start Selecting.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-21",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/stop-selling-start-selecting",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/stop-selling-start-selecting.html"
+  },
+  {
+    "id": "influence-without-permission",
+    "title": "Influence Without Permission",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-19",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/influence-without-permission",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/influence-without-permission.html"
+  },
+  {
+    "id": "future-unfiltered",
+    "title": "Future Unfiltered",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-17",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/future-unfiltered",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Collective",
+        "url": "https://www.collective.com/",
+        "logo": "collective.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "htmlFile": "/emails/future-unfiltered.html"
+  },
+  {
+    "id": "personal-brand-beats-company-brand",
+    "title": "Personal Brand Beats Company Brand",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-14",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/personal-brand-beats-company-brand",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/personal-brand-beats-company-brand.html"
+  },
+  {
+    "id": "own-the-room-to-own-your-life",
+    "title": "Own the Room to Own Your Life",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-12",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/own-the-room-to-own-your-life",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/own-the-room-to-own-your-life.html"
+  },
+  {
+    "id": "how-to-break-free-from-the-bureaucracy-trap",
+    "title": "How to Break Free from the Bureaucracy Trap",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/how-to-break-free-from-the-bureaucracy-trap",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Collective",
+        "url": "https://www.collective.com/",
+        "logo": "collective.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "htmlFile": "/emails/how-to-break-free-from-the-bureaucracy-trap.html"
+  },
+  {
+    "id": "unlock-client-acquisition-with-x-analytics",
+    "title": "Unlock Client Acquisition with X Analytics",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-07",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/unlock-client-acquisition-with-x-analytics",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/unlock-client-acquisition-with-x-analytics.html"
+  },
+  {
+    "id": "how-to-start-your-first-newsletter-on-beehiiv",
+    "title": "How to Start Your First Newsletter on Beehiiv",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-05",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/how-to-start-your-first-newsletter-on-beehiiv",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Besolo",
+        "url": "https://www.besolo.io/",
+        "logo": "Image_Capture_May_15_2025.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "htmlFile": "/emails/how-to-start-your-first-newsletter-on-beehiiv.html"
+  },
+  {
+    "id": "crafting-a-standout-consulting-brand-on-x",
+    "title": "Crafting a Standout Consulting Brand on X",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-06-03",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/crafting-a-standout-consulting-brand-on-x",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Collective",
+        "url": "https://www.collective.com/",
+        "logo": "collective.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "htmlFile": "/emails/crafting-a-standout-consulting-brand-on-x.html"
+  },
+  {
+    "id": "turn-x-posts-into-sales-via-dms",
+    "title": "Turn X Posts into Sales via DMs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-31",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/turn-x-posts-into-sales-via-dms",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/turn-x-posts-into-sales-via-dms.html"
+  },
+  {
+    "id": "top-5-closing-tips-for-startup-founders-sales-pros",
+    "title": "Top 5 Closing Tips for Startup Founders & Sales Pros",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-29",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/top-5-closing-tips-for-startup-founders-sales-pros",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/top-5-closing-tips-for-startup-founders-sales-pros.html"
+  },
+  {
+    "id": "the-power-of-small-connections-in-our-community-c79d",
+    "title": "The Power of Small Connections in Our Community",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-27",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/the-power-of-small-connections-in-our-community-c79d",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "htmlFile": "/emails/the-power-of-small-connections-in-our-community-c79d.html"
+  },
+  {
+    "id": "the-x-factor-6f03",
+    "title": "The X Factor",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-24",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/the-x-factor-6f03",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Besolo",
+        "url": "https://www.besolo.io/",
+        "logo": "Image_Capture_May_15_2025.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "htmlFile": "/emails/the-x-factor-6f03.html"
+  },
+  {
+    "id": "building-a-profitable-micro-community-on-x-3939",
+    "title": "Building a Profitable Micro-Community on X ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-22",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/building-a-profitable-micro-community-on-x-3939",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "inFlow Inventory",
+        "url": "https://inflowinventory.com/",
+        "logo": "inFlow.png"
+      }
+    ],
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/building-a-profitable-micro-community-on-x-3939.html"
+  },
+  {
+    "id": "build-relationships-not-following-d01b",
+    "title": "Build Relationships, Not Following",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-20",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/build-relationships-not-following-d01b",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Collective",
+        "url": "https://www.collective.com/",
+        "logo": "collective.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "htmlFile": "/emails/build-relationships-not-following-d01b.html"
+  },
+  {
+    "id": "leveraging-other-spaces-b429",
+    "title": "Leveraging Other Spaces.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-17",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/leveraging-other-spaces-b429",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/leveraging-other-spaces-b429.html"
+  },
+  {
+    "id": "running-successful-community-spaces",
+    "title": "Running Successful Community Spaces",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Startup Circle",
+    "date": "2025-05-13",
+    "hasAds": true,
+    "url": "https://the-startup-circle.beehiiv.com/p/running-successful-community-spaces",
+    "publisher": {
+      "name": "The Startup Circle",
+      "url": "https://the-startup-circle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/running-successful-community-spaces.html"
+  }
+]

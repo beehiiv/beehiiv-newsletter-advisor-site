@@ -1,0 +1,56 @@
+[
+  {
+    "id": "pickleball-new-zealand",
+    "title": "🔥Five Dink Friday🔥 The 4 Shots That Actually Win Points",
+    "category": "Digital Products",
+    "description": "I scroll so you can serve. Out of the countless pickleball posts each week, these are my top 5 picks you shouldn’t miss—viral, hilarious, or just plain excellent moments to keep you in the know and at the top of your game (and give you something to lob into your group chat).",
+    "author": "Five Dink Friday",
+    "url": "https://www.fivedinkfriday.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-12T22:48:21.135031Z",
+    "publisher": {
+      "name": "Five Dink Friday",
+      "url": "https://www.fivedinkfriday.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/pickleball-new-zealand.html",
+    "hasAds": true
+  },
+  {
+    "id": "five-dink-friday-940d916080824d9e",
+    "title": "🔥 Five Dink Friday 🔥",
+    "category": "Digital Products",
+    "description": "This Week in Five Dink Friday we've got faster hands, spicier partner drama, and a new drilling challenge that will make your game sharper. From wheelchair pickleball inspiration to why pickleball might just be the new Tinder, this week had a little bit of everything.",
+    "author": "Five Dink Friday",
+    "url": "https://www.fivedinkfriday.com/p/five-dink-friday-940d916080824d9e",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-26T19:41:13.181816Z",
+    "publisher": {
+      "name": "Five Dink Friday",
+      "url": "https://www.fivedinkfriday.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/five-dink-friday-940d916080824d9e.html",
+    "hasAds": true
+  }
+]

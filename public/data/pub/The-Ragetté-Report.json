@@ -1,0 +1,105 @@
+[
+  {
+    "id": "is-salt-reform-on-the-way",
+    "title": "Is SALT Reform on the Way?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ragetté Report",
+    "date": "2025-01-17",
+    "hasAds": true,
+    "url": "https://www.theragettereport.com/p/is-salt-reform-on-the-way",
+    "publisher": {
+      "name": "The Ragetté Report",
+      "url": "https://www.theragettereport.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/is-salt-reform-on-the-way.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "nyc-council-passes-broker-fee-bill",
+    "title": "NYC Council Passes ‘Broker Fee Bill’",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ragetté Report",
+    "date": "2024-11-15",
+    "hasAds": true,
+    "url": "https://www.theragettereport.com/p/nyc-council-passes-broker-fee-bill",
+    "publisher": {
+      "name": "The Ragetté Report",
+      "url": "https://www.theragettereport.com"
+    },
+    "advertisers": [
+      {
+        "name": "Land.id",
+        "url": "https://id.land/",
+        "logo": "Removebg_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/nyc-council-passes-broker-fee-bill.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "did-someone-rewind-to-95",
+    "title": "Did Someone Rewind to ‘95?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ragetté Report",
+    "date": "2024-09-27",
+    "hasAds": true,
+    "url": "https://www.theragettereport.com/p/did-someone-rewind-to-95",
+    "publisher": {
+      "name": "The Ragetté Report",
+      "url": "https://www.theragettereport.com"
+    },
+    "advertisers": [
+      {
+        "name": "RYSE",
+        "url": "https://invest.helloryse.com/",
+        "logo": "RYSElogo.png"
+      }
+    ],
+    "htmlFile": "/emails/did-someone-rewind-to-95.html",
+    "tags": [
+      "Investing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "is-the-housing-market-really-stabilizing",
+    "title": "Is The Housing Market Really Stabilizing?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ragetté Report",
+    "date": "2024-08-30",
+    "hasAds": true,
+    "url": "https://www.theragettereport.com/p/is-the-housing-market-really-stabilizing",
+    "publisher": {
+      "name": "The Ragetté Report",
+      "url": "https://www.theragettereport.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/is-the-housing-market-really-stabilizing.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

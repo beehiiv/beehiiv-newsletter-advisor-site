@@ -1,0 +1,83 @@
+[
+  {
+    "id": "the-digital-twins-are-coming",
+    "title": "The Digital Twins Are Coming 🤖",
+    "category": "Digital Products",
+    "description": "H&M's plan to use AI-generated digital twins of models in its marketing — the good and the bad.",
+    "author": "Lindsey Gamble's Newsletter",
+    "url": "https://lindseygamble.beehiiv.com/p/the-digital-twins-are-coming",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-02T17:47:45.94759Z",
+    "publisher": {
+      "name": "Lindsey Gamble's Newsletter",
+      "url": "https://lindseygamble.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-digital-twins-are-coming.html"
+  },
+  {
+    "id": "your-linkedin-comments-your-data",
+    "title": "LinkedIn Comments Get Analytics  📊",
+    "category": "Digital Products",
+    "description": "LinkedIn rolls out comment analytics and tests a My Network-only feed, Instagram considers a standalone app for Reels, and Twitch introduces new brand sponsorship features.",
+    "author": "Lindsey Gamble's Newsletter",
+    "url": "https://lindseygamble.beehiiv.com/p/your-linkedin-comments-your-data",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-21T16:45:07.057776Z",
+    "publisher": {
+      "name": "Lindsey Gamble's Newsletter",
+      "url": "https://lindseygamble.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-linkedin-comments-your-data.html"
+  },
+  {
+    "id": "meet-the-pga-tour-s-creator-council",
+    "title": "Meet the PGA Tour's Creator Council ⛳",
+    "category": "Digital Products",
+    "description": "Top golf creators will work alongside the PGA Tour's media, marketing, and communications teams to develop content and fan engagement strategies aimed at growing the game of golf.",
+    "author": "Lindsey Gamble's Newsletter",
+    "url": "https://lindseygamble.beehiiv.com/p/meet-the-pga-tour-s-creator-council",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-10T03:41:07.62331Z",
+    "publisher": {
+      "name": "Lindsey Gamble's Newsletter",
+      "url": "https://lindseygamble.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/meet-the-pga-tour-s-creator-council.html"
+  }
+]

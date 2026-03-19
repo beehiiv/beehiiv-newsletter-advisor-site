@@ -1,0 +1,74 @@
+{
+  "rewrites": [
+    {
+      "source": "/ads/:id",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(facebookexternalhit|Facebot|Twitterbot|LinkedInBot|WhatsApp|Slackbot|TelegramBot|Discordbot|Googlebot|bingbot|Baiduspider|ChatGPT-User|ClaudeBot|Claude-Web|Applebot|Bytespider).*"
+        }
+      ],
+      "destination": "/api/render/ads/:id"
+    },
+    {
+      "source": "/advertisers/:name",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(facebookexternalhit|Facebot|Twitterbot|LinkedInBot|WhatsApp|Slackbot|TelegramBot|Discordbot|Googlebot|bingbot|Baiduspider|ChatGPT-User|ClaudeBot|Claude-Web|Applebot|Bytespider).*"
+        }
+      ],
+      "destination": "/api/render/advertisers/:name"
+    },
+    {
+      "source": "/advertisers",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(facebookexternalhit|Facebot|Twitterbot|LinkedInBot|WhatsApp|Slackbot|TelegramBot|Discordbot|Googlebot|bingbot|Baiduspider|ChatGPT-User|ClaudeBot|Claude-Web|Applebot|Bytespider).*"
+        }
+      ],
+      "destination": "/api/render/advertisers"
+    },
+    {
+      "source": "/publishers/:name",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(facebookexternalhit|Facebot|Twitterbot|LinkedInBot|WhatsApp|Slackbot|TelegramBot|Discordbot|Googlebot|bingbot|Baiduspider|ChatGPT-User|ClaudeBot|Claude-Web|Applebot|Bytespider).*"
+        }
+      ],
+      "destination": "/api/render/publishers/:name"
+    },
+    {
+      "source": "/browse",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(facebookexternalhit|Facebot|Twitterbot|LinkedInBot|WhatsApp|Slackbot|TelegramBot|Discordbot|Googlebot|bingbot|Baiduspider|ChatGPT-User|ClaudeBot|Claude-Web|Applebot|Bytespider).*"
+        }
+      ],
+      "destination": "/api/render/browse"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "header",
+          "key": "user-agent",
+          "value": ".*(facebookexternalhit|Facebot|Twitterbot|LinkedInBot|WhatsApp|Slackbot|TelegramBot|Discordbot|Googlebot|bingbot|Baiduspider|ChatGPT-User|ClaudeBot|Claude-Web|Applebot|Bytespider).*"
+        }
+      ],
+      "destination": "/api/render/home"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

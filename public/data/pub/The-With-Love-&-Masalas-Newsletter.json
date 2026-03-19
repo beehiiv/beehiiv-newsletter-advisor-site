@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ginger-cardamom-pumpkin-muffins-bread",
+    "title": "Ginger Cardamom Pumpkin Muffins (or bread!)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The With Love & Masalas Newsletter",
+    "date": "2025-11-21",
+    "hasAds": true,
+    "url": "https://withloveandmasalas.beehiiv.com/p/ginger-cardamom-pumpkin-muffins-bread",
+    "publisher": {
+      "name": "The With Love & Masalas Newsletter",
+      "url": "https://withloveandmasalas.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/ginger-cardamom-pumpkin-muffins-bread.html",
+    "tags": [
+      "Finance"
+    ]
+  }
+]

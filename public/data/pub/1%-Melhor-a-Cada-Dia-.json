@@ -1,0 +1,135 @@
+[
+  {
+    "id": "mostre-o-que-voce-faz",
+    "title": "Mostre o que você faz",
+    "category": "Digital Products",
+    "description": "O maior erro que cometi na faculdade foi esconder o que eu sabia.",
+    "author": "1% Melhor a Cada Dia ",
+    "url": "https://www.gustluiz.com.br/p/mostre-o-que-voce-faz",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-30T23:01:24.918775Z",
+    "publisher": {
+      "name": "1% Melhor a Cada Dia ",
+      "url": "https://gustluiz.com.br",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mostre-o-que-voce-faz.html"
+  },
+  {
+    "id": "como-aprender-10x-mais-rapido",
+    "title": "Como aprender qualquer coisa 10X mais rápido do que qualquer pessoa com IA",
+    "category": "Digital Products",
+    "description": "",
+    "author": "1% Melhor a Cada Dia ",
+    "url": "https://www.gustluiz.com.br/p/como-aprender-10x-mais-rapido",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-12T22:02:04.883943Z",
+    "publisher": {
+      "name": "1% Melhor a Cada Dia ",
+      "url": "https://gustluiz.com.br",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/como-aprender-10x-mais-rapido.html"
+  },
+  {
+    "id": "01-links-da-semana",
+    "title": "#01. Links da Semana",
+    "category": "Digital Products",
+    "description": "O melhor da semana no conforto do seu email",
+    "author": "1% Melhor a Cada Dia ",
+    "url": "https://www.gustluiz.com.br/p/01-links-da-semana",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-05T17:02:25.337726Z",
+    "publisher": {
+      "name": "1% Melhor a Cada Dia ",
+      "url": "https://gustluiz.com.br",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/01-links-da-semana.html"
+  },
+  {
+    "id": "100-dias-para-fim-de-2024",
+    "title": "100 Dias Para Fim de 2024",
+    "category": "Digital Products",
+    "description": "1% Melhor a Cada Dia - Edição #58",
+    "author": "1% Melhor a Cada Dia ",
+    "url": "https://www.gustluiz.com.br/p/100-dias-para-fim-de-2024",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-22T23:40:11.145361Z",
+    "publisher": {
+      "name": "1% Melhor a Cada Dia ",
+      "url": "https://gustluiz.com.br",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/100-dias-para-fim-de-2024.html"
+  },
+  {
+    "id": "o-sonho-de-empreender",
+    "title": "O Sonho de Empreender",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "1% Melhor a Cada Dia ",
+    "date": "2024-08-26",
+    "hasAds": true,
+    "url": "https://www.gustluiz.com.br/p/o-sonho-de-empreender",
+    "publisher": {
+      "name": "1% Melhor a Cada Dia ",
+      "url": "https://www.gustluiz.com.br"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/o-sonho-de-empreender.html",
+    "tags": [
+      "Education"
+    ]
+  }
+]

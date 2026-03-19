@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a-vessel-of-persistence",
+    "title": "A Vessel Of Persistence",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Hammer",
+    "date": "2026-02-04",
+    "hasAds": true,
+    "url": "https://thehammer.beehiiv.com/p/a-vessel-of-persistence",
+    "publisher": {
+      "name": "The Hammer",
+      "url": "https://thehammer.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/a-vessel-of-persistence.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

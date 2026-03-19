@@ -1,0 +1,158 @@
+[
+  {
+    "id": "openai-mission-4",
+    "title": "😈 OpenAI's Mission",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Internet Is Beautiful",
+    "url": "https://archive.internetisbeautiful.com",
+    "tags": [
+      "Business",
+      "Finance",
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2026-02-16T16:40:37.220995Z",
+    "publisher": {
+      "name": "Internet Is Beautiful",
+      "url": "https://archive.internetisbeautiful.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "https://fintechtakes.com/wp-content/uploads/sites/8/2024/03/fav-icon-300x300.png"
+      },
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "htmlFile": "/emails/openai-mission-4.html",
+    "hasAds": true
+  },
+  {
+    "id": "label-that-feeling-1",
+    "title": "🎭 Label That Feeling",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Internet Is Beautiful",
+    "url": "https://archive.internetisbeautiful.com",
+    "tags": [
+      "Education",
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T03:30:16.747266Z",
+    "publisher": {
+      "name": "Internet Is Beautiful",
+      "url": "https://archive.internetisbeautiful.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      },
+      {
+        "name": "Wall Street Prep",
+        "url": "https://wallstreetprep.business.columbia.edu/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/label-that-feeling-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-epstein-files",
+    "title": "🗄️ The Epstein Files",
+    "description": "",
+    "date": "2026-02-03",
+    "author": "Internet Is Beautiful",
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/the-epstein-files",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Internet Is Beautiful",
+      "url": "https://archive.internetisbeautiful.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/the-epstein-files.html",
+    "category": "Digital Products",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "20000-free-audiobooks",
+    "title": "🎧 20,000 Free Audiobooks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Internet Is Beautiful",
+    "date": "2024-07-03",
+    "hasAds": true,
+    "url": "https://archive.internetisbeautiful.com/p/20000-free-audiobooks",
+    "publisher": {
+      "name": "Internet Is Beautiful",
+      "url": "https://archive.internetisbeautiful.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/20000-free-audiobooks.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "3d-view-space-station",
+    "title": "🛰️ See the Space Station in Real Time",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Internet Is Beautiful",
+    "date": "2024-05-01",
+    "hasAds": true,
+    "url": "https://archive.internetisbeautiful.com/p/3d-view-space-station",
+    "publisher": {
+      "name": "Internet Is Beautiful",
+      "url": "https://archive.internetisbeautiful.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/3d-view-space-station.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

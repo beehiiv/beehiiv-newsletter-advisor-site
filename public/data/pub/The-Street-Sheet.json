@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "attention-media-buyers",
+    "title": "📢 Attention, Media Buyers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Street Sheet",
+    "date": "2025-11-19",
+    "hasAds": true,
+    "url": "https://www.stsheet.com/p/attention-media-buyers",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/attention-media-buyers.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "coco-comeup",
+    "title": "🥥 COCO Comeup",
+    "category": "Digital Products",
+    "description": "Our three Sunday stories include a fast-moving turnaround in coconut water, a memory chip rally that’s only getting tighter, and an under-the-radar industrial with room to run.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/coco-comeup",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-14T01:50:46.219836Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/coco-comeup.html",
+    "hasAds": true
+  },
+  {
+    "id": "chip-charge",
+    "title": "⚡ Chip Charge",
+    "category": "Digital Products",
+    "description": "This chipmaker just promised 35% compound growth. Wells Fargo says the forecast might actually stick.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/chip-charge",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-12T16:13:06.566283Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/chip-charge.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-next-advertising-channel",
+    "title": "📺 ATTE",
+    "category": "Digital Products",
+    "description": "The next frontier of digital advertising is here, with targeting, testing, and $5K in ad credits in tow.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/your-next-advertising-channel",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-11T21:56:10.501963Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/your-next-advertising-channel.html",
+    "hasAds": true
+  },
+  {
+    "id": "coup-of-joe",
+    "title": "♨ Coup of Joe",
+    "category": "Digital Products",
+    "description": "Our three Sunday stories include a new name stealing Starbucks’ steam, five global trades with serious lift, and a comeback cycle giving old-school tech fresh power.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/coup-of-joe",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-06T03:34:35.76407Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/coup-of-joe.html"
+  },
+  {
+    "id": "aint-cheap",
+    "title": "🤖 AI-n’t Cheap",
+    "category": "Digital Products",
+    "description": "Meta, Microsoft, Amazon, and Alphabet are spending billions. Analysts say one stands above the rest.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/aint-cheap",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-10-31T15:10:58.054331Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/aint-cheap.html"
+  },
+  {
+    "id": "hedge-your-bets",
+    "title": "🌳 Hedge Your Bets",
+    "category": "Digital Products",
+    "description": "Sohn speakers named MGNI and BLND as two under-the-radar plays with comeback potential.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/hedge-your-bets",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-10-29T15:05:34.825808Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hedge-your-bets.html"
+  },
+  {
+    "id": "in-flo-we-trust",
+    "title": "🚙 In Flo We Trust",
+    "category": "Digital Products",
+    "description": "Progressive’s slump looks like a buying opportunity, not a breakdown. Here’s why analysts are staying long.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/in-flo-we-trust",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-10-28T16:29:59.94247Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AltIndex",
+        "url": "https://altindex.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/3ab47c0a-dbe1-4503-9f3e-bd8ccfeb6c10/thumb_altindex-square-logo-white.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/in-flo-we-trust.html"
+  },
+  {
+    "id": "app-ealing",
+    "title": "📱APP-ealing",
+    "category": "Digital Products",
+    "description": "APP’s move into e-commerce ads could be a game changer. Deutsche Bank says there’s more upside to come.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/app-ealing",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-10-22T13:34:26.985502Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/app-ealing.html"
+  },
+  {
+    "id": "double-upside",
+    "title": "🔬 Double Upside?",
+    "category": "Digital Products",
+    "description": "CG Oncology's lead therapy could redefine bladder cancer care. Guggenheim’s Buy call points to a promising path to FDA approval.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/double-upside",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-10-08T15:04:15.876699Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Miso Robotics",
+        "url": "https://www.misorobotics.com",
+        "logo": "https://misorobotics.com/wp-content/uploads/misio-fav-icon-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/double-upside.html"
+  },
+  {
+    "id": "buy-now-rate-later",
+    "title": "🛍️ Buy Now, Rate Later",
+    "category": "Digital Products",
+    "description": "Klarna's IPO pop cooled off, but Wall Street’s heating up. UBS, Deutsche, and JPMorgan all see major upside ahead.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/buy-now-rate-later",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-10-06T14:47:04.742582Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Miso Robotics",
+        "url": "https://www.misorobotics.com",
+        "logo": "https://misorobotics.com/wp-content/uploads/misio-fav-icon-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/buy-now-rate-later.html"
+  },
+  {
+    "id": "cart-meets-chatbot",
+    "title": "🛒 Cart Meets Chatbot",
+    "category": "Digital Products",
+    "description": "Instant Checkout via ChatGPT puts Etsy at the forefront of the AI frontier. Analysts say 75M+ US orders could flow through.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/cart-meets-chatbot",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-09-30T16:04:20.59127Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "https://cdn.prod.website-files.com/68f131193c06d0856bf03af3/68ff817be6479a3557abeaf9_Final%20icon%20256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cart-meets-chatbot.html"
+  },
+  {
+    "id": "crowning-achievement",
+    "title": "👑 Crowning Achievement",
+    "category": "Digital Products",
+    "description": "Bank of America believes the biggest AI winner could become the biggest company in the world. Hint: it's not the company you think.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/crowning-achievement",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-09-25T15:47:01.255421Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/crowning-achievement.html",
+    "hasAds": true
+  },
+  {
+    "id": "chip-happens",
+    "title": "🤷 Chip Happens",
+    "category": "Digital Products",
+    "description": "NVDA struck a deal to restart China sales. Wells Fargo sees the setup for another leg higher.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/chip-happens",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-08-11T17:34:37.269775Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chip-happens.html"
+  },
+  {
+    "id": "mine-over-matter",
+    "title": "⛏️ Mine Over Matter",
+    "category": "Digital Products",
+    "description": "UBS says $KGC is still undervalued despite an 89% YTD run, citing strong gold, strong ops, and more upside ahead.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/mine-over-matter",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-08T17:01:45.506795Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mine-over-matter.html"
+  },
+  {
+    "id": "coin-toss",
+    "title": "🪙 COIN Toss",
+    "category": "Digital Products",
+    "description": "Compass Point downgraded Coinbase. Is cryptocurrency's near-term upside spent?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/coin-toss",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-04T18:41:32.077184Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/coin-toss.html"
+  },
+  {
+    "id": "the-mega-mag-7",
+    "title": "🤑 The Mega Mag 7",
+    "category": "Digital Products",
+    "description": "Our five favorite tweets of the week include a few soaring stocks and Y Combinator's rubric for the Next Big Thing.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/the-mega-mag-7",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-01T18:34:31.444163Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-mega-mag-7.html"
+  },
+  {
+    "id": "on-a-lidar-note",
+    "title": "🚨 On a LiDAR Note...",
+    "category": "Digital Products",
+    "description": "LiDAR adoption is exploding across EVs and robots. Morgan Stanley sees HSAI as the way to play the trend.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/on-a-lidar-note",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-08-01T16:07:52.593061Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Timeplast",
+        "url": "https://www.timeplast.com/",
+        "logo": "https://cdn.brandfetch.io/id8vIY3Kgc/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770372525926"
+      }
+    ],
+    "htmlFile": "/emails/on-a-lidar-note.html",
+    "hasAds": true
+  },
+  {
+    "id": "schrodingers-stocks",
+    "title": "🐈 Schrödinger’s Stocks",
+    "category": "Digital Products",
+    "description": "Are quantum stocks D-Wave and IonQ overhyped, undervalued, or somehow both?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/schrodingers-stocks",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-29T16:00:18.155449Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/schrodingers-stocks.html",
+    "hasAds": true
+  },
+  {
+    "id": "dotcom-deja-vu-4ed3",
+    "title": "💭 Dotcom Déjà Vu",
+    "category": "Digital Products",
+    "description": "Berkshire lagged in 1999, then soared post-crash. Amid a record market rally, the stock is underperforming again.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/dotcom-deja-vu-4ed3",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-07-29T14:55:52.355691Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Timeplast",
+        "url": "https://www.timeplast.com/",
+        "logo": "https://cdn.brandfetch.io/id8vIY3Kgc/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770372525926"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dotcom-deja-vu-4ed3.html"
+  },
+  {
+    "id": "the-other-ai-stock",
+    "title": "👈 The Other AI Stock",
+    "category": "Digital Products",
+    "description": "Not NVDA. Not MSFT. Jefferies just picked AVPT as its next AI winner, leaving investors asking, 'Who?'",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/the-other-ai-stock",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-24T18:04:56.017862Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/the-other-ai-stock.html",
+    "hasAds": true
+  },
+  {
+    "id": "precog-technologies",
+    "title": "🔮 Precog Technologies",
+    "category": "Digital Products",
+    "description": "Our five favorite tweets of the week include a Minority Report-worthy AI development and an unnerving record for the housing market.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/precog-technologies",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-07-24T16:09:32.596813Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Timeplast",
+        "url": "https://www.timeplast.com/",
+        "logo": "https://cdn.brandfetch.io/id8vIY3Kgc/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1770372525926"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/precog-technologies.html"
+  },
+  {
+    "id": "under-vail-ued",
+    "title": "⛷️ Under-Vail-ued",
+    "category": "Digital Products",
+    "description": "Vail Resorts is still recovering from a rocky few seasons, but analysts think the slope is finally turning.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/under-vail-ued",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-20T15:34:06.429545Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/under-vail-ued.html",
+    "hasAds": true
+  },
+  {
+    "id": "dr-copper-is-in",
+    "title": "🩺 Dr. Copper Is In",
+    "category": "Digital Products",
+    "description": "Gold and silver are the only two metals that conduct electricity better than copper. But these days, it may be the latter that supercharges portfolios.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/dr-copper-is-in",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-09T16:11:02.08679Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/dr-copper-is-in.html",
+    "hasAds": true
+  },
+  {
+    "id": "cheap-beer",
+    "title": "🍺 Cheap Beer",
+    "category": "Digital Products",
+    "description": "Investors have been pouring one out for Constellation Brands. Now Jefferies believes the beer stock is too cheap to ignore.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/cheap-beer",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-07T16:20:50.802553Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/cheap-beer.html",
+    "hasAds": true
+  },
+  {
+    "id": "bark-or-bite",
+    "title": "🦴 Bark or Bite?",
+    "category": "Digital Products",
+    "description": "Plus, Vogue’s high priestess exits the pew.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/bark-or-bite",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-06-26T19:41:57.786603Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bark-or-bite.html"
+  },
+  {
+    "id": "buffett-blues",
+    "title": "🔮 Buffett Blues",
+    "category": "Digital Products",
+    "description": "Plus, fake tunes get flagged in the latest remix.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/buffett-blues",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-06-18T17:33:53.44307Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/buffett-blues.html"
+  },
+  {
+    "id": "gain-eration-z",
+    "title": "👛 Gain-eration Z",
+    "category": "Digital Products",
+    "description": "Amazon has dragged down the once-mighty retail industry over the past decade. But one retailer is bucking this trend, thanks in part to its surprising Gen Z appeal.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/gain-eration-z",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-06-13T18:33:50.848377Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gain-eration-z.html"
+  },
+  {
+    "id": "liquid-glass",
+    "title": "🤬 Liquid Gla**",
+    "category": "Digital Products",
+    "description": "Plus, what's going on with the World Wide Web?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/liquid-glass",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-06-13T18:02:02.893792Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/liquid-glass.html",
+    "hasAds": true
+  },
+  {
+    "id": "model-y-esterday",
+    "title": "🚙 Model Y-esterday",
+    "category": "Digital Products",
+    "description": "Tesla has big plans for the future. But right now, Chinese rival Xiaomi seems to be the one speeding up.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/model-y-esterday",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-06-12T15:45:59.655343Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/model-y-esterday.html"
+  },
+  {
+    "id": "mean-gme-stop",
+    "title": "🛑 GME? Stop!",
+    "category": "Digital Products",
+    "description": "Plus, thousands of dollars for a doll, and not because of tariffs",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/mean-gme-stop",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-11T16:35:34.31783Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mean-gme-stop.html"
+  },
+  {
+    "id": "intuit-ion",
+    "title": "🧠 Intuit-ion",
+    "category": "Digital Products",
+    "description": "Plus, a tech giant? In Europe?!",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/intuit-ion",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-05-23T01:01:57.580579Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/intuit-ion.html"
+  },
+  {
+    "id": "senior-moment",
+    "title": "🧑‍🦳 Senior Moment",
+    "category": "Digital Products",
+    "description": "Plus, what investors need to know about RFK's MAHA report",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/senior-moment",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-05-21T15:33:46.272388Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "GoldCo",
+        "url": "https://goldco.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=goldco.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/senior-moment.html"
+  },
+  {
+    "id": "strong-bby",
+    "title": "🔌 Strong BBY",
+    "category": "Digital Products",
+    "description": "Plus, Fortune favors these powerful women",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/strong-bby",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-05-20T16:02:41.550468Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      }
+    ],
+    "htmlFile": "/emails/strong-bby.html",
+    "hasAds": true
+  },
+  {
+    "id": "baba-or-bust",
+    "title": "🛒 BABA or Bust?",
+    "category": "Digital Products",
+    "description": "Plus, fewer choices, but the summer sips still shine.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/baba-or-bust",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-05-19T19:08:45.83638Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "https://assets.betterhelp.com/brand/betterhelp/apple-touch-icon.png?v=ab3ccb07d4f4"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/baba-or-bust.html"
+  },
+  {
+    "id": "cen-sational",
+    "title": "🤯 Cen-sational",
+    "category": "Digital Products",
+    "description": "Plus, Trump sets his sights on Apple. Is Tim Cooked?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/cen-sational",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-05-15T19:23:31.631945Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bolt.new",
+        "url": "https://bolt.new/",
+        "logo": "https://bolt.new/static/favicon-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cen-sational.html"
+  },
+  {
+    "id": "spooky-earnings-season",
+    "title": "🎃 Spooky (Earnings) Season",
+    "category": "Digital Products",
+    "description": "Plus, no more Starbucks secret menu?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/spooky-earnings-season",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-10-31T16:43:40.129562Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/spooky-earnings-season.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-lyv-wire",
+    "title": "🤘 A LYV Wire",
+    "category": "Digital Products",
+    "description": "Plus, what does gold's weird week mean for investors?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/a-lyv-wire",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-25T15:22:50.27751Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-lyv-wire.html"
+  },
+  {
+    "id": "topping-the-charts",
+    "title": "🎧 Topping the Charts",
+    "category": "Digital Products",
+    "description": "Plus, how many Polymarket accounts does it take to bet on the election?",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/topping-the-charts",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2024-10-24T15:14:40.641851Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "https://www.vinovest.co/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/topping-the-charts.html"
+  },
+  {
+    "id": "expedias-comeback-itinerary",
+    "title": "✈️ Expedia's Comeback Itinerary",
+    "category": "Digital Products",
+    "description": "Plus, a frozen feast is on the horizon — Thanksgiving just got a makeover!",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/expedias-comeback-itinerary",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-10-18T16:39:37.163514Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/expedias-comeback-itinerary.html",
+    "hasAds": true
+  },
+  {
+    "id": "if-you-re-buying-he-might-be-selling",
+    "title": "👀 If You're Buying, He Might Be Selling",
+    "category": "Digital Products",
+    "description": "The Fed also did this on the same day in 2007",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/if-you-re-buying-he-might-be-selling",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-09-19T14:08:03.769239Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=comparecredit.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/if-you-re-buying-he-might-be-selling.html"
+  },
+  {
+    "id": "worth-its-weight-in-gold",
+    "title": "💰 Worth Its Weight in Gold",
+    "category": "Digital Products",
+    "description": "Plus, Gundlach says the Fed needs to do this",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/worth-its-weight-in-gold",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-09-17T15:15:06.476822Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/worth-its-weight-in-gold.html"
+  },
+  {
+    "id": "is-radiopharma-the-next-big-buy",
+    "title": "⚕️Is Radiopharma the Next Big Buy?",
+    "category": "Digital Products",
+    "description": "Plus, a new player is stirring the mac & cheese pot.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/is-radiopharma-the-next-big-buy",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-09-16T15:10:14.487864Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-radiopharma-the-next-big-buy.html"
+  },
+  {
+    "id": "baby-boom-stock-boom",
+    "title": "🍼 Baby Boom or Stock Boom?",
+    "category": "Digital Products",
+    "description": "Plus, Boeing braces for a potential, large-scale strike.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/baby-boom-stock-boom",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-09-03T13:26:34.127342Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/baby-boom-stock-boom.html"
+  },
+  {
+    "id": "a-different-kind-of-ai-play",
+    "title": "🤖 A Different Kind of AI Play",
+    "category": "Digital Products",
+    "description": "Plus, Ford becomes the latest company to pump the brakes on DEI.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/a-different-kind-of-ai-play",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-08-29T15:05:29.798089Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-different-kind-of-ai-play.html"
+  },
+  {
+    "id": "banking-on-a-rate-cut",
+    "title": "✂️ Banking on a Rate Cut",
+    "category": "Digital Products",
+    "description": "Plus, Pizza Hut offers a foldable box-table.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/banking-on-a-rate-cut",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-27T20:42:55.674515Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/banking-on-a-rate-cut.html"
+  },
+  {
+    "id": "going-short-watches",
+    "title": "⌚ Going Short on Watches",
+    "category": "Digital Products",
+    "description": "Plus, this fast-casual food stock fell after CEO and insiders sold shares",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/going-short-watches",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-26T20:58:33.539249Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/going-short-watches.html"
+  },
+  {
+    "id": "is-this-unsung-aviation-stock-cleared-for-takeoff",
+    "title": "✈️ Room To Fly Higher?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Street Sheet",
+    "date": "2024-08-23",
+    "hasAds": true,
+    "url": "https://www.stsheet.com/p/is-this-unsung-aviation-stock-cleared-for-takeoff",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "Logo-Bill-Full-Color.png"
+      }
+    ],
+    "htmlFile": "/emails/is-this-unsung-aviation-stock-cleared-for-takeoff.html",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "an-outside-the-box-interest-rate-cut-play",
+    "title": "🏦 An Outside-the-Box Interest Rate Cut Play",
+    "category": "Digital Products",
+    "description": "Plus, Chick-Fil-A clucks into the streaming game.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/an-outside-the-box-interest-rate-cut-play",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-08-22T14:53:25.87628Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/an-outside-the-box-interest-rate-cut-play.html"
+  },
+  {
+    "id": "is-this-the-last-cheap-chip-stock",
+    "title": "💻 Is This the Last Cheap Chip Stock?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Street Sheet",
+    "date": "2024-08-21",
+    "hasAds": true,
+    "url": "https://www.stsheet.com/p/is-this-the-last-cheap-chip-stock",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com"
+    },
+    "advertisers": [
+      {
+        "name": "Advisor.com",
+        "url": "https://www.advisor.com/",
+        "logo": "Logotype_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/is-this-the-last-cheap-chip-stock.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "is-this-biotech-stock-being-overlooked",
+    "title": "💊 Is This Biotech Stock Being Overlooked?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Street Sheet",
+    "date": "2024-08-20",
+    "hasAds": true,
+    "url": "https://www.stsheet.com/p/is-this-biotech-stock-being-overlooked",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://www.stsheet.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/is-this-biotech-stock-being-overlooked.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "lame-lucrative",
+    "title": "🤔 Lame or Lucrative?",
+    "category": "Digital Products",
+    "description": "Plus, the hits just keep coming for Boeing.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/lame-lucrative",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2024-08-14T14:12:21.567036Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lame-lucrative.html"
+  },
+  {
+    "id": "traveling-shoestring",
+    "title": "👟 Traveling on a Shoestring",
+    "category": "Digital Products",
+    "description": "Plus, the percent of Americans canceling summer vacations due to inflation.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/traveling-shoestring",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-08-13T14:43:14.042605Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/traveling-shoestring.html"
+  },
+  {
+    "id": "strategic-sale",
+    "title": "🏷️ A Strategic Sale",
+    "category": "Digital Products",
+    "description": "Plus, these two companies announced big layoffs.",
+    "author": "The Street Sheet",
+    "url": "https://www.stsheet.com/p/strategic-sale",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-08-09T15:54:14.782336Z",
+    "publisher": {
+      "name": "The Street Sheet",
+      "url": "https://stsheet.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/strategic-sale.html"
+  }
+]

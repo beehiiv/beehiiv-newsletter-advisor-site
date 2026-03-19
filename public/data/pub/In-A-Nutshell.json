@@ -1,0 +1,78 @@
+[
+  {
+    "id": "january-in-a-nutshell",
+    "title": "January, in a nutshell.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "In A Nutshell",
+    "date": "2025-01-20",
+    "hasAds": true,
+    "url": "https://in-a-nutshell.beehiiv.com/p/january-in-a-nutshell",
+    "publisher": {
+      "name": "In A Nutshell",
+      "url": "https://in-a-nutshell.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "Image_removebg_preview.png"
+      }
+    ],
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "htmlFile": "/emails/january-in-a-nutshell.html"
+  },
+  {
+    "id": "is-butter-a-carb",
+    "title": "Is butter a carb?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "In A Nutshell",
+    "date": "2024-12-12",
+    "hasAds": true,
+    "url": "https://in-a-nutshell.beehiiv.com/p/is-butter-a-carb",
+    "publisher": {
+      "name": "In A Nutshell",
+      "url": "https://in-a-nutshell.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Tovala",
+        "url": "https://www.tovala.com/",
+        "logo": "tovala.png"
+      }
+    ],
+    "tags": [
+      "Food & Beverage"
+    ],
+    "htmlFile": "/emails/is-butter-a-carb.html"
+  },
+  {
+    "id": "your-healthiest-holiday-yet",
+    "title": "Your Healthiest Holiday Yet 🦃 🧡",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "In A Nutshell",
+    "date": "2024-11-21",
+    "hasAds": true,
+    "url": "https://in-a-nutshell.beehiiv.com/p/your-healthiest-holiday-yet",
+    "publisher": {
+      "name": "In A Nutshell",
+      "url": "https://in-a-nutshell.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "bslogo.png"
+      }
+    ],
+    "tags": [
+      "Health"
+    ],
+    "htmlFile": "/emails/your-healthiest-holiday-yet.html"
+  }
+]

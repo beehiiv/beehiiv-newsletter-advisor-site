@@ -1,0 +1,67 @@
+[
+  {
+    "id": "inside-this-moment",
+    "title": "Inside This Moment",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AdobeJules",
+    "date": "2025-12-23",
+    "hasAds": true,
+    "url": "https://adobejules.beehiiv.com/p/inside-this-moment",
+    "publisher": {
+      "name": "AdobeJules",
+      "url": "https://adobejules.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      },
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/inside-this-moment.html",
+    "tags": [
+      "Health",
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "in-motion-88b3",
+    "title": "In Motion",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AdobeJules",
+    "date": "2025-12-22",
+    "hasAds": true,
+    "url": "https://adobejules.beehiiv.com/p/in-motion-88b3",
+    "publisher": {
+      "name": "AdobeJules",
+      "url": "https://adobejules.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/in-motion-88b3.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "Technology"
+    ]
+  }
+]

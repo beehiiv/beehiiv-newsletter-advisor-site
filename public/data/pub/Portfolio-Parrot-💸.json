@@ -1,0 +1,109 @@
+[
+  {
+    "id": "weekly-market-insights-four-days-big-risk",
+    "title": "Weekly Market Insights: Four Days. Big Risk.",
+    "category": "Digital Products",
+    "description": "Holiday week, FOMC minutes, Core PCE. Markets are rotating fast, and this shift may define Q1 leadership.",
+    "author": "Portfolio Parrot 💸",
+    "url": "https://blog.portfolioparrot.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-15T15:42:01.797888Z",
+    "publisher": {
+      "name": "Portfolio Parrot 💸",
+      "url": "https://blog.portfolioparrot.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/weekly-market-insights-four-days-big-risk.html",
+    "hasAds": true
+  },
+  {
+    "id": "weekly-market-insights-this-week-will-reveal-market-leadership",
+    "title": "Weekly Market Insights: This Week Will Reveal Market Leadership",
+    "category": "Digital Products",
+    "description": "Jobs, CPI, and key earnings land together, testing whether rotation beyond mega-cap tech is real or just noise.",
+    "author": "Portfolio Parrot 💸",
+    "url": "https://blog.portfolioparrot.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-08T17:11:34.256352Z",
+    "publisher": {
+      "name": "Portfolio Parrot 💸",
+      "url": "https://blog.portfolioparrot.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/weekly-market-insights-this-week-will-reveal-market-leadership.html",
+    "hasAds": true
+  },
+  {
+    "id": "top-us-stocks-to-watch-this-week-fed-week-meets-peak-earnings",
+    "title": "Top US Stocks to Watch This Week: Fed Week Meets Peak Earnings",
+    "category": "Digital Products",
+    "description": "Jan 26–30 brings a Fed decision and a crowded earnings slate. Here are the week’s key dates, the sectors that matter, and the stocks most likely to move.",
+    "author": "Portfolio Parrot 💸",
+    "url": "https://blog.portfolioparrot.com/p/top-us-stocks-to-watch-this-week-fed-week-meets-peak-earnings",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2026-01-25T10:55:58.751517Z",
+    "publisher": {
+      "name": "Portfolio Parrot 💸",
+      "url": "https://blog.portfolioparrot.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/top-us-stocks-to-watch-this-week-fed-week-meets-peak-earnings.html"
+  },
+  {
+    "id": "weekly-market-insights-four-trading-days-one-big-repricing-risk",
+    "title": "Weekly Market Insights: Four Trading Days. One Big Repricing Risk.",
+    "category": "Digital Products",
+    "description": "Earnings guidance, PMI data, and sector rotation collide in a deceptively short week. Markets are closed on Monday, but positioning, earnings, and rotation may do more damage in four days than five.",
+    "author": "Portfolio Parrot 💸",
+    "url": "https://blog.portfolioparrot.com/p/weekly-market-insights-four-trading-days-one-big-repricing-risk",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-18T09:56:12.680096Z",
+    "publisher": {
+      "name": "Portfolio Parrot 💸",
+      "url": "https://blog.portfolioparrot.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/weekly-market-insights-four-trading-days-one-big-repricing-risk.html"
+  }
+]

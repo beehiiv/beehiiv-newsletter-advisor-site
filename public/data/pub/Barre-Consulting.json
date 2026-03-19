@@ -1,0 +1,285 @@
+[
+  {
+    "id": "forward-deployed-csms-arent-new",
+    "title": "Forward Deployed CSMs Aren't New",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/forward-deployed-csms-arent-new",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "mavenagi.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/forward-deployed-csms-arent-new.html"
+  },
+  {
+    "id": "just-a-test",
+    "title": "Just a test. ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/just-a-test",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "tags": [
+      "Real Estate"
+    ],
+    "htmlFile": "/emails/just-a-test.html"
+  },
+  {
+    "id": "out-of-office",
+    "title": "Out of Office",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/out-of-office",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "inFlow Inventory",
+        "url": "https://inflowinventory.com/",
+        "logo": "inFlow.png"
+      }
+    ],
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/out-of-office.html"
+  },
+  {
+    "id": "dont-automate-the-relationship",
+    "title": "Don’t Automate the Relationship ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-08-12",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/dont-automate-the-relationship",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "htmlFile": "/emails/dont-automate-the-relationship.html"
+  },
+  {
+    "id": "customer-success-is-the-next-sale-team",
+    "title": "Customer Success is the Next-Sale Team",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/customer-success-is-the-next-sale-team",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "tags": [
+      "E-commerce"
+    ],
+    "htmlFile": "/emails/customer-success-is-the-next-sale-team.html"
+  },
+  {
+    "id": "conversations-are-gathering-pace-just-as-we-refine-our-service-offer",
+    "title": "Conversations are gathering pace, just as we refine our service offer",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-07-29",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/conversations-are-gathering-pace-just-as-we-refine-our-service-offer",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/conversations-are-gathering-pace-just-as-we-refine-our-service-offer.html"
+  },
+  {
+    "id": "to-use-ai-in-cs-you-need-good-data",
+    "title": "To Use AI in CS, You Need Good Data",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-06-24",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/to-use-ai-in-cs-you-need-good-data",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/to-use-ai-in-cs-you-need-good-data.html"
+  },
+  {
+    "id": "dont-automate-at-the-expense-of-real-conversations",
+    "title": "Don't Automate at the Expense of Real Conversations",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-06-17",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/dont-automate-at-the-expense-of-real-conversations",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/dont-automate-at-the-expense-of-real-conversations.html"
+  },
+  {
+    "id": "ai-is-more-than-just-personal-efficiency",
+    "title": "AI is More Than Just Personal Efficiency",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/ai-is-more-than-just-personal-efficiency",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/ai-is-more-than-just-personal-efficiency.html"
+  },
+  {
+    "id": "when-a-kick-off-call-starts-badly",
+    "title": "When a Kick-Off Call Starts Badly",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-05-27",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/when-a-kick-off-call-starts-badly",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/when-a-kick-off-call-starts-badly.html"
+  },
+  {
+    "id": "all-things-post-sales",
+    "title": "All Things Post-Sales",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Barre Consulting",
+    "date": "2025-05-20",
+    "hasAds": true,
+    "url": "https://newsletter.barre-consulting.com/p/all-things-post-sales",
+    "publisher": {
+      "name": "Barre Consulting",
+      "url": "https://newsletter.barre-consulting.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/all-things-post-sales.html"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "know-your-game-attention-game-part-3",
+    "title": "KNOW YOUR GAME: THE ATTENTION GAME - PART 3",
+    "category": "Digital Products",
+    "description": "Stop thinking about it. Here's exactly what to do.",
+    "author": "The Acting University",
+    "url": "https://newsletter.theactinguniversity.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-23T02:41:09.6064Z",
+    "publisher": {
+      "name": "The Acting University",
+      "url": "https://newsletter.theactinguniversity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/know-your-game-attention-game-part-3.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-attention-game-part-2",
+    "title": "INSIDE THE ATTENTION GAME: BUILD MOMENTUM WITHOUT LOSING YOURSELF",
+    "category": "Digital Products",
+    "description": "How to build lasting momentum without losing yourself.",
+    "author": "The Acting University",
+    "url": "https://newsletter.theactinguniversity.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T22:14:40.572742Z",
+    "publisher": {
+      "name": "The Acting University",
+      "url": "https://newsletter.theactinguniversity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/the-attention-game-part-2.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-attention-game-part-1",
+    "title": "INSIDE THE ATTENTION GAME: HOW ACTORS CAN BUILD MOMENTUM TODAY",
+    "category": "Digital Products",
+    "description": "Why visibility matters more than ever, and how actors build momentum today.",
+    "author": "The Acting University",
+    "url": "https://newsletter.theactinguniversity.com",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-15T19:04:24.747695Z",
+    "publisher": {
+      "name": "The Acting University",
+      "url": "https://newsletter.theactinguniversity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/the-attention-game-part-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-new-hollywood",
+    "title": "THE NEW HOLLYWOOD - VISIBILITY, PLATFORMS, AND POWER",
+    "category": "Digital Products",
+    "description": "Creators, platforms, and the evolving new path to visibility.",
+    "author": "The Acting University",
+    "url": "https://newsletter.theactinguniversity.com",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-12T23:15:17.595938Z",
+    "publisher": {
+      "name": "The Acting University",
+      "url": "https://newsletter.theactinguniversity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haystack",
+        "url": "https://www.haystackteam.com/",
+        "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/666c963ca49e956d3c8a1179_haystack.svg"
+      }
+    ],
+    "htmlFile": "/emails/the-new-hollywood.html",
+    "hasAds": true
+  },
+  {
+    "id": "camera-magic",
+    "title": "CAMERA MAGIC - HOW ACTOR’S PERFORMANCES CAN COMMAND THE SCREEN",
+    "category": "Digital Products",
+    "description": "Why subtle performances dominate the screen and how the lens amplifies truth.",
+    "author": "The Acting University",
+    "url": "https://newsletter.theactinguniversity.com",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-12T21:16:40.751211Z",
+    "publisher": {
+      "name": "The Acting University",
+      "url": "https://newsletter.theactinguniversity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haystack",
+        "url": "https://www.haystackteam.com/",
+        "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/666c963ca49e956d3c8a1179_haystack.svg"
+      }
+    ],
+    "htmlFile": "/emails/camera-magic.html",
+    "hasAds": true
+  }
+]

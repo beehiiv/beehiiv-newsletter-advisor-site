@@ -1,0 +1,90 @@
+[
+  {
+    "id": "live-for-yourself-not-for-others",
+    "title": "Live For Yourself, Not For Others",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Growth Feels",
+    "url": "https://www.growthfeels.com/p/live-for-yourself-not-for-others",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-30T05:52:42.982326Z",
+    "publisher": {
+      "name": "Growth Feels",
+      "url": "https://www.growthfeels.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/live-for-yourself-not-for-others.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-fall-asleep-so-fast-in-2-minutes-like-a-navy-seal",
+    "title": "How to Fall Asleep SO Fast in 2 Minutes Like a Navy SEAL",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Growth Feels",
+    "url": "https://www.growthfeels.com/p/how-to-fall-asleep-so-fast-in-2-minutes-like-a-navy-seal",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-16T05:53:07.103243Z",
+    "publisher": {
+      "name": "Growth Feels",
+      "url": "https://growthfeels.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-fall-asleep-so-fast-in-2-minutes-like-a-navy-seal.html"
+  },
+  {
+    "id": "why-i-lie-more-online",
+    "title": "The DARK Truth About Online Dishonesty",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Growth Feels",
+    "url": "https://www.growthfeels.com/p/why-i-lie-more-online",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-09T04:11:55.066339Z",
+    "publisher": {
+      "name": "Growth Feels",
+      "url": "https://growthfeels.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-i-lie-more-online.html"
+  }
+]

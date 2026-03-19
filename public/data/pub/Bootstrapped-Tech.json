@@ -1,0 +1,266 @@
+[
+  {
+    "id": "thinking-beyond-2025-for-your-startup",
+    "title": "Thinking beyond 2025 for your startup",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2025-01-13",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/thinking-beyond-2025-for-your-startup",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Agree.com",
+        "url": "https://agree.com/",
+        "logo": "agree.com.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/thinking-beyond-2025-for-your-startup.html",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-do-38-of-startups-have-in-common",
+    "title": "What do 38% of startups have in common?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2025-01-06",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/what-do-38-of-startups-have-in-common",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Agree.com",
+        "url": "https://agree.com/",
+        "logo": "agree.com.png"
+      }
+    ],
+    "htmlFile": "/emails/what-do-38-of-startups-have-in-common.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "2024-ipo-winners-and-losers",
+    "title": "2024's IPO winners and losers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-12-10",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/2024-ipo-winners-and-losers",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/2024-ipo-winners-and-losers.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "startup-84-hour-work-week",
+    "title": "The 84-hour work week",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-12-03",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/startup-84-hour-work-week",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/startup-84-hour-work-week.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "stories-of-bootstrapped-startups",
+    "title": "Read four stories of bootstrapped startups and more",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-11-25",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/stories-of-bootstrapped-startups",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/stories-of-bootstrapped-startups.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "startups-share-their-milestones",
+    "title": "Startups share their milestones",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-11-18",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/startups-share-their-milestones",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/startups-share-their-milestones.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "stories-from-techcrunch-indie-hackers-and-more",
+    "title": "Stories from TechCrunch, Indie Hackers and more",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-11-05",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/stories-from-techcrunch-indie-hackers-and-more",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/stories-from-techcrunch-indie-hackers-and-more.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "three-startups-with-news-and-more",
+    "title": "Three startups with news and more",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-10-28",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/three-startups-with-news-and-more",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Convergence AI",
+        "url": "https://convergence.ai/",
+        "logo": "Convergence_Full_Lockup_Dark_Teal.png"
+      }
+    ],
+    "htmlFile": "/emails/three-startups-with-news-and-more.html",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "startup-acquisition-or-ipo",
+    "title": "Acquisition or IPO?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/startup-acquisition-or-ipo",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "leadsforge_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/startup-acquisition-or-ipo.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "basketball-team-turned-startup",
+    "title": "A basketball team turned startup",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bootstrapped Tech",
+    "date": "2024-09-23",
+    "hasAds": true,
+    "url": "https://bootstrappedtech.beehiiv.com/p/basketball-team-turned-startup",
+    "publisher": {
+      "name": "Bootstrapped Tech",
+      "url": "https://bootstrappedtech.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "DraftBoard",
+        "url": "https://www.draftboard.com/",
+        "logo": "Removebg_Preview__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/basketball-team-turned-startup.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

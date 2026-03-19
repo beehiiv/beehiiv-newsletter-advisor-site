@@ -1,0 +1,28 @@
+[
+  {
+    "id": "set-it-and-forget-it-master-qlik-cloud-subscriptions",
+    "title": "📊 Set It and Forget It: Master Qlik Cloud Subscriptions",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Data Mix",
+    "date": "2025-02-19",
+    "hasAds": true,
+    "url": "https://thedatamix.beehiiv.com/p/set-it-and-forget-it-master-qlik-cloud-subscriptions",
+    "publisher": {
+      "name": "The Data Mix",
+      "url": "https://thedatamix.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/set-it-and-forget-it-master-qlik-cloud-subscriptions.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

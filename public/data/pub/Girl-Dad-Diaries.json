@@ -1,0 +1,105 @@
+[
+  {
+    "id": "gdd-issue-19",
+    "title": "👸 The Playdate Era, Grandpa Bonding, and Her First Full Roll",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Girl Dad Diaries",
+    "date": "2025-10-10",
+    "hasAds": true,
+    "url": "https://mygirldaddiaries.com/p/gdd-issue-19",
+    "publisher": {
+      "name": "Girl Dad Diaries",
+      "url": "https://mygirldaddiaries.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/gdd-issue-19.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "gdd-issue-10",
+    "title": "👸 What Will She Remember About You?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Girl Dad Diaries",
+    "date": "2025-08-08",
+    "hasAds": true,
+    "url": "https://mygirldaddiaries.com/p/gdd-issue-10",
+    "publisher": {
+      "name": "Girl Dad Diaries",
+      "url": "https://mygirldaddiaries.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/gdd-issue-10.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "gdd-issue-9",
+    "title": "👸 Big Feelings, Bigger Bills",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Girl Dad Diaries",
+    "date": "2025-08-01",
+    "hasAds": true,
+    "url": "https://mygirldaddiaries.com/p/gdd-issue-9",
+    "publisher": {
+      "name": "Girl Dad Diaries",
+      "url": "https://mygirldaddiaries.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/gdd-issue-9.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "gdd-issue-4",
+    "title": "👸 Your Daughter Feels Your Mood (Even at 3 Years Old)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Girl Dad Diaries",
+    "date": "2025-06-27",
+    "hasAds": true,
+    "url": "https://mygirldaddiaries.com/p/gdd-issue-4",
+    "publisher": {
+      "name": "Girl Dad Diaries",
+      "url": "https://mygirldaddiaries.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/gdd-issue-4.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

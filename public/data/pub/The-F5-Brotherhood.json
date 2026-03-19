@@ -1,0 +1,29 @@
+[
+  {
+    "id": "endure-success",
+    "title": "Enduring Success",
+    "description": "",
+    "date": "2026-02-25",
+    "author": "The F5 Brotherhood",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/endure-success",
+    "hasHtml": true,
+    "publisher": {
+      "name": "The F5 Brotherhood",
+      "url": "https://subscribe.thedeepview.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/endure-success.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

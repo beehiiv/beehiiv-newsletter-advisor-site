@@ -1,0 +1,56 @@
+[
+  {
+    "id": "what-moxies-reading-1-27-25",
+    "title": "What We're Reading [1/27]",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Moxie Press",
+    "url": "https://newsletter.moxiepress.biz/p/what-moxies-reading-1-27-25",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-01-25T04:15:51.571352Z",
+    "publisher": {
+      "name": "Moxie Press",
+      "url": "https://newsletter.moxiepress.biz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-moxies-reading-1-27-25.html"
+  },
+  {
+    "id": "moxie-press-podcast-episode-7-reminder",
+    "title": "Moxie Press Podcast: Episode 7 Reminder",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Moxie Press",
+    "url": "https://newsletter.moxiepress.biz/p/moxie-press-podcast-episode-7-reminder",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2024-08-17T20:28:31.956774Z",
+    "publisher": {
+      "name": "Moxie Press",
+      "url": "https://newsletter.moxiepress.biz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/moxie-press-podcast-episode-7-reminder.html"
+  }
+]

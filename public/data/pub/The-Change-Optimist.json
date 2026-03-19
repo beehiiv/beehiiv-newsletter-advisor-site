@@ -1,0 +1,29 @@
+[
+  {
+    "id": "2024-wtf",
+    "title": "2024 WTF?!",
+    "category": "Digital Products",
+    "description": "How do I even remotely summarize this year? I'm not sure where to start.",
+    "author": "The Change Optimist",
+    "url": "https://www.thechangeoptimist.com/p/2024-wtf",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-19T15:38:21.842368Z",
+    "publisher": {
+      "name": "The Change Optimist",
+      "url": "https://www.thechangeoptimist.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2024-wtf.html"
+  }
+]

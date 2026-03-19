@@ -1,0 +1,61 @@
+[
+  {
+    "id": "you-can-t-brief-what-you-haven-t-defined",
+    "title": "you can't brief what you haven't defined",
+    "category": "Digital Products",
+    "description": "(and why it's not your fault)",
+    "author": "FROM BLAND TO BRAND - When marketing should work (but doesn’t)",
+    "url": "https://from-bland-to-brand.beehiiv.com",
+    "tags": [
+      "AI",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2026-02-16T10:40:39.269429Z",
+    "publisher": {
+      "name": "FROM BLAND TO BRAND - When marketing should work (but doesn’t)",
+      "url": "https://from-bland-to-brand.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      },
+      {
+        "name": "Haystack",
+        "url": "https://www.haystackteam.com/",
+        "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/666c963ca49e956d3c8a1179_haystack.svg"
+      }
+    ],
+    "htmlFile": "/emails/you-can-t-brief-what-you-haven-t-defined.html",
+    "hasAds": true
+  },
+  {
+    "id": "you-ve-been-sold-a-lie",
+    "title": "You've been sold a lie",
+    "category": "Digital Products",
+    "description": "about category creation",
+    "author": "FROM BLAND TO BRAND - When marketing should work (but doesn’t)",
+    "url": "https://from-bland-to-brand.beehiiv.com",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-09T11:26:00.983082Z",
+    "publisher": {
+      "name": "FROM BLAND TO BRAND - When marketing should work (but doesn’t)",
+      "url": "https://from-bland-to-brand.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/you-ve-been-sold-a-lie.html",
+    "hasAds": true
+  }
+]

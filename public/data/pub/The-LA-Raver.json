@@ -1,0 +1,56 @@
+[
+  {
+    "id": "7-9-los-angeles-rave-itinerary",
+    "title": "7/9 Los Angeles Rave Itinerary",
+    "category": "Digital Products",
+    "description": "Raves and afters happening in Los Angeles this weekend!",
+    "author": "The LA Raver",
+    "url": "https://www.thelaraver.com/p/7-9-los-angeles-rave-itinerary",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-06T21:55:46.33188Z",
+    "publisher": {
+      "name": "The LA Raver",
+      "url": "https://thelaraver.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7-9-los-angeles-rave-itinerary.html"
+  },
+  {
+    "id": "828-los-angeles-rave-itinerary",
+    "title": "8/28 Los Angeles Rave Itinerary",
+    "category": "Digital Products",
+    "description": "Raves happening in Los Angeles this Week!",
+    "author": "The LA Raver",
+    "url": "https://www.thelaraver.com/p/828-los-angeles-rave-itinerary",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-28T18:53:56.917333Z",
+    "publisher": {
+      "name": "The LA Raver",
+      "url": "https://thelaraver.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/828-los-angeles-rave-itinerary.html"
+  }
+]

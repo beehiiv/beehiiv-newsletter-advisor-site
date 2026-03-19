@@ -1,0 +1,28 @@
+[
+  {
+    "id": "u",
+    "title": "🔬Secure Your Biotech Internship Now!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "STEM Careers Unlocked",
+    "date": "2025-03-07",
+    "hasAds": true,
+    "url": "https://stemcareersunlocked.beehiiv.com/p/u",
+    "publisher": {
+      "name": "STEM Careers Unlocked",
+      "url": "https://stemcareersunlocked.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/u.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

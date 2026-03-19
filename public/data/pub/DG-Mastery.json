@@ -1,0 +1,933 @@
+[
+  {
+    "id": "how-i-turned-my-idea-vault-into-30-days-of-content",
+    "title": "🟢 How I turned my idea vault into 30 days of content",
+    "category": "Digital Products",
+    "description": "How Claude Cowork + a custom Skill helped me batch a full month of scripts",
+    "author": "DG Mastery",
+    "url": "https://dgmastery.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T21:59:13.385296Z",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/how-i-turned-my-idea-vault-into-30-days-of-content.html",
+    "hasAds": true
+  },
+  {
+    "id": "new-ai-trend-alert",
+    "title": "🟢 New AI Trend Alert",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2026-01-21",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/new-ai-trend-alert",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      }
+    ],
+    "htmlFile": "/emails/new-ai-trend-alert.html",
+    "tags": [
+      "Finance",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "new-stack-3-ai-tools-that-replace-200-per-video-editors",
+    "title": "🟢 [New Stack] 3 AI tools that replace 200-per-video editors",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2026-01-09",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/new-stack-3-ai-tools-that-replace-200-per-video-editors",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/new-stack-3-ai-tools-that-replace-200-per-video-editors.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "ultimate-ai-bundle-just-dropped",
+    "title": "🟢 Ultimate AI Bundle just dropped... ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-11-28",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/ultimate-ai-bundle-just-dropped",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/ultimate-ai-bundle-just-dropped.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "tools-i-actually-use-that-are-on-sale-right-now",
+    "title": "Tools I actually use that are on sale right now",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-11-19",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/tools-i-actually-use-that-are-on-sale-right-now",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/tools-i-actually-use-that-are-on-sale-right-now.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "i-tested-a-new-ai-animator-and-wow",
+    "title": "I tested a new AI animator and... wow",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-11-13",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/i-tested-a-new-ai-animator-and-wow",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/i-tested-a-new-ai-animator-and-wow.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "viral-reel-step-by-step-guide",
+    "title": "Viral reel step-by-step guide",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-10-31",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/viral-reel-step-by-step-guide",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/viral-reel-step-by-step-guide.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "new-era-of-browsing",
+    "title": "New Era of Browsing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-10-29",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/new-era-of-browsing",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/new-era-of-browsing.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-ai-tool-i-m-obsessed-with-plus-a-big-shortcut",
+    "title": "The AI tool I’m obsessed with (plus a big shortcut)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-10-24",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/the-ai-tool-i-m-obsessed-with-plus-a-big-shortcut",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-ai-tool-i-m-obsessed-with-plus-a-big-shortcut.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "no-content-no-leads-no-sales",
+    "title": "No content = no leads = no sales.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-10-22",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/no-content-no-leads-no-sales",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/no-content-no-leads-no-sales.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "sora-2-videos-are-taking-over-social-media",
+    "title": "Sora 2 videos are taking over social media",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-10-11",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/sora-2-videos-are-taking-over-social-media",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/sora-2-videos-are-taking-over-social-media.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "my-top-three-ai-picks-for-the-week",
+    "title": "My top three AI picks for the week",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-10-01",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/my-top-three-ai-picks-for-the-week",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/my-top-three-ai-picks-for-the-week.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "3-ways-i-m-using-ai-this-week",
+    "title": "3 Ways I’m Using AI This Week",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-09-19",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/3-ways-i-m-using-ai-this-week",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      },
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/3-ways-i-m-using-ai-this-week.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "new-video-tutorial-build-no-code-apps-in-minutes-with-google-ai-studio",
+    "title": "NEW Video Tutorial: Build No-Code Apps in Minutes with Google AI Studio",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-09-10",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/new-video-tutorial-build-no-code-apps-in-minutes-with-google-ai-studio",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/new-video-tutorial-build-no-code-apps-in-minutes-with-google-ai-studio.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "automate-your-workflows-with-google",
+    "title": "Automate Your Workflows With Google",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-09-05",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/automate-your-workflows-with-google",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/automate-your-workflows-with-google.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "nano-banana",
+    "title": "Goodbye, Photoshop",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-08-27",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/nano-banana",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "Shutterstock.png"
+      }
+    ],
+    "htmlFile": "/emails/nano-banana.html",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "learn-anything-faster-with-ai-my-custom-workflow",
+    "title": "Learn anything faster with AI (my custom workflow)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-08-22",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/learn-anything-faster-with-ai-my-custom-workflow",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/learn-anything-faster-with-ai-my-custom-workflow.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-system-top-creators-use-to-never-run-out-of-ideas",
+    "title": "The System Top Creators Use to Never Run Out of Ideas",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/the-system-top-creators-use-to-never-run-out-of-ideas",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "Syllaby_BlackText__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-system-top-creators-use-to-never-run-out-of-ideas.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "how-i-landed-brand-deals-at-just-5k-followers",
+    "title": "How I Landed Brand Deals at Just 5K Followers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-08-08",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/how-i-landed-brand-deals-at-just-5k-followers",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "Shutterstock.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-i-landed-brand-deals-at-just-5k-followers.html",
+    "tags": [
+      "AI",
+      "Creativity",
+      "Productivity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "ai-creator-updates-you-don-t-want-to-miss",
+    "title": "You Don't Want to Miss These AI Updates",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-08-06",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/ai-creator-updates-you-don-t-want-to-miss",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "Syllaby_BlackText__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-creator-updates-you-don-t-want-to-miss.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "this-new-reel-style-is-blowing-up-try-it-before-it-s-overused-ff5047e39ae5d4a2",
+    "title": "This New Reel Style is Blowing Up! (Try It Before It’s Overused)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-31",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/this-new-reel-style-is-blowing-up-try-it-before-it-s-overused-ff5047e39ae5d4a2",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/this-new-reel-style-is-blowing-up-try-it-before-it-s-overused-ff5047e39ae5d4a2.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "viral-veo-3-ai-sitcom-prompt-6b7743e1658e93f6",
+    "title": "Viral VEO 3 AI Sitcom Prompt",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-25",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/viral-veo-3-ai-sitcom-prompt-6b7743e1658e93f6",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Stack Influence",
+        "url": "https://stackinfluence.com/",
+        "logo": "stackinfluence_black_logo_normal__2___2_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/viral-veo-3-ai-sitcom-prompt-6b7743e1658e93f6.html",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-to-make-chatgpt-write-like-you-new-free-ai-image-generator-dd2638ebd83ddb9d",
+    "title": "How to Make ChatGPT Write Like You + New Free AI Image Generator",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-16",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/how-to-make-chatgpt-write-like-you-new-free-ai-image-generator-dd2638ebd83ddb9d",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-make-chatgpt-write-like-you-new-free-ai-image-generator-dd2638ebd83ddb9d.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "every-creator-needs-this-but-many-have-overlooked-it-61b36ad55a25da9a",
+    "title": "Every creator needs this (but many have overlooked it)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-12",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/every-creator-needs-this-but-many-have-overlooked-it-61b36ad55a25da9a",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/every-creator-needs-this-but-many-have-overlooked-it-61b36ad55a25da9a.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "why-now-is-the-best-time-to-start-a9bc5153cad3f483",
+    "title": "Why now is the best time to start",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-09",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/why-now-is-the-best-time-to-start-a9bc5153cad3f483",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/why-now-is-the-best-time-to-start-a9bc5153cad3f483.html",
+    "tags": [
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "how-i-gained-858-followers-with-zero-effort-5ae0bc21597ad75b",
+    "title": "How I Gained 858 Followers with Zero Effort",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-04",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/how-i-gained-858-followers-with-zero-effort-5ae0bc21597ad75b",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      }
+    ],
+    "htmlFile": "/emails/how-i-gained-858-followers-with-zero-effort-5ae0bc21597ad75b.html",
+    "tags": [
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "2-new-free-ai-tools-for-animated-and-talking-videos",
+    "title": "2 New Free AI Tools for Animated and Talking Videos",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-07-02",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/2-new-free-ai-tools-for-animated-and-talking-videos",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AI with Allie",
+        "url": "https://www.alliekmiller.com/",
+        "logo": "AI_with_Allie_Logo_600px.png"
+      }
+    ],
+    "htmlFile": "/emails/2-new-free-ai-tools-for-animated-and-talking-videos.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "new-guide-how-i-create-viral-storytelling-content-with-chatgpt-free-ai-tools-0db8d93238a2b880",
+    "title": "🎬 New Guide: How I Create Viral Storytelling Content with ChatGPT + Free AI Tools",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-06-18",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/new-guide-how-i-create-viral-storytelling-content-with-chatgpt-free-ai-tools-0db8d93238a2b880",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/new-guide-how-i-create-viral-storytelling-content-with-chatgpt-free-ai-tools-0db8d93238a2b880.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "every-creator-needs-this-aee85ed1610e48ad",
+    "title": "Every creator needs this...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-06-13",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/every-creator-needs-this-aee85ed1610e48ad",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/every-creator-needs-this-aee85ed1610e48ad.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "these-3-ai-tools-just-leveled-up-a11396108a0ee975",
+    "title": "🧠 These 3 AI tools just leveled up ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-06-11",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/these-3-ai-tools-just-leveled-up-a11396108a0ee975",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/these-3-ai-tools-just-leveled-up-a11396108a0ee975.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "recreate-any-ai-image-with-this-tool-c69f3dc0f3d2e290",
+    "title": "🟢 Recreate Any AI Image With This Tool",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-05-07",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/recreate-any-ai-image-with-this-tool-c69f3dc0f3d2e290",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/recreate-any-ai-image-with-this-tool-c69f3dc0f3d2e290.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "i-used-a-free-ai-tool-to-clone-my-voice",
+    "title": "🟢 I Used a Free AI Tool to Clone My Voice",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-04-26",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/i-used-a-free-ai-tool-to-clone-my-voice",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/i-used-a-free-ai-tool-to-clone-my-voice.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "stop-chasing-shiny-new-ai-tools",
+    "title": "Skip the AI Overwhelm and Build with Focus",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "DG Mastery",
+    "date": "2025-04-10",
+    "hasAds": true,
+    "url": "https://dgmastery.beehiiv.com/p/stop-chasing-shiny-new-ai-tools",
+    "publisher": {
+      "name": "DG Mastery",
+      "url": "https://dgmastery.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/stop-chasing-shiny-new-ai-tools.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

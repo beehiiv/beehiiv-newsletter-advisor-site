@@ -1,0 +1,3488 @@
+[
+  {
+    "id": "tactic",
+    "title": "Tactic",
+    "category": "Digital Products",
+    "description": "Tactic is a no-code AI platform that automates customer and market research to drive more efficient and precise GTM execution.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/tactic",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-14T01:13:28.267023Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/tactic.html",
+    "hasAds": true
+  },
+  {
+    "id": "usecentralize",
+    "title": "Centralize",
+    "category": "Digital Products",
+    "description": "Centralize is an AI-powered platform that helps B2B sales and revenue teams map, manage, and multithread complex deals by surfacing relationship intelligence across disconnected systems.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/usecentralize",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-25T01:58:49.081586Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/usecentralize.html"
+  },
+  {
+    "id": "twain",
+    "title": "Twain",
+    "category": "Digital Products",
+    "description": "Twain uses AI to automate deep personalization in outbound sales messaging, replacing generic outreach templates with context-rich, human-like copy.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/twain",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-09-17T05:51:00.48495Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marpipe",
+        "url": "https://www.marpipe.com/",
+        "logo": "https://cdn.prod.website-files.com/5d64276bb1c595369043818c/6064a56e53f9e185cbf970c0_new%20Web%402x.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/twain.html"
+  },
+  {
+    "id": "yesware",
+    "title": "Yesware",
+    "category": "Digital Products",
+    "description": "Yesware is a sales email outreach tool built into Gmail and Outlook that helps sales teams scale personalized communication without adding workflow complexity.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/yesware",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-09-11T04:04:40.270986Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/yesware.html"
+  },
+  {
+    "id": "mural",
+    "title": "Mural",
+    "category": "Digital Products",
+    "description": "Mural is a visual collaboration platform enhanced by AI to help teams ideate, align, and execute more effectively.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/mural",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-09-04T01:48:10.115759Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mural.html"
+  },
+  {
+    "id": "forethought",
+    "title": "Forethought",
+    "category": "Digital Products",
+    "description": "Forethought is an AI-powered customer support platform that uses a multi-agent system to streamline and automate customer experience workflows.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/forethought",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-08-30T19:22:21.180118Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Cartograph",
+        "url": "https://www.gocartograph.com/",
+        "logo": "https://cdn.prod.website-files.com/67b6f7958515100d4ec614e9/68d66287567aeee60cbfacdc_webclip.svg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/forethought.html"
+  },
+  {
+    "id": "lindy",
+    "title": "Lindy",
+    "category": "Digital Products",
+    "description": "Lindy is an AI agent builder designed to automate sales, support, admin, and operational tasks with minimal input from users.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/lindy",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-08-28T04:33:49.214345Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lindy.html"
+  },
+  {
+    "id": "contentful",
+    "title": "Contentful",
+    "category": "Digital Products",
+    "description": "Contentful is a composable content platform that empowers teams to manage, deliver, and personalize content across digital experiences with AI assistance.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/contentful",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-08-15T03:06:29.489837Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/contentful.html"
+  },
+  {
+    "id": "incrmntal",
+    "title": "INCRMNTAL",
+    "category": "Digital Products",
+    "description": "INCRMNTAL is an AI-driven incrementality measurement platform that helps marketers quantify the real value of campaigns without relying on user-level data or disruptive experiments.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/incrmntal",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-05T00:24:10.315524Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/incrmntal.html"
+  },
+  {
+    "id": "bannerflow",
+    "title": "Bannerflow",
+    "category": "Digital Products",
+    "description": "Bannerflow is a Creative Management Platform that streamlines ad creation, scaling, and publishing through automation and generative AI.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/bannerflow",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-23T23:52:24.098351Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/bannerflow.html",
+    "hasAds": true
+  },
+  {
+    "id": "linkedin-sales-navigator",
+    "title": "LinkedIn Sales Navigator",
+    "category": "Digital Products",
+    "description": "",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/linkedin-sales-navigator",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-07T10:35:43.411474Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/linkedin-sales-navigator.html"
+  },
+  {
+    "id": "gtm-buddy",
+    "title": "GTM Buddy",
+    "category": "Digital Products",
+    "description": "AI-powered revenue enablement platform designed to streamline sales training, content delivery, and buyer engagement for modern sales and marketing teams.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/gtm-buddy",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2025-06-24T02:30:15.036259Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "inFlow Inventory",
+        "url": "https://inflowinventory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=inflowinventory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gtm-buddy.html"
+  },
+  {
+    "id": "sendspark-1",
+    "title": "Sendspark",
+    "category": "Digital Products",
+    "description": "Sendspark is an AI-powered video messaging platform specifically built to streamline and personalize sales outreach via dynamic, scalable video communication.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/sendspark-1",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-19T22:17:34.617854Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sendspark-1.html"
+  },
+  {
+    "id": "beehiiv",
+    "title": "Beehiiv",
+    "category": "Digital Products",
+    "description": "Beehiiv is a creator‐focused newsletter platform offering robust AI tools, growth monetization, and intuitive analytics in one package.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/beehiiv",
+    "tags": [
+      "AI"
+    ],
+    "date": "2025-06-15T19:04:36.54102Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "InstaHeadshots",
+        "url": "https://instaheadshots.com/",
+        "logo": "https://instaheadshots.com/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/beehiiv.html"
+  },
+  {
+    "id": "day-ai",
+    "title": "Day.ai",
+    "category": "Digital Products",
+    "description": "An AI-native CRM platform that unifies meeting assistance, relationship management, and knowledge sharing into a seamless, automated experience",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/day-ai",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-06-11T01:55:42.462482Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/day-ai.html"
+  },
+  {
+    "id": "vector",
+    "title": "Vector",
+    "category": "Digital Products",
+    "description": "Contact-based marketing platform that helps businesses identify and engage high-intent buyers throughout the entire sales funnel.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/vector",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-06-08T23:58:46.974677Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/vector.html"
+  },
+  {
+    "id": "keyplay",
+    "title": "Keyplay",
+    "category": "Digital Products",
+    "description": "Leverage AI to help B2B teams identify, score, and prioritize ideal customer profiles for more effective sales and marketing strategies.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/keyplay",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-06-05T23:16:17.018552Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/keyplay.html"
+  },
+  {
+    "id": "mutiny",
+    "title": "Mutiny",
+    "category": "Digital Products",
+    "description": "Mutiny is an AI-powered B2B platform that enables companies to create personalized, scalable 1:1 marketing and sales experiences for target accounts.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/mutiny",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-06-01T22:30:21.985972Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "https://www.notion.com/front-static/logo-ios.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mutiny.html"
+  },
+  {
+    "id": "chili-piper",
+    "title": "Chili Piper",
+    "category": "Digital Products",
+    "description": "Streamline meeting booking and improve sales team efficiency.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/chili-piper",
+    "tags": [
+      "Business",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-05-29T12:17:32.004971Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      },
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "https://cdn.brandfetch.io/iducAcf4k4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769987197264"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chili-piper.html"
+  },
+  {
+    "id": "factors-ai",
+    "title": "Factors.ai",
+    "category": "Digital Products",
+    "description": "Optimize LinkedIn ads and automate go-to-market workflows",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/factors-ai",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-05-26T20:48:13.026429Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "https://cdn.brandfetch.io/iducAcf4k4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769987197264"
+      },
+      {
+        "name": "Wistia",
+        "url": "https://wistia.com/",
+        "logo": "https://wistia.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/factors-ai.html"
+  },
+  {
+    "id": "userpilot",
+    "title": "Userpilot",
+    "category": "Digital Products",
+    "description": "Reduce time to value with your onboarding experience",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/userpilot",
+    "tags": [
+      "Business",
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2025-05-22T20:13:47.893958Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      },
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/userpilot.html"
+  },
+  {
+    "id": "openai-acquires-hardware-company",
+    "title": "OpenAI acquires hardware company",
+    "category": "Digital Products",
+    "description": "No code AI-powered app builder",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/openai-acquires-hardware-company",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-22T02:25:19.284319Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/openai-acquires-hardware-company.html"
+  },
+  {
+    "id": "hey-copilot",
+    "title": "‘Hey, Copilot!’",
+    "category": "Digital Products",
+    "description": "Streamline lead routing, meeting scheduling, and account matching",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/hey-copilot",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-05-19T02:12:33.659377Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "https://cdn.brandfetch.io/iducAcf4k4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769987197264"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hey-copilot.html"
+  },
+  {
+    "id": "openai-launches-vibe-coding-tool",
+    "title": "OpenAI launches vibe coding tool",
+    "category": "Digital Products",
+    "description": "Find 'lookalike' companies based on your best customers",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/openai-launches-vibe-coding-tool",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-05-16T21:08:00.711081Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "https://cdn.brandfetch.io/iducAcf4k4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769987197264"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/openai-launches-vibe-coding-tool.html"
+  },
+  {
+    "id": "turn-intent-signals-into-pipeline",
+    "title": "Turn intent signals into pipeline ",
+    "category": "Digital Products",
+    "description": "Automate pre-meeting research for your sales team",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/turn-intent-signals-into-pipeline",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-13T14:35:38.369412Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turn-intent-signals-into-pipeline.html"
+  },
+  {
+    "id": "clay-authorizes-1-5bn-tender-offer-led-by-sequoia",
+    "title": "Clay Authorizes $1.5bn Tender Offer Led by Sequoia",
+    "category": "Digital Products",
+    "description": "Find overlapping customers with your partners",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/clay-authorizes-1-5bn-tender-offer-led-by-sequoia",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-10T15:09:39.114506Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/clay-authorizes-1-5bn-tender-offer-led-by-sequoia.html"
+  },
+  {
+    "id": "openai-teaming-up-with-the-fda",
+    "title": "OpenAI teaming up with the FDA",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "GTM w/ AI",
+    "date": "2025-05-08",
+    "hasAds": true,
+    "url": "https://www.gtmwithai.co/p/openai-teaming-up-with-the-fda",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      },
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/openai-teaming-up-with-the-fda.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-first-leads-search-engine",
+    "title": "The first leads search engine",
+    "category": "Digital Products",
+    "description": "Turn your one-off workflows into always-on growth engines",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/the-first-leads-search-engine",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-29T12:09:00.772601Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-first-leads-search-engine.html"
+  },
+  {
+    "id": "three-outbound-ideas",
+    "title": "Three outbound ideas",
+    "category": "Digital Products",
+    "description": "Enhance pipeline management, forecast accuracy and team coaching",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/three-outbound-ideas",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-27T20:24:33.799125Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/three-outbound-ideas.html"
+  },
+  {
+    "id": "palantir-doge",
+    "title": "Palantir 🤝 DOGE",
+    "category": "Digital Products",
+    "description": "Analyze competitor customer lists on case study pages",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/palantir-doge",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-11T13:23:09.091562Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/palantir-doge.html"
+  },
+  {
+    "id": "no-new-hires-without-proof-ai-can-t-do-it",
+    "title": "\"No new hires without proof AI can't do it\"",
+    "category": "Digital Products",
+    "description": "Automate multi-step sequence messaging",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/no-new-hires-without-proof-ai-can-t-do-it",
+    "tags": [
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-08T00:06:32.827134Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Prezi",
+        "url": "https://prezi.com/",
+        "logo": "https://assets.prezicdn.net/assets-versioned/staticpages-versioned/v1.0-389-g9e97a2d717-r22489864847a3/common/img/prezi-apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/no-new-hires-without-proof-ai-can-t-do-it.html"
+  },
+  {
+    "id": "doge-brings-ai-tool-to-government-agency",
+    "title": "DOGE brings AI tool to government agency",
+    "category": "Digital Products",
+    "description": "Turn Google Maps listings into target account lists",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/doge-brings-ai-tool-to-government-agency",
+    "tags": [
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-04T17:35:06.056457Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Prezi",
+        "url": "https://prezi.com/",
+        "logo": "https://assets.prezicdn.net/assets-versioned/staticpages-versioned/v1.0-389-g9e97a2d717-r22489864847a3/common/img/prezi-apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/doge-brings-ai-tool-to-government-agency.html"
+  },
+  {
+    "id": "is-elon-s-grok-stolen",
+    "title": "Is Elon's 'Grok' stolen? ",
+    "category": "Digital Products",
+    "description": "Auto-send connection requests without writing code",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/is-elon-s-grok-stolen",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-01T22:40:49.114533Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-elon-s-grok-stolen.html"
+  },
+  {
+    "id": "fresh-relevant-and-highly-targeted-leads",
+    "title": "Fresh, relevant, and highly targeted leads",
+    "category": "Digital Products",
+    "description": "Check out the #1 most used AI tool for advertising",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/fresh-relevant-and-highly-targeted-leads",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-31T00:51:55.207834Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fresh-relevant-and-highly-targeted-leads.html"
+  },
+  {
+    "id": "elon-s-company-buys-elon-s-other-company",
+    "title": "Elon's company buys Elon's other company",
+    "category": "Digital Products",
+    "description": "Build account lists and score based on technographic and firmographic data",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/elon-s-company-buys-elon-s-other-company",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-03-29T18:17:23.587698Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-s-company-buys-elon-s-other-company.html"
+  },
+  {
+    "id": "chip-startup-turns-down-800m-meta-offer",
+    "title": "Chip startup turns down $800m Meta offer",
+    "category": "Digital Products",
+    "description": "A full stack engineer agent that will build any application you want using natural language",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/chip-startup-turns-down-800m-meta-offer",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-26T18:59:00.856056Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chip-startup-turns-down-800m-meta-offer.html"
+  },
+  {
+    "id": "will-yahoo-be-the-next-big-name-in-ai",
+    "title": "Will Yahoo be the next big name in AI?",
+    "category": "Digital Products",
+    "description": "Turn your ideas into apps with GenAI",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/will-yahoo-be-the-next-big-name-in-ai",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-19T16:31:18.883429Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/will-yahoo-be-the-next-big-name-in-ai.html"
+  },
+  {
+    "id": "reach-out-to-hot-leads-on-autopilot",
+    "title": "Reach out to hot leads on autopilot",
+    "category": "Digital Products",
+    "description": "LinkedIn and email prospecting automation",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/reach-out-to-hot-leads-on-autopilot",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-17T21:50:08.103486Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/reach-out-to-hot-leads-on-autopilot.html"
+  },
+  {
+    "id": "elon-s-digital-coup",
+    "title": "Elon's 'Digital Coup'",
+    "category": "Digital Products",
+    "description": "AI Video and Social Warming",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/elon-s-digital-coup",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-13T12:12:04.443828Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-s-digital-coup.html"
+  },
+  {
+    "id": "wiz-ai",
+    "title": "Snapchat is rolling out AI video lenses",
+    "category": "Digital Products",
+    "description": "Improve customer activation by 20% and cross-selling effectiveness over 60%",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/wiz-ai",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-11T03:22:15.159214Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wiz-ai.html"
+  },
+  {
+    "id": "build-customer-support-agents",
+    "title": "Build customer support agents",
+    "category": "Digital Products",
+    "description": "Cold Email Setup Offer",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/build-customer-support-agents",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-11T01:07:03.845144Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-customer-support-agents.html"
+  },
+  {
+    "id": "warm-intros-7x-better-than-cold-calls",
+    "title": "Warm Intros 7x Better Than Cold Calls",
+    "category": "Digital Products",
+    "description": "Turn Google Maps listings into target account lists",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/warm-intros-7x-better-than-cold-calls",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-08T01:17:00.424178Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/warm-intros-7x-better-than-cold-calls.html"
+  },
+  {
+    "id": "musk-fails-to-block-openai",
+    "title": "Musk fails to block OpenAI",
+    "category": "Digital Products",
+    "description": "AI-powered revenue orchestration platform",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/musk-fails-to-block-openai",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-06T01:39:39.1116Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/musk-fails-to-block-openai.html"
+  },
+  {
+    "id": "super-mario-enters-the-chat",
+    "title": "Super Mario enters the chat",
+    "category": "Digital Products",
+    "description": "AI agent that instantly qualifies inbound leads and schedules demos",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/super-mario-enters-the-chat",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-04T01:18:22.415111Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/super-mario-enters-the-chat.html"
+  },
+  {
+    "id": "microsofts-big-announcement",
+    "title": "Microsoft's big announcement",
+    "category": "Digital Products",
+    "description": "Personalized LinkedIn connection requests on autopilot",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/microsofts-big-announcement",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-28T22:21:52.264081Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      },
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/microsofts-big-announcement.html"
+  },
+  {
+    "id": "recruit-an-ai-bdr-agent",
+    "title": "Recruit an AI BDR Agent",
+    "category": "Digital Products",
+    "description": "Nvidia earnings shrug off Deepseek",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/recruit-an-ai-bdr-agent",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-27T00:28:33.287121Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/recruit-an-ai-bdr-agent.html"
+  },
+  {
+    "id": "turn-any-website-into-an-api",
+    "title": "Turn any website into an API",
+    "category": "Digital Products",
+    "description": "Meet Lima - a lifecycle marketing agent that researches your sign-ups and emails them with hyper-personalized messaging",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/turn-any-website-into-an-api",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-21T22:16:16.494922Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turn-any-website-into-an-api.html"
+  },
+  {
+    "id": "nyt-brings-ai-into-the-newsroom",
+    "title": "NYT brings AI into the newsroom ",
+    "category": "Digital Products",
+    "description": "Predict sales outcomes with high accuracy using AI-driven models",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/nyt-brings-ai-into-the-newsroom",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-02-16T20:45:10.766655Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nyt-brings-ai-into-the-newsroom.html"
+  },
+  {
+    "id": "scarlett-calls-for-deepfake-ban",
+    "title": "Scarlett calls for deepfake ban",
+    "category": "Digital Products",
+    "description": "Turn Google Maps listings into a target account list with contacts and emails",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/scarlett-calls-for-deepfake-ban",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-15T04:46:52.988056Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/scarlett-calls-for-deepfake-ban.html"
+  },
+  {
+    "id": "apple-exploring-humanoid-robots",
+    "title": "Apple exploring Humanoid Robots",
+    "category": "Digital Products",
+    "description": "An AI agent that analyzes someone's LinkedIn posts (see my breakdown)",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/apple-exploring-humanoid-robots",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2025-02-12T23:43:17.229382Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/apple-exploring-humanoid-robots.html"
+  },
+  {
+    "id": "elon-offers-to-buy-openai",
+    "title": "Elon offers to buy OpenAI",
+    "category": "Digital Products",
+    "description": "Gamma’s AI creates beautiful presentations, websites, and more",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/elon-offers-to-buy-openai",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-11T03:28:59.081626Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-offers-to-buy-openai.html"
+  },
+  {
+    "id": "extract-feature-requests-from-gong-calls",
+    "title": "An AI SDR that books sales calls on autopilot with high-intent leads",
+    "category": "Digital Products",
+    "description": "Extract feature requests from Gong calls",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/extract-feature-requests-from-gong-calls",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2025-02-07T18:43:43.207825Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/extract-feature-requests-from-gong-calls.html"
+  },
+  {
+    "id": "google-edits-ai-super-bowl-ad",
+    "title": "Google edits AI Super Bowl ad",
+    "category": "Digital Products",
+    "description": "Help sales reps prioritize opportunities and close deals efficiently",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/google-edits-ai-super-bowl-ad",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-05T22:46:55.927193Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-edits-ai-super-bowl-ad.html"
+  },
+  {
+    "id": "discover-your-competitors-best-performing-ads",
+    "title": "Discover your competitors best-performing ads",
+    "category": "Digital Products",
+    "description": "OpenAI trademark application hints at robots and smart jewelry",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/discover-your-competitors-best-performing-ads",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-02T11:28:40.83135Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/discover-your-competitors-best-performing-ads.html"
+  },
+  {
+    "id": "generate-ad-copy-that-sells",
+    "title": "Generate ad copy that sells",
+    "category": "Digital Products",
+    "description": "Tim Cook commends DeekSeek innovation",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/generate-ad-copy-that-sells",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-31T01:30:49.855866Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/generate-ad-copy-that-sells.html"
+  },
+  {
+    "id": "us-navy-bans-deepseek",
+    "title": "U.S. Navy bans DeepSeek",
+    "category": "Digital Products",
+    "description": "Turn product photos into photoshoots with a single click",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/us-navy-bans-deepseek",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-29T00:35:57.403763Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/us-navy-bans-deepseek.html"
+  },
+  {
+    "id": "deepseek-creates-openai-rival-for-5m",
+    "title": "DeepSeek creates OpenAI rival for $5m",
+    "category": "Digital Products",
+    "description": "Effortlessly create high-quality stock images that are royalty-free",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/deepseek-creates-openai-rival-for-5m",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Productivity"
+    ],
+    "date": "2025-01-28T01:06:09.723584Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      },
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deepseek-creates-openai-rival-for-5m.html"
+  },
+  {
+    "id": "turn-a-url-into-ads-in-seconds",
+    "title": "Turn a URL into Ads in Seconds",
+    "category": "Digital Products",
+    "description": "Apple gets a bad review",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/turn-a-url-into-ads-in-seconds",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-24T10:46:31.952185Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turn-a-url-into-ads-in-seconds.html"
+  },
+  {
+    "id": "im-good-for-the-80bn",
+    "title": "\"I'm good for the $80bn\"",
+    "category": "Digital Products",
+    "description": "Enrich webinar attendees with verified emails and LinkedIn profiles",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/im-good-for-the-80bn",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-22T22:37:21.055133Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Agree.com",
+        "url": "https://agree.com/",
+        "logo": "https://framerusercontent.com/images/P4DICf40m8trN03h9jcxkPX9Y.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/im-good-for-the-80bn.html"
+  },
+  {
+    "id": "meta-s-race-to-beat-openai",
+    "title": "Meta's race to beat OpenAI",
+    "category": "Digital Products",
+    "description": "Find lookalike companies from CRM contacts",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/meta-s-race-to-beat-openai",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-01-18T17:21:24.840205Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/meta-s-race-to-beat-openai.html"
+  },
+  {
+    "id": "chatgpt-got-a-new-automation",
+    "title": "ChatGPT got a new automation",
+    "category": "Digital Products",
+    "description": "Enrich newsletter subscribers to sell more sponsorships",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/chatgpt-got-a-new-automation",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-15T03:47:33.52495Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chatgpt-got-a-new-automation.html"
+  },
+  {
+    "id": "ai-agents-come-for-seo",
+    "title": "AI agents come for SEO",
+    "category": "Digital Products",
+    "description": "Build account lists and account scoring with firmographics",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/ai-agents-come-for-seo",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-15T03:42:11.092191Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-agents-come-for-seo.html"
+  },
+  {
+    "id": "invite-to-mar-a-lago",
+    "title": "Invite to Mar-a-Lago",
+    "category": "Digital Products",
+    "description": "Enrich sales navigator lists with work emails and phone numbers",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/invite-to-mar-a-lago",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-11T02:21:36.886615Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/invite-to-mar-a-lago.html"
+  },
+  {
+    "id": "elon-musk-is-playing-favorites",
+    "title": "Elon Musk is playing favorites",
+    "category": "Digital Products",
+    "description": "Companies like Tripadvisor, ClickUp, and Rho slash response times by 60%",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/elon-musk-is-playing-favorites",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-10T02:03:03.19812Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-musk-is-playing-favorites.html"
+  },
+  {
+    "id": "ai-finally-going-to-read-our-minds",
+    "title": "AI *finally* going to read our minds",
+    "category": "Digital Products",
+    "description": "Get ready to hire your first AI Agent",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/ai-finally-going-to-read-our-minds",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-08T20:18:49.459196Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Ahrefs",
+        "url": "https://ahrefs.com/",
+        "logo": "https://cdn.brandfetch.io/idxB1p5kuP/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1673962241765"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-finally-going-to-read-our-minds.html"
+  },
+  {
+    "id": "3k-supercomputer-made-by-guess-who",
+    "title": "$3k supercomputer made by guess who",
+    "category": "Digital Products",
+    "description": "Start your own newsletter in 2025",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/3k-supercomputer-made-by-guess-who",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-03T16:06:01.963182Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Ahrefs",
+        "url": "https://ahrefs.com/",
+        "logo": "https://cdn.brandfetch.io/idxB1p5kuP/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1673962241765"
+      }
+    ],
+    "htmlFile": "/emails/3k-supercomputer-made-by-guess-who.html",
+    "hasAds": true
+  },
+  {
+    "id": "breeze-through-ai",
+    "title": "Breeze through AI",
+    "category": "Digital Products",
+    "description": "Find viral TikTok videos for content ideas",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/breeze-through-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-31T00:11:46.95738Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/breeze-through-ai.html"
+  },
+  {
+    "id": "xai-raises-another-6bn",
+    "title": "xAI raises another $6bn",
+    "category": "Digital Products",
+    "description": "Keep your meeting data safe",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/xai-raises-another-6bn",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2024-12-28T20:56:24.436876Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/xai-raises-another-6bn.html"
+  },
+  {
+    "id": "xai-bringing-new-app-to-market",
+    "title": "xAI bringing new app to market",
+    "category": "Digital Products",
+    "description": "Automate lead generation with AiSDRs",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/xai-bringing-new-app-to-market",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-24T03:43:37.023711Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/xai-bringing-new-app-to-market.html"
+  },
+  {
+    "id": "google-to-add-ai-mode-to-search",
+    "title": "Google to add 'AI Mode' to search",
+    "category": "Digital Products",
+    "description": "Why AI could be the best thing for marketing",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/google-to-add-ai-mode-to-search",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-21T02:25:22.768673Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-to-add-ai-mode-to-search.html"
+  },
+  {
+    "id": "microsoft-went-all-in-on-nvidia-chips",
+    "title": "Microsoft went all in on Nvidia chips",
+    "category": "Digital Products",
+    "description": "How long does it take to rank in Google?",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/microsoft-went-all-in-on-nvidia-chips",
+    "tags": [
+      "Business",
+      "E-commerce"
+    ],
+    "date": "2024-12-18T05:54:54.888671Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Goody",
+        "url": "https://www.ongoody.com/",
+        "logo": "https://www.ongoody.com/logo512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/microsoft-went-all-in-on-nvidia-chips.html"
+  },
+  {
+    "id": "lockheed-martin-jumps-into-ai",
+    "title": "Lockheed Martin jumps into AI",
+    "category": "Digital Products",
+    "description": "Sales teams spend 65% of their time on non-selling activities",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/lockheed-martin-jumps-into-ai",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-12-17T03:39:51.125645Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/lockheed-martin-jumps-into-ai.html",
+    "hasAds": true
+  },
+  {
+    "id": "openai-brings-receipts",
+    "title": "OpenAI brings receipts",
+    "category": "Digital Products",
+    "description": "7 Tips for writing follow up sales emails",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/openai-brings-receipts",
+    "tags": [
+      "Business",
+      "E-commerce"
+    ],
+    "date": "2024-12-14T14:41:53.525726Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Goody",
+        "url": "https://www.ongoody.com/",
+        "logo": "https://www.ongoody.com/logo512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/openai-brings-receipts.html"
+  },
+  {
+    "id": "apples-new-ai-chip",
+    "title": "Apples new AI chip",
+    "category": "Digital Products",
+    "description": "Build AI like you’re playing Legos",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/apples-new-ai-chip",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-11T23:20:01.617257Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/apples-new-ai-chip.html"
+  },
+  {
+    "id": "stop-writing-terrible-emails",
+    "title": "Stop Writing Terrible Emails",
+    "category": "Digital Products",
+    "description": "ChatGPT Pro and Plus users get an upgrade",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/stop-writing-terrible-emails",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-08T19:41:54.128828Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-writing-terrible-emails.html"
+  },
+  {
+    "id": "free-grok",
+    "title": "Free Grok",
+    "category": "Digital Products",
+    "description": "Turning conversations into actionable results",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/free-grok",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-06T18:59:13.97493Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/free-grok.html"
+  },
+  {
+    "id": "spotify-wrapped-features-google-s-notebooklm",
+    "title": "Spotify wrapped features Google’s NotebookLM",
+    "category": "Digital Products",
+    "description": "Generative AI explained: A field guide for CMOs",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/spotify-wrapped-features-google-s-notebooklm",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-04T05:57:09.28467Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/spotify-wrapped-features-google-s-notebooklm.html"
+  },
+  {
+    "id": "amazon-responds-to-temu",
+    "title": "Amazon responds to Temu",
+    "category": "Digital Products",
+    "description": "Free access to database of 965 AI tools",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/amazon-responds-to-temu",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-02T03:20:23.108475Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/amazon-responds-to-temu.html"
+  },
+  {
+    "id": "will-elon-s-xai-beat-chatgpt",
+    "title": "Will Elon's xAI beat ChatGPT?",
+    "category": "Digital Products",
+    "description": "Streamline outreach with verified contact data",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/will-elon-s-xai-beat-chatgpt",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-11-29T19:42:29.606812Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/will-elon-s-xai-beat-chatgpt.html"
+  },
+  {
+    "id": "an-ai-first-rebrand",
+    "title": "An 'AI-first' rebrand",
+    "category": "Digital Products",
+    "description": "Simplify and enhance notetaking during meetings",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/an-ai-first-rebrand",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-25T01:30:59.836008Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/an-ai-first-rebrand.html"
+  },
+  {
+    "id": "chatgpt-water-problem",
+    "title": "ChatGPT's water problem",
+    "category": "Digital Products",
+    "description": "Makes sales demos glitch-free, easy to customize, and data-driven",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/chatgpt-water-problem",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-23T13:22:14.878134Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chatgpt-water-problem.html"
+  },
+  {
+    "id": "voice-cloning-coming-to-teams",
+    "title": "Voice cloning coming to Teams",
+    "category": "Digital Products",
+    "description": "Analyzes buying signals from public data",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/voice-cloning-coming-to-teams",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-20T23:08:46.608576Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/voice-cloning-coming-to-teams.html"
+  },
+  {
+    "id": "apple-to-launch-ai-home-device",
+    "title": "Apple to launch AI home device",
+    "category": "Digital Products",
+    "description": "Empowers sales teams and drive better customer experiences",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/apple-to-launch-ai-home-device",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-16T00:20:06.421659Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/apple-to-launch-ai-home-device.html"
+  },
+  {
+    "id": "ai-powered-parenting",
+    "title": "AI-powered Parenting?",
+    "category": "Digital Products",
+    "description": "How Dell Boosted Deal Processing Efficiency by 15%",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/ai-powered-parenting",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-31T17:23:47.725665Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-powered-parenting.html"
+  },
+  {
+    "id": "write-like-twain",
+    "title": "Write like Twain",
+    "category": "Digital Products",
+    "description": "xAI is raising billions",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/write-like-twain",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-30T04:16:19.563265Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/write-like-twain.html",
+    "hasAds": true
+  },
+  {
+    "id": "research-speeds-quintupled",
+    "title": "Research speeds quintupled",
+    "category": "Digital Products",
+    "description": "Three playbooks + one per week on AI go-to-market strategies.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/research-speeds-quintupled",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-10-25T23:18:22.026155Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/research-speeds-quintupled.html"
+  },
+  {
+    "id": "build-your-own-teammate",
+    "title": "🤖Build your own teammate",
+    "category": "Digital Products",
+    "description": "Automate lead capture across various channels",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/build-your-own-teammate",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-24T00:07:07.922223Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/build-your-own-teammate.html",
+    "hasAds": true
+  },
+  {
+    "id": "find-highly-relevant-prospects",
+    "title": "Don't boil the ocean",
+    "category": "Digital Products",
+    "description": "Microsoft unveils 10 new AI autonomous agents",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/find-highly-relevant-prospects",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-19T23:39:10.697816Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/find-highly-relevant-prospects.html",
+    "hasAds": true
+  },
+  {
+    "id": "new-job-who-dis",
+    "title": "New job, who dis?",
+    "category": "Digital Products",
+    "description": "Mark Benioff now says AI is overhyped",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/new-job-who-dis",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-18T23:44:12.105806Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/new-job-who-dis.html",
+    "hasAds": true
+  },
+  {
+    "id": "real-time-ai-feedback",
+    "title": "Real-time AI Feedback",
+    "category": "Digital Products",
+    "description": "Empowers sales and customer service agents",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/real-time-ai-feedback",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-17T00:03:22.018634Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/real-time-ai-feedback.html",
+    "hasAds": true
+  },
+  {
+    "id": "book-high-ticket-meetings",
+    "title": "Book high ticket meetings",
+    "category": "Digital Products",
+    "description": "AI strategies to improve your sales funnel",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/book-high-ticket-meetings",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-13T21:47:26.980092Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/book-high-ticket-meetings.html"
+  },
+  {
+    "id": "more-ai-agents",
+    "title": "More AI Agents",
+    "category": "Digital Products",
+    "description": "Free access to LinkedIn Premium for Two Months",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/more-ai-agents",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-11T20:24:44.121166Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/more-ai-agents.html"
+  },
+  {
+    "id": "series-a-to-unicorn",
+    "title": "Series A to Unicorn",
+    "category": "Digital Products",
+    "description": "Many businesses are excited about AI but don’t know where to start",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/series-a-to-unicorn",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-10T03:46:38.809764Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/series-a-to-unicorn.html"
+  },
+  {
+    "id": "user-onboarding-in-app-chameleon",
+    "title": "$150K ARR in weeks",
+    "category": "Digital Products",
+    "description": "AI isn’t just the future—it's the present",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/user-onboarding-in-app-chameleon",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-07T23:28:28.732677Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/user-onboarding-in-app-chameleon.html"
+  },
+  {
+    "id": "detecting-intent-signals-leadmatic",
+    "title": "Detecting intent signals",
+    "category": "Digital Products",
+    "description": "Your Roadmap for GTM Success.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/detecting-intent-signals-leadmatic",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-04T20:43:32.146011Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/detecting-intent-signals-leadmatic.html"
+  },
+  {
+    "id": "digital-rooms-flowla",
+    "title": "Digital rooms",
+    "category": "Digital Products",
+    "description": "You’ve waited long enough. It’s time to execute.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/digital-rooms-flowla",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-02T00:56:05.216994Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/digital-rooms-flowla.html"
+  },
+  {
+    "id": "introducing-blueprints-w-ai",
+    "title": "Introducing 'Blueprints w/ AI'",
+    "category": "Digital Products",
+    "description": "Proven strategies designed to increase revenue and efficiency",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/introducing-blueprints-w-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-30T00:16:15.358475Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/introducing-blueprints-w-ai.html"
+  },
+  {
+    "id": "save-an-hour-a-day-fyxer-ai",
+    "title": "Save an hour a day",
+    "category": "Digital Products",
+    "description": "Tesla sends out “we, robot” invitations",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/save-an-hour-a-day-fyxer-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-27T22:01:20.150855Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/save-an-hour-a-day-fyxer-ai.html"
+  },
+  {
+    "id": "cold-email-templates-smartlead",
+    "title": "Cold email templates",
+    "category": "Digital Products",
+    "description": "Scale email campaigns, categorize leads, and track customer engagement",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/cold-email-templates-smartlead",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-25T03:59:07.955843Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cold-email-templates-smartlead.html"
+  },
+  {
+    "id": "28-sales-triggers",
+    "title": "28 Sales Triggers",
+    "category": "Digital Products",
+    "description": "Engage leads at the perfect moment",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/28-sales-triggers",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-09-22T19:54:09.965486Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/28-sales-triggers.html",
+    "hasAds": true
+  },
+  {
+    "id": "generate-pipeline-prospecting-automation",
+    "title": "$2m in pipeline",
+    "category": "Digital Products",
+    "description": "Tracks key changes, such as job transitions or company updates",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/generate-pipeline-prospecting-automation",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-09-20T17:47:22.377171Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/generate-pipeline-prospecting-automation.html"
+  },
+  {
+    "id": "surfer-seo-search-engine-optimization",
+    "title": "🏄SEO",
+    "category": "Digital Products",
+    "description": "How Surfer SEO Boosted B2B Traffic by 198% in 6 Months",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/surfer-seo-search-engine-optimization",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-19T00:35:06.614201Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/surfer-seo-search-engine-optimization.html"
+  },
+  {
+    "id": "salesforce-agentforce-ai-agents",
+    "title": "Salesforce unveils Agentforce",
+    "category": "Digital Products",
+    "description": "Wiley saw a more than 40% increase in case resolution rates",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/salesforce-agentforce-ai-agents",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-16T14:53:06.944133Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/salesforce-agentforce-ai-agents.html"
+  },
+  {
+    "id": "factors-ai-gtm-intelligence-account-scoring",
+    "title": "Sales🤝Marketing",
+    "category": "Digital Products",
+    "description": "Segment, score, and prioritize accounts that show strong buying signals",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/factors-ai-gtm-intelligence-account-scoring",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-09-13T03:36:16.939458Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/factors-ai-gtm-intelligence-account-scoring.html"
+  },
+  {
+    "id": "linkedin-acquisition-channel",
+    "title": "Make LinkedIn your #1 acquisition channel",
+    "category": "Digital Products",
+    "description": "How to Get 75K Views Per Week on LinkedIn",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/linkedin-acquisition-channel",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-10T01:02:23.209904Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Walaaxy",
+        "url": "https://www.waalaxy.com/?o=ads-501&targetid=kwd-1395560309708&adgroupid=123339647209",
+        "logo": "https://cdn.prod.website-files.com/66b222f11ffbb71b9ad39aa5/67599a2c37e4b416052c57d2_Favicon%20icon%20landing%20256px.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/linkedin-acquisition-channel.html"
+  },
+  {
+    "id": "uncover-hidden-buyers-6sense",
+    "title": "Uncover Hidden Buyer Signals",
+    "category": "Digital Products",
+    "description": "Engage buyers at the perfect time",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/uncover-hidden-buyers-6sense",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-09-08T15:33:22.634991Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/uncover-hidden-buyers-6sense.html",
+    "hasAds": true
+  },
+  {
+    "id": "account-based-marketing-ibm-us-open",
+    "title": "ABM at the US Open 🎾",
+    "category": "Digital Products",
+    "description": "See how IBM monetizes their US Open sponsorship",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/account-based-marketing-ibm-us-open",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-06T01:20:49.687372Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/account-based-marketing-ibm-us-open.html"
+  },
+  {
+    "id": "drive-revenue-growth",
+    "title": "Drive Revenue Growth",
+    "category": "Digital Products",
+    "description": "Optimize your pipeline from start to close",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/drive-revenue-growth",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-08-31T21:17:52.849984Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.clickfunnels.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/drive-revenue-growth.html"
+  },
+  {
+    "id": "align-gtm-team",
+    "title": "Align your GTM team",
+    "category": "Digital Products",
+    "description": "Remote GTM jobs that pay over $200k per year",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/align-gtm-team",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-28T23:17:23.366988Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/align-gtm-team.html"
+  },
+  {
+    "id": "sybill-automate-sales-ai",
+    "title": "Sybill",
+    "category": "Digital Products",
+    "description": "Automate time-consuming sales tasks, giving reps more time to focus on what matters most",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/sybill-automate-sales-ai",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-22T22:24:10.336327Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sybill-automate-sales-ai.html"
+  },
+  {
+    "id": "la-growth-machine-automate-prospecting",
+    "title": "La Growth Machine",
+    "category": "Digital Products",
+    "description": "Automate prospecting across LinkedIn, email, and Twitter",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/la-growth-machine-automate-prospecting",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-20T14:11:55.347821Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/la-growth-machine-automate-prospecting.html"
+  },
+  {
+    "id": "workflow-automation-ai-relay",
+    "title": "Cut onboarding time by 80%",
+    "category": "Digital Products",
+    "description": "Automation with personal touches",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/workflow-automation-ai-relay",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-19T21:06:05.510991Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/workflow-automation-ai-relay.html"
+  },
+  {
+    "id": "goldcast-cognism",
+    "title": "Goldcast 🤝 Cognism",
+    "category": "Digital Products",
+    "description": "Boost webinar attendance by 50%",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/goldcast-cognism",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-16T10:18:55.509698Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/goldcast-cognism.html"
+  },
+  {
+    "id": "smartsupp-chatbot-sells-cars",
+    "title": "Chatbots that sell cars",
+    "category": "Digital Products",
+    "description": "Automate customer engagement and lead capture around the clock",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/smartsupp-chatbot-sells-cars",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-15T01:23:33.530652Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/smartsupp-chatbot-sells-cars.html"
+  },
+  {
+    "id": "overloop",
+    "title": "Outbound on autopilot ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "GTM w/ AI",
+    "date": "2024-08-15",
+    "hasAds": true,
+    "url": "https://www.gtmwithai.co/p/overloop",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co"
+    },
+    "advertisers": [
+      {
+        "name": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/",
+        "logo": "logo_clickfunnels.png"
+      }
+    ],
+    "htmlFile": "/emails/overloop.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "design-tool-adobe-firefly-ibm",
+    "title": "IBM and Adobe Firefly",
+    "category": "Digital Products",
+    "description": "Create, modify, and optimize content with simple text prompts.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/design-tool-adobe-firefly-ibm",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-08-13T00:15:18.838942Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.clickfunnels.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/design-tool-adobe-firefly-ibm.html"
+  },
+  {
+    "id": "heygen-personalized-videos-scale",
+    "title": "38% increase in sales",
+    "category": "Digital Products",
+    "description": "Personalized AI-driven video content at scale",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/heygen-personalized-videos-scale",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-12T19:24:56.29872Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/heygen-personalized-videos-scale.html"
+  },
+  {
+    "id": "go-viral",
+    "title": "How to go viral",
+    "category": "Digital Products",
+    "description": "Social media strategy, planning, and content creation",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/go-viral",
+    "tags": [
+      "AI",
+      "Education",
+      "SaaS"
+    ],
+    "date": "2024-08-03T12:48:51.681101Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/go-viral.html"
+  },
+  {
+    "id": "scale-outbound-lead-generation",
+    "title": "Ava, your AI SDR",
+    "category": "Digital Products",
+    "description": "Scale outbound lead generation",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/scale-outbound-lead-generation",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-03T12:48:19.107612Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/scale-outbound-lead-generation.html"
+  },
+  {
+    "id": "double-ad-engagement",
+    "title": "Double Ad Engagement",
+    "category": "Digital Products",
+    "description": "Ad creation with AI generated content",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/double-ad-engagement",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2024-08-03T12:47:55.766343Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Stack Influence",
+        "url": "https://stackinfluence.com/",
+        "logo": "https://stackinfluence.com/wp-content/uploads/fbrfg/android-chrome-384x384.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/double-ad-engagement.html"
+  },
+  {
+    "id": "hour-one",
+    "title": "Convert Powerpoint to Video",
+    "category": "Digital Products",
+    "description": "Professional-grade videos accessible to everyone",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/hour-one",
+    "tags": [
+      "AI",
+      "E-commerce"
+    ],
+    "date": "2024-08-03T12:47:23.009163Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Black Crow AI",
+        "url": "https://www.blackcrow.ai/",
+        "logo": "https://framerusercontent.com/images/PBJ1cxehvwcz0y1yzmSuUCYFBE.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hour-one.html"
+  },
+  {
+    "id": "remote-gtm-jobs",
+    "title": "Remote GTM Jobs",
+    "category": "Digital Products",
+    "description": "Here’s the top remote jobs in GTM this week.",
+    "author": "GTM w/ AI",
+    "url": "https://www.gtmwithai.co/p/remote-gtm-jobs",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-02T22:02:40.463631Z",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://gtmwithai.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/remote-gtm-jobs.html"
+  },
+  {
+    "id": "25-increase-win-rates",
+    "title": "Gainsight increased win rates by 25%",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "GTM w/ AI",
+    "date": "2024-07-24",
+    "hasAds": true,
+    "url": "https://www.gtmwithai.co/p/25-increase-win-rates",
+    "publisher": {
+      "name": "GTM w/ AI",
+      "url": "https://www.gtmwithai.co"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/25-increase-win-rates.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

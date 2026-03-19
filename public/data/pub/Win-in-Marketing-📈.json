@@ -1,0 +1,106 @@
+[
+  {
+    "id": "how-to-get-leads-while-you-sleep",
+    "title": "How to get leads on autopilot",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Win in Marketing 📈",
+    "date": "2025-01-31",
+    "hasAds": true,
+    "url": "https://www.wininmarketing.biz/p/how-to-get-leads-while-you-sleep",
+    "publisher": {
+      "name": "Win in Marketing 📈",
+      "url": "https://www.wininmarketing.biz"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-get-leads-while-you-sleep.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "how-to-grow-your-saas-to-5k-mrr-without-spending-a-dime",
+    "title": "SAAS is your big ticket to wealth. Grow it with $0 today...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Win in Marketing 📈",
+    "date": "2025-01-17",
+    "hasAds": true,
+    "url": "https://www.wininmarketing.biz/p/how-to-grow-your-saas-to-5k-mrr-without-spending-a-dime",
+    "publisher": {
+      "name": "Win in Marketing 📈",
+      "url": "https://www.wininmarketing.biz"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-grow-your-saas-to-5k-mrr-without-spending-a-dime.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-100k-blueprint-for-copywriters",
+    "title": "Your blueprint to $100k in 2025 with copywriting",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Win in Marketing 📈",
+    "date": "2024-12-27",
+    "hasAds": true,
+    "url": "https://www.wininmarketing.biz/p/the-100k-blueprint-for-copywriters",
+    "publisher": {
+      "name": "Win in Marketing 📈",
+      "url": "https://www.wininmarketing.biz"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-100k-blueprint-for-copywriters.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "turn-one-piece-of-content-into-20-mastering-content-repurposing",
+    "title": "I turned 1 video into 20 pieces of content... here's how",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Win in Marketing 📈",
+    "date": "2024-12-20",
+    "hasAds": true,
+    "url": "https://www.wininmarketing.biz/p/turn-one-piece-of-content-into-20-mastering-content-repurposing",
+    "publisher": {
+      "name": "Win in Marketing 📈",
+      "url": "https://www.wininmarketing.biz"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/turn-one-piece-of-content-into-20-mastering-content-repurposing.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

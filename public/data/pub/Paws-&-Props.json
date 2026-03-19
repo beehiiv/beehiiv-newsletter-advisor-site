@@ -1,0 +1,103 @@
+[
+  {
+    "id": "vet-bills-are-rising-protect-your-pet-today",
+    "title": "Vet Bills Are Rising—Protect Your Pet Today",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Paws & Props",
+    "date": "2025-06-18",
+    "hasAds": true,
+    "url": "https://mypetsplaceshop.beehiiv.com/p/vet-bills-are-rising-protect-your-pet-today",
+    "publisher": {
+      "name": "Paws & Props",
+      "url": "https://mypetsplaceshop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/vet-bills-are-rising-protect-your-pet-today.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "smart-news-for-pet-lovers-on-the-go",
+    "title": "Smart News for Pet Lovers on the Go 🐶📰",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Paws & Props",
+    "date": "2025-06-07",
+    "hasAds": true,
+    "url": "https://mypetsplaceshop.beehiiv.com/p/smart-news-for-pet-lovers-on-the-go",
+    "publisher": {
+      "name": "Paws & Props",
+      "url": "https://mypetsplaceshop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/smart-news-for-pet-lovers-on-the-go.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "boost-your-pet-s-wellness-with-pop-nutrition",
+    "title": "Boost Your Pet’s Wellness with POP Nutrition!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Paws & Props",
+    "date": "2025-05-31",
+    "hasAds": true,
+    "url": "https://mypetsplaceshop.beehiiv.com/p/boost-your-pet-s-wellness-with-pop-nutrition",
+    "publisher": {
+      "name": "Paws & Props",
+      "url": "https://mypetsplaceshop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/boost-your-pet-s-wellness-with-pop-nutrition.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "supercharge-your-dog-s-health-with-pop-topper",
+    "title": "🦴 Supercharge Your Dog’s Health with POP-Topper!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Paws & Props",
+    "date": "2025-05-30",
+    "hasAds": true,
+    "url": "https://mypetsplaceshop.beehiiv.com/p/supercharge-your-dog-s-health-with-pop-topper",
+    "publisher": {
+      "name": "Paws & Props",
+      "url": "https://mypetsplaceshop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/supercharge-your-dog-s-health-with-pop-topper.html",
+    "tags": [
+      "Technology"
+    ]
+  }
+]

@@ -1,0 +1,772 @@
+[
+  {
+    "id": "in-defense-of-binging",
+    "title": "In defense of binging.",
+    "category": "Digital Products",
+    "description": "Why watching an entire season of your favorite show in one sitting (every once in a while) is actually good for your brain",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-24T18:11:40.621401Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SuppCo",
+        "url": "https://supp.co/",
+        "logo": "https://supp.co/images/pwa-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/in-defense-of-binging.html",
+    "hasAds": true
+  },
+  {
+    "id": "version-1-thinking",
+    "title": "Version 1.0 Thinking",
+    "category": "Digital Products",
+    "description": "Why treating everything as a rough draft makes you less stressed and more successful",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-18T20:32:02.688105Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/version-1-thinking.html",
+    "hasAds": true
+  },
+  {
+    "id": "60-000-thoughts-per-day",
+    "title": "Your brain won't shut up.",
+    "category": "Digital Products",
+    "description": "Why 60,000 daily thoughts are stealing your presence (and what to do about it).",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-11T22:40:23.449604Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/60-000-thoughts-per-day.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-ambition-tax",
+    "title": "The ambition tax.",
+    "category": "Digital Products",
+    "description": "Why pursuing goals is exhausting even when they're good goals.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/the-ambition-tax",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2026-02-05T02:30:56.147231Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Particle for Men",
+        "url": "https://www.particleformen.com/?mention=3",
+        "logo": "https://cdn.brandfetch.io/idoMA_v83d/w/1764/h/1764/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767785026723"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-ambition-tax.html"
+  },
+  {
+    "id": "five-more-minutes",
+    "title": "Five more minutes.",
+    "category": "Digital Products",
+    "description": "On snow days, friendship, and why adult efficiency is killing real connection.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/five-more-minutes",
+    "tags": [
+      "Education"
+    ],
+    "date": "2026-01-27T14:37:35.714575Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Acadia Learning",
+        "url": "https://acadialearning.org/",
+        "logo": "https://www.google.com/s2/favicons?domain=acadialearning.org&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/five-more-minutes.html"
+  },
+  {
+    "id": "covered-in-duct-tape",
+    "title": "Covered in duct tape.",
+    "category": "Digital Products",
+    "description": "A survival guide for the realization that you are still a work-in-progress.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/covered-in-duct-tape",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-21T15:04:49.061816Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/covered-in-duct-tape.html"
+  },
+  {
+    "id": "the-winter-blues",
+    "title": "The seasonal upsy downsies.",
+    "category": "Digital Products",
+    "description": "Why your brain gets wobbly in mid-January.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/the-winter-blues",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-13T19:02:07.206958Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-winter-blues.html"
+  },
+  {
+    "id": "giving-to-charity",
+    "title": "I write. You read. We give.",
+    "category": "Digital Products",
+    "description": "I'm not getting rich writing about happiness and stress, so let's give the money to animals instead.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/giving-to-charity",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2026-01-03T22:33:07.462172Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "EverQuote",
+        "url": "https://www.everquote.com/",
+        "logo": "https://www.everquote.com/icons/icon-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/giving-to-charity.html"
+  },
+  {
+    "id": "don-t-let-overthinking-sack-your-holiday-spirit",
+    "title": "Don't let overthinking sack your holiday spirit.",
+    "category": "Digital Products",
+    "description": "The difference between productive thinking and pointless rumination",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/don-t-let-overthinking-sack-your-holiday-spirit",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-12-17T15:43:30.476971Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/don-t-let-overthinking-sack-your-holiday-spirit.html"
+  },
+  {
+    "id": "holiday-generosity",
+    "title": "Your brain on generosity (it's a legal high)",
+    "category": "Digital Products",
+    "description": "How \"yes, and...\" thinking turns holiday obligation into opportunity",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/holiday-generosity",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-24T23:06:00.494463Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/holiday-generosity.html"
+  },
+  {
+    "id": "benefits-of-walking",
+    "title": "Sometimes the best walk is the one you don't count.",
+    "category": "Digital Products",
+    "description": "The research-backed case for moving your body without turning it into homework.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/benefits-of-walking",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-05T15:58:28.021958Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/benefits-of-walking.html"
+  },
+  {
+    "id": "inner-monster",
+    "title": "Embrace your inner monster.",
+    "category": "Digital Products",
+    "description": "Because some feelings deserve to wear capes and fangs.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/inner-monster",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-10-28T23:26:15.838331Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/inner-monster.html"
+  },
+  {
+    "id": "the-sweet-spot-between-everything-s-amazing-and-we-re-all-doomed-f3d0229735b90c75",
+    "title": "The sweet spot between \"everything's amazing\" and \"we're all doomed.\"",
+    "category": "Digital Products",
+    "description": "Why realistic optimism beats blind hope and crushing pessimism every time",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/the-sweet-spot-between-everything-s-amazing-and-we-re-all-doomed-f3d0229735b90c75",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-10-22T15:03:30.262145Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-sweet-spot-between-everything-s-amazing-and-we-re-all-doomed-f3d0229735b90c75.html"
+  },
+  {
+    "id": "i-m-not-a-fishtologist-but-i-think-goldfish-are-onto-something-8ec0",
+    "title": "I'm not a fishtologist, but I think goldfish are onto something.",
+    "category": "Digital Products",
+    "description": "Why remembering every mistake you've ever made is ruining your happiness",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/i-m-not-a-fishtologist-but-i-think-goldfish-are-onto-something-8ec0",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-15T21:07:55.992373Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-m-not-a-fishtologist-but-i-think-goldfish-are-onto-something-8ec0.html"
+  },
+  {
+    "id": "imperfect-circle",
+    "title": "Here's to you, you glorious imperfect circle.",
+    "category": "Digital Products",
+    "description": "Why your incomplete circles are exactly what make you interesting",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/imperfect-circle",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-08T15:54:52.662204Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/imperfect-circle.html"
+  },
+  {
+    "id": "lettuce-be-real",
+    "title": "Lettuce be real.",
+    "category": "Digital Products",
+    "description": "Nutritious food helps your brain.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/lettuce-be-real",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-26T01:02:47.926423Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lettuce-be-real.html"
+  },
+  {
+    "id": "dear-nap",
+    "title": "Dear nap.",
+    "category": "Digital Products",
+    "description": "I'm sorry that I was a jerk to you most of my life.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/dear-nap",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-08-18T16:23:14.163024Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Medik8",
+        "url": "https://www.medik8.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.medik8.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dear-nap.html"
+  },
+  {
+    "id": "breathe-in-the-good-stuff",
+    "title": "Breathe in the good stuff.",
+    "category": "Digital Products",
+    "description": "...Oxygen. For anyone who thought I meant something more exciting, sorry to disappoint.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/breathe-in-the-good-stuff",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-13T14:19:57.331337Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "https://cdn.prod.website-files.com/60e33881a96433966407b814/60e629c31c45376c2100b664_widget.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/breathe-in-the-good-stuff.html"
+  },
+  {
+    "id": "be-the-mike-you-want-to-see-in-the-world",
+    "title": "Be the Mike you want to see in the world.",
+    "category": "Digital Products",
+    "description": "The surprising ripple effect of cheerful greetings and why I’ve been stealing this one for nearly 20 years.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/be-the-mike-you-want-to-see-in-the-world",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-08-03T18:31:58.188979Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/be-the-mike-you-want-to-see-in-the-world.html",
+    "hasAds": true
+  },
+  {
+    "id": "unroll-yourself-before-you-scroll-yourself",
+    "title": "Unroll yourself before you scroll yourself.",
+    "category": "Digital Products",
+    "description": "Stretch first. Scroll later. (Or never.)",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/unroll-yourself-before-you-scroll-yourself",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-30T15:43:29.842333Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/unroll-yourself-before-you-scroll-yourself.html"
+  },
+  {
+    "id": "it-aint-about-who-ya-arent",
+    "title": "It ain't about who ya aren't.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Chill The Duck Out",
+    "date": "2025-07-03",
+    "hasAds": true,
+    "url": "https://www.chilltheduckout.com/p/it-aint-about-who-ya-arent",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/it-aint-about-who-ya-arent.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-good-kind-of-goosebumps",
+    "title": "The good kind of goosebumps.",
+    "category": "Digital Products",
+    "description": "Why chasing those tiny chills can give your brain a big happiness boost.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/the-good-kind-of-goosebumps",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-12T16:58:31.926524Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-good-kind-of-goosebumps.html"
+  },
+  {
+    "id": "let-that-pigeon-go",
+    "title": "Let that pigeon go.",
+    "category": "Digital Products",
+    "description": "Free your mind, forgive a pigeon, and reclaim your emotional real estate.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/let-that-pigeon-go",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-05T17:08:28.139075Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/let-that-pigeon-go.html"
+  },
+  {
+    "id": "when-demons-cheer-you-on",
+    "title": "When demons cheer you on.",
+    "category": "Digital Products",
+    "description": "Turns out that even your little fears are secretly rooting for you.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/when-demons-cheer-you-on",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-24T01:13:35.880874Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-demons-cheer-you-on.html"
+  },
+  {
+    "id": "feelings-are-like-farts",
+    "title": "Feelings are like farts.",
+    "category": "Digital Products",
+    "description": "Bottling them up never ends well for anyone.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/feelings-are-like-farts",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-19T00:33:58.893034Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feelings-are-like-farts.html"
+  },
+  {
+    "id": "activate-your-inner-popsicle",
+    "title": "Activate your inner popsicle.",
+    "category": "Digital Products",
+    "description": "The summer survival guide your nervous system didn’t know it needed.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/activate-your-inner-popsicle",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-03T00:00:39.154098Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/activate-your-inner-popsicle.html"
+  },
+  {
+    "id": "long-weekend-energy-activated",
+    "title": "Long weekend energy: activated.",
+    "category": "Digital Products",
+    "description": "Because sometimes you need all three days just to remember how to breathe.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/long-weekend-energy-activated",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-04-02T17:47:57.454513Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/long-weekend-energy-activated.html"
+  },
+  {
+    "id": "stash-the-cash",
+    "title": "Stash the Cash",
+    "category": "Digital Products",
+    "description": "Because future-you deserves $5 and a moderately stable nervous system.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/stash-the-cash",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-04-01T20:20:10.402033Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "htmlFile": "/emails/stash-the-cash.html",
+    "hasAds": true
+  },
+  {
+    "id": "touch-grass-save-your-brain",
+    "title": "Touch grass, save your brain.",
+    "category": "Digital Products",
+    "description": "Your nervous system called. It wants your shoes off.",
+    "author": "Chill The Duck Out",
+    "url": "https://www.chilltheduckout.com/p/touch-grass-save-your-brain",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-01T20:00:20.050468Z",
+    "publisher": {
+      "name": "Chill The Duck Out",
+      "url": "https://www.chilltheduckout.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/touch-grass-save-your-brain.html"
+  }
+]

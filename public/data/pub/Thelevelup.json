@@ -1,0 +1,28 @@
+[
+  {
+    "id": "nature-not-hurry",
+    "title": "Nature is not in a hurry",
+    "category": "Digital Products",
+    "description": "Growth is almost never visible right now but staggering over long periods of time",
+    "author": "Thelevelup",
+    "url": "https://www.thelevelup.co.in/p/nature-not-hurry",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-08-02T03:53:46.616904Z",
+    "publisher": {
+      "name": "Thelevelup",
+      "url": "https://thelevelup.co.in",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nature-not-hurry.html"
+  }
+]

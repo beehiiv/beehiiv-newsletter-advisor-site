@@ -1,0 +1,914 @@
+[
+  {
+    "id": "winning-is-a-liar",
+    "title": "Winning Is a Liar",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "CoachLync",
+    "date": "2026-02-27",
+    "hasAds": true,
+    "url": "https://coachlync.beehiiv.com/p/winning-is-a-liar",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://coachlync.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "SuppCo",
+        "url": "https://supp.co/",
+        "logo": "supp-logo-color_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/winning-is-a-liar.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "google-me-how-programs-are-built",
+    "title": "Google Me → How Programs Are Built",
+    "category": "Digital Products",
+    "description": "One Tool. One Minute. Every Monday.",
+    "author": "CoachLync",
+    "url": "https://coachlync.beehiiv.com/p/google-me-how-programs-are-built",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-23T00:00:00Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://coachlync.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/google-me-how-programs-are-built.html",
+    "hasAds": true
+  },
+  {
+    "id": "if-they-need-you-you-failed",
+    "title": "If They “Need” You, You Failed",
+    "category": "Digital Products",
+    "description": "We are all useful, but none of us are necessary.",
+    "author": "CoachLync",
+    "url": "https://coachlync.beehiiv.com",
+    "tags": [
+      "Careers",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-15T05:35:35.396322Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://coachlync.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/if-they-need-you-you-failed.html",
+    "hasAds": true
+  },
+  {
+    "id": "they-studied-wooden-he-taught-differently",
+    "title": "They Studied Wooden. He Taught Differently.",
+    "category": "Digital Products",
+    "description": "One Tool. One Minute. Every Monday.",
+    "author": "CoachLync",
+    "url": "https://coachlync.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-14T01:13:15.990703Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://coachlync.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/they-studied-wooden-he-taught-differently.html",
+    "hasAds": true
+  },
+  {
+    "id": "what-about-the-other-96",
+    "title": "What About the Other 96%?",
+    "category": "Digital Products",
+    "description": "Why practices, bus rides, and ordinary days matter more than games.",
+    "author": "CoachLync",
+    "url": "https://coachlync.beehiiv.com",
+    "tags": [
+      "Finance",
+      "Health",
+      "Newsletter"
+    ],
+    "date": "2026-02-10T22:15:55.221517Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://coachlync.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      },
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/what-about-the-other-96.html",
+    "hasAds": true
+  },
+  {
+    "id": "are-your-players-committed-or-just-compliant",
+    "title": "Are Your Players Committed - or Just Compliant?",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://coachlync.beehiiv.com",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2026-02-08T14:39:14.059262Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://coachlync.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Particle for Men",
+        "url": "https://www.particleformen.com/?mention=3",
+        "logo": "https://cdn.brandfetch.io/idoMA_v83d/w/1764/h/1764/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767785026723"
+      }
+    ],
+    "htmlFile": "/emails/are-your-players-committed-or-just-compliant.html",
+    "hasAds": true
+  },
+  {
+    "id": "fear-this-and-you-ll-fear-nothing",
+    "title": "Fear This, and You’ll Fear Nothing",
+    "category": "Digital Products",
+    "description": "Your fears reveal more than you realize.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/fear-this-and-you-ll-fear-nothing",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-31T23:12:16.702785Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fear-this-and-you-ll-fear-nothing.html"
+  },
+  {
+    "id": "eric-musselman-built-a-motivation-system",
+    "title": "Eric Musselman Built a Motivation System",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/eric-musselman-built-a-motivation-system",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-31T01:46:18.066796Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/eric-musselman-built-a-motivation-system.html"
+  },
+  {
+    "id": "the-greatest-gap-in-life",
+    "title": "The Greatest Gap in Life",
+    "category": "Digital Products",
+    "description": "Daily discipline, practiced consistently, closes the gap.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/the-greatest-gap-in-life",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-24T23:23:04.448067Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-greatest-gap-in-life.html"
+  },
+  {
+    "id": "save-this-use-it-be-honest",
+    "title": "📌 Save this. Use it. Be honest.",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/save-this-use-it-be-honest",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-24T17:10:45.618172Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/save-this-use-it-be-honest.html"
+  },
+  {
+    "id": "coaches-forget-players-don-t",
+    "title": "Coaches Forget. Players Don’t.",
+    "category": "Digital Products",
+    "description": "Players aren’t as special to coaches as coaches are to players.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/coaches-forget-players-don-t",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-19T03:52:56.40632Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/coaches-forget-players-don-t.html",
+    "hasAds": true
+  },
+  {
+    "id": "mike-vrabel-s-most-impactful-culture-tool",
+    "title": "Mike Vrabel’s Most Impactful Culture Tool",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/mike-vrabel-s-most-impactful-culture-tool",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-17T18:41:01.669285Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/mike-vrabel-s-most-impactful-culture-tool.html",
+    "hasAds": true
+  },
+  {
+    "id": "breaking-iu-football-existed-before-cignetti",
+    "title": "BREAKING: IU Football Existed Before Cignetti",
+    "category": "Digital Products",
+    "description": "I’ve Been an IU Fan for Decades → Here's the full story",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/breaking-iu-football-existed-before-cignetti",
+    "tags": [
+      "Health",
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2026-01-10T21:11:31.038469Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/breaking-iu-football-existed-before-cignetti.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-one-tool-i-use-everyday",
+    "title": "The One Tool I Use Everyday",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/the-one-tool-i-use-everyday",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-10T19:33:23.329352Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-one-tool-i-use-everyday.html"
+  },
+  {
+    "id": "competitive-stress-is-a-virus",
+    "title": "Competitive Stress Is a Virus",
+    "category": "Digital Products",
+    "description": "Dr. Rainer Martens warned us about this decades ago",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/competitive-stress-is-a-virus",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2026-01-04T00:47:53.596534Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      },
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/competitive-stress-is-a-virus.html"
+  },
+  {
+    "id": "most-coaches-don-t-have-a-tool-for-this",
+    "title": "Most Coaches Don’t Have a Tool for This",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/most-coaches-don-t-have-a-tool-for-this",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-02T02:10:26.634955Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/most-coaches-don-t-have-a-tool-for-this.html"
+  },
+  {
+    "id": "inside-the-data-6-000-coaches-speak",
+    "title": "Inside the Data: 6,000 Coaches Speak",
+    "category": "Digital Products",
+    "description": "The results reveal a silent crisis affecting coaches.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/inside-the-data-6-000-coaches-speak",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2025-12-28T19:27:01.963169Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      },
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/inside-the-data-6-000-coaches-speak.html"
+  },
+  {
+    "id": "goals-are-built-to-fail",
+    "title": "Goals Are Built to Fail",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/goals-are-built-to-fail",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-25T21:27:24.717228Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/goals-are-built-to-fail.html"
+  },
+  {
+    "id": "the-season-most-leaders-don-t-survive",
+    "title": "The Season Most Leaders Don’t Survive",
+    "category": "Digital Products",
+    "description": "Not everyone makes it through, but this is where leaders are formed.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/the-season-most-leaders-don-t-survive",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-12-20T03:02:27.866962Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      },
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "https://cdn.prod.website-files.com/693317e747432cd054b3bdc6/693318d5adf6755726c17fae_Dark.png"
+      }
+    ],
+    "htmlFile": "/emails/the-season-most-leaders-don-t-survive.html",
+    "hasAds": true
+  },
+  {
+    "id": "sign-this-change-your-program",
+    "title": "Sign This. Change Your Program.",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/sign-this-change-your-program",
+    "tags": [
+      "Creativity",
+      "SaaS"
+    ],
+    "date": "2025-12-19T23:15:52.744908Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Riverside",
+        "url": "https://riverside.com/",
+        "logo": "https://cdn.prod.website-files.com/685be7dcd32275d3830651d3/685be7dcd32275d383065e48_RS_favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sign-this-change-your-program.html"
+  },
+  {
+    "id": "the-nick-saban-process",
+    "title": "The Nick Saban Process",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/the-nick-saban-process",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-12-13T23:25:44.299931Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-nick-saban-process.html"
+  },
+  {
+    "id": "rick-carlisle-uses-this-for-role-clarity",
+    "title": "Rick Carlisle Uses This for Role Clarity",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/rick-carlisle-uses-this-for-role-clarity",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-28T22:08:46.700129Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rick-carlisle-uses-this-for-role-clarity.html"
+  },
+  {
+    "id": "a-better-way-to-give-feedback",
+    "title": "A Better Way to Give Feedback",
+    "category": "Digital Products",
+    "description": "One tool. One minute. One better week.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/a-better-way-to-give-feedback",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-24T20:37:11.072304Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-better-way-to-give-feedback.html"
+  },
+  {
+    "id": "this-key-unlocks-everything",
+    "title": "This Key Unlocks Everything",
+    "category": "Digital Products",
+    "description": "If you feel stuck, start here. Nothing works until this does.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/this-key-unlocks-everything",
+    "tags": [
+      "Health",
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-11-22T22:56:04.711894Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      },
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/this-key-unlocks-everything.html"
+  },
+  {
+    "id": "coach-we-have-a-hero-problem",
+    "title": "Coach, We Have a Hero Problem",
+    "category": "Digital Products",
+    "description": "The hero we celebrate isn’t the hero we need.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/coach-we-have-a-hero-problem",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-11-22T22:47:46.048134Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "https://cdn.prod.website-files.com/693317e747432cd054b3bdc6/693318d5adf6755726c17fae_Dark.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/coach-we-have-a-hero-problem.html"
+  },
+  {
+    "id": "the-silent-killer-of-growth",
+    "title": "The Silent Killer of Growth",
+    "category": "Digital Products",
+    "description": "Don’t confuse information for transformation.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/the-silent-killer-of-growth",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-22T14:45:23.088452Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      },
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-silent-killer-of-growth.html"
+  },
+  {
+    "id": "they-re-angry-and-you-re-next",
+    "title": "They’re angry, and you're next!",
+    "category": "Digital Products",
+    "description": "You’ll feel them before you see them.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/they-re-angry-and-you-re-next",
+    "tags": [
+      "Business",
+      "Marketing"
+    ],
+    "date": "2025-11-15T02:37:55.847748Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      },
+      {
+        "name": "Livelong Media",
+        "url": "https://livelongmedia.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d081bbcb-4b10-48e0-964e-0a1c4cc9ce2e/thumb_IMG_0333.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/they-re-angry-and-you-re-next.html"
+  },
+  {
+    "id": "i-got-kicked-out-again",
+    "title": "I Got Kicked Out ... Again!",
+    "category": "Digital Products",
+    "description": "Got tossed. And this time, I deserved it.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/i-got-kicked-out-again",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2025-11-09T21:13:13.401724Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Polymarket",
+        "url": "https://polymarket.com/",
+        "logo": "https://polymarket.com/icons/android-chrome-384x384.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-got-kicked-out-again.html"
+  },
+  {
+    "id": "conversations-you-ll-never-hear",
+    "title": "Conversations You'll Never Hear",
+    "category": "Digital Products",
+    "description": "What your team says when you’re not in the room.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/conversations-you-ll-never-hear",
+    "tags": [
+      "AI",
+      "Business",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-11-02T20:06:05.97254Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/conversations-you-ll-never-hear.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-hardest-question-in-coaching",
+    "title": "The Hardest Question in Coaching",
+    "category": "Digital Products",
+    "description": "Every coach faces it. Few answer it honestly.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/the-hardest-question-in-coaching",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-10-25T14:47:56.718951Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "https://cdn.prod.website-files.com/68daa87cfade9832b6e1c806/6998dde5b71b407238d7ebb4_author.inc-webclip-black.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hardest-question-in-coaching.html"
+  },
+  {
+    "id": "you-won-t-be-remembered-and-that-s-okay",
+    "title": "You Won’t Be Remembered - and That’s Okay",
+    "category": "Digital Products",
+    "description": "The uncomfortable truth about time, legacy, and what actually lasts.",
+    "author": "CoachLync",
+    "url": "https://cvep3olywi.beehiiv.com/p/you-won-t-be-remembered-and-that-s-okay",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-10-18T16:32:52.708189Z",
+    "publisher": {
+      "name": "CoachLync",
+      "url": "https://cvep3olywi.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-won-t-be-remembered-and-that-s-okay.html"
+  }
+]

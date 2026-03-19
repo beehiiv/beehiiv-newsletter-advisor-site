@@ -1,0 +1,965 @@
+[
+  {
+    "id": "night-shift",
+    "title": "Night Shift",
+    "category": "Digital Products",
+    "description": "Dreams | On Freud, REM sleep, and your private catalogue",
+    "author": "The Thought",
+    "url": "https://thethought.writtenself.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-18T21:43:28.679687Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://thethought.writtenself.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/night-shift.html",
+    "hasAds": true
+  },
+  {
+    "id": "overdue",
+    "title": "Overdue",
+    "category": "Digital Products",
+    "description": "Procrastination | On the gap between intention and action",
+    "author": "The Thought",
+    "url": "https://thethought.writtenself.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-14T23:01:31.443448Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://thethought.writtenself.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/overdue.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-thread",
+    "title": "The Thread",
+    "category": "Digital Products",
+    "description": "Temporal Self-Continuity | On the story between selves",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/the-thread",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-03T18:43:19.032553Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-thread.html"
+  },
+  {
+    "id": "you-me",
+    "title": "You & Me",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/you-me",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-25T17:10:20.025297Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-me.html"
+  },
+  {
+    "id": "the-rewrite",
+    "title": "The Rewrite",
+    "category": "Digital Products",
+    "description": "Meaning Reconstruction | How disruption reshapes meaning",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/the-rewrite",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-13T22:56:26.645169Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-rewrite.html"
+  },
+  {
+    "id": "present-tense",
+    "title": "Present Tense",
+    "category": "Digital Products",
+    "description": "Recency Bias | Why today rewrites yesterday",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/present-tense",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-13T22:35:26.901283Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/present-tense.html"
+  },
+  {
+    "id": "vanishing-point",
+    "title": "Vanishing Point",
+    "category": "Digital Products",
+    "description": "Awe | When fear meets wonder",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/vanishing-point",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-12-03T03:58:35.92231Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Climatize",
+        "url": "https://climatize.earth/",
+        "logo": "https://www.google.com/s2/favicons?domain=climatize.earth&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/vanishing-point.html"
+  },
+  {
+    "id": "steel-and-water",
+    "title": "Steel and Water",
+    "category": "Digital Products",
+    "description": "Self-Concept Clarity | The cost of contradiction",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/steel-and-water",
+    "tags": [
+      "Education"
+    ],
+    "date": "2025-11-27T23:42:45.062805Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/steel-and-water.html"
+  },
+  {
+    "id": "becoming-untrue",
+    "title": "Becoming Untrue",
+    "category": "Digital Products",
+    "description": "On self-fulfilling prophecy and what Professor Cabrera got wrong",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/becoming-untrue",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-11-19T01:03:23.35857Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/becoming-untrue.html"
+  },
+  {
+    "id": "room-amnesia",
+    "title": "Room Amnesia",
+    "category": "Digital Products",
+    "description": "Context-Dependent Memory | Why memory responds to where you stand",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/room-amnesia",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-18T19:57:37.411972Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/room-amnesia.html"
+  },
+  {
+    "id": "first-language",
+    "title": "First Language",
+    "category": "Digital Products",
+    "description": "On sensory grounding and the signal your body cannot ignore",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/first-language",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-12T00:40:30.440571Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/first-language.html",
+    "hasAds": true
+  },
+  {
+    "id": "living-backwards",
+    "title": "Living Backwards",
+    "category": "Digital Products",
+    "description": "On mortality salience and why limits sharpen life",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/living-backwards",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-11-09T23:57:24.512454Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/living-backwards.html"
+  },
+  {
+    "id": "taste-of-time",
+    "title": "Taste of Time",
+    "category": "Digital Products",
+    "description": "On the Proust Effect, presence, and how memory hides in taste",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/taste-of-time",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-06T20:12:34.860049Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/taste-of-time.html",
+    "hasAds": true
+  },
+  {
+    "id": "time-traveller",
+    "title": "Time Traveller",
+    "category": "Digital Products",
+    "description": "On hyperbolic discounting, cake and time travel",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/time-traveller",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-03T01:55:55.319078Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/time-traveller.html"
+  },
+  {
+    "id": "loss-intolerant",
+    "title": "Loss Intolerant",
+    "category": "Digital Products",
+    "description": "Loss Aversion | When regret outweighs curiosity",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/loss-intolerant",
+    "tags": [
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-10-26T21:27:01.154605Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "https://cdn.prod.website-files.com/68daa87cfade9832b6e1c806/6998dde5b71b407238d7ebb4_author.inc-webclip-black.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/loss-intolerant.html"
+  },
+  {
+    "id": "bound-stillness",
+    "title": "Bound Stillness",
+    "category": "Digital Products",
+    "description": "Learned Helplessness | How memory replaces possibility",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/bound-stillness",
+    "tags": [
+      "Finance",
+      "Health",
+      "Newsletter"
+    ],
+    "date": "2025-10-22T21:41:11.62061Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      },
+      {
+        "name": "Contrarian Thinking",
+        "url": "https://contrarianthinking.co/",
+        "logo": "https://cdn.prod.website-files.com/68e115fc831e570c03211e76/68fac37c2ce8d9b3393de4a7_webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bound-stillness.html"
+  },
+  {
+    "id": "outsourced-mind",
+    "title": "Outsourced Mind",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Thought",
+    "date": "2025-10-21",
+    "hasAds": true,
+    "url": "https://thethought.writtenself.com/p/outsourced-mind",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://thethought.writtenself.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "momentous-logo-lockup-horizontal-BLK-WEB__1__1.png"
+      }
+    ],
+    "htmlFile": "/emails/outsourced-mind.html",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "third-choice",
+    "title": "Third Choice",
+    "category": "Digital Products",
+    "description": "Decoy Effect | How inferior options steer choice",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/third-choice",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-12T18:38:05.860349Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/third-choice.html"
+  },
+  {
+    "id": "inertia-of-choice",
+    "title": "Inertia of Choice",
+    "category": "Digital Products",
+    "description": "Status Quo Bias | Why we stay where we are",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/inertia-of-choice",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-09T03:10:29.869903Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/inertia-of-choice.html"
+  },
+  {
+    "id": "compulsive-storytelling",
+    "title": "Compulsive Storytelling",
+    "category": "Digital Products",
+    "description": "Narrative Fallacy | How stories override facts",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/compulsive-storytelling",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-28T18:02:53.864383Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/compulsive-storytelling.html"
+  },
+  {
+    "id": "depthless",
+    "title": "Depthless",
+    "category": "Digital Products",
+    "description": "Illusion of Explanatory Depth | When confidence replaces understanding",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/depthless",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-17T17:06:38.084748Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/depthless.html"
+  },
+  {
+    "id": "peak-ignorance",
+    "title": "Peak Ignorance",
+    "category": "Digital Products",
+    "description": "Dunning-Kruger Effect | Why ignorance feels like mastery",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/peak-ignorance",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-09-14T21:58:09.162686Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/peak-ignorance.html"
+  },
+  {
+    "id": "favour-forward",
+    "title": "Favour Forward",
+    "category": "Digital Products",
+    "description": "Ben Franklin Effect | How helping rewires thinking",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/favour-forward",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-06T20:26:21.27901Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/favour-forward.html"
+  },
+  {
+    "id": "powerful-weakness",
+    "title": "Powerful Weakness",
+    "category": "Digital Products",
+    "description": "Vulnerability Paradox | Why weakness connects us",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/powerful-weakness",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-06T20:25:18.110279Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/powerful-weakness.html"
+  },
+  {
+    "id": "shadow-of-attention",
+    "title": "Shadow of Attention",
+    "category": "Digital Products",
+    "description": "Purpose Paradox | Why seekers miss their calling",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/shadow-of-attention",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-09-03T16:25:38.811988Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/shadow-of-attention.html"
+  },
+  {
+    "id": "paradox-of-numbers",
+    "title": "Paradox of Numbers",
+    "category": "Digital Products",
+    "description": "Bystander Effect | The psychology behind collective paralysis",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/paradox-of-numbers",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-27T14:07:39.40709Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/paradox-of-numbers.html"
+  },
+  {
+    "id": "gut-morality",
+    "title": "Gut Morality",
+    "category": "Digital Products",
+    "description": "Moral Foundations Theory | The instinct behind right and wrong",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/gut-morality",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-08-24T17:08:41.445221Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "https://contra.com/static/media/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gut-morality.html"
+  },
+  {
+    "id": "paths-to-power",
+    "title": "Paths to Power",
+    "category": "Digital Products",
+    "description": "Dominance & prestige | On the power split",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/paths-to-power",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-12T19:02:47.978242Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/paths-to-power.html"
+  },
+  {
+    "id": "altitude-problem",
+    "title": "Altitude Problem",
+    "category": "Digital Products",
+    "description": "Power Paradox | Why power clouds empathy",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/altitude-problem",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-10T17:34:13.844895Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/altitude-problem.html"
+  },
+  {
+    "id": "built-to-break",
+    "title": "Built to Break",
+    "category": "Digital Products",
+    "description": "Allostatic Load | How stress reshapes biology",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/built-to-break",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-07T18:17:20.144573Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superpower",
+        "url": "https://superpower.com/",
+        "logo": "https://cdn.prod.website-files.com/63792ff4f3d6aa3d62071b61/655e22ddea1ce803df04bcae_sp-.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/built-to-break.html"
+  },
+  {
+    "id": "paradox-of-plenty",
+    "title": "Paradox of Plenty",
+    "category": "Digital Products",
+    "description": "Decision Paralysis | Why abundance backfires",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/paradox-of-plenty",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-04T15:08:09.906271Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/paradox-of-plenty.html"
+  },
+  {
+    "id": "hidden-timer",
+    "title": "Hidden Timer",
+    "category": "Digital Products",
+    "description": "Ultradian Rhythms | The cycle behind our focus",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/hidden-timer",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-01T15:49:33.715447Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hidden-timer.html"
+  },
+  {
+    "id": "tied-differently",
+    "title": "Tied Differently",
+    "category": "Digital Products",
+    "description": "Divergent Thinking | The art of seeing sideways",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/tied-differently",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-07-31T02:13:12.971298Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/tied-differently.html",
+    "hasAds": true
+  },
+  {
+    "id": "knowledge-trap",
+    "title": "Knowledge Trap",
+    "category": "Digital Products",
+    "description": "Paradox of Expertise | How knowledge limits creativity",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/knowledge-trap",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-28T17:08:02.471903Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/knowledge-trap.html"
+  },
+  {
+    "id": "circles-we-keep",
+    "title": "Circles We Keep ",
+    "category": "Digital Products",
+    "description": "Why similarity shapes trust",
+    "author": "The Thought",
+    "url": "https://daily.onsubtext.com/p/circles-we-keep",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-20T19:32:12.049764Z",
+    "publisher": {
+      "name": "The Thought",
+      "url": "https://daily.onsubtext.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/circles-we-keep.html"
+  }
+]

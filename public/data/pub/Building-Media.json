@@ -1,0 +1,134 @@
+[
+  {
+    "id": "wtf-to-watch-this-week-in-web3",
+    "title": "WTF to watch this week in Web3 🤔 ",
+    "category": "Digital Products",
+    "description": "Bonus: aixbt mindshare, age of ai agents?",
+    "author": "Building Media",
+    "url": "https://blog.buildingweb3media.com/p/wtf-to-watch-this-week-in-web3",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2024-12-31T03:09:16.561599Z",
+    "publisher": {
+      "name": "Building Media",
+      "url": "https://blog.buildingweb3media.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "VaultCraft",
+        "url": "https://vaultcraft.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=vaultcraft.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wtf-to-watch-this-week-in-web3.html"
+  },
+  {
+    "id": "building-web3-2024-crypto-recap-e509",
+    "title": "🏗️ Building Web3: Extraditions, Wall Street, and $200K Bitcoin? ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Building Media",
+    "url": "https://blog.buildingweb3media.com/p/building-web3-2024-crypto-recap-e509",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-12-28T04:41:22.096454Z",
+    "publisher": {
+      "name": "Building Media",
+      "url": "https://blog.buildingweb3media.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/building-web3-2024-crypto-recap-e509.html"
+  },
+  {
+    "id": "weekly-web3-recap-gensler-out-aths-in",
+    "title": "Weekly Web3 Recap: Gensler OUT, ATHs IN 🫡      ",
+    "category": "Digital Products",
+    "description": "Bonus: Top 3 in Mainstream + Deal Flow Friday",
+    "author": "Building Media",
+    "url": "https://blog.buildingweb3media.com/p/weekly-web3-recap-gensler-out-aths-in",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2024-11-23T04:19:38.324419Z",
+    "publisher": {
+      "name": "Building Media",
+      "url": "https://blog.buildingweb3media.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Decentraland",
+        "url": "https://decentraland.org/",
+        "logo": "https://decentraland.org/icons/icon-512x512.png?v=b57be10317666edc399e2bdf863f26bf"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/weekly-web3-recap-gensler-out-aths-in.html"
+  },
+  {
+    "id": "technical-memecoin-sandwich-for-your-hump-day",
+    "title": "Technical memecoin sandwich for your hump day 🐪",
+    "category": "Digital Products",
+    "description": "Bonus: Technical roundup + Vitalik jumps into memecoins",
+    "author": "Building Media",
+    "url": "https://blog.buildingweb3media.com/p/technical-memecoin-sandwich-for-your-hump-day",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-11-21T04:08:42.368899Z",
+    "publisher": {
+      "name": "Building Media",
+      "url": "https://blog.buildingweb3media.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/technical-memecoin-sandwich-for-your-hump-day.html"
+  },
+  {
+    "id": "breaking-fbi-raids-polymarket-ceo",
+    "title": "Breaking: FBI raids Polymarket CEO! 🚨",
+    "category": "Digital Products",
+    "description": "Bonus: Coinbase + Bridge make Onchain easy AND BTC + MSTR UP",
+    "author": "Building Media",
+    "url": "https://blog.buildingweb3media.com/p/breaking-fbi-raids-polymarket-ceo",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2024-11-13T19:57:28.964622Z",
+    "publisher": {
+      "name": "Building Media",
+      "url": "https://blog.buildingweb3media.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Decentraland",
+        "url": "https://decentraland.org/",
+        "logo": "https://decentraland.org/icons/icon-512x512.png?v=b57be10317666edc399e2bdf863f26bf"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/breaking-fbi-raids-polymarket-ceo.html"
+  }
+]

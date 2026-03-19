@@ -1,0 +1,95 @@
+name: Import New Ads
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Daily at 6am UTC
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Python dependencies
+        run: pip install requests
+
+      - name: Fetch new posts from Metabase
+        env:
+          METABASE_EMAIL: ${{ secrets.METABASE_EMAIL }}
+          METABASE_PASSWORD: ${{ secrets.METABASE_PASSWORD }}
+        run: python scripts/fetch-missing-posts.py
+
+      - name: Fetch HTML email content for new posts
+        env:
+          METABASE_EMAIL: ${{ secrets.METABASE_EMAIL }}
+          METABASE_PASSWORD: ${{ secrets.METABASE_PASSWORD }}
+        run: node scripts/fetch-missing-html-fast.cjs
+
+      - name: Classify new advertisers
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/classify-new-advertisers.py
+
+      - name: Rebuild showcase and advertiser pages
+        run: |
+          node scripts/build-top-showcase.cjs
+          node scripts/build-advertiser-pages.cjs
+
+      - name: Detect new advertisers
+        id: detect
+        run: |
+          NEW_ADVS=$(git diff -- scripts/advertiser-tags.json | grep '^+  "' | grep -v '^+++' | sed 's/^+  "//;s/": \[.*//' | head -50)
+          if [ -n "$NEW_ADVS" ]; then
+            echo "has_new=true" >> $GITHUB_OUTPUT
+            EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+            echo "names<<$EOF" >> $GITHUB_OUTPUT
+            echo "$NEW_ADVS" >> $GITHUB_OUTPUT
+            echo "$EOF" >> $GITHUB_OUTPUT
+            echo "count=$(echo "$NEW_ADVS" | wc -l | tr -d ' ')" >> $GITHUB_OUTPUT
+          else
+            echo "has_new=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No new ads to import"
+          else
+            git commit -m "Import new ads $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Notify Slack of new advertisers
+        if: steps.detect.outputs.has_new == 'true'
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          COUNT="${{ steps.detect.outputs.count }}"
+          NAMES="${{ steps.detect.outputs.names }}"
+          FORMATTED=$(echo "$NAMES" | sed 's/^/• /' | head -20)
+          if [ "$COUNT" -gt 20 ]; then
+            FORMATTED="$FORMATTED
+          ...and $((COUNT - 20)) more"
+          fi
+          curl -s -X POST "$SLACK_WEBHOOK" \
+            -H 'Content-Type: application/json' \
+            -d "$(python3 -c "
+          import json, sys
+          text = ':mega: *${COUNT} new advertiser(s) added to Very Good Ads*\n\n${FORMATTED}\n\n<https://www.goodads.io/advertisers|View all advertisers>'
+          print(json.dumps({'text': text.replace('\n', '\\n')}))
+          ")"

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "i-ve-been-meaning-to-write-this",
+    "title": "I've been meaning to write this...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "I'm Lucky Lawrence",
+    "date": "2025-11-29",
+    "hasAds": true,
+    "url": "https://www.imluckylawrence.com/p/i-ve-been-meaning-to-write-this",
+    "publisher": {
+      "name": "I'm Lucky Lawrence",
+      "url": "https://www.imluckylawrence.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/i-ve-been-meaning-to-write-this.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "the-poetic-justice-theory",
+    "title": "The Poetic Justice Theory",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "I'm Lucky Lawrence",
+    "date": "2025-11-07",
+    "hasAds": true,
+    "url": "https://www.imluckylawrence.com/p/the-poetic-justice-theory",
+    "publisher": {
+      "name": "I'm Lucky Lawrence",
+      "url": "https://www.imluckylawrence.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-poetic-justice-theory.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "a-tale-of-two-luckies-unpacking-lucky-lawrence-or-how-larry-wilmore-s-message-fails-black-women",
+    "title": "A Tale of Two Luckies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "I'm Lucky Lawrence",
+    "date": "2025-09-20",
+    "hasAds": true,
+    "url": "https://www.imluckylawrence.com/p/a-tale-of-two-luckies-unpacking-lucky-lawrence-or-how-larry-wilmore-s-message-fails-black-women",
+    "publisher": {
+      "name": "I'm Lucky Lawrence",
+      "url": "https://www.imluckylawrence.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-tale-of-two-luckies-unpacking-lucky-lawrence-or-how-larry-wilmore-s-message-fails-black-women.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

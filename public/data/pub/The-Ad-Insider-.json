@@ -1,0 +1,104 @@
+[
+  {
+    "id": "one-email-flow-528-more-revenue",
+    "title": "One email flow, 528% more revenue",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ad Insider ",
+    "date": "2025-09-25",
+    "hasAds": true,
+    "url": "https://acceler8.beehiiv.com/p/one-email-flow-528-more-revenue",
+    "publisher": {
+      "name": "The Ad Insider ",
+      "url": "https://acceler8.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kojo",
+        "url": "https://www.kojo.gg/",
+        "logo": "KOJOLOGO.png"
+      }
+    ],
+    "htmlFile": "/emails/one-email-flow-528-more-revenue.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "your-cac-crisis-isn-t-unique-366b",
+    "title": "Your CAC crisis isn't unique",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ad Insider ",
+    "date": "2025-08-07",
+    "hasAds": true,
+    "url": "https://acceler8.beehiiv.com/p/your-cac-crisis-isn-t-unique-366b",
+    "publisher": {
+      "name": "The Ad Insider ",
+      "url": "https://acceler8.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/your-cac-crisis-isn-t-unique-366b.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "got-tariff-trouble",
+    "title": "Got Tariff Trouble? ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ad Insider ",
+    "date": "2025-03-27",
+    "hasAds": true,
+    "url": "https://acceler8.beehiiv.com/p/got-tariff-trouble",
+    "publisher": {
+      "name": "The Ad Insider ",
+      "url": "https://acceler8.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/got-tariff-trouble.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "tiktok-s-shift-what-it-means-for-your-ad-spend",
+    "title": "📉 TikTok’s Shift: What It Means for Your Ad Spend",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Ad Insider ",
+    "date": "2025-02-27",
+    "hasAds": true,
+    "url": "https://acceler8.beehiiv.com/p/tiktok-s-shift-what-it-means-for-your-ad-spend",
+    "publisher": {
+      "name": "The Ad Insider ",
+      "url": "https://acceler8.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/tiktok-s-shift-what-it-means-for-your-ad-spend.html",
+    "tags": [
+      "Marketing"
+    ]
+  }
+]

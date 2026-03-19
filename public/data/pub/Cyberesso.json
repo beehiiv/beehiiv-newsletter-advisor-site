@@ -1,0 +1,53 @@
+[
+  {
+    "id": "america-s-critical-systems-are-weaker-than-your-phone",
+    "title": "America’s Critical Systems Are Weaker Than Your Phone",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cyberesso",
+    "date": "2025-09-11",
+    "hasAds": true,
+    "url": "https://cyberesso.com/p/america-s-critical-systems-are-weaker-than-your-phone",
+    "publisher": {
+      "name": "Cyberesso",
+      "url": "https://cyberesso.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "tags": [
+      "Real Estate"
+    ],
+    "htmlFile": "/emails/america-s-critical-systems-are-weaker-than-your-phone.html"
+  },
+  {
+    "id": "interpol-s-biggest-cybercrime-bust-1-200-arrested-but-who-s-behind-it",
+    "title": "Interpol’s Biggest Cybercrime Bust: 1,200 Arrested, But Who’s Behind It.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cyberesso",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://cyberesso.com/p/interpol-s-biggest-cybercrime-bust-1-200-arrested-but-who-s-behind-it",
+    "publisher": {
+      "name": "Cyberesso",
+      "url": "https://cyberesso.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/interpol-s-biggest-cybercrime-bust-1-200-arrested-but-who-s-behind-it.html"
+  }
+]

@@ -1,0 +1,910 @@
+[
+  {
+    "id": "juuce",
+    "title": "JUUCE",
+    "category": "Digital Products",
+    "description": "Power phones, fuel brands",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/juuce",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-14T20:04:49.247377Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/juuce.html"
+  },
+  {
+    "id": "lantern-finance",
+    "title": "Lantern Finance",
+    "category": "Digital Products",
+    "description": "Crypto-backed lending",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/lantern-finance",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-31T03:40:30.814284Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/lantern-finance.html",
+    "hasAds": true
+  },
+  {
+    "id": "deepcorner-energy",
+    "title": "DeepCorner: Energy",
+    "category": "Digital Products",
+    "description": "What does the future of energy look like?",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/deepcorner-energy",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-08-18T03:42:43.718788Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mode Mobile",
+        "url": "https://invest.modemobile.com/",
+        "logo": "https://cdn.prod.website-files.com/63e64f84ae245564a95b9188/66b26b83ff5898bd5172fb56_Mobile%20Mode%20Webicon.webp"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deepcorner-energy.html"
+  },
+  {
+    "id": "delphi",
+    "title": "Delphi",
+    "category": "Digital Products",
+    "description": "Create your digital mind",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/delphi",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-08-03T19:03:48.660156Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "https://cdn.prod.website-files.com/686c116534831e8f603168b9/686eca3d5b6f6d932f4f1c57_delve_favicon-large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/delphi.html"
+  },
+  {
+    "id": "osstec",
+    "title": "🦄 3D-printed bone implants",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Unicorner",
+    "date": "2025-07-28",
+    "hasAds": true,
+    "url": "https://read.unicorner.news/p/osstec",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news"
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/osstec.html"
+  },
+  {
+    "id": "startup-school",
+    "title": "We (almost) met Sam Altman",
+    "category": "Digital Products",
+    "description": "Our experience with YC AI Startup School",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/startup-school",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-06-22T03:48:49.163468Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "StartEngine",
+        "url": "https://www.startengine.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.startengine.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/startup-school.html"
+  },
+  {
+    "id": "finalis",
+    "title": "Finalis",
+    "category": "Digital Products",
+    "description": "The AI OS for private market deals",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/finalis",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-06-16T06:03:00.439434Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "StartEngine",
+        "url": "https://www.startengine.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.startengine.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/finalis.html"
+  },
+  {
+    "id": "rex",
+    "title": "REX",
+    "category": "Digital Products",
+    "description": "World's first Chief Marketing Agent",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/rex",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-06-09T14:15:07.563661Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "StartEngine",
+        "url": "https://www.startengine.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.startengine.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/rex.html",
+    "hasAds": true
+  },
+  {
+    "id": "scriptchain",
+    "title": "ScriptChain",
+    "category": "Digital Products",
+    "description": "AI for preventing heart disease",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/scriptchain",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-06-02T05:33:40.898902Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "StartEngine",
+        "url": "https://www.startengine.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.startengine.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/scriptchain.html"
+  },
+  {
+    "id": "impac-labs",
+    "title": "imPAC Labs",
+    "category": "Digital Products",
+    "description": "Personalized, automated cloud security",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/impac-labs",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-05-25T05:39:52.192719Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/impac-labs.html"
+  },
+  {
+    "id": "memex",
+    "title": "Memex",
+    "category": "Digital Products",
+    "description": "The everything builder for your computer",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/memex",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-05-19T03:10:40.194877Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "StartEngine",
+        "url": "https://www.startengine.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.startengine.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/memex.html"
+  },
+  {
+    "id": "peachweb",
+    "title": "PeachWeb",
+    "category": "Digital Products",
+    "description": "Webflow for 3D websites",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/peachweb",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-04-27T06:46:32.357281Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Republic",
+        "url": "https://republic.com/",
+        "logo": "https://cdn.brandfetch.io/idt0S2PKY3/w/256/h/256/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1692978664555"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/peachweb.html"
+  },
+  {
+    "id": "ferrum-health",
+    "title": "Ferrum Health",
+    "category": "Digital Products",
+    "description": "Democratizing clinical AI",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/ferrum-health",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-04-14T05:18:20.728692Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SoundSelf",
+        "url": "https://soundself.com/",
+        "logo": "https://static1.squarespace.com/static/6176b86215400f4880d940bb/t/66cd690df84e025d6e85e02e/1700250500624/03+SoundSelf+interim+logo+-+vertical+stacked+large+mark_black.png?format=1500w"
+      }
+    ],
+    "htmlFile": "/emails/ferrum-health.html",
+    "hasAds": true
+  },
+  {
+    "id": "stand-insurance",
+    "title": "Stand Insurance",
+    "category": "Digital Products",
+    "description": "Taking a property-specific approach to insuring high-risk homes",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/stand-insurance",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-07T04:09:09.342703Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ListKit",
+        "url": "https://www.listkit.io/",
+        "logo": "https://www.google.com/s2/favicons?domain=listkit.io&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stand-insurance.html"
+  },
+  {
+    "id": "starfish-space",
+    "title": "Starfish Space",
+    "category": "Digital Products",
+    "description": "Satellite life extension and disposal",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/starfish-space",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-03-30T20:56:44.892909Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SmartNora",
+        "url": "https://www.smartnora.com/",
+        "logo": "https://smartnora.com/cdn/shop/files/cropped-720x720-logo-2-180x180.png?v=1753701066&width=180"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/starfish-space.html"
+  },
+  {
+    "id": "super",
+    "title": "Super",
+    "category": "Digital Products",
+    "description": "Helping people save and earn",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/super",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-24T02:02:25.513437Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/super.html"
+  },
+  {
+    "id": "irismed",
+    "title": "IrisMed",
+    "category": "Digital Products",
+    "description": "Automated Billing Management for Clinics",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/irismed",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-03T06:13:16.721057Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/irismed.html"
+  },
+  {
+    "id": "trag",
+    "title": "Trag",
+    "category": "Digital Products",
+    "description": "AI Code Review for Developers",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/trag",
+    "tags": [
+      "AI",
+      "Health",
+      "SaaS"
+    ],
+    "date": "2025-01-27T02:47:34.986401Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "Med-X",
+        "url": "https://medx-rx.com/",
+        "logo": "https://medx-rx.com/dev/wp-content/themes/medex/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/trag.html",
+    "hasAds": true
+  },
+  {
+    "id": "intramotev",
+    "title": "Intramotev",
+    "category": "Digital Products",
+    "description": "Self-propelled battery-electric railcars",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/intramotev",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-19T18:21:48.513835Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/intramotev.html",
+    "hasAds": true
+  },
+  {
+    "id": "top-5-startups-of-2024",
+    "title": "Top 5 Startups of 2024",
+    "category": "Digital Products",
+    "description": "End of the year special, from Unicorner",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/top-5-startups-of-2024",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-26T22:29:18.241261Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/top-5-startups-of-2024.html"
+  },
+  {
+    "id": "flite",
+    "title": "Flite",
+    "category": "Digital Products",
+    "description": "Operating system for events",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/flite",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-23T06:22:17.530455Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/flite.html"
+  },
+  {
+    "id": "ren",
+    "title": "Ren",
+    "category": "Digital Products",
+    "description": "Relationship intelligence for professionals",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/ren",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-09T07:34:59.046503Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ren.html"
+  },
+  {
+    "id": "angel-kids",
+    "title": "Angel Kids",
+    "category": "Digital Products",
+    "description": "Kid-friendly internet",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/angel-kids",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-02T01:30:16.660277Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/angel-kids.html",
+    "hasAds": true
+  },
+  {
+    "id": "xenex",
+    "title": "XeneX",
+    "category": "Digital Products",
+    "description": "Security Operations Center as a Service (SOCaaS)",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/xenex",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-11-25T01:49:13.703337Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/xenex.html"
+  },
+  {
+    "id": "illuma",
+    "title": "Illuma",
+    "category": "Digital Products",
+    "description": "Streamlined authentication for financial institutions",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/illuma",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-11-18T05:43:24.143955Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/90298f9d-06ec-45f0-b666-36d18354215a/thumb_Screenshot_2025-10-22_at_4.47.53_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/illuma.html"
+  },
+  {
+    "id": "spellbook",
+    "title": "Spellbook",
+    "category": "Digital Products",
+    "description": "AI copilot for transactional lawyers",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/spellbook",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-11-04T04:15:23.868638Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/90298f9d-06ec-45f0-b666-36d18354215a/thumb_Screenshot_2025-10-22_at_4.47.53_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/spellbook.html"
+  },
+  {
+    "id": "networkocean",
+    "title": "NetworkOcean",
+    "category": "Digital Products",
+    "description": "Building and operating underwater data centers",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/networkocean",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-10-28T05:34:52.390876Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/networkocean.html"
+  },
+  {
+    "id": "findr",
+    "title": "Findr",
+    "category": "Digital Products",
+    "description": "ChatGPT for Workplace Productivity",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/findr",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-10-21T03:35:03.602775Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/90298f9d-06ec-45f0-b666-36d18354215a/thumb_Screenshot_2025-10-22_at_4.47.53_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/findr.html"
+  },
+  {
+    "id": "creative-3d",
+    "title": "Creative 3D Technologies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/creative-3d",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-14T03:29:49.745905Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/creative-3d.html"
+  },
+  {
+    "id": "dawn",
+    "title": "Dawn",
+    "category": "Digital Products",
+    "description": "Analytics for AI Products",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/dawn",
+    "tags": [
+      "Health",
+      "Investing"
+    ],
+    "date": "2024-10-04T21:06:42.264108Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pirouette",
+        "url": "https://pirouettemedical.com/invest/",
+        "logo": "https://www.google.com/s2/favicons?domain=pirouettemedical.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dawn.html"
+  },
+  {
+    "id": "anterior",
+    "title": "Anterior",
+    "category": "Digital Products",
+    "description": "AI copilot for healthcare administration",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/anterior",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-09-30T01:04:05.722668Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/anterior.html"
+  },
+  {
+    "id": "wondercraft",
+    "title": "Wondercraft",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/wondercraft",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-09-23T04:35:36.097689Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wondercraft.html"
+  },
+  {
+    "id": "illuminant",
+    "title": "Illuminant",
+    "category": "Digital Products",
+    "description": "Surgical projection technology",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/illuminant",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-12T04:29:34.216325Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/illuminant.html"
+  },
+  {
+    "id": "casca",
+    "title": "Casca",
+    "category": "Digital Products",
+    "description": "AI Agents for Banking",
+    "author": "Unicorner",
+    "url": "https://read.unicorner.news/p/casca",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2024-08-05T06:34:47.004767Z",
+    "publisher": {
+      "name": "Unicorner",
+      "url": "https://read.unicorner.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.intercom.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/casca.html"
+  }
+]

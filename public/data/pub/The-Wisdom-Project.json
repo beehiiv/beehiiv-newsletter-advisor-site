@@ -1,0 +1,491 @@
+[
+  {
+    "id": "naval-ravikant-on-ai",
+    "title": "🧙Naval Ravikant on AI:",
+    "description": "Why everyone is now a wizard",
+    "date": "2026-02-21",
+    "author": "The Wisdom Project",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/naval-ravikant-on-ai",
+    "hasHtml": true,
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/naval-ravikant-on-ai.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-dopamine-really-works",
+    "title": "🧠 How Dopamine Really Works??",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Wisdom Project",
+    "url": "https://wisdomproject.beehiiv.com",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-15T03:17:22.115778Z",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/how-dopamine-really-works.html",
+    "hasAds": true
+  },
+  {
+    "id": "7-mental-models-for-the-ai-age-from-marc-andreessen",
+    "title": "🧠 7 Mental Models for the AI Age (From Marc Andreessen)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2026-02-01",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/7-mental-models-for-the-ai-age-from-marc-andreessen",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/7-mental-models-for-the-ai-age-from-marc-andreessen.html",
+    "tags": [
+      "Finance",
+      "Investing"
+    ]
+  },
+  {
+    "id": "new-post-2a48",
+    "title": "📓 Tony Robbins X Alex Hormozi",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2026-01-25",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/new-post-2a48",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/new-post-2a48.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "best-of-2025-2",
+    "title": "📓 Best of 2025 - 2",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-11-30",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/best-of-2025-2",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/best-of-2025-2.html",
+    "tags": [
+      "AI",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "telos-framework-for-self-knowledge",
+    "title": "📓 TELOS: Framework for Self Knowledge",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-11-16",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/telos-framework-for-self-knowledge",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/telos-framework-for-self-knowledge.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "andrej-karpathy-x-dwarkesh-patel",
+    "title": "📓Andrej Karpathy X Dwarkesh Patel",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-11-09",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/andrej-karpathy-x-dwarkesh-patel",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/andrej-karpathy-x-dwarkesh-patel.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "elon-musk-joe-rogan-2025",
+    "title": "📓 Elon Musk X Joe Rogan",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-11-02",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/elon-musk-joe-rogan-2025",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/elon-musk-joe-rogan-2025.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "ben-evans-x-shane-parrish",
+    "title": "📓 Ben Evans X Shane Parrish",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-10-26",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/ben-evans-x-shane-parrish",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/ben-evans-x-shane-parrish.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "peter-thiel-x-joe-rogan",
+    "title": "📓 Peter Thiel X Joe Rogan",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-10-19",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/peter-thiel-x-joe-rogan",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/peter-thiel-x-joe-rogan.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "morgan-housel-s-new-book-the-art-of-spending",
+    "title": "📓 Morgan Housel's new book - The Art of Spending",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-10-12",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/morgan-housel-s-new-book-the-art-of-spending",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/morgan-housel-s-new-book-the-art-of-spending.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "7-life-changing-insights-on-happiness-wealth-and-freedom",
+    "title": "📓 7 Life-Changing Insights on Happiness, Wealth, and Freedom",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-10-05",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/7-life-changing-insights-on-happiness-wealth-and-freedom",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/7-life-changing-insights-on-happiness-wealth-and-freedom.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "huberman-sleep-protocols",
+    "title": "📓Explained: 15 Tools for Better Sleep",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-09-28",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/huberman-sleep-protocols",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/huberman-sleep-protocols.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "the-spotlight-effect-101",
+    "title": "🔦 The Spotlight Effect 101",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-05-11",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/the-spotlight-effect-101",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nautilus",
+        "url": "https://nautil.us/",
+        "logo": "Nautilus_Symbol_Remove_Background.png"
+      }
+    ],
+    "htmlFile": "/emails/the-spotlight-effect-101.html",
+    "tags": [
+      "Media"
+    ]
+  },
+  {
+    "id": "bikeshedding-101",
+    "title": "🚲 Bikeshedding 101",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-04-27",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/bikeshedding-101",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/bikeshedding-101.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "rubber-ducking-101",
+    "title": "🦆 Rubber Ducking 101",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-04-13",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/rubber-ducking-101",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/rubber-ducking-101.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "3-most-important-fallacies-to-avoid",
+    "title": "3 (Most Important) Fallacies to Avoid",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-04-06",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/3-most-important-fallacies-to-avoid",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/3-most-important-fallacies-to-avoid.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "recap-march-2025",
+    "title": "[Recap] Quick look back at the 4 book summaries of March",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wisdom Project",
+    "date": "2025-03-30",
+    "hasAds": true,
+    "url": "https://wisdomproject.beehiiv.com/p/recap-march-2025",
+    "publisher": {
+      "name": "The Wisdom Project",
+      "url": "https://wisdomproject.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/recap-march-2025.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

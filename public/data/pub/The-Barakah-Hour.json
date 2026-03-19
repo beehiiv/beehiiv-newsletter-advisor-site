@@ -1,0 +1,135 @@
+[
+  {
+    "id": "why-this-post-fot-900k-views-in-5-days",
+    "title": "why this post got 900k views in 5 days",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Barakah Hour",
+    "url": "https://saufiyah.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T14:42:42.54134Z",
+    "publisher": {
+      "name": "The Barakah Hour",
+      "url": "https://saufiyah.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/why-this-post-fot-900k-views-in-5-days.html",
+    "hasAds": true
+  },
+  {
+    "id": "change-your-life-in-30-days-my-ramadan-routine",
+    "title": "Change Your Life in 30 Days (My Ramadan Routine)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Barakah Hour",
+    "url": "https://saufiyah.com/p/change-your-life-in-30-days-my-ramadan-routine",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-07T00:49:43.761014Z",
+    "publisher": {
+      "name": "The Barakah Hour",
+      "url": "https://saufiyah.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/change-your-life-in-30-days-my-ramadan-routine.html"
+  },
+  {
+    "id": "50-off-everything-what",
+    "title": "50% off everything (what?!)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Barakah Hour",
+    "url": "https://saufiyah.com/p/50-off-everything-what",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-11-28T23:45:34.182371Z",
+    "publisher": {
+      "name": "The Barakah Hour",
+      "url": "https://saufiyah.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Livelong Media",
+        "url": "https://livelongmedia.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d081bbcb-4b10-48e0-964e-0a1c4cc9ce2e/thumb_IMG_0333.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/50-off-everything-what.html"
+  },
+  {
+    "id": "how-to-redesign-your-life-part-ii",
+    "title": "How To Redesign Your Life: Part II",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Barakah Hour",
+    "url": "https://saufiyah.com/p/how-to-redesign-your-life-part-ii",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2025-10-11T12:42:54.25318Z",
+    "publisher": {
+      "name": "The Barakah Hour",
+      "url": "https://saufiyah.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-redesign-your-life-part-ii.html"
+  },
+  {
+    "id": "how-to-redesign-your-life-part-1",
+    "title": "How To Redesign Your Life (Part 1)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Barakah Hour",
+    "url": "https://saufiyah.com/p/how-to-redesign-your-life-part-1",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-11T12:05:44.979324Z",
+    "publisher": {
+      "name": "The Barakah Hour",
+      "url": "https://saufiyah.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-redesign-your-life-part-1.html"
+  }
+]

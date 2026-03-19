@@ -1,0 +1,295 @@
+[
+  {
+    "id": "current-ai",
+    "title": "Keeping Current With AI ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Best Ad Strategy",
+    "date": "2024-12-04",
+    "hasAds": true,
+    "url": "https://bestadstrategy.com/p/current-ai",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/current-ai.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "streaming-tv-ads",
+    "title": "Advertising on Streaming TV Shows?",
+    "category": "Digital Products",
+    "description": "For as little as $500",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/streaming-tv-ads",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-10-30T02:02:02.008662Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/streaming-tv-ads.html"
+  },
+  {
+    "id": "podcast-ads",
+    "title": "Ever Advertised on a Podcast?",
+    "category": "Digital Products",
+    "description": "Let us know your thoughts and experience",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/podcast-ads",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-10-20T15:00:38.427982Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/podcast-ads.html"
+  },
+  {
+    "id": "client-project-management",
+    "title": "Work With Clients?",
+    "category": "Digital Products",
+    "description": "What is your process like?",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/client-project-management",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2024-10-11T00:43:01.388876Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/client-project-management.html"
+  },
+  {
+    "id": "ad-swipes",
+    "title": "Ad Swipes",
+    "category": "Digital Products",
+    "description": "What other ads/sites/resources do you reference when you're creating ads and sales materials?",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/ad-swipes",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-06T16:18:26.818693Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ad-swipes.html"
+  },
+  {
+    "id": "ai-ad-testing",
+    "title": "Can AI be Used to Test Your Ads Before Running Them? ",
+    "category": "Digital Products",
+    "description": "How to run ad A/B tests pre-launch.",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/ai-ad-testing",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2024-10-03T20:23:58.959004Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-ad-testing.html"
+  },
+  {
+    "id": "digital-billboard-advertising",
+    "title": "Digital Billboard Advertising",
+    "category": "Digital Products",
+    "description": "Expanding Your Reach Into The Real World",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/digital-billboard-advertising",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-10-02T01:19:05.252818Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/digital-billboard-advertising.html"
+  },
+  {
+    "id": "what-do-you-sell",
+    "title": "What do you sell?",
+    "category": "Digital Products",
+    "description": "And how can we help you make more sales?",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/what-do-you-sell",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-29T14:04:07.26449Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-do-you-sell.html"
+  },
+  {
+    "id": "profitable-advertising",
+    "title": "Profitable Advertising",
+    "category": "Digital Products",
+    "description": "Ads must be profitable to be sustainable.",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/profitable-advertising",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-26T23:58:20.141594Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/profitable-advertising.html"
+  },
+  {
+    "id": "newsletter-inspiration",
+    "title": "Newsletter Inspiration",
+    "category": "Digital Products",
+    "description": "Look to other successful newsletters for inspiration.",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/newsletter-inspiration",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-23T01:24:41.647795Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-inspiration.html"
+  },
+  {
+    "id": "free-ai-masterclass",
+    "title": "Free - 3 Hour AI Masterclass For Marketers and Business Owners",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Best Ad Strategy",
+    "url": "https://bestadstrategy.com/p/free-ai-masterclass",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-23T00:55:35.74784Z",
+    "publisher": {
+      "name": "Best Ad Strategy",
+      "url": "https://bestadstrategy.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/free-ai-masterclass.html"
+  }
+]

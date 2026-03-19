@@ -1,0 +1,918 @@
+[
+  {
+    "id": "delta-ac3f",
+    "title": "✈️ Delta’s AI Judges You",
+    "category": "Digital Products",
+    "description": "Plus: Spotify adds audiobooks, Netflix prints cash, Google makes your calls, and teens are dating bots.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/delta-ac3f",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-18T10:38:32.906479Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/delta-ac3f.html"
+  },
+  {
+    "id": "overbooked",
+    "title": "✈️ Overbooked, Underpaid, Automated",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Morning Merge",
+    "date": "2025-07-11",
+    "hasAds": true,
+    "url": "https://www.morningmerge.com/p/overbooked",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/overbooked.html",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "judge-dread",
+    "title": "🎾 Judge Dread",
+    "category": "Digital Products",
+    "description": "Wimbledon roasts AI, Brad Pitt breaks records, and Tesla’s meme spiral continues.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/judge-dread",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-07-04T16:20:17.053193Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/judge-dread.html"
+  },
+  {
+    "id": "bbq-costs-are-up",
+    "title": "🍔 BBQ Costs Are Up",
+    "category": "Digital Products",
+    "description": "Meta bots are texting you first, Google’s making movies, and your hot dogs now come with a side of inflation.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/bbq-costs-are-up",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-03T15:40:00.111949Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bbq-costs-are-up.html"
+  },
+  {
+    "id": "netflix-in-space",
+    "title": "🚀 Netflix in Space, AI on Ice",
+    "category": "Digital Products",
+    "description": "Spotify gets louder, AI laws hit pause, and Nike dodges a billion-dollar bullet.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/netflix-in-space",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-01T01:15:01.490307Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/netflix-in-space.html"
+  },
+  {
+    "id": "try-it-on",
+    "title": "👕 Try It On, Then Try to Keep Up",
+    "category": "Digital Products",
+    "description": "Google launches Doppl, Gemma 3n hits devs, and Nike dodges a billion-dollar bullet—barely.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/try-it-on",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-27T10:26:19.262729Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AI with Allie",
+        "url": "https://www.alliekmiller.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.alliekmiller.com&sz=128"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/try-it-on.html"
+  },
+  {
+    "id": "openai-s-device-leaks",
+    "title": "📦 OpenAI’s Device Leaks",
+    "category": "Digital Products",
+    "description": "AI moves into your pocket, your home, and the global stage—here’s what actually matters today.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/openai-s-device-leaks",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-24T10:05:43.753809Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/openai-s-device-leaks.html"
+  },
+  {
+    "id": "ai-in-kfc",
+    "title": "🎧 AI in KFC, Lossless Spotify, $795 Chase Card",
+    "category": "Digital Products",
+    "description": "From fast food to fintech, here’s what’s changing (and charging) in your digital life today.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ai-in-kfc",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-20T10:40:40.930298Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-in-kfc.html"
+  },
+  {
+    "id": "ads-amex-and-a-trump-phone",
+    "title": "📱 Ads, Amex, and a Trump Phone?! ",
+    "category": "Digital Products",
+    "description": "WhatsApp goes commercial, credit cards go luxury, and Trump goes mobile — here’s what actually matters today.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ads-amex-and-a-trump-phone",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-17T10:39:12.920129Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ads-amex-and-a-trump-phone.html"
+  },
+  {
+    "id": "3-must-read",
+    "title": " 🔥 3 Must-Read Headlines   ",
+    "category": "Digital Products",
+    "description": "If you missed this, you’re behind. Catch up fast",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/3-must-read",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-15T22:56:06.747495Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/3-must-read.html"
+  },
+  {
+    "id": "ai-ads",
+    "title": "🚀 AI Ads, Air Drama, Barbie Bots",
+    "category": "Digital Products",
+    "description": "Amazon turns product pics into commercials, Boeing faces heat, and Mattel’s toys find their voice.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ai-ads",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-06-13T11:50:52.180274Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-ads.html"
+  },
+  {
+    "id": "ios-gets-brainy",
+    "title": "🤫 iOS Gets Brainy",
+    "category": "Digital Products",
+    "description": "AI-soaked iOS 26, Microsoft’s handheld Game Pass power play, and Disney’s $439 M Hulu grab in one fast scroll.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ios-gets-brainy",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-10T09:32:39.831541Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ios-gets-brainy.html"
+  },
+  {
+    "id": "must-read-headlines",
+    "title": " 🔥 3 Must-Read Headlines  ",
+    "category": "Digital Products",
+    "description": "If you missed this, you’re behind. Catch up fast",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/must-read-headlines",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-07T19:40:13.794369Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/must-read-headlines.html"
+  },
+  {
+    "id": "3-must-read-headlines-b3d1",
+    "title": " 🔥 3 Must-Read Headlines ",
+    "category": "Digital Products",
+    "description": "If you missed this, you’re behind. Catch up fast",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/3-must-read-headlines-b3d1",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-04T12:40:50.750032Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/3-must-read-headlines-b3d1.html",
+    "hasAds": true
+  },
+  {
+    "id": "robotaxis-record-labels-retirement",
+    "title": "🚗 Robotaxis, Record Labels & Retirement",
+    "category": "Digital Products",
+    "description": "Tesla, music giants, and Steph Curry are all betting big on their next chapter.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/robotaxis-record-labels-retirement",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-06-03T12:08:03.115768Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/robotaxis-record-labels-retirement.html"
+  },
+  {
+    "id": "robots-retail-and-rotten-braincells",
+    "title": "🤖 Robots, Retail, and Rotten Braincells",
+    "category": "Digital Products",
+    "description": "Amazon pays up, humanoids go open-source, and Costco keeps crushing expectations.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/robots-retail-and-rotten-braincells",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-30T10:21:16.282269Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/robots-retail-and-rotten-braincells.html"
+  },
+  {
+    "id": "ai-just-called-you-dumb",
+    "title": "🧠 AI Just Called You Dumb",
+    "category": "Digital Products",
+    "description": "Claude 4 outperforms humans. CMS isn’t impressed—and neither is Wall Street.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ai-just-called-you-dumb",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-05-23T09:42:54.12709Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-just-called-you-dumb.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-s-eating-jobs-salesforce-s-buying-power",
+    "title": "🚨 AI’s Eating Jobs, Salesforce’s Buying Power",
+    "category": "Digital Products",
+    "description": "If you missed this, you’re behind. Catch up fast",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ai-s-eating-jobs-salesforce-s-buying-power",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-05-22T15:35:10.993787Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-s-eating-jobs-salesforce-s-buying-power.html"
+  },
+  {
+    "id": "ask-your-files-anywhere",
+    "title": "📓 Ask Your Files, Anywhere",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Morning Merge",
+    "date": "2025-05-20",
+    "hasAds": true,
+    "url": "https://www.morningmerge.com/p/ask-your-files-anywhere",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/ask-your-files-anywhere.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "chatgpt-remembers-you",
+    "title": "🧠 ChatGPT Remembers You",
+    "category": "Digital Products",
+    "description": "Altman’s memory reveal, Walmart’s AI-driven price hikes, Salesforce goes full-stack AI, and this week’s smartest tools.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/chatgpt-remembers-you",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-16T09:52:38.08742Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chatgpt-remembers-you.html"
+  },
+  {
+    "id": "ai-getting-smarter",
+    "title": "💡 AI’s Getting Smarter — Are You?",
+    "category": "Digital Products",
+    "description": "If you missed this, you’re behind. Catch up fast",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ai-getting-smarter",
+    "tags": [
+      "AI",
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-05-15T19:12:26.454477Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-getting-smarter.html"
+  },
+  {
+    "id": "3-must-read-headlines-e087",
+    "title": " 🔥 3 Must-Read Headlines ",
+    "category": "Digital Products",
+    "description": "If you missed this, you’re behind. Catch up fast",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/3-must-read-headlines-e087",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-14T12:18:44.956351Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/3-must-read-headlines-e087.html"
+  },
+  {
+    "id": "big-promises-bigger-problems",
+    "title": "🧨 Big Promises, Bigger Problems",
+    "category": "Digital Products",
+    "description": "Saudi goes all-in on AI, OpenAI hits a tariff wall, and hackers weaponize fake tools.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/big-promises-bigger-problems",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-13T01:02:34.417631Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/big-promises-bigger-problems.html"
+  },
+  {
+    "id": "ai-just-leveled-up",
+    "title": "✨ AI Just Leveled Up",
+    "category": "Digital Products",
+    "description": "From smarter listings to safer browsing, the bots are having a week.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/ai-just-leveled-up",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity"
+    ],
+    "date": "2025-05-08T14:08:10.157894Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-just-leveled-up.html"
+  },
+  {
+    "id": "3-ai-upgrades",
+    "title": "🧠 3 AI upgrades changing your tech",
+    "category": "Digital Products",
+    "description": "From smarter shopping to streaming shakeups — here’s what’s new this week.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/3-ai-upgrades",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-02T13:10:39.263969Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/3-ai-upgrades.html",
+    "hasAds": true
+  },
+  {
+    "id": "apple-on-trial",
+    "title": "⚖️ Apple on Trial",
+    "category": "Digital Products",
+    "description": "Big Tech’s week: court battles, chatbot search, and cringey content finally getting paid.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/apple-on-trial",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-30T16:22:56.702171Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/apple-on-trial.html"
+  },
+  {
+    "id": "introducing-shop-mode",
+    "title": "🛍️ Introducing [SHOP MODE]",
+    "category": "Digital Products",
+    "description": "ChatGPT can now shop smarter than you — plus 3D-printed chatbots, Temu's new fees, and wild new AI tools.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/introducing-shop-mode",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-28T13:07:47.340456Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://www.morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/introducing-shop-mode.html"
+  },
+  {
+    "id": "sunday-sparks-808c120c44cd8e0b",
+    "title": "⚡Sunday Sparks ",
+    "category": "Digital Products",
+    "description": "Your secret productivity weapons for the week ahead",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/sunday-sparks-808c120c44cd8e0b",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-28T13:07:29.557807Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sunday-sparks-808c120c44cd8e0b.html"
+  },
+  {
+    "id": "tesla-wild-ride",
+    "title": "🚨 AI Gone Wild, Tesla Hits the Brakes",
+    "category": "Digital Products",
+    "description": "Subjects are hallucinating. Stocks are spiraling. AI's doing everything.",
+    "author": "The Morning Merge",
+    "url": "https://www.morningmerge.com/p/tesla-wild-ride",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-08T13:33:37.858268Z",
+    "publisher": {
+      "name": "The Morning Merge",
+      "url": "https://morningmerge.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tesla-wild-ride.html"
+  }
+]

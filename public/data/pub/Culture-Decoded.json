@@ -1,0 +1,82 @@
+[
+  {
+    "id": "how-rap-outgrew-its-own-gold-chain",
+    "title": "🌀How Rap Outgrew Its Own Gold Chain",
+    "category": "Digital Products",
+    "description": "Why did every rapper start sounding like a millionaire, and why is that era ending?",
+    "author": "Culture Decoded",
+    "url": "https://culturedecoded.org",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T15:06:26.410908Z",
+    "publisher": {
+      "name": "Culture Decoded",
+      "url": "https://culturedecoded.org",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/how-rap-outgrew-its-own-gold-chain.html",
+    "hasAds": true
+  },
+  {
+    "id": "influencer-alchemy-identity-into-income",
+    "title": "🌀 Influencer Alchemy: Identity Into Income",
+    "category": "Digital Products",
+    "description": "How the Self Became a Product",
+    "author": "Culture Decoded",
+    "url": "https://culturedecoded.org",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-13T07:12:31.576476Z",
+    "publisher": {
+      "name": "Culture Decoded",
+      "url": "https://culturedecoded.org",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/influencer-alchemy-identity-into-income.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-virtue-of-your-shopping-cart",
+    "title": "🌀 The Virtue of Your Shopping Cart",
+    "category": "Digital Products",
+    "description": "Signaling by Saying \"No\"",
+    "author": "Culture Decoded",
+    "url": "https://culturedecoded.org",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-09T13:37:33.866025Z",
+    "publisher": {
+      "name": "Culture Decoded",
+      "url": "https://culturedecoded.org",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/the-virtue-of-your-shopping-cart.html",
+    "hasAds": true
+  }
+]

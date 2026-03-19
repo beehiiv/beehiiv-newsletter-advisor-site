@@ -1,0 +1,83 @@
+[
+  {
+    "id": "the-new-semester-starts-now",
+    "title": "The new semester starts now",
+    "category": "Digital Products",
+    "description": "write with less stress",
+    "author": "The Sunday Scientist",
+    "url": "https://2bw8rqzhum.beehiiv.com/p/the-new-semester-starts-now",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-07-11T07:50:22.805494Z",
+    "publisher": {
+      "name": "The Sunday Scientist",
+      "url": "https://2bw8rqzhum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/the-new-semester-starts-now.html",
+    "hasAds": true
+  },
+  {
+    "id": "53-using-ai-in-research",
+    "title": "#53 Using AI in research",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Sunday Scientist",
+    "url": "https://2bw8rqzhum.beehiiv.com/p/53-using-ai-in-research",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-23T12:35:38.215016Z",
+    "publisher": {
+      "name": "The Sunday Scientist",
+      "url": "https://2bw8rqzhum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/53-using-ai-in-research.html"
+  },
+  {
+    "id": "54-reporting-systematic-reviews",
+    "title": "#54 Reporting systematic reviews",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Sunday Scientist",
+    "url": "https://2bw8rqzhum.beehiiv.com/p/54-reporting-systematic-reviews",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-19T11:10:17.060682Z",
+    "publisher": {
+      "name": "The Sunday Scientist",
+      "url": "https://2bw8rqzhum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/54-reporting-systematic-reviews.html"
+  }
+]

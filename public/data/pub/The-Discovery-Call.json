@@ -1,0 +1,133 @@
+[
+  {
+    "id": "the-only-tactic-you-ll-ever-need",
+    "title": "The only tactic you'll ever need",
+    "category": "Digital Products",
+    "description": "It's not what you think. And it's been working for 2,000 years.",
+    "author": "The Discovery Call",
+    "url": "https://the-discovery-call.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2026-02-24T11:32:57.550836Z",
+    "publisher": {
+      "name": "The Discovery Call",
+      "url": "https://the-discovery-call.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-only-tactic-you-ll-ever-need.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-made-you-busier-here-s-why",
+    "title": "AI made you busier. Here’s why.",
+    "category": "Digital Products",
+    "description": "Harvard followed 200 people for 8 months. AI didn’t reduce work. It multiplied it.",
+    "author": "The Discovery Call",
+    "url": "https://the-discovery-call.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T16:41:54.215699Z",
+    "publisher": {
+      "name": "The Discovery Call",
+      "url": "https://the-discovery-call.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/ai-made-you-busier-here-s-why.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-linkedin-strategy-is-obsolete",
+    "title": "Your LinkedIn Strategy Is Obsolete",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Discovery Call",
+    "date": "2026-01-27",
+    "hasAds": true,
+    "url": "https://the-discovery-call.beehiiv.com/p/your-linkedin-strategy-is-obsolete",
+    "publisher": {
+      "name": "The Discovery Call",
+      "url": "https://the-discovery-call.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/your-linkedin-strategy-is-obsolete.html"
+  },
+  {
+    "id": "january-is-the-night-of-the-year",
+    "title": "January is the night of the year",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Discovery Call",
+    "date": "2026-01-07",
+    "hasAds": true,
+    "url": "https://the-discovery-call.beehiiv.com/p/january-is-the-night-of-the-year",
+    "publisher": {
+      "name": "The Discovery Call",
+      "url": "https://the-discovery-call.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/january-is-the-night-of-the-year.html"
+  },
+  {
+    "id": "your-clients-are-already-telling-you-what-to-say",
+    "title": "Your clients are already telling you what to say",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Discovery Call",
+    "date": "2025-12-15",
+    "hasAds": true,
+    "url": "https://the-discovery-call.beehiiv.com/p/your-clients-are-already-telling-you-what-to-say",
+    "publisher": {
+      "name": "The Discovery Call",
+      "url": "https://the-discovery-call.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "tags": [
+      "SaaS"
+    ],
+    "htmlFile": "/emails/your-clients-are-already-telling-you-what-to-say.html"
+  }
+]

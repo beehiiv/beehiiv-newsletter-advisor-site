@@ -1,0 +1,28 @@
+[
+  {
+    "id": "xrp",
+    "title": "📌 XRP Surge, BTC flash crash, & New SEC Chair",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Disrupt! FYI",
+    "url": "https://www.coinsnacks.com/p/xrp",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-12-03T02:35:51.275222Z",
+    "publisher": {
+      "name": "Disrupt! FYI",
+      "url": "https://disrupt.fyi",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.thecbdistillery.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/xrp.html"
+  }
+]

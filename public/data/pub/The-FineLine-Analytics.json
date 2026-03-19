@@ -1,0 +1,109 @@
+[
+  {
+    "id": "week-15-the-numbers-don-t-blink",
+    "title": "Week 15: The Numbers Don’t Blink",
+    "category": "Digital Products",
+    "description": "Four matchups. Zero hype. Just data doing what it’s done all season.",
+    "author": "The FineLine Analytics",
+    "url": "https://www.thefineline.xyz/p/week-15-the-numbers-don-t-blink",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-12-14T14:08:15.887805Z",
+    "publisher": {
+      "name": "The FineLine Analytics",
+      "url": "https://www.thefineline.xyz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-15-the-numbers-don-t-blink.html"
+  },
+  {
+    "id": "fineline-week-14-44-7-and-still-stealing-the-market-s-lunch-money",
+    "title": "FineLine Week 14: 44–7 and Still Stealing the Market’s Lunch Money",
+    "category": "Digital Products",
+    "description": "This week we’re riding the league’s nastiest pass-rush against a collapsing offense, a defensive bully in a low-scoring slugfest, a coach who reliably dismantles his division rival, and a “hot” team suddenly laying a bloated number in a matchup they rarely dominate.",
+    "author": "The FineLine Analytics",
+    "url": "https://www.thefineline.xyz/p/fineline-week-14-44-7-and-still-stealing-the-market-s-lunch-money",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-12-07T16:21:29.189592Z",
+    "publisher": {
+      "name": "The FineLine Analytics",
+      "url": "https://www.thefineline.xyz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fineline-week-14-44-7-and-still-stealing-the-market-s-lunch-money.html"
+  },
+  {
+    "id": "the-fineline-analytics-week-13",
+    "title": "The FineLine Analytics — Week 13",
+    "category": "Digital Products",
+    "description": "Record: 42-7 | Prediction Model Accuracy: 85.7% | Haters: Struggling",
+    "author": "The FineLine Analytics",
+    "url": "https://www.thefineline.xyz/p/the-fineline-analytics-week-13",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-30T14:05:20.367294Z",
+    "publisher": {
+      "name": "The FineLine Analytics",
+      "url": "https://thefineline.xyz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-fineline-analytics-week-13.html"
+  },
+  {
+    "id": "the-algorithm-has-entered-the-chat",
+    "title": "🚨 The Algorithm Has Entered the Chat",
+    "category": "Digital Products",
+    "description": "Tonight’s 4 picks are locked, loaded, and about to make Vegas sweat.",
+    "author": "The FineLine Analytics",
+    "url": "https://www.thefineline.xyz/p/the-algorithm-has-entered-the-chat",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-31T21:15:44.364061Z",
+    "publisher": {
+      "name": "The FineLine Analytics",
+      "url": "https://thefineline.xyz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-algorithm-has-entered-the-chat.html"
+  }
+]

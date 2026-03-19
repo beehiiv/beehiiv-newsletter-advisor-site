@@ -1,0 +1,28 @@
+[
+  {
+    "id": "august-15-2024",
+    "title": "15 New Dessert Selections for You 🍧",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Miss Buttercup's Sweet Tooth Gazette",
+    "date": "2024-08-15",
+    "hasAds": true,
+    "url": "https://missbuttercup.beehiiv.com/p/august-15-2024",
+    "publisher": {
+      "name": "Miss Buttercup's Sweet Tooth Gazette",
+      "url": "https://missbuttercup.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "Image_removebg_preview.png"
+      }
+    ],
+    "htmlFile": "/emails/august-15-2024.html",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ]
+  }
+]

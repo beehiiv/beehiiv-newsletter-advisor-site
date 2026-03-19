@@ -1,0 +1,56 @@
+[
+  {
+    "id": "feb-25-xavier-s-law-takes-another-step",
+    "title": "🌅 ‘Xavier’s Law’ takes another step",
+    "category": "Digital Products",
+    "description": "Wild ARC looks for angel helpers, and Victoria loses another vegan eatery",
+    "author": "Capital Daily",
+    "url": "https://newsletter.capitaldaily.ca",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2026-02-23T18:31:37.069919Z",
+    "publisher": {
+      "name": "Capital Daily",
+      "url": "https://newsletter.capitaldaily.ca",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Particle for Men",
+        "url": "https://www.particleformen.com/?mention=3",
+        "logo": "https://cdn.brandfetch.io/idoMA_v83d/w/1764/h/1764/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767785026723"
+      }
+    ],
+    "htmlFile": "/emails/feb-25-xavier-s-law-takes-another-step.html",
+    "hasAds": true
+  },
+  {
+    "id": "dec-14-heading-to-the-polls-about-the-pool",
+    "title": "Dec 14 - Heading to the polls about the pool",
+    "category": "Digital Products",
+    "description": "BC NDP & Greens sign new deal. High winds & ferry cancelations. Saanich kid \"will be back\"...with a Schwarzenegger-style donation.",
+    "author": "Capital Daily",
+    "url": "https://newsletter.capitaldaily.ca/p/dec-14-heading-to-the-polls-about-the-pool",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-09T21:00:37.378163Z",
+    "publisher": {
+      "name": "Capital Daily",
+      "url": "https://newsletter.capitaldaily.ca",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-14-heading-to-the-polls-about-the-pool.html"
+  }
+]

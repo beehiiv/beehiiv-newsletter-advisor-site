@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a-journey-through-nostalgia",
+    "title": "A Journey Through Nostalgia",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The (Art) Crow's Nest",
+    "date": "2024-10-09",
+    "hasAds": true,
+    "url": "https://angelas-newsletter-2a6895.beehiiv.com/p/a-journey-through-nostalgia",
+    "publisher": {
+      "name": "The (Art) Crow's Nest",
+      "url": "https://angelas-newsletter-2a6895.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-journey-through-nostalgia.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-commonplace-book",
+    "title": "A Commonplace Book",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The (Art) Crow's Nest",
+    "date": "2024-09-25",
+    "hasAds": true,
+    "url": "https://angelas-newsletter-2a6895.beehiiv.com/p/a-commonplace-book",
+    "publisher": {
+      "name": "The (Art) Crow's Nest",
+      "url": "https://angelas-newsletter-2a6895.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-commonplace-book.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "watch-step",
+    "title": "Watch Your Step",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The (Art) Crow's Nest",
+    "date": "2024-08-28",
+    "hasAds": true,
+    "url": "https://angelas-newsletter-2a6895.beehiiv.com/p/watch-step",
+    "publisher": {
+      "name": "The (Art) Crow's Nest",
+      "url": "https://angelas-newsletter-2a6895.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/watch-step.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

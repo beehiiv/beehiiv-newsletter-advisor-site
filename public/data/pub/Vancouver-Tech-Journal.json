@@ -1,0 +1,404 @@
+[
+  {
+    "id": "join-bc-founders-day",
+    "title": "Join BC Founders Day",
+    "category": "Digital Products",
+    "description": "Plus, how to ensure you don't lose your work.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/join-bc-founders-day",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-05T09:55:34.113602Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/join-bc-founders-day.html"
+  },
+  {
+    "id": "ai-s-real-business-value",
+    "title": "AI's real business value",
+    "category": "Digital Products",
+    "description": "How big orgs are using AI to win, and what Web Summit really delivered for founders.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/ai-s-real-business-value",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-03T12:00:24.361181Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-s-real-business-value.html"
+  },
+  {
+    "id": "what-a-rush",
+    "title": "What a rush",
+    "category": "Digital Products",
+    "description": "Top stories from Web Summit Vancouver and beyond.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/what-a-rush",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-05-31T03:22:00.364622Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/what-a-rush.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-time-to-shine",
+    "title": "Your time to shine",
+    "category": "Digital Products",
+    "description": "Can you (and your startup) handle the spotlight?",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/your-time-to-shine",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-06T16:57:44.396184Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-time-to-shine.html"
+  },
+  {
+    "id": "bc-startups-level-up",
+    "title": "BC startups level up",
+    "category": "Digital Products",
+    "description": "What’s moving the needle in BC tech right now.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/bc-startups-level-up",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-10T21:15:18.348782Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bc-startups-level-up.html"
+  },
+  {
+    "id": "canadian-pride-funds-vancouver-tech",
+    "title": "Canadian pride funds Vancouver tech",
+    "category": "Digital Products",
+    "description": "$2.7M for deepfake fighters, $50M for biotech, and $9M for proptech - Canadians are supporting local.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/canadian-pride-funds-vancouver-tech",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-28T17:41:54.392668Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/canadian-pride-funds-vancouver-tech.html"
+  },
+  {
+    "id": "here-s-what-you-re-missing-in-vancouver-ai",
+    "title": "Here's what you're missing in Vancouver AI",
+    "category": "Digital Products",
+    "description": "Plus, discover seven opportunities for your business, and an exclusive members-only event.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/here-s-what-you-re-missing-in-vancouver-ai",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-18T13:16:22.408446Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/here-s-what-you-re-missing-in-vancouver-ai.html"
+  },
+  {
+    "id": "robotic-hands-take-hold-of-vancouver",
+    "title": "Robotic hands take hold of Vancouver",
+    "category": "Digital Products",
+    "description": "Plus, five local companies announce funding, and several city execs oppose DEI rollbacks.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/robotic-hands-take-hold-of-vancouver",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-28T18:52:53.13458Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/robotic-hands-take-hold-of-vancouver.html",
+    "hasAds": true
+  },
+  {
+    "id": "avoid-these-common-entrepreneurial-pitfalls",
+    "title": "🏙️ Avoid these common entrepreneurial pitfalls",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Vancouver Tech Journal",
+    "date": "2025-02-05",
+    "hasAds": true,
+    "url": "https://vantechjournal.com/p/avoid-these-common-entrepreneurial-pitfalls",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/avoid-these-common-entrepreneurial-pitfalls.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "we-are-not-all-f-ked-says-bcsc",
+    "title": "\"We are not all f**ked,\" says BCSC",
+    "category": "Digital Products",
+    "description": "Plus, how Digital's expanded support for skills training in the province runs counter to the U.S.'s anti-diversity rhetoric.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/we-are-not-all-f-ked-says-bcsc",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-31T18:09:25.194334Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/we-are-not-all-f-ked-says-bcsc.html"
+  },
+  {
+    "id": "how-to-manage-risk-in-a-rapidly-changing-world",
+    "title": "How to manage risk in a rapidly changing world",
+    "category": "Digital Products",
+    "description": "Plus, learn how you can get the most out of Web Summit Vancouver this year.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/how-to-manage-risk-in-a-rapidly-changing-world",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-28T12:36:54.743824Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-manage-risk-in-a-rapidly-changing-world.html"
+  },
+  {
+    "id": "what-in-the-tariffs-has-been-going-on-this-week",
+    "title": "What in the tariffs has been going on this week?!",
+    "category": "Digital Products",
+    "description": "Learn about the implications of a 25% U.S. duty for Vancouver businesses, and how the city's tech scene is tied to the country.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/what-in-the-tariffs-has-been-going-on-this-week",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-24T19:03:21.464561Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-in-the-tariffs-has-been-going-on-this-week.html"
+  },
+  {
+    "id": "what-a-prorogued-parliament-means-for-vancouver-businesses",
+    "title": "What a prorogued parliament means for Vancouver businesses",
+    "category": "Digital Products",
+    "description": "Plus, apply for two new free accelerator programs for founders.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/what-a-prorogued-parliament-means-for-vancouver-businesses",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-21T14:25:12.026578Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-a-prorogued-parliament-means-for-vancouver-businesses.html"
+  },
+  {
+    "id": "volatile-politics-unsettle-vancouver-businesses",
+    "title": "Volatile politics unsettle Vancouver businesses",
+    "category": "Digital Products",
+    "description": "Though, two big local Series A announcements prove that cash is still flowing.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/volatile-politics-unsettle-vancouver-businesses",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-17T20:16:56.0306Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/volatile-politics-unsettle-vancouver-businesses.html",
+    "hasAds": true
+  },
+  {
+    "id": "two-major-vancouver-companies-declared-insolvent-over-holiday-period",
+    "title": "Two major Vancouver companies declared insolvent over holiday period",
+    "category": "Digital Products",
+    "description": "More than 600 local employees are affected.",
+    "author": "Vancouver Tech Journal",
+    "url": "https://vantechjournal.com/p/two-major-vancouver-companies-declared-insolvent-over-holiday-period",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-03T18:40:19.793791Z",
+    "publisher": {
+      "name": "Vancouver Tech Journal",
+      "url": "https://vantechjournal.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/two-major-vancouver-companies-declared-insolvent-over-holiday-period.html"
+  }
+]

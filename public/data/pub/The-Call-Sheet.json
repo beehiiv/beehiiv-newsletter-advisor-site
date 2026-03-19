@@ -1,0 +1,33 @@
+[
+  {
+    "id": "005",
+    "title": "The Call Sheet - 005",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Call Sheet",
+    "date": "2024-06-10",
+    "hasAds": true,
+    "url": "https://the-call-sheet.beehiiv.com/p/005",
+    "publisher": {
+      "name": "The Call Sheet",
+      "url": "https://the-call-sheet.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Planable",
+        "url": "https://planable.io/",
+        "logo": "Image_from_search.png"
+      }
+    ],
+    "htmlFile": "/emails/005.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

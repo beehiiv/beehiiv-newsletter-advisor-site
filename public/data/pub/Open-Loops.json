@@ -1,0 +1,78 @@
+[
+  {
+    "id": "open-loops-120",
+    "title": "🌀 Open Loops #120",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Open Loops",
+    "date": "2025-01-31",
+    "hasAds": true,
+    "url": "https://letters.reza.so/p/open-loops-120",
+    "publisher": {
+      "name": "Open Loops",
+      "url": "https://letters.reza.so"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/open-loops-120.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "open-loops-118",
+    "title": "🌀 Open Loops #118",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Open Loops",
+    "date": "2025-01-17",
+    "hasAds": true,
+    "url": "https://letters.reza.so/p/open-loops-118",
+    "publisher": {
+      "name": "Open Loops",
+      "url": "https://letters.reza.so"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/open-loops-118.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "open-loops-117",
+    "title": "🌀 Open Loops #117",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Open Loops",
+    "date": "2025-01-10",
+    "hasAds": true,
+    "url": "https://letters.reza.so/p/open-loops-117",
+    "publisher": {
+      "name": "Open Loops",
+      "url": "https://letters.reza.so"
+    },
+    "advertisers": [
+      {
+        "name": "Lumen",
+        "url": "https://www.lumen.me/",
+        "logo": "Lumen_Logo_removebg.png"
+      }
+    ],
+    "htmlFile": "/emails/open-loops-117.html",
+    "tags": [
+      "Health"
+    ]
+  }
+]

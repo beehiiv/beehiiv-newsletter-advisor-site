@@ -1,0 +1,859 @@
+[
+  {
+    "id": "things-are-heating-up",
+    "title": "Things are heating up",
+    "category": "Digital Products",
+    "description": "Buckle up, it's about to get fun in here",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/things-are-heating-up",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-25T02:29:20.816285Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/things-are-heating-up.html"
+  },
+  {
+    "id": "architect-your-autonomy",
+    "title": "Architect Your Autonomy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Purposeful Performer",
+    "date": "2025-12-17",
+    "hasAds": true,
+    "url": "https://www.purposefulperformer.com/p/architect-your-autonomy",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/architect-your-autonomy.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "turn-your-framework-into-an-opportunity-closing-system",
+    "title": "Turn Your Framework Into An Opportunity-Closing System",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 48",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/turn-your-framework-into-an-opportunity-closing-system",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-11-26T01:47:30.379004Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turn-your-framework-into-an-opportunity-closing-system.html"
+  },
+  {
+    "id": "build-your-signature-framework",
+    "title": "Build Your Signature Framework",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 47",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/build-your-signature-framework",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-11-19T04:04:25.897847Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bright Data",
+        "url": "https://brightdata.com/",
+        "logo": "https://brightdata.com/wp-content/themes/brightdata/assets/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-your-signature-framework.html"
+  },
+  {
+    "id": "activate-the-content-to-commerce-flywheel",
+    "title": "Activate The Content-To-Commerce Flywheel",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 46",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/activate-the-content-to-commerce-flywheel",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-11-12T01:15:06.246335Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/activate-the-content-to-commerce-flywheel.html"
+  },
+  {
+    "id": "create-a-profile-that-produces-while-you-sleep",
+    "title": "Create A Profile That Produces While You Sleep",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 45",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/create-a-profile-that-produces-while-you-sleep",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-11-05T05:03:52.988187Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/create-a-profile-that-produces-while-you-sleep.html"
+  },
+  {
+    "id": "five-ways-to-turn-your-article-into-active-deals",
+    "title": "Five Ways To Turn Your Article Into Active Deals",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 44",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/five-ways-to-turn-your-article-into-active-deals",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-10-28T20:45:50.492537Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "htmlFile": "/emails/five-ways-to-turn-your-article-into-active-deals.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-writing-one-article-unlocks-new-opportunities",
+    "title": "How Writing One Article Unlocks New Opportunities",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 43",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/how-writing-one-article-unlocks-new-opportunities",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-22T04:35:42.536509Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-writing-one-article-unlocks-new-opportunities.html"
+  },
+  {
+    "id": "the-sunday-session-system-go-from-content-anxiety-to-content-abundance",
+    "title": "The Sunday Session System: Go From Content Anxiety To Content Abundance",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 42",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/the-sunday-session-system-go-from-content-anxiety-to-content-abundance",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-10-14T18:38:52.917564Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-sunday-session-system-go-from-content-anxiety-to-content-abundance.html"
+  },
+  {
+    "id": "write-like-you-talk-but-with-structure",
+    "title": "Write Like You Talk (But With Structure)",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 41",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/write-like-you-talk-but-with-structure",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-07T05:40:41.933134Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/write-like-you-talk-but-with-structure.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-invisible-tax-of-being-unknown",
+    "title": "The Invisible Tax of Being Unknown",
+    "category": "Digital Products",
+    "description": "Learning Path 4 / Lesson 40",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/the-invisible-tax-of-being-unknown",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-09-30T06:03:33.428689Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-invisible-tax-of-being-unknown.html"
+  },
+  {
+    "id": "stop-reporting-start-enabling-turn-your-management-into-a-board-of-directors",
+    "title": "Stop Reporting, Start Enabling: Turn Your Management Into A Board Of Directors",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 38",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/stop-reporting-start-enabling-turn-your-management-into-a-board-of-directors",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-09-16T15:46:32.202334Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-reporting-start-enabling-turn-your-management-into-a-board-of-directors.html"
+  },
+  {
+    "id": "turn-90-minutes-of-ai-work-into-your-biggest-pipeline-quarter-ever",
+    "title": "Turn 90 Minutes Of AI Work Into Your Biggest Pipeline Quarter Ever",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 37",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/turn-90-minutes-of-ai-work-into-your-biggest-pipeline-quarter-ever",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-09-09T20:03:19.081894Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/turn-90-minutes-of-ai-work-into-your-biggest-pipeline-quarter-ever.html",
+    "hasAds": true
+  },
+  {
+    "id": "different-beats-better-your-pipeline-multiplier-strategy",
+    "title": "Different Beats Better: Your Pipeline Multiplier Strategy",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 36",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/different-beats-better-your-pipeline-multiplier-strategy",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-09-03T11:19:29.522313Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/different-beats-better-your-pipeline-multiplier-strategy.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-45-minute-advantage-how-to-turn-meetings-into-momentum",
+    "title": "The 45-Minute Advantage: How to Turn Meetings Into Momentum",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 35",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/the-45-minute-advantage-how-to-turn-meetings-into-momentum",
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "date": "2025-08-26T19:32:21.363173Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Limitless",
+        "url": "https://www.limitless.ai/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.limitless.ai&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-45-minute-advantage-how-to-turn-meetings-into-momentum.html"
+  },
+  {
+    "id": "the-power-of-the-unsolicited-bid-how-to-win-attention-confidence-and-pipeline-leverage",
+    "title": "The Power of the Unsolicited Bid: How to Win Attention, Confidence, and Pipeline Leverage",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 34",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/the-power-of-the-unsolicited-bid-how-to-win-attention-confidence-and-pipeline-leverage",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-08-20T02:23:56.137813Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "https://cdn.brandfetch.io/idLtHcGS4n/w/374/h/374/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767377041057"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-power-of-the-unsolicited-bid-how-to-win-attention-confidence-and-pipeline-leverage.html"
+  },
+  {
+    "id": "from-generalist-to-specialist-building-your-mega-deal-pipeline",
+    "title": "From Generalist to Specialist: Building Your Mega Deal Pipeline",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 33",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/from-generalist-to-specialist-building-your-mega-deal-pipeline",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2025-08-13T03:13:52.788521Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=skej.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/from-generalist-to-specialist-building-your-mega-deal-pipeline.html"
+  },
+  {
+    "id": "how-top-performers-escape-activity-hell",
+    "title": "How Top Performers Escape Activity Hell",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 32",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/how-top-performers-escape-activity-hell",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-05T06:27:02.233571Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "https://cdn.prod.website-files.com/60e33881a96433966407b814/60e629c31c45376c2100b664_widget.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-top-performers-escape-activity-hell.html"
+  },
+  {
+    "id": "productize-your-pipeline-the-12-5m-playbook",
+    "title": "Productize Your Pipeline: The $12.5M Playbook",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 31",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/productize-your-pipeline-the-12-5m-playbook",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-07-29T20:02:27.401227Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/b548d37e-aedc-422c-b405-1f5f7a551b0c/thumb_stocks_and_income_800x800.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/productize-your-pipeline-the-12-5m-playbook.html"
+  },
+  {
+    "id": "master-your-numbers-master-your-destiny",
+    "title": "Master Your Numbers, Master Your Destiny",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 29",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/master-your-numbers-master-your-destiny",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-16T02:23:25.892466Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/master-your-numbers-master-your-destiny.html"
+  },
+  {
+    "id": "use-design-thinking-to-identify-your-diamond-accounts",
+    "title": "Use Design Thinking to Identify Your Diamond Accounts",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 28",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/use-design-thinking-to-identify-your-diamond-accounts",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-09T01:57:42.409046Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/use-design-thinking-to-identify-your-diamond-accounts.html",
+    "hasAds": true
+  },
+  {
+    "id": "start-acting-like-the-ceo-of-your-territory",
+    "title": "Start Acting Like the CEO of Your Territory",
+    "category": "Digital Products",
+    "description": "Learning Path 3 / Lesson 27",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/start-acting-like-the-ceo-of-your-territory",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-07-01T15:48:46.52585Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Vincent",
+        "url": "https://magic.beehiiv.com/v1/83a3b53c-04ae-46d3-b684-cf4d54c5a021?email={{email}}&redirect_to=https://www.withvincent.com&utm_source=beehiiiv&utm_campaign=ad_network_nov",
+        "logo": "https://cdn.prod.website-files.com/649f1681895fb298a3e7cfe5/64d8c652faad393a4aea0711_Frame_6.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/start-acting-like-the-ceo-of-your-territory.html"
+  },
+  {
+    "id": "mints-breakdown-part-5-the-psychology-powered-strategy-that-wins-transformative-mega-deals",
+    "title": "MINTS Breakdown Part 5: The Psychology-Powered Strategy That Wins Transformative Mega Deals",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 25",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/mints-breakdown-part-5-the-psychology-powered-strategy-that-wins-transformative-mega-deals",
+    "tags": [
+      "AI"
+    ],
+    "date": "2025-06-18T01:48:53.583175Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "InstaHeadshots",
+        "url": "https://instaheadshots.com/",
+        "logo": "https://instaheadshots.com/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mints-breakdown-part-5-the-psychology-powered-strategy-that-wins-transformative-mega-deals.html"
+  },
+  {
+    "id": "mints-breakdown-part-4-develop-a-collaborative-team-to-accelerate-transformation",
+    "title": "MINTS Breakdown Part 4: Develop A Collaborative Team To Accelerate Transformation",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 24",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/mints-breakdown-part-4-develop-a-collaborative-team-to-accelerate-transformation",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-06-10T17:39:33.050994Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mints-breakdown-part-4-develop-a-collaborative-team-to-accelerate-transformation.html"
+  },
+  {
+    "id": "how-to-craft-a-credible-executive-level-point-of-view",
+    "title": "How To Craft A Credible, Executive-Level Point Of View",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 22",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/how-to-craft-a-credible-executive-level-point-of-view",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-28T05:57:54.892645Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-craft-a-credible-executive-level-point-of-view.html"
+  },
+  {
+    "id": "build-a-bridge-between-insights-to-a-narrative-with-your-mobilizer",
+    "title": "Build A Bridge Between Insights To A Narrative With Your Mobilizer",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 21",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/build-a-bridge-between-insights-to-a-narrative-with-your-mobilizer",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-05-20T17:46:35.776834Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-a-bridge-between-insights-to-a-narrative-with-your-mobilizer.html"
+  },
+  {
+    "id": "mints-breakdown-part-2-finding-the-key-executive-influencer-who-can-unlock-a-transformation-deal",
+    "title": "MINTS Breakdown Part 2: Finding The Key Executive Influencer Who Can Unlock A Transformation Deal",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 20",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/mints-breakdown-part-2-finding-the-key-executive-influencer-who-can-unlock-a-transformation-deal",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-13T21:46:21.179323Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mints-breakdown-part-2-finding-the-key-executive-influencer-who-can-unlock-a-transformation-deal.html"
+  },
+  {
+    "id": "turn-insights-into-action",
+    "title": "Turn Insights Into Action",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 19",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/turn-insights-into-action",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-07T06:49:01.044558Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turn-insights-into-action.html"
+  },
+  {
+    "id": "mints-breakdown-part-1-generate-compelling-executive-level-insights-fast-with-ai",
+    "title": "MINTS Breakdown Part 1: Generate Compelling Executive-Level Insights Fast With AI",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 18",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/mints-breakdown-part-1-generate-compelling-executive-level-insights-fast-with-ai",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-30T02:36:38.561071Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mints-breakdown-part-1-generate-compelling-executive-level-insights-fast-with-ai.html"
+  },
+  {
+    "id": "mints-the-framework-that-unlocks-transformation-deals-768e",
+    "title": "MINTS: The Framework That Unlocks Transformation Deals",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 17",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/mints-the-framework-that-unlocks-transformation-deals-768e",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-23T02:00:41.677565Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mints-the-framework-that-unlocks-transformation-deals-768e.html"
+  },
+  {
+    "id": "build-an-8-figure-pov-generator-system",
+    "title": "Build An 8-Figure POV Generator System",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 15",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/build-an-8-figure-pov-generator-system",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-08T20:31:52.445753Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-an-8-figure-pov-generator-system.html"
+  },
+  {
+    "id": "the-first-step-to-becoming-an-authentic-point-of-view-expert",
+    "title": "The First Step To Becoming An Authentic Point-Of-View Expert",
+    "category": "Digital Products",
+    "description": "Learning Path 2 / Lesson 14",
+    "author": "The Purposeful Performer",
+    "url": "https://www.purposefulperformer.com/p/the-first-step-to-becoming-an-authentic-point-of-view-expert",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-03-28T17:45:42.219883Z",
+    "publisher": {
+      "name": "The Purposeful Performer",
+      "url": "https://www.purposefulperformer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/the-first-step-to-becoming-an-authentic-point-of-view-expert.html",
+    "hasAds": true
+  }
+]

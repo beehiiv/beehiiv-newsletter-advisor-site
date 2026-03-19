@@ -1,0 +1,107 @@
+[
+  {
+    "id": "preservation-isn-t-a-strategy-why-local-news-keeps-choosing-familiar-over-functional",
+    "title": "Preservation Isn't a Strategy: Why Local News Keeps Choosing Familiar Over Functional",
+    "category": "Digital Products",
+    "description": "The solutions that get celebrated improve pieces of a machine that no longer fits the environment",
+    "author": "The Trust Shift",
+    "url": "https://the-trust-shift.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T00:44:17.536706Z",
+    "publisher": {
+      "name": "The Trust Shift",
+      "url": "https://the-trust-shift.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/preservation-isn-t-a-strategy-why-local-news-keeps-choosing-familiar-over-functional.html",
+    "hasAds": true
+  },
+  {
+    "id": "can-a-farm-to-table-approach-save-local-news",
+    "title": "Can a Farm-to-Table Approach Save Local News?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Trust Shift",
+    "date": "2026-01-13",
+    "hasAds": true,
+    "url": "https://the-trust-shift.beehiiv.com/p/can-a-farm-to-table-approach-save-local-news",
+    "publisher": {
+      "name": "The Trust Shift",
+      "url": "https://the-trust-shift.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/can-a-farm-to-table-approach-save-local-news.html"
+  },
+  {
+    "id": "six-journalists-proving-where-trust-actually-lives",
+    "title": "Six Journalists Proving Where Trust Actually Lives",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Trust Shift",
+    "date": "2026-01-06",
+    "hasAds": true,
+    "url": "https://the-trust-shift.beehiiv.com/p/six-journalists-proving-where-trust-actually-lives",
+    "publisher": {
+      "name": "The Trust Shift",
+      "url": "https://the-trust-shift.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Stan",
+        "url": "https://www.stan.store/",
+        "logo": "D2D_logo_01_Dark-removebg-preview.png"
+      }
+    ],
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/six-journalists-proving-where-trust-actually-lives.html"
+  },
+  {
+    "id": "trust-in-transition",
+    "title": "Trust in Transition",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Trust Shift",
+    "date": "2025-12-30",
+    "hasAds": true,
+    "url": "https://the-trust-shift.beehiiv.com/p/trust-in-transition",
+    "publisher": {
+      "name": "The Trust Shift",
+      "url": "https://the-trust-shift.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "Gladly_Logo_RBG__1_.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/trust-in-transition.html"
+  }
+]

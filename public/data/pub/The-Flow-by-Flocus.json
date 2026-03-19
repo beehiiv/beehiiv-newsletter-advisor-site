@@ -1,0 +1,1544 @@
+[
+  {
+    "id": "invisible-standards",
+    "title": "😶‍🌫️ Invisible Standards 101",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/invisible-standards",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-22T00:00:00Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/invisible-standards.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-truth-about-truths",
+    "title": "🙇‍♀️ The Truth About Truths",
+    "category": "Digital Products",
+    "description": "A simple way to steady yourself when life feels messy — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-15T00:42:07.899495Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/the-truth-about-truths.html",
+    "hasAds": true
+  },
+  {
+    "id": "being-less-available",
+    "title": "😌 How to Be Less Available",
+    "category": "Digital Products",
+    "description": "How to protect your time without ghosting people — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/being-less-available",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-06T23:04:45.962205Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/being-less-available.html",
+    "hasAds": true
+  },
+  {
+    "id": "mental-clutter",
+    "title": "✨ How to Clear Mental Clutter",
+    "category": "Digital Products",
+    "description": "Why our brains feel full, and how to clear space for better things — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/mental-clutter",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-01-30T08:10:59.719013Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/mental-clutter.html",
+    "hasAds": true
+  },
+  {
+    "id": "adding-texture",
+    "title": "⚡ Habit Tracking & Journaling 101",
+    "category": "Digital Products",
+    "description": "Tiny shifts for better habit tracking and journaling — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/adding-texture",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-20T05:57:38.911613Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/adding-texture.html"
+  },
+  {
+    "id": "fixed-commitments",
+    "title": "🍡 Fixed Commitments 101",
+    "category": "Digital Products",
+    "description": "How to get more done without adding anything new — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/fixed-commitments",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-15T07:29:36.127334Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fixed-commitments.html"
+  },
+  {
+    "id": "how-to-build-momentum",
+    "title": "⚡ Momentum 101",
+    "category": "Digital Products",
+    "description": "We’re back in routine. Now here’s how to build momentum — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/how-to-build-momentum",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-09T06:47:28.743659Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-build-momentum.html"
+  },
+  {
+    "id": "first-week-back",
+    "title": "✨ Your First Week Back 101",
+    "category": "Digital Products",
+    "description": "How to get back into routine and set the tone for the month — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/first-week-back",
+    "tags": [
+      "Education"
+    ],
+    "date": "2026-01-02T01:42:36.49883Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/first-week-back.html"
+  },
+  {
+    "id": "liminal-week",
+    "title": "🧞 Liminal Week 101",
+    "category": "Digital Products",
+    "description": "What to do with this weird week between the holidays and New Year’s — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/liminal-week",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-27T23:12:17.924347Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/liminal-week.html"
+  },
+  {
+    "id": "cozy-season-reset",
+    "title": "🧸 Cozy Season Reset 101",
+    "category": "Digital Products",
+    "description": "How to get cozy and recharge after a long year — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/cozy-season-reset",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-12T13:52:59.730908Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cozy-season-reset.html"
+  },
+  {
+    "id": "year-end-survival",
+    "title": "🎄 Your End of Year Survival Kit",
+    "category": "Digital Products",
+    "description": "How to make it through exam season and year-end deadlines — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/year-end-survival",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-12-05T16:42:26.995453Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Livelong Media",
+        "url": "https://livelongmedia.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d081bbcb-4b10-48e0-964e-0a1c4cc9ce2e/thumb_IMG_0333.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/year-end-survival.html"
+  },
+  {
+    "id": "how-to-finish-the-year-strong",
+    "title": "🛬 How to Finish the Year Strong",
+    "category": "Digital Products",
+    "description": "How to land the plane on the rest of your year, ahead of exams and year-end — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/how-to-finish-the-year-strong",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-28T13:19:46.688896Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-finish-the-year-strong.html"
+  },
+  {
+    "id": "two-speed-system",
+    "title": "🚗 The 2-Speed System for Productivity",
+    "category": "Digital Products",
+    "description": "What the two-speed system is, and how to incorporate it into your workflow — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/two-speed-system",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-19T13:10:34.256976Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/two-speed-system.html"
+  },
+  {
+    "id": "context-switch-tax",
+    "title": "🧾 Context Switch Tax 101",
+    "category": "Digital Products",
+    "description": "How to stop context switching and get more done — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/context-switch-tax",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-14T00:32:28.593136Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/context-switch-tax.html"
+  },
+  {
+    "id": "putting-out-fires",
+    "title": "🧯 Putting Out Fires 101",
+    "category": "Digital Products",
+    "description": "How to tackle any of life’s chaos before it spreads — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/putting-out-fires",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-06T18:01:53.810165Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/putting-out-fires.html"
+  },
+  {
+    "id": "life-juggling",
+    "title": "🤹 Life Juggling 101",
+    "category": "Digital Products",
+    "description": "How to balance life’s demands, and what to do when things drop — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/life-juggling",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-10-30T21:00:38.138018Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/life-juggling.html"
+  },
+  {
+    "id": "vulnerability-factors",
+    "title": "😨 Vulnerability Factors 101",
+    "category": "Digital Products",
+    "description": "How to spot what’s draining you and get your energy back — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/vulnerability-factors",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-17T14:12:56.534464Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/vulnerability-factors.html"
+  },
+  {
+    "id": "self-soothing-tips",
+    "title": "😌 Self-Soothing 101",
+    "category": "Digital Products",
+    "description": "How to calm your mind and body — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/self-soothing-tips",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-15T17:56:36.088351Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/self-soothing-tips.html"
+  },
+  {
+    "id": "anchor-habits",
+    "title": "⚓ Anchor Habits 101",
+    "category": "Digital Products",
+    "description": "The real way to make habits stick — in less than 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/anchor-habits",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-02T19:33:47.992071Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/anchor-habits.html"
+  },
+  {
+    "id": "friction-audit",
+    "title": "🧱 Removing Friction 101",
+    "category": "Digital Products",
+    "description": "How to spot and eliminate friction in your life — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/friction-audit",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-09-22T21:53:30.035615Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/friction-audit.html"
+  },
+  {
+    "id": "life-admin",
+    "title": "🧺 Life Admin 101",
+    "category": "Digital Products",
+    "description": "Why life admin can be so draining, and how to finally clear it off your plate — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/life-admin",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-19T14:09:34.829929Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/life-admin.html"
+  },
+  {
+    "id": "the-great-lock-in",
+    "title": "🧑‍💻 The Great Lock In 101",
+    "category": "Digital Products",
+    "description": "How to participate in The Great Lock In, the right way — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/the-great-lock-in",
+    "tags": [
+      "Marketing",
+      "Real Estate",
+      "SaaS"
+    ],
+    "date": "2025-09-12T16:47:31.986725Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marpipe",
+        "url": "https://www.marpipe.com/",
+        "logo": "https://cdn.prod.website-files.com/5d64276bb1c595369043818c/6064a56e53f9e185cbf970c0_new%20Web%402x.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-great-lock-in.html"
+  },
+  {
+    "id": "back-to-routine-reset",
+    "title": "🛬 How to Reset for September",
+    "category": "Digital Products",
+    "description": "Your full back-to-routine reset guide — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/back-to-routine-reset",
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "date": "2025-08-26T20:36:10.64287Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Limitless",
+        "url": "https://www.limitless.ai/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.limitless.ai&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/back-to-routine-reset.html"
+  },
+  {
+    "id": "busting-pre-september-panic",
+    "title": "🧘‍♀️ Busting Pre-September Panic",
+    "category": "Digital Products",
+    "description": "Your do’s and don’ts for going into September — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/busting-pre-september-panic",
+    "tags": [
+      "Entertainment",
+      "Sports"
+    ],
+    "date": "2025-08-21T19:07:12.704412Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PlayersTV",
+        "url": "https://playerstv.com/",
+        "logo": "https://playerstv.com/wp-content/uploads/2024/04/ptv-favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/busting-pre-september-panic.html"
+  },
+  {
+    "id": "romanticizing-end-of-summer",
+    "title": "🏖️ Beating the End-of-Summer Scaries",
+    "category": "Digital Products",
+    "description": "How to savor the rest of the season and let go of pressure — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/romanticizing-end-of-summer",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-10T16:40:38.556801Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/romanticizing-end-of-summer.html"
+  },
+  {
+    "id": "rebooting-your-routine",
+    "title": "🧼 How to Reboot Your Routine",
+    "category": "Digital Products",
+    "description": "How to refresh your routine going into the next season — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/rebooting-your-routine",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-08-08T18:04:44.421645Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rebooting-your-routine.html"
+  },
+  {
+    "id": "analog-for-attention-span",
+    "title": "🖊️ How to Reduce Screen Time",
+    "category": "Digital Products",
+    "description": "How to reclaim your attention span and focus ahead of back-to-routine season — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/analog-for-attention-span",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-28T19:38:43.403436Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/analog-for-attention-span.html"
+  },
+  {
+    "id": "caring-what-others-think",
+    "title": "🫣 When to Care What People Think",
+    "category": "Digital Products",
+    "description": "When “not caring what other people think” is bad advice — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/caring-what-others-think",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-22T15:41:43.571458Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/caring-what-others-think.html"
+  },
+  {
+    "id": "weird-days",
+    "title": "🌤️ Let the Day Be Weird",
+    "category": "Digital Products",
+    "description": "How to deal with weird days, and how to get back on track — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/weird-days",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-10T21:39:42.136999Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/weird-days.html"
+  },
+  {
+    "id": "lessons-wed-tell-our-younger-selves",
+    "title": "🌱 3 Life Lessons",
+    "category": "Digital Products",
+    "description": "Little things you’ll wish you knew earlier, but know now — in less than 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/lessons-wed-tell-our-younger-selves",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-05T20:48:30.391564Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lessons-wed-tell-our-younger-selves.html"
+  },
+  {
+    "id": "taking-care-of-yourself-in-tough-times",
+    "title": "🫂 Taking Care of Yourself 101",
+    "category": "Digital Products",
+    "description": "How to look after yourself when times are tough — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/taking-care-of-yourself-in-tough-times",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-05-28T19:46:24.637764Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/taking-care-of-yourself-in-tough-times.html"
+  },
+  {
+    "id": "freeze-response",
+    "title": "🍦 Freeze Response 101",
+    "category": "Digital Products",
+    "description": "How to stop freezing and break free — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/freeze-response",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-21T21:00:02.087931Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/freeze-response.html"
+  },
+  {
+    "id": "debunking-routine-myths",
+    "title": "🌞 Routines 101",
+    "category": "Digital Products",
+    "description": "4 ways to glow-up your routine — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/debunking-routine-myths",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-05-15T01:09:29.456498Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/debunking-routine-myths.html"
+  },
+  {
+    "id": "the-later-trap",
+    "title": "🏝️ The Later Trap",
+    "category": "Digital Products",
+    "description": "What the Later Trap is, and how to break free from it — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/the-later-trap",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-07T17:55:36.410399Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-later-trap.html"
+  },
+  {
+    "id": "expired-goals",
+    "title": "⌛️ How to Deal with Expired Goals",
+    "category": "Digital Products",
+    "description": "How to clear out your expired goals and make room for new ones — in less than 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/expired-goals",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-28T23:02:33.953537Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/expired-goals.html"
+  },
+  {
+    "id": "borrowed-time-guilt",
+    "title": "😰 Borrowed Time Guilt 101",
+    "category": "Digital Products",
+    "description": "How to stop feeling guilty about taking breaks and being “unproductive” — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/borrowed-time-guilt",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-24T14:30:09.625552Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/borrowed-time-guilt.html"
+  },
+  {
+    "id": "energy-signal-test",
+    "title": "🚦 The Energy Signal Test",
+    "category": "Digital Products",
+    "description": "How to tell what gives you energy vs. drains you — in less than 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/energy-signal-test",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-09T20:57:51.254768Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/energy-signal-test.html"
+  },
+  {
+    "id": "getting-back-on-track",
+    "title": "🛤️ How to Get Back on Track",
+    "category": "Digital Products",
+    "description": "5 ways to get back on track after falling off — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/getting-back-on-track",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-03-26T19:14:20.108308Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/getting-back-on-track.html"
+  },
+  {
+    "id": "decluttering-your-mind",
+    "title": "💆‍♀️ How to Declutter Your Mind",
+    "category": "Digital Products",
+    "description": "Too many mental tabs open? Here’s how to clear them — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/decluttering-your-mind",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-21T16:02:38.652637Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/decluttering-your-mind.html"
+  },
+  {
+    "id": "how-to-switch-off",
+    "title": "🔋 How to Truly Switch Off",
+    "category": "Digital Products",
+    "description": "How to switch off, recharge, and come back stronger — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/how-to-switch-off",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-03-05T01:42:06.361041Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-switch-off.html"
+  },
+  {
+    "id": "making-daily-life-fulfilling",
+    "title": "🌸 Building a Life You Don’t Need a Break From",
+    "category": "Digital Products",
+    "description": "How to make life feel a little more fulfilling every day — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/making-daily-life-fulfilling",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-25T21:20:22.811631Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/making-daily-life-fulfilling.html"
+  },
+  {
+    "id": "garden-path-thought-loops",
+    "title": "🌀 Thought Loops 101",
+    "category": "Digital Products",
+    "description": "How to stop distracting thought loops and get back on track — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/garden-path-thought-loops",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-21T21:22:48.48652Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/garden-path-thought-loops.html"
+  },
+  {
+    "id": "how-to-enjoy-the-journey",
+    "title": "🛩️ How to Enjoy the Journey",
+    "category": "Digital Products",
+    "description": "How to actually enjoy the process when working towards your goals — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/how-to-enjoy-the-journey",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-15T21:02:06.777158Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-enjoy-the-journey.html"
+  },
+  {
+    "id": "to-do-lists-101",
+    "title": "⚡️ To-Do Lists 101",
+    "category": "Digital Products",
+    "description": "How to put together a proper to-do list, and actually do it — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/to-do-lists-101",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-08T14:41:21.967453Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/to-do-lists-101.html"
+  },
+  {
+    "id": "focus-like-an-athlete",
+    "title": "🏃‍♂️ Focus Like an Athlete",
+    "category": "Digital Products",
+    "description": "How to use the athlete formula to get more done without burning out — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/focus-like-an-athlete",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-31T18:38:18.571207Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/focus-like-an-athlete.html"
+  },
+  {
+    "id": "types-of-roadblocks",
+    "title": "🛣️ Roadblocks 101",
+    "category": "Digital Products",
+    "description": "The 4 types of roadblocks, and how to break through each one — in less than 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/types-of-roadblocks",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2025-01-10T19:01:26.843488Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/types-of-roadblocks.html"
+  },
+  {
+    "id": "planning-in-reverse",
+    "title": "⏮️ How to Plan in Reverse",
+    "category": "Digital Products",
+    "description": "Why planning in reverse works, and how to do it — in less than 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/planning-in-reverse",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-02T18:46:26.133943Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/planning-in-reverse.html"
+  },
+  {
+    "id": "how-to-be-confident",
+    "title": "💪 How to Be Confident",
+    "category": "Digital Products",
+    "description": "How to be confident heading into the new year and beyond — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/how-to-be-confident",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-26T16:17:25.643223Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-be-confident.html"
+  },
+  {
+    "id": "passive-active-rest",
+    "title": "😴 Resting 101",
+    "category": "Digital Products",
+    "description": "The two types of rest, and how to use them over the holidays — in 3 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/passive-active-rest",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2024-12-19T13:21:47.888746Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/passive-active-rest.html"
+  },
+  {
+    "id": "setting-boundaries",
+    "title": "✌️ How to Protect Your Peace",
+    "category": "Digital Products",
+    "description": "How to use boundaries to free up your time and energy — in 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/setting-boundaries",
+    "tags": [
+      "News",
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2024-12-13T20:18:09.999772Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/setting-boundaries.html"
+  },
+  {
+    "id": "self-soothing",
+    "title": "💆‍♀️ Self-Soothing 101",
+    "category": "Digital Products",
+    "description": "What to try when you’re feeling overwhelmed — in under 5 minutes.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/self-soothing",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-14T17:52:46.883325Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/self-soothing.html"
+  },
+  {
+    "id": "dopamine-detox",
+    "title": "🤩 Dopamine 101",
+    "category": "Digital Products",
+    "description": "A quick guide to replacing low quality dopamine to boost your fulfilment and productivity.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/dopamine-detox",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-30T09:13:21.069682Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dopamine-detox.html"
+  },
+  {
+    "id": "5-second-rule",
+    "title": "🖐️ The 5-Second Rule",
+    "category": "Digital Products",
+    "description": "What the 5-second rule is, and how to use it to get more done.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/5-second-rule",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-09T13:18:44.044661Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-second-rule.html"
+  },
+  {
+    "id": "how-to-declutter-properly",
+    "title": "🧼 How to Declutter Properly",
+    "category": "Digital Products",
+    "description": "A quick guide on boosting your productivity and happiness by letting things go.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/how-to-declutter-properly",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-20T18:14:54.103821Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-declutter-properly.html"
+  },
+  {
+    "id": "iceberg-tasks",
+    "title": "🧊 Iceberg Tasks 101",
+    "category": "Digital Products",
+    "description": "A quick guide on overcoming your iceberg tasks to get more done.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/iceberg-tasks",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-06T21:32:54.730677Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/iceberg-tasks.html"
+  },
+  {
+    "id": "cultivating-discipline",
+    "title": "⚡️ Discipline 101",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Flow by Flocus",
+    "date": "2024-09-01",
+    "hasAds": true,
+    "url": "https://newsletter.flocus.com/p/cultivating-discipline",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com"
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "Betterment-wordmark-logo.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/cultivating-discipline.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "impact-effort-ratio",
+    "title": "🔥 The Impact-Effort Ratio",
+    "category": "Digital Products",
+    "description": "A quick and easy method to prioritize more effectively.",
+    "author": "The Flow by Flocus",
+    "url": "https://newsletter.flocus.com/p/impact-effort-ratio",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-16T21:02:57.483466Z",
+    "publisher": {
+      "name": "The Flow by Flocus",
+      "url": "https://newsletter.flocus.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/impact-effort-ratio.html"
+  }
+]

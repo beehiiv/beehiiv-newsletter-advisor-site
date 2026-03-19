@@ -1,0 +1,615 @@
+[
+  {
+    "id": "we-dream-of-real-estate",
+    "title": "We Dream of Real Estate",
+    "category": "Digital Products",
+    "description": "",
+    "author": "L'Etranger",
+    "url": "https://theoutsidernewsletter.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T23:41:57.7761Z",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/we-dream-of-real-estate.html",
+    "hasAds": true
+  },
+  {
+    "id": "love-at-first-showing",
+    "title": "Love at First Showing...",
+    "category": "Digital Products",
+    "description": "Take the long way home",
+    "author": "L'Etranger",
+    "url": "https://theoutsidernewsletter.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-13T00:07:56.395248Z",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Counterflow",
+        "url": "https://livecounterflow.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=livecounterflow.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/love-at-first-showing.html",
+    "hasAds": true
+  },
+  {
+    "id": "notebooks-diaries-and-meditations",
+    "title": "Notebooks, diaries and meditations",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2026-01-21",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/notebooks-diaries-and-meditations",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/notebooks-diaries-and-meditations.html",
+    "tags": [
+      "Finance",
+      "Investing"
+    ]
+  },
+  {
+    "id": "return-to-sender",
+    "title": "RETURN TO SENDER",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-12-10",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/return-to-sender",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/return-to-sender.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "regina",
+    "title": "REGINA - ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-12-06",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/regina",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      }
+    ],
+    "htmlFile": "/emails/regina.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ask-dr-fil-3b9d35ae8aae4952",
+    "title": "Ask Dr. Fil ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-12-03",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/ask-dr-fil-3b9d35ae8aae4952",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/ask-dr-fil-3b9d35ae8aae4952.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "win-win-win",
+    "title": "Win-Win-Win",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-11-26",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/win-win-win",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Medik8",
+        "url": "https://www.medik8.com/",
+        "logo": "medik8-logo.png"
+      }
+    ],
+    "htmlFile": "/emails/win-win-win.html",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  },
+  {
+    "id": "realtor-on-the-run",
+    "title": "REALTOR ON THE RUN",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-11-22",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/realtor-on-the-run",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/realtor-on-the-run.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "sailor-abreu",
+    "title": "Sailor Abreu",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-11-19",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/sailor-abreu",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/sailor-abreu.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "madam-lipa-real-estate-oracle",
+    "title": "MADAM LIPA - REAL ESTATE ORACLE",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-11-05",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/madam-lipa-real-estate-oracle",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/madam-lipa-real-estate-oracle.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "the-realtor-from-hell",
+    "title": "THE REALTOR FROM HELL",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-11-01",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/the-realtor-from-hell",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/the-realtor-from-hell.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "6-realtors-in-search-of-a-broker",
+    "title": "6 REALTORS IN SEARCH OF A BROKER",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-10-25",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/6-realtors-in-search-of-a-broker",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "GURU",
+        "url": "https://guruconference.com/",
+        "logo": "https://guruconference.com/Content/favicon/android-icon-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/6-realtors-in-search-of-a-broker.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "the-good-realtor",
+    "title": "THE GOOD REALTOR",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-10-11",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/the-good-realtor",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/the-good-realtor.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "the-x-files",
+    "title": "The X-Files",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/the-x-files",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wing Assistant",
+        "url": "https://wingassistant.com/",
+        "logo": "Wing.png"
+      }
+    ],
+    "htmlFile": "/emails/the-x-files.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-weight-of-love",
+    "title": "The Weight of Love",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-10-04",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/the-weight-of-love",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/the-weight-of-love.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "the-importance-of-being-mee",
+    "title": "THE IMPORTANCE OF BEING MEE",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-10-01",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/the-importance-of-being-mee",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/the-importance-of-being-mee.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "blame-it-on-the-bossa-nova",
+    "title": "Blame it on the Bossa Nova",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-24",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/blame-it-on-the-bossa-nova",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/blame-it-on-the-bossa-nova.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-stranger-in-my-house",
+    "title": "PRIVATE LISTING",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-20",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/a-stranger-in-my-house",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/a-stranger-in-my-house.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "real-estate-pursuit-a33e607c73ba6f07",
+    "title": "Real Estate Pursuit",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-17",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/real-estate-pursuit-a33e607c73ba6f07",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "Indy_AI.png"
+      }
+    ],
+    "htmlFile": "/emails/real-estate-pursuit-a33e607c73ba6f07.html",
+    "tags": [
+      "Business"
+    ]
+  },
+  {
+    "id": "smoke-signals-from-regina-roc",
+    "title": "Smoke Signals from Regina Roc",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-13",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/smoke-signals-from-regina-roc",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/smoke-signals-from-regina-roc.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "field-of-dreams",
+    "title": "Field of Dreams",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-10",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/field-of-dreams",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/field-of-dreams.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "private-listing",
+    "title": "PRIVATE LISTING",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-06",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/private-listing",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/private-listing.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "mommie-dearest-in",
+    "title": "Mommie Dearest in,",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-09-03",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/mommie-dearest-in",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kojo",
+        "url": "https://www.kojo.gg/",
+        "logo": "KOJOLOGO.png"
+      }
+    ],
+    "htmlFile": "/emails/mommie-dearest-in.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-house-of-evil-laughter-4a9a6e58ca7015e8",
+    "title": "THE HOUSE OF EVIL LAUGHTER",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "L'Etranger",
+    "date": "2025-08-16",
+    "hasAds": true,
+    "url": "https://theoutsidernewsletter.beehiiv.com/p/the-house-of-evil-laughter-4a9a6e58ca7015e8",
+    "publisher": {
+      "name": "L'Etranger",
+      "url": "https://theoutsidernewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/the-house-of-evil-laughter-4a9a6e58ca7015e8.html",
+    "tags": [
+      "Real Estate"
+    ]
+  }
+]

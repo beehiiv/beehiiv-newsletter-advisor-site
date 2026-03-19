@@ -1,0 +1,132 @@
+[
+  {
+    "id": "2025-under-the-microscope",
+    "title": "🔍 2025 under the microscope",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Talivity Weekly",
+    "date": "2024-12-12",
+    "hasAds": true,
+    "url": "https://recruitmentmarketing.beehiiv.com/p/2025-under-the-microscope",
+    "publisher": {
+      "name": "The Talivity Weekly",
+      "url": "https://recruitmentmarketing.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/2025-under-the-microscope.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "money-can-t-buy-love",
+    "title": "💝 Money can't buy love",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Talivity Weekly",
+    "date": "2024-12-05",
+    "hasAds": true,
+    "url": "https://recruitmentmarketing.beehiiv.com/p/money-can-t-buy-love",
+    "publisher": {
+      "name": "The Talivity Weekly",
+      "url": "https://recruitmentmarketing.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/money-can-t-buy-love.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "trim-the-fat",
+    "title": "✂️ Trim the fat",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Talivity Weekly",
+    "date": "2024-11-21",
+    "hasAds": true,
+    "url": "https://recruitmentmarketing.beehiiv.com/p/trim-the-fat",
+    "publisher": {
+      "name": "The Talivity Weekly",
+      "url": "https://recruitmentmarketing.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/trim-the-fat.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "jobs-after-trump-1",
+    "title": "🔍 The AI effect",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Talivity Weekly",
+    "date": "2024-11-14",
+    "hasAds": true,
+    "url": "https://recruitmentmarketing.beehiiv.com/p/jobs-after-trump-1",
+    "publisher": {
+      "name": "The Talivity Weekly",
+      "url": "https://recruitmentmarketing.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Goody",
+        "url": "https://www.ongoody.com/",
+        "logo": "goody.png"
+      }
+    ],
+    "htmlFile": "/emails/jobs-after-trump-1.html",
+    "tags": [
+      "Business",
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "jobs-after-trump",
+    "title": "🎯 Jobs after Trump",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Talivity Weekly",
+    "date": "2024-11-07",
+    "hasAds": true,
+    "url": "https://recruitmentmarketing.beehiiv.com/p/jobs-after-trump",
+    "publisher": {
+      "name": "The Talivity Weekly",
+      "url": "https://recruitmentmarketing.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/jobs-after-trump.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  }
+]

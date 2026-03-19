@@ -1,0 +1,29 @@
+[
+  {
+    "id": "secrets-to-increase-open-rates",
+    "title": "🤫 Secrets to Increase Open Rates ",
+    "category": "Digital Products",
+    "description": "Your 5-min insider briefing for newsletter creators and aspiring pros. 😎",
+    "author": "HeyNews Newsletter",
+    "url": "https://news.heybe.ai/p/secrets-to-increase-open-rates",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-29T12:59:27.068372Z",
+    "publisher": {
+      "name": "HeyNews Newsletter",
+      "url": "https://news.heybe.ai",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/secrets-to-increase-open-rates.html"
+  }
+]

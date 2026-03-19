@@ -1,0 +1,156 @@
+[
+  {
+    "id": "the-wordery-rage-compost",
+    "title": "The Wordery: Rage Compost",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Word Nerdery and Sundry",
+    "date": "2026-02-03",
+    "hasAds": true,
+    "url": "https://virtuistic.beehiiv.com/p/the-wordery-rage-compost",
+    "publisher": {
+      "name": "Word Nerdery and Sundry",
+      "url": "https://virtuistic.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-wordery-rage-compost.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "introducing-taproot-media",
+    "title": "INTRODUCING: Taproot Media",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Word Nerdery and Sundry",
+    "date": "2026-01-15",
+    "hasAds": true,
+    "url": "https://virtuistic.beehiiv.com/p/introducing-taproot-media",
+    "publisher": {
+      "name": "Word Nerdery and Sundry",
+      "url": "https://virtuistic.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "reMarkable",
+        "url": "https://remarkable.com/",
+        "logo": "reMarkable_Full-logo_Dark_RGB.png"
+      }
+    ],
+    "htmlFile": "/emails/introducing-taproot-media.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "2026-tarot",
+    "title": "✨ Tarot for 2026",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Word Nerdery and Sundry",
+    "date": "2026-01-01",
+    "hasAds": true,
+    "url": "https://virtuistic.beehiiv.com/p/2026-tarot",
+    "publisher": {
+      "name": "Word Nerdery and Sundry",
+      "url": "https://virtuistic.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/2026-tarot.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2025-tarot-yir",
+    "title": "🎴 2025 Tarot Review",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Word Nerdery and Sundry",
+    "date": "2025-12-28",
+    "hasAds": true,
+    "url": "https://virtuistic.beehiiv.com/p/2025-tarot-yir",
+    "publisher": {
+      "name": "Word Nerdery and Sundry",
+      "url": "https://virtuistic.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/2025-tarot-yir.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "the-createry-shiny-and-soft",
+    "title": "The Createry: Shiny and Soft",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Word Nerdery and Sundry",
+    "date": "2025-12-19",
+    "hasAds": true,
+    "url": "https://virtuistic.beehiiv.com/p/the-createry-shiny-and-soft",
+    "publisher": {
+      "name": "Word Nerdery and Sundry",
+      "url": "https://virtuistic.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-createry-shiny-and-soft.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "leveling-up-date",
+    "title": "LEVELING UP-date",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Word Nerdery and Sundry",
+    "date": "2025-12-09",
+    "hasAds": true,
+    "url": "https://virtuistic.beehiiv.com/p/leveling-up-date",
+    "publisher": {
+      "name": "Word Nerdery and Sundry",
+      "url": "https://virtuistic.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/leveling-up-date.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  }
+]

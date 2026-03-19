@@ -1,0 +1,138 @@
+[
+  {
+    "id": "day-57",
+    "title": "Day 57",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "How to get rich?",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://how-to-get-rich.beehiiv.com/p/day-57",
+    "publisher": {
+      "name": "How to get rich?",
+      "url": "https://how-to-get-rich.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/day-57.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "day-54",
+    "title": "Day 54",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "How to get rich?",
+    "date": "2025-08-16",
+    "hasAds": true,
+    "url": "https://how-to-get-rich.beehiiv.com/p/day-54",
+    "publisher": {
+      "name": "How to get rich?",
+      "url": "https://how-to-get-rich.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/day-54.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "day-51",
+    "title": "Day 51",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "How to get rich?",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://how-to-get-rich.beehiiv.com/p/day-51",
+    "publisher": {
+      "name": "How to get rich?",
+      "url": "https://how-to-get-rich.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/day-51.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "day-48",
+    "title": "Day 48",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "How to get rich?",
+    "date": "2025-08-10",
+    "hasAds": true,
+    "url": "https://how-to-get-rich.beehiiv.com/p/day-48",
+    "publisher": {
+      "name": "How to get rich?",
+      "url": "https://how-to-get-rich.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/day-48.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "day-36",
+    "title": "Day 36",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "How to get rich?",
+    "date": "2025-07-29",
+    "hasAds": true,
+    "url": "https://how-to-get-rich.beehiiv.com/p/day-36",
+    "publisher": {
+      "name": "How to get rich?",
+      "url": "https://how-to-get-rich.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/day-36.html",
+    "tags": [
+      "Business",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  }
+]

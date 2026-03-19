@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1-12-2026",
+    "title": "🗑 100+ teaching resources for class tomorrow",
+    "category": "Digital Products",
+    "description": "Being a newsletter subscriber has its perks!",
+    "author": "Ditch That Textbook",
+    "url": "https://ditch.beehiiv.com/p/1-12-2026",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-12T01:12:26.034141Z",
+    "publisher": {
+      "name": "Ditch That Textbook",
+      "url": "https://ditch.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/1-12-2026.html"
+  }
+]

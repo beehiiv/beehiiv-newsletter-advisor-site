@@ -1,0 +1,375 @@
+[
+  {
+    "id": "rip-money-bags",
+    "title": "💰 RIP Money Bags",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2025-02-12",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/rip-money-bags",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/rip-money-bags.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "showing-love-on-a-budget",
+    "title": "💰 Showing love on a budget",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2025-02-05",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/showing-love-on-a-budget",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/showing-love-on-a-budget.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "screw-the-banks",
+    "title": "💰 Screw the banks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2025-01-29",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/screw-the-banks",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "FBZ_logo__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/screw-the-banks.html",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "understand-your-credit-score",
+    "title": "💰 Understand your credit score",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2025-01-22",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/understand-your-credit-score",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      },
+      {
+        "name": "Wall Street Prep",
+        "url": "https://www.wallstreetprep.com/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      }
+    ],
+    "htmlFile": "/emails/understand-your-credit-score.html",
+    "tags": [
+      "Education",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "unlock-these-hidden-benefits",
+    "title": "💰 Unlock These Hidden Benefits",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2025-01-15",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/unlock-these-hidden-benefits",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "FBZ_logo__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/unlock-these-hidden-benefits.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "cheaper-isn-t-always-better",
+    "title": "💰 Cheaper isn't always better",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2025-01-08",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/cheaper-isn-t-always-better",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/cheaper-isn-t-always-better.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "brace-for-taxes",
+    "title": "💰 BRACE FOR TAXES",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-12-04",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/brace-for-taxes",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/brace-for-taxes.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "negotiate-your-compensation",
+    "title": "💰 Negotiate your compensation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-10-23",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/negotiate-your-compensation",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "Bullseye_Trades_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/negotiate-your-compensation.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "take-the-trip",
+    "title": "💰 Take the trip ✈",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-10-09",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/take-the-trip",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "Bullseye_Trades_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/take-the-trip.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "secure-your-health",
+    "title": "💰 Secure Your Health",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-10-02",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/secure-your-health",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "cc-logo_1200x600.png"
+      }
+    ],
+    "htmlFile": "/emails/secure-your-health.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "the-next-housing-crash",
+    "title": "💰 The Next Housing Crash",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-09-25",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/the-next-housing-crash",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-next-housing-crash.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "incoming-housing-crash",
+    "title": "💰 Incoming Housing Crash?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-09-18",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/incoming-housing-crash",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/incoming-housing-crash.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "lessons-ive-learned-far",
+    "title": "💰 3 Lessons I've Learned So Far",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-08-28",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/lessons-ive-learned-far",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Value Investor Daily",
+        "url": "https://www.valueinvestordaily.com/",
+        "logo": "Value_Investor_Daily_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/lessons-ive-learned-far.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "debt-consolidation-right",
+    "title": "💰 Is Debt Consolidation Right for You?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Money Bags",
+    "date": "2024-08-07",
+    "hasAds": true,
+    "url": "https://moneybags.beehiiv.com/p/debt-consolidation-right",
+    "publisher": {
+      "name": "Money Bags",
+      "url": "https://moneybags.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "Betterment-wordmark-logo.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/debt-consolidation-right.html",
+    "tags": [
+      "Finance"
+    ]
+  }
+]

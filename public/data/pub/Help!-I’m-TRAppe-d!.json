@@ -1,0 +1,936 @@
+[
+  {
+    "id": "local-gems-around-the-world",
+    "title": "Local Gems Around The World 🌏",
+    "description": "A round up of unforgettable experiences",
+    "date": "2026-02-25",
+    "author": "Help! I’m TRAppe-d!",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/local-gems-around-the-world",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "",
+      "logo": ""
+    },
+    "htmlFile": "/emails/local-gems-around-the-world.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "sweet-traditions",
+    "title": " Sweet Traditions 🍯",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2026-02-18",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/sweet-traditions",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/sweet-traditions.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "santorini-mini-guide",
+    "title": "Santorini Mini-Guide 🇬🇷",
+    "category": "Digital Products",
+    "description": "Discover where to eat, play and explore like you actually live here. Curated 100% by a local.",
+    "author": "Help! I’m TRAppe-d!",
+    "url": "https://trappetravel.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-08T09:03:06.021809Z",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/santorini-mini-guide.html",
+    "hasAds": true
+  },
+  {
+    "id": "quiet-corners",
+    "title": " Quiet Corners 🌲",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2026-02-04",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/quiet-corners",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/quiet-corners.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "hotel-stationaries",
+    "title": "Hotel Stationaries 📝",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2026-01-21",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/hotel-stationaries",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intrepid Travel",
+        "url": "https://www.intrepidtravel.com",
+        "logo": "INTREPID-PRIMARY-HORIZONTAL-RED-RGB__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/hotel-stationaries.html",
+    "tags": [
+      "Lifestyle",
+      "Travel"
+    ]
+  },
+  {
+    "id": "the-simple-life",
+    "title": "The Simple Life 🚜",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2026-01-14",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/the-simple-life",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-simple-life.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "extra-virgin",
+    "title": "Extra Virgin 🫒",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2026-01-07",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/extra-virgin",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "White_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/extra-virgin.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "secret-santa",
+    "title": "Secret Santa 🎅🏻",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-12-24",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/secret-santa",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "bh_logo_large__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/secret-santa.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "baggage-claim",
+    "title": "Baggage Claim 🛄",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-12-17",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/baggage-claim",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "bh_logo_large__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/baggage-claim.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "forest-pods",
+    "title": "Forest Pods 🏕️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-12-10",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/forest-pods",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "ProtonMail.png"
+      }
+    ],
+    "htmlFile": "/emails/forest-pods.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "rome-mini-guide",
+    "title": "Rome Mini-Guide 🇮🇹",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-12-02",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/rome-mini-guide",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/rome-mini-guide.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "high-altitude-discovery",
+    "title": "High Altitude Discovery 🏔️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-11-26",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/high-altitude-discovery",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/high-altitude-discovery.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "into-the-woods",
+    "title": "Into The Woods 🪵",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-11-19",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/into-the-woods",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/into-the-woods.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "barcelona-mini-guide",
+    "title": "Barcelona Mini-Guide 🇪🇸",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-11-17",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/barcelona-mini-guide",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/barcelona-mini-guide.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "the-sound-of-music",
+    "title": "The Sound of Music ⛰️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-11-12",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/the-sound-of-music",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/the-sound-of-music.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "agra-mini-guide",
+    "title": "Agra Mini-Guide 🇮🇳",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-11-04",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/agra-mini-guide",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "AUTHOR_INC.png"
+      }
+    ],
+    "htmlFile": "/emails/agra-mini-guide.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "sunrise-homestay",
+    "title": "Sunrise & Homestay 🌞 ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-10-29",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/sunrise-homestay",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/sunrise-homestay.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "city-la-romantic",
+    "title": "City La Romantic 🌹",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-10-22",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/city-la-romantic",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/city-la-romantic.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "autumn-leaves",
+    "title": "Autumn Leaves 🍂",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-10-15",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/autumn-leaves",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/autumn-leaves.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "carry-on-baggage",
+    "title": "Carry On Baggage 🧳",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/carry-on-baggage",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/carry-on-baggage.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "madeira-island-mini-guide",
+    "title": "Madeira Island Mini-Guide 🇵🇹",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-10-06",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/madeira-island-mini-guide",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/madeira-island-mini-guide.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "slow-down-hotels",
+    "title": "Slow Down Hotels 🧸",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-09-24",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/slow-down-hotels",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/slow-down-hotels.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "creative-escapes",
+    "title": "Creative Escapes 🎨",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-09-17",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/creative-escapes",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/creative-escapes.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "offbeat-vibes",
+    "title": "Offbeat Vibes 🎶",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-09-10",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/offbeat-vibes",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/offbeat-vibes.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "globetrotter-vibes",
+    "title": "Globetrotter Vibes 🌍",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-09-03",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/globetrotter-vibes",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/globetrotter-vibes.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "license-to-chill",
+    "title": "License to Chill 🎸🌴",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-08-27",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/license-to-chill",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/license-to-chill.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "grounds-for-adventure",
+    "title": "Grounds for Adventure 🌿☕",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/grounds-for-adventure",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "tangle.png"
+      }
+    ],
+    "htmlFile": "/emails/grounds-for-adventure.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "island-vibes-ethical-guides",
+    "title": "Island Vibes & Ethical Guides 🌿",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-08-06",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/island-vibes-ethical-guides",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/island-vibes-ethical-guides.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-island-of-gods",
+    "title": "The Island Of Gods 🙏",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-06-26",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/the-island-of-gods",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-island-of-gods.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "young-wild-free",
+    "title": "Young, Wild & Free 🌻",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-06-11",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/young-wild-free",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/young-wild-free.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "tropic-like-its-hot",
+    "title": "Tropic Like It's Hot ❤️‍🔥",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-06-04",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/tropic-like-its-hot",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      },
+      {
+        "name": "POP",
+        "url": "https://pop-labs.com/",
+        "logo": "POP_Labs.png"
+      }
+    ],
+    "htmlFile": "/emails/tropic-like-its-hot.html",
+    "tags": [
+      "Finance",
+      "Technology"
+    ]
+  },
+  {
+    "id": "just-keep-swimming",
+    "title": "Just Keep Swimming 🐡",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-05-21",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/just-keep-swimming",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/just-keep-swimming.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "chocolate-factory",
+    "title": "Chocolate Factory 🍫",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-05-14",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/chocolate-factory",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/chocolate-factory.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "25-hours-a-day",
+    "title": "25 Hours a Day ⏳",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-05-07",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/25-hours-a-day",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/25-hours-a-day.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "peter-pan-neverland",
+    "title": "Peter Pan & Neverland 🧚🏼‍♂️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-04-17",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/peter-pan-neverland",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/peter-pan-neverland.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "forest-bathing",
+    "title": "Forest Bathing 🍃",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Help! I’m TRAppe-d!",
+    "date": "2025-04-10",
+    "hasAds": true,
+    "url": "https://trappetravel.beehiiv.com/p/forest-bathing",
+    "publisher": {
+      "name": "Help! I’m TRAppe-d!",
+      "url": "https://trappetravel.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/forest-bathing.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "now-is-the-time-to-align",
+    "title": "Now Is the Time to Align",
+    "category": "Digital Products",
+    "description": "This year is flying by. This is the moment to pause, realign, and refocus - with purpose. Because there’s still time to create something extraordinary... but not if you keep waiting.",
+    "author": "Great News Day",
+    "url": "https://www.greatnewsday.com/p/now-is-the-time-to-align",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-02T23:58:13.884481Z",
+    "publisher": {
+      "name": "Great News Day",
+      "url": "https://www.greatnewsday.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/now-is-the-time-to-align.html"
+  },
+  {
+    "id": "3-ways-to-shift-everything-puzzle-piece-1",
+    "title": "3 Ways to Shift Everything - Puzzle Piece 1 🧩",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great News Day",
+    "date": "2025-05-07",
+    "hasAds": true,
+    "url": "https://www.greatnewsday.com/p/3-ways-to-shift-everything-puzzle-piece-1",
+    "publisher": {
+      "name": "Great News Day",
+      "url": "https://www.greatnewsday.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/3-ways-to-shift-everything-puzzle-piece-1.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "did-you-hear-the-news",
+    "title": "Did You Hear The News?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Living North Phoenix Newsletter",
+    "date": "2025-06-05",
+    "hasAds": true,
+    "url": "https://living-north-phoenix-newsletter.beehiiv.com/p/did-you-hear-the-news",
+    "publisher": {
+      "name": "Living North Phoenix Newsletter",
+      "url": "https://living-north-phoenix-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "htmlFile": "/emails/did-you-hear-the-news.html"
+  },
+  {
+    "id": "can-hear-now-7ce4",
+    "title": "What Would You Do For A Slice Of Pizza?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Living North Phoenix Newsletter",
+    "date": "2024-09-06",
+    "hasAds": true,
+    "url": "https://living-north-phoenix-newsletter.beehiiv.com/p/can-hear-now-7ce4",
+    "publisher": {
+      "name": "Living North Phoenix Newsletter",
+      "url": "https://living-north-phoenix-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "tags": [
+      "Health"
+    ],
+    "htmlFile": "/emails/can-hear-now-7ce4.html"
+  },
+  {
+    "id": "discover-best-slice-town",
+    "title": "Did I Discover The Best Slice in Town?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Living North Phoenix Newsletter",
+    "date": "2024-08-31",
+    "hasAds": true,
+    "url": "https://living-north-phoenix-newsletter.beehiiv.com/p/discover-best-slice-town",
+    "publisher": {
+      "name": "Living North Phoenix Newsletter",
+      "url": "https://living-north-phoenix-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/discover-best-slice-town.html"
+  },
+  {
+    "id": "pizza-hunt-discover-best-slice-town",
+    "title": "Pizza Hunt: Did I Discover The Best Slice in Town?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Living North Phoenix Newsletter",
+    "date": "2024-08-30",
+    "hasAds": true,
+    "url": "https://living-north-phoenix-newsletter.beehiiv.com/p/pizza-hunt-discover-best-slice-town",
+    "publisher": {
+      "name": "Living North Phoenix Newsletter",
+      "url": "https://living-north-phoenix-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/pizza-hunt-discover-best-slice-town.html"
+  },
+  {
+    "id": "discover-secret-feeling-great",
+    "title": "Discover the Secret to Feeling Great Again!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Living North Phoenix Newsletter",
+    "date": "2024-08-02",
+    "hasAds": true,
+    "url": "https://living-north-phoenix-newsletter.beehiiv.com/p/discover-secret-feeling-great",
+    "publisher": {
+      "name": "Living North Phoenix Newsletter",
+      "url": "https://living-north-phoenix-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/discover-secret-feeling-great.html"
+  }
+]

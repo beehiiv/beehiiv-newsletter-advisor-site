@@ -1,0 +1,709 @@
+[
+  {
+    "id": "the-assistant-coach-budget",
+    "title": "The “Assistant Coach” Budget",
+    "category": "Digital Products",
+    "description": "Run your money like a staff meeting - what would you delegate, cut, or promote?",
+    "author": "Wealth4Coaches",
+    "url": "https://wealth4coaches.beehiiv.com",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2026-02-25T16:36:00.420493Z",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "EnergyX",
+        "url": "https://energyx.com/",
+        "logo": "https://energyx.com/app/uploads/2020/03/android-chrome-384x384-1-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/the-assistant-coach-budget.html",
+    "hasAds": true
+  },
+  {
+    "id": "estate-taxes-trust-planning",
+    "title": "Estate Taxes & Trust Planning",
+    "category": "Digital Products",
+    "description": "Protecting the Scoreboard",
+    "author": "Wealth4Coaches",
+    "url": "https://wealth4coaches.beehiiv.com",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-02-18T15:39:18.635423Z",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/estate-taxes-trust-planning.html",
+    "hasAds": true
+  },
+  {
+    "id": "investment-fees-the-silent-opponent",
+    "title": "Investment Fees",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "url": "https://wealth4coaches.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-11T17:50:21.11867Z",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/investment-fees-the-silent-opponent.html",
+    "hasAds": true
+  },
+  {
+    "id": "long-term-care-planning",
+    "title": "Long-Term Care Planning",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2026-01-28",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/long-term-care-planning",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "htmlFile": "/emails/long-term-care-planning.html"
+  },
+  {
+    "id": "tax-efficient-investing",
+    "title": "Tax-Efficient Investing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2026-01-22",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/tax-efficient-investing",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wall Street Prep",
+        "url": "https://www.wallstreetprep.com/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      }
+    ],
+    "tags": [
+      "Education",
+      "Finance"
+    ],
+    "htmlFile": "/emails/tax-efficient-investing.html"
+  },
+  {
+    "id": "withdrawal-strategies-in-retirement",
+    "title": "Withdrawal Strategies in Retirement ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2026-01-14",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/withdrawal-strategies-in-retirement",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "htmlFile": "/emails/withdrawal-strategies-in-retirement.html"
+  },
+  {
+    "id": "understanding-social-security",
+    "title": "Understanding Social Security ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2026-01-07",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/understanding-social-security",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "FBZ_logo__2_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/understanding-social-security.html"
+  },
+  {
+    "id": "real-estate-investing-101",
+    "title": "Real Estate Investing 101",
+    "category": "Digital Products",
+    "description": "Rental Property, REITs, and House Hacking",
+    "author": "Wealth4Coaches",
+    "url": "https://wealth4coaches.beehiiv.com/p/real-estate-investing-101",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-12-31",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "htmlFile": "/emails/real-estate-investing-101.html",
+    "hasAds": true
+  },
+  {
+    "id": "freelance-contractor-finances",
+    "title": "Freelance & Contractor Finances ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-12-24",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/freelance-contractor-finances",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "htmlFile": "/emails/freelance-contractor-finances.html"
+  },
+  {
+    "id": "fire-movement-basics",
+    "title": "FIRE Movement Basics ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-12-17",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/fire-movement-basics",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "htmlFile": "/emails/fire-movement-basics.html"
+  },
+  {
+    "id": "college-savings-plans-529s",
+    "title": "College Savings Plans (529s) ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-12-11",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/college-savings-plans-529s",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "htmlFile": "/emails/college-savings-plans-529s.html"
+  },
+  {
+    "id": "rebalancing-your-investments",
+    "title": "Rebalancing Your Investments ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-12-03",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/rebalancing-your-investments",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Climatize",
+        "url": "https://climatize.earth/",
+        "logo": "Climatizelogo.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "htmlFile": "/emails/rebalancing-your-investments.html"
+  },
+  {
+    "id": "entrepreneurship-basics",
+    "title": "Entrepreneurship Basics ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-11-26",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/entrepreneurship-basics",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "htmlFile": "/emails/entrepreneurship-basics.html"
+  },
+  {
+    "id": "building-multiple-income-streams",
+    "title": "Building Multiple Income Streams ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-11-12",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/building-multiple-income-streams",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "htmlFile": "/emails/building-multiple-income-streams.html"
+  },
+  {
+    "id": "estate-basics",
+    "title": "Estate Basics",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-11-05",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/estate-basics",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "htmlFile": "/emails/estate-basics.html"
+  },
+  {
+    "id": "taxes-101",
+    "title": "Taxes 101",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-10-29",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/taxes-101",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      }
+    ],
+    "tags": [
+      "Finance"
+    ],
+    "htmlFile": "/emails/taxes-101.html"
+  },
+  {
+    "id": "credit-scores-reports",
+    "title": "Credit Scores & Reports",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-10-22",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/credit-scores-reports",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/credit-scores-reports.html"
+  },
+  {
+    "id": "avoiding-lifestyle-inflation",
+    "title": "Avoiding Lifestyle Inflation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-10-15",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/avoiding-lifestyle-inflation",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/avoiding-lifestyle-inflation.html"
+  },
+  {
+    "id": "insurance-basics",
+    "title": "Insurance Basics",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/insurance-basics",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/insurance-basics.html"
+  },
+  {
+    "id": "short-term-vs-long-term-goals",
+    "title": "Short-Term vs. Long-Term Goals",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-09-17",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/short-term-vs-long-term-goals",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/short-term-vs-long-term-goals.html"
+  },
+  {
+    "id": "automatic-investments",
+    "title": "Automatic Investments",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-09-10",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/automatic-investments",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "tags": [
+      "Real Estate"
+    ],
+    "htmlFile": "/emails/automatic-investments.html"
+  },
+  {
+    "id": "7-game-changing-money-investing-books-for-coaches",
+    "title": "7 Game Changing Money & Investing Books for Coaches",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-09-03",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/7-game-changing-money-investing-books-for-coaches",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/7-game-changing-money-investing-books-for-coaches.html"
+  },
+  {
+    "id": "pay-yourself-first",
+    "title": "Pay Yourself First ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-08-27",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/pay-yourself-first",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/pay-yourself-first.html"
+  },
+  {
+    "id": "403-b-plans-the-good-and-the-bad",
+    "title": "403(b) Plans - The Good and The Bad",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/403-b-plans-the-good-and-the-bad",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/403-b-plans-the-good-and-the-bad.html"
+  },
+  {
+    "id": "why-every-coach-should-open-a-roth-ira",
+    "title": "Why Every Coach Should Open a Roth IRA",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-08-06",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/why-every-coach-should-open-a-roth-ira",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/why-every-coach-should-open-a-roth-ira.html"
+  },
+  {
+    "id": "paying-down-high-interest-debt",
+    "title": "Paying Down High-Interest Debt ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-07-30",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/paying-down-high-interest-debt",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "tags": [
+      "Business",
+      "Marketing",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/paying-down-high-interest-debt.html"
+  },
+  {
+    "id": "save-big-what-coaches-can-write-off-on-taxes",
+    "title": "Save Big: What Coaches Can Write Off on Taxes",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Wealth4Coaches",
+    "date": "2025-06-11",
+    "hasAds": true,
+    "url": "https://wealth4coaches.beehiiv.com/p/save-big-what-coaches-can-write-off-on-taxes",
+    "publisher": {
+      "name": "Wealth4Coaches",
+      "url": "https://wealth4coaches.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/save-big-what-coaches-can-write-off-on-taxes.html"
+  }
+]

@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "when-enough-is-enough",
+    "title": "When enough is enough",
+    "category": "Digital Products",
+    "description": "Allow me to rearrange your deck chairs.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/when-enough-is-enough",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-16T01:59:18.931513Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-enough-is-enough.html"
+  },
+  {
+    "id": "the-schtickless-wonder",
+    "title": "The schtickless wonder!",
+    "category": "Digital Products",
+    "description": "When a project is about anything and everything, it's also about nothing — and who'd want to read that?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-schtickless-wonder",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-11-07T18:25:47.035346Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-schtickless-wonder.html"
+  },
+  {
+    "id": "notes-on-a-very-trying-year",
+    "title": "Notes on a very Trying! year",
+    "category": "Digital Products",
+    "description": "Hundreds of thousands of words later, what's to become of this newsletter?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/notes-on-a-very-trying-year",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-30T12:16:45.147598Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "https://cdn.prod.website-files.com/68daa87cfade9832b6e1c806/6998dde5b71b407238d7ebb4_author.inc-webclip-black.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/notes-on-a-very-trying-year.html"
+  },
+  {
+    "id": "i-spy-with-my-little-eye",
+    "title": "I spy with my little eye",
+    "category": "Digital Products",
+    "description": "Does \"When in doubt, cut it out\" apply to body parts? Asking for, uh, a friend.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-spy-with-my-little-eye",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-18T23:55:25.67351Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-spy-with-my-little-eye.html"
+  },
+  {
+    "id": "i-ate-a-bad-sandwich",
+    "title": "I ate a bad sandwich",
+    "category": "Digital Products",
+    "description": "And it taught me the meaning of life.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-ate-a-bad-sandwich",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-15T01:52:09.010773Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-ate-a-bad-sandwich.html"
+  },
+  {
+    "id": "i-am-still-upset-about-the-aurochs",
+    "title": "I am still upset about the aurochs",
+    "category": "Digital Products",
+    "description": "The wild ancestor of today's cattle went extinct in 1627. But, uh, like, what if it didn't?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-am-still-upset-about-the-aurochs",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-09-04T15:28:45.455772Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "htmlFile": "/emails/i-am-still-upset-about-the-aurochs.html",
+    "hasAds": true
+  },
+  {
+    "id": "im-driving-me-crazy",
+    "title": "I'm driving me crazy!",
+    "category": "Digital Products",
+    "description": "My brain makes it hard to live in the moment, but there's one place I've found I can truly be present: the highway.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/im-driving-me-crazy",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-03T00:28:02.337556Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/im-driving-me-crazy.html"
+  },
+  {
+    "id": "the-word-we-cant-say-but-need-to-scream",
+    "title": "The word we can't say but need to scream",
+    "category": "Digital Products",
+    "description": "It's vulgar. It's offensive. But it's the only term that truly describes our moment.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-word-we-cant-say-but-need-to-scream",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-25T19:19:28.15016Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-word-we-cant-say-but-need-to-scream.html"
+  },
+  {
+    "id": "these-things-are-all-terrible",
+    "title": "These things are all terrible! 🤪",
+    "category": "Digital Products",
+    "description": "I've been saving up some choice complaints — just for you, dear reader.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/these-things-are-all-terrible",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-12T11:16:01.735905Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/these-things-are-all-terrible.html"
+  },
+  {
+    "id": "and-another-thing",
+    "title": "And another thing!",
+    "category": "Digital Products",
+    "description": "Why it's so impossible to talk about the subjects that matter.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/and-another-thing",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-11T11:43:23.795204Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/and-another-thing.html"
+  },
+  {
+    "id": "how-do-you-catastrophize",
+    "title": "How do you catastrophize?",
+    "category": "Digital Products",
+    "description": "The end is nigh, dude, but is that any reason to freak out?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/how-do-you-catastrophize",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2025-08-05T00:44:44.302216Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "htmlFile": "/emails/how-do-you-catastrophize.html",
+    "hasAds": true
+  },
+  {
+    "id": "leaves-of-gross",
+    "title": "Leaves of Gross",
+    "category": "Digital Products",
+    "description": "'I hate poetry,' I used to say, half joking and half serious. But which half was which?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/leaves-of-gross",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-07-30T00:57:39.709609Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superpower",
+        "url": "https://superpower.com/",
+        "logo": "https://cdn.prod.website-files.com/63792ff4f3d6aa3d62071b61/655e22ddea1ce803df04bcae_sp-.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leaves-of-gross.html"
+  },
+  {
+    "id": "seen-one-taj-seen-mahal",
+    "title": "Seen one Taj, seen Mahal",
+    "category": "Digital Products",
+    "description": "How one terrible book of puns opened my eyes to the potential of language.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/seen-one-taj-seen-mahal",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-24T01:22:26.192654Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/seen-one-taj-seen-mahal.html"
+  },
+  {
+    "id": "down-with-pride-in-praise-of-shame",
+    "title": "Pride is nothing compared with shame",
+    "category": "Digital Products",
+    "description": "An argument for the most uncomfortable emotion.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/down-with-pride-in-praise-of-shame",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-01T00:12:45.129063Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.readtangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/down-with-pride-in-praise-of-shame.html"
+  },
+  {
+    "id": "what-10-miles-means",
+    "title": "What 10 miles means",
+    "category": "Digital Products",
+    "description": "I keep running in search of an answer. I might even find it.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/what-10-miles-means",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-23T12:41:41.449819Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-10-miles-means.html"
+  },
+  {
+    "id": "craft-the-restaurant-that-made-me",
+    "title": "The restaurant that made me",
+    "category": "Digital Products",
+    "description": "A single visit 25 years ago clarified my approach to food.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/craft-the-restaurant-that-made-me",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-19T17:12:34.716392Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/craft-the-restaurant-that-made-me.html"
+  },
+  {
+    "id": "i-know-why-the-blue-jay-screams",
+    "title": "I know why the blue jay screams",
+    "category": "Digital Products",
+    "description": "You ever tap on the glass of the gorilla enclosure at the zoo? Yeah, it's a little like that.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-know-why-the-blue-jay-screams",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-16T23:26:04.837394Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-know-why-the-blue-jay-screams.html"
+  },
+  {
+    "id": "violence-is-always-an-option",
+    "title": "Violence is always an option",
+    "category": "Digital Products",
+    "description": "I've always thought of it as a last resort—but how do we know when we've reached the end? And honestly, why wait?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/violence-is-always-an-option",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-12T16:28:59.523076Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/violence-is-always-an-option.html"
+  },
+  {
+    "id": "i-can-solve-the-cuomo-problem",
+    "title": "I can solve the Cuomo problem",
+    "category": "Digital Products",
+    "description": "Just give me 5 minutes with the former governor.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-can-solve-the-cuomo-problem",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-09T14:19:50.864449Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-can-solve-the-cuomo-problem.html"
+  },
+  {
+    "id": "running-for-26-years-lessons",
+    "title": "I've been running for 26 years now",
+    "category": "Digital Products",
+    "description": "Here's what I wish I knew... let's say... 6 years ago? Sure, 6 years ago.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/running-for-26-years-lessons",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-05T01:46:06.53877Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/running-for-26-years-lessons.html"
+  },
+  {
+    "id": "sufferin-succotash",
+    "title": "Sufferin' succotash!",
+    "category": "Digital Products",
+    "description": "Some people think humanity deserves extinction. I think we've earned a fate worse than death.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/sufferin-succotash",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-03T01:43:45.208696Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sufferin-succotash.html"
+  },
+  {
+    "id": "q-was-the-question-she-asked",
+    "title": "Q was the question she asked",
+    "category": "Digital Products",
+    "description": "In the mid-1990s, Phuong Anh Nguyen made Q Bar the most important bar in Vietnam—and possibly the world.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/q-was-the-question-she-asked",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-28T15:58:15.053285Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/q-was-the-question-she-asked.html"
+  },
+  {
+    "id": "i-just-cant-watch-stanley-tucci-go-to-italy",
+    "title": "I just can't watch Stanley Tucci go to Italy",
+    "category": "Digital Products",
+    "description": "Celebrity travel shows are the worst, even when you love the celebrity. But they don't have to be bad!",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-just-cant-watch-stanley-tucci-go-to-italy",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-27T21:00:57.149473Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-just-cant-watch-stanley-tucci-go-to-italy.html"
+  },
+  {
+    "id": "i-like-striped-shirts-and-i-cannot-lie",
+    "title": "I like striped shirts and I cannot lie",
+    "category": "Digital Products",
+    "description": "Certain patterns catch the eye and trap the brain in ways no other brother can deny.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-like-striped-shirts-and-i-cannot-lie",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-21T23:35:12.393251Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-like-striped-shirts-and-i-cannot-lie.html"
+  },
+  {
+    "id": "you-don-t-need-heirloom-tomatoes",
+    "title": "You don’t need heirloom tomatoes",
+    "category": "Digital Products",
+    "description": "A Tuesday special: Five mini-essays in one newsletter!",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/you-don-t-need-heirloom-tomatoes",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-19T23:26:30.892169Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-don-t-need-heirloom-tomatoes.html"
+  },
+  {
+    "id": "is-reality-a-rhetorical-question",
+    "title": "Is reality a rhetorical question?",
+    "category": "Digital Products",
+    "description": "It takes a leap of faith to connect language and experience—and sometimes we land in the abyss.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/is-reality-a-rhetorical-question",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-07T14:26:42.458302Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-reality-a-rhetorical-question.html"
+  },
+  {
+    "id": "i-went-to-a-concert",
+    "title": "I went to a concert",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Trying!",
+    "date": "2025-05-06",
+    "hasAds": true,
+    "url": "https://mattgrossistrying.com/p/i-went-to-a-concert",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/i-went-to-a-concert.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-internet-is-tits",
+    "title": "The internet is tits",
+    "category": "Digital Products",
+    "description": "Can't believe I'm saying this, but: Don't show me your ( . 人 . )",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-internet-is-tits",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-23T17:59:32.981814Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-internet-is-tits.html"
+  },
+  {
+    "id": "the-best-way-to-explore-a-city",
+    "title": "What's the best way to explore a city?",
+    "category": "Digital Products",
+    "description": "As a travel writer and a New Yorker, I'm supposed to say \"on foot.\" I'm starting to think that's wrong.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-best-way-to-explore-a-city",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-22T12:12:00.048304Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-best-way-to-explore-a-city.html"
+  },
+  {
+    "id": "i-just-solved-college-admissions",
+    "title": "I just solved college admissions",
+    "category": "Digital Products",
+    "description": "It's called: Bring back the draft! (No, not the way you think.)",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-just-solved-college-admissions",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-16T17:50:19.731702Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-just-solved-college-admissions.html"
+  },
+  {
+    "id": "greed-is-not-good",
+    "title": "Greed is not good",
+    "category": "Digital Products",
+    "description": "Avarice is at the root of today's evils—can we find a way out?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/greed-is-not-good",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-09T16:32:04.141343Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/greed-is-not-good.html"
+  },
+  {
+    "id": "do-we-still-need-superheroes",
+    "title": "Do we still need superheroes?",
+    "category": "Digital Products",
+    "description": "Tales of the ultra-powerful may have run their course, leaving us to confront the challenge of surviving a multiverse we cannot transcend.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/do-we-still-need-superheroes",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-06T23:46:24.561149Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/do-we-still-need-superheroes.html"
+  },
+  {
+    "id": "under-my-thumbnail",
+    "title": "Under my thumbnail",
+    "category": "Digital Products",
+    "description": "How I escaped from AI imagery, discovered public domain art, and rebelled against the tyranny of the 1200x630 image.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/under-my-thumbnail",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-31T23:50:05.492691Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/under-my-thumbnail.html"
+  },
+  {
+    "id": "please-dont-call-this-a-blog",
+    "title": "Please don't call this a blog",
+    "category": "Digital Products",
+    "description": "What am I even trying to do here?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/please-dont-call-this-a-blog",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-31T23:48:25.941378Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/please-dont-call-this-a-blog.html"
+  },
+  {
+    "id": "classic-roast-chicken-recipe-no-dry-breast-meat",
+    "title": "Dry chicken breasts are a myth",
+    "category": "Digital Products",
+    "description": "Trigger warning: I am about to use the word \"spatchcock.\"",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/classic-roast-chicken-recipe-no-dry-breast-meat",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-31T20:28:05.448444Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/classic-roast-chicken-recipe-no-dry-breast-meat.html"
+  },
+  {
+    "id": "i-been-everywhere-man-now-what",
+    "title": "I been everywhere, man. Now what?",
+    "category": "Digital Products",
+    "description": "My travel bucket list is pretty much complete. But there's still a ton left to do.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-been-everywhere-man-now-what",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-31T02:42:23.969439Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-been-everywhere-man-now-what.html"
+  },
+  {
+    "id": "all-about-all-about-lily-chou-chou",
+    "title": "All About 'All About Lily Chou-Chou'",
+    "category": "Digital Products",
+    "description": "This Japanese movie from 2001 virtually vanished after its release, but now, finally, it's connecting with a brand-new audience.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/all-about-all-about-lily-chou-chou",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-27T02:13:52.355586Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/all-about-all-about-lily-chou-chou.html"
+  },
+  {
+    "id": "why-did-you-steal-my-book-mark-zuckerberg",
+    "title": "Why did you steal my book, Mark Zuckerberg?",
+    "category": "Digital Products",
+    "description": "Come on, it was 50% off on Amazon! You didn't have $10.50?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/why-did-you-steal-my-book-mark-zuckerberg",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-26T12:16:08.13872Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-did-you-steal-my-book-mark-zuckerberg.html"
+  },
+  {
+    "id": "the-only-tv-show-truly-taking-on-trump",
+    "title": "Is 'Daredevil: Born Again' the only TV show really taking on the Trump era?",
+    "category": "Digital Products",
+    "description": "Unless you're a dork like me, you're probably not watching it.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-only-tv-show-truly-taking-on-trump",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-22T21:20:12.561443Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-only-tv-show-truly-taking-on-trump.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-lifetime-of-bad-hair-days",
+    "title": "A lifetime of bad hair days",
+    "category": "Digital Products",
+    "description": "We must imagine Sisyphus with luxuriant, flowing locks.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/a-lifetime-of-bad-hair-days",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-03-17T11:20:46.565404Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-lifetime-of-bad-hair-days.html"
+  },
+  {
+    "id": "you-dont-need-conspiracy-theories",
+    "title": "You don't need conspiracy theories",
+    "category": "Digital Products",
+    "description": "The truth is NOT out there.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/you-dont-need-conspiracy-theories",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-12T23:32:34.066026Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-dont-need-conspiracy-theories.html"
+  },
+  {
+    "id": "a-lament-for-skype",
+    "title": "A lament for Skype",
+    "category": "Digital Products",
+    "description": "A symbol of the 21st century's golden age of travel is going away, and I have some thoughts (and feelings)!",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/a-lament-for-skype",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-10T11:40:07.209171Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-lament-for-skype.html"
+  },
+  {
+    "id": "what-is-going-on-in-the-world-fae4",
+    "title": "What Is Going On in the World?",
+    "category": "Digital Products",
+    "description": "I got no idea, but these folks do.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/what-is-going-on-in-the-world-fae4",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-27T11:33:40.356394Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-is-going-on-in-the-world-fae4.html"
+  },
+  {
+    "id": "we-all-need-to-quit-ai-right-now",
+    "title": "We All Need to Quit AI Right Now",
+    "category": "Digital Products",
+    "description": "Because it's bad: for the earth, for society, and for our very ability to think critically.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/we-all-need-to-quit-ai-right-now",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-13T17:47:17.455735Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/we-all-need-to-quit-ai-right-now.html"
+  },
+  {
+    "id": "in-praise-of-worst-practices",
+    "title": "In Praise of Worst Practices",
+    "category": "Digital Products",
+    "description": "Enough with optimization! It's time to embrace creative freedom, un-train our brains—and accept the consequences.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/in-praise-of-worst-practices",
+    "tags": [
+      "Food & Beverage"
+    ],
+    "date": "2025-02-05T15:02:53.12903Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tovala",
+        "url": "https://www.tovala.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=tovala.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/in-praise-of-worst-practices.html"
+  },
+  {
+    "id": "what-is-the-best-pokemon-and-why",
+    "title": "What Is the Best Pokémon and Why?",
+    "category": "Digital Products",
+    "description": "If you gotta catch them all, you might as well catch No. 1. But what do we mean by \"the best\" anyway?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/what-is-the-best-pokemon-and-why",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-05T00:36:51.584851Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/what-is-the-best-pokemon-and-why.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-scheme-for-full-employment",
+    "title": "The Scheme for Full Employment",
+    "category": "Digital Products",
+    "description": "A closer look at the Beehiiv newsletter economy, and all of our roles within it.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-scheme-for-full-employment",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-02-01T12:52:53.586859Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-scheme-for-full-employment.html"
+  },
+  {
+    "id": "the-importance-of-being-an-earnest-cynic",
+    "title": "The Importance of Being an Earnest Cynic",
+    "category": "Digital Products",
+    "description": "Sarcasm, irony, and pessimism are easy—too easy for this difficult moment. But what else is there?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-importance-of-being-an-earnest-cynic",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-30T00:39:18.823267Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-importance-of-being-an-earnest-cynic.html"
+  },
+  {
+    "id": "rewind-kind-be",
+    "title": "Rewind, Kind Be",
+    "category": "Digital Products",
+    "description": "What does it mean when we consume culture—movies, TV, books—out of sequence?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/rewind-kind-be",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-01-23T01:45:03.799992Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rewind-kind-be.html"
+  },
+  {
+    "id": "hate-cars-love-driving",
+    "title": "Hate Cars, Love Driving",
+    "category": "Digital Products",
+    "description": "They're so, so bad for the planet. But so, so wonderful for me! Is that hypocrisy or just a delightful philosophical conundrum?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/hate-cars-love-driving",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-01-22T02:06:16.44346Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hate-cars-love-driving.html"
+  },
+  {
+    "id": "technology-will-save-us-all",
+    "title": "Technology Will Save Us All!",
+    "category": "Digital Products",
+    "description": "No, seriously, it could—if a couple of innovations actually work out.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/technology-will-save-us-all",
+    "tags": [
+      "Education",
+      "Marketing"
+    ],
+    "date": "2025-01-15T21:48:23.097986Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Premium Ghostwriting Academy",
+        "url": "https://premiumghostwritingacademy.com/",
+        "logo": "https://cdn.prod.website-files.com/665ec08537f0805266f47555/683f5ec1a9f7be4723d5dddd_PGA%20Black%20Webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/technology-will-save-us-all.html"
+  },
+  {
+    "id": "thats-so-brooklyn",
+    "title": "That's So Brooklyn",
+    "category": "Digital Products",
+    "description": "I never expected anything but an itinerant life. So how did I wind up with an honest-to-god community?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/thats-so-brooklyn",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-14T21:11:06.853686Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/thats-so-brooklyn.html"
+  },
+  {
+    "id": "spoiler-alert-ending-explained",
+    "title": "Spoiler Alert: Ending Explained",
+    "category": "Digital Products",
+    "description": "I'm addicted to finales—in life as well as art.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/spoiler-alert-ending-explained",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-01-13T20:47:02.099511Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/spoiler-alert-ending-explained.html"
+  },
+  {
+    "id": "i-will-get-through-this-by-folding-laundry",
+    "title": "I Will Get Through This by Folding Laundry",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Trying!",
+    "date": "2025-01-13",
+    "hasAds": true,
+    "url": "https://mattgrossistrying.com/p/i-will-get-through-this-by-folding-laundry",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/i-will-get-through-this-by-folding-laundry.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "a-mind-is-a-beautiful-thing-to-waste",
+    "title": "A Mind Is a Beautiful Thing to Waste",
+    "category": "Digital Products",
+    "description": "The way we think about synesthesia and the afterlife is bullshit.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/a-mind-is-a-beautiful-thing-to-waste",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-01-10T01:01:05.716297Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-mind-is-a-beautiful-thing-to-waste.html"
+  },
+  {
+    "id": "i-believe-in-luck",
+    "title": "I Believe in Luck",
+    "category": "Digital Products",
+    "description": "I'm not much for faith, but this explanation—that there is no explanation—makes sense to me.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-believe-in-luck",
+    "tags": [
+      "Food & Beverage"
+    ],
+    "date": "2025-01-07T01:05:56.232711Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tovala",
+        "url": "https://www.tovala.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=tovala.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-believe-in-luck.html"
+  },
+  {
+    "id": "let-s-face-it-smoking-was-cool",
+    "title": "Let's Face It: Smoking Was Cool",
+    "category": "Digital Products",
+    "description": "On the aesthetics of a dangerous, addictive routine—and what we lost by quitting.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/let-s-face-it-smoking-was-cool",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-12-18T02:13:33.904338Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/let-s-face-it-smoking-was-cool.html"
+  },
+  {
+    "id": "nike-and-me",
+    "title": "Nike and Me",
+    "category": "Digital Products",
+    "description": "Dancing through life, swooshing the surface, with the über-brand.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/nike-and-me",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2024-12-12T00:30:52.944686Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "https://cdn.brandfetch.io/id_0dwKPKT/w/399/h/399/theme/dark/icon.jpeg"
+      }
+    ],
+    "htmlFile": "/emails/nike-and-me.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-writing-rewired-my-brain",
+    "title": "How Writing Rewired My Brain",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/how-writing-rewired-my-brain",
+    "tags": [
+      "Food & Beverage"
+    ],
+    "date": "2024-12-09T00:10:47.867931Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tovala",
+        "url": "https://www.tovala.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=tovala.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-writing-rewired-my-brain.html"
+  },
+  {
+    "id": "you-will-never-see-these-movies",
+    "title": "You Will Never See These Movies",
+    "category": "Digital Products",
+    "description": "Maybe they're bad, maybe they're just too late, but let's fantasize anyway!",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/you-will-never-see-these-movies",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-12-08T01:28:49.273719Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "htmlFile": "/emails/you-will-never-see-these-movies.html",
+    "hasAds": true
+  },
+  {
+    "id": "sugar-honey-iced-tea",
+    "title": "Sugar Honey Iced Tea",
+    "category": "Digital Products",
+    "description": "Curses! Foiled again!",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/sugar-honey-iced-tea",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-02T22:57:40.949984Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Kudos",
+        "url": "https://www.joinkudos.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.joinkudos.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sugar-honey-iced-tea.html"
+  },
+  {
+    "id": "the-joy-of-quitting",
+    "title": "The Joy of Quitting",
+    "category": "Digital Products",
+    "description": "A little \"cold turkey\" for your post-Thanksgiving amusement.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-joy-of-quitting",
+    "tags": [
+      "Travel"
+    ],
+    "date": "2024-11-29T13:00:52.71278Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Booksi",
+        "url": "https://booksi.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=booksi.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-joy-of-quitting.html"
+  },
+  {
+    "id": "the-autumn-of-my-discontent",
+    "title": "The Autumn of My Discontent",
+    "category": "Digital Products",
+    "description": "A very special Thanksgiving edition of \"Trying!\"",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/the-autumn-of-my-discontent",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-11-27T20:13:06.340991Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-autumn-of-my-discontent.html"
+  },
+  {
+    "id": "i-wish-to-apologize-to-safety-pins",
+    "title": "I Wish to Apologize to Safety Pins",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Trying!",
+    "date": "2024-11-24",
+    "hasAds": true,
+    "url": "https://mattgrossistrying.com/p/i-wish-to-apologize-to-safety-pins",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      }
+    ],
+    "htmlFile": "/emails/i-wish-to-apologize-to-safety-pins.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "death-is-imminent-so-why-not-live",
+    "title": "Death Is Imminent. So Why Not Live?",
+    "category": "Digital Products",
+    "description": "It's not like you've got anything else planned.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/death-is-imminent-so-why-not-live",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2024-11-19T22:14:06.734881Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/death-is-imminent-so-why-not-live.html"
+  },
+  {
+    "id": "travel-is-not-a-political-act",
+    "title": "Travel Is Not a Political Act",
+    "category": "Digital Products",
+    "description": "Rick Steves is wrong, and my life's work is a failure.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/travel-is-not-a-political-act",
+    "tags": [
+      "Travel"
+    ],
+    "date": "2024-11-11T19:51:28.405136Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Booksi",
+        "url": "https://booksi.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=booksi.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/travel-is-not-a-political-act.html"
+  },
+  {
+    "id": "i-feel-most-at-home-when-i-m-farthest-from-home",
+    "title": "I Feel Most at Home When I'm Farthest From Home",
+    "category": "Digital Products",
+    "description": "Let's talk about Impostor Syndrome for travelers.",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/i-feel-most-at-home-when-i-m-farthest-from-home",
+    "tags": [
+      "Travel"
+    ],
+    "date": "2024-11-07T18:37:58.902886Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Booksi",
+        "url": "https://booksi.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=booksi.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-feel-most-at-home-when-i-m-farthest-from-home.html"
+  },
+  {
+    "id": "why-should-i-believe-anything-you-say",
+    "title": "Why Should I Believe Anything You Say?",
+    "category": "Digital Products",
+    "description": "And why should you believe anything I say?",
+    "author": "Trying!",
+    "url": "https://mattgrossistrying.com/p/why-should-i-believe-anything-you-say",
+    "tags": [
+      "Travel"
+    ],
+    "date": "2024-11-04T21:50:33.046439Z",
+    "publisher": {
+      "name": "Trying!",
+      "url": "https://mattgrossistrying.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Booksi",
+        "url": "https://booksi.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=booksi.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-should-i-believe-anything-you-say.html"
+  }
+]

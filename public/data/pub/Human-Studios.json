@@ -1,0 +1,29 @@
+[
+  {
+    "id": "zamboni-driver",
+    "title": "Make Friends With The Zamboni Driver",
+    "category": "Digital Products",
+    "description": "So I said to him: \"Do you even lift, bro?\"",
+    "author": "Human Studios",
+    "url": "https://humanstudios.beehiiv.com/p/zamboni-driver",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-17T11:28:41.527536Z",
+    "publisher": {
+      "name": "Human Studios",
+      "url": "https://humanstudios.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/zamboni-driver.html",
+    "hasAds": true
+  }
+]

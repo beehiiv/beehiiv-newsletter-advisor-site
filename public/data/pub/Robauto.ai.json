@@ -1,0 +1,54 @@
+[
+  {
+    "id": "love-thy-sponsor-d81f",
+    "title": "Love Thy Sponsor",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Robauto.ai",
+    "date": "2025-07-21",
+    "hasAds": true,
+    "url": "https://robauto.beehiiv.com/p/love-thy-sponsor-d81f",
+    "publisher": {
+      "name": "Robauto.ai",
+      "url": "https://robauto.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/love-thy-sponsor-d81f.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "love-thy-sponsor-c2a5",
+    "title": "Love Thy Sponsor",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Robauto.ai",
+    "date": "2025-03-11",
+    "hasAds": true,
+    "url": "https://robauto.beehiiv.com/p/love-thy-sponsor-c2a5",
+    "publisher": {
+      "name": "Robauto.ai",
+      "url": "https://robauto.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/love-thy-sponsor-c2a5.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

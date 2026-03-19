@@ -1,0 +1,35 @@
+[
+  {
+    "id": "the-power-of-kaizen",
+    "title": "Daily Actionable Tip 🚀 The Power of Kaizen",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Daily Better You",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://www.dailybetteryou.com/p/the-power-of-kaizen",
+    "publisher": {
+      "name": "Daily Better You",
+      "url": "https://www.dailybetteryou.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Autopilot",
+        "url": "https://www.joinautopilot.com/",
+        "logo": "Aplogo_Preview.png"
+      }
+    ],
+    "htmlFile": "/emails/the-power-of-kaizen.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  }
+]

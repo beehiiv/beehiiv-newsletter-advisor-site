@@ -1,0 +1,28 @@
+[
+  {
+    "id": "end-of-the-world-5846",
+    "title": "ALERT: You're not safe",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Unbreak the Internet with Offline Protocol",
+    "date": "2025-06-05",
+    "hasAds": true,
+    "url": "https://internet.beehiiv.com/p/end-of-the-world-5846",
+    "publisher": {
+      "name": "Unbreak the Internet with Offline Protocol",
+      "url": "https://internet.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/end-of-the-world-5846.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

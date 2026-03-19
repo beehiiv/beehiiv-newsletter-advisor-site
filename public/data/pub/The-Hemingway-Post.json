@@ -1,0 +1,81 @@
+[
+  {
+    "id": "priority",
+    "title": "Priority",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Hemingway Post",
+    "url": "https://www.thehemingwaypost.com/p/priority",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-07T23:24:54.907056Z",
+    "publisher": {
+      "name": "The Hemingway Post",
+      "url": "https://www.thehemingwaypost.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Korrect",
+        "url": "https://korrectlife.com/",
+        "logo": "https://korrectlife.com/cdn/shop/t/35/assets/apple-touch-icon.png?v=142097324127033246121765460024"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/priority.html"
+  },
+  {
+    "id": "backbone",
+    "title": "Backbone",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Hemingway Post",
+    "url": "https://www.thehemingwaypost.com/p/backbone",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-28T18:33:44.402143Z",
+    "publisher": {
+      "name": "The Hemingway Post",
+      "url": "https://www.thehemingwaypost.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/backbone.html"
+  },
+  {
+    "id": "stillness",
+    "title": "Stillness",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Hemingway Post",
+    "url": "https://www.thehemingwaypost.com/p/stillness",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-01T21:47:36.408097Z",
+    "publisher": {
+      "name": "The Hemingway Post",
+      "url": "https://thehemingwaypost.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stillness.html"
+  }
+]

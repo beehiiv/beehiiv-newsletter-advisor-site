@@ -1,0 +1,56 @@
+[
+  {
+    "id": "unsupervised-learning-s-got-talent-episode-2",
+    "title": "Unsupervised Learning's Got Talent - Episode 2",
+    "description": "Today's Audition: PCA aka \"The Dimensionality Magician\"",
+    "date": "2026-02-17",
+    "author": "The Gradient Descent",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/unsupervised-learning-s-got-talent-episode-2",
+    "hasHtml": true,
+    "publisher": {
+      "name": "The Gradient Descent",
+      "url": "https://thegradientdescent.net",
+      "logo": ""
+    },
+    "htmlFile": "/emails/unsupervised-learning-s-got-talent-episode-2.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "deep-learning-explained-simply",
+    "title": "Deep Learning Explained Simply",
+    "category": "Digital Products",
+    "description": "Going in deep on deep learning...without the academic jumpscare.",
+    "author": "The Gradient Descent",
+    "url": "https://hn6biykobl.beehiiv.com/p/deep-learning-explained-simply",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-03T04:59:01.756061Z",
+    "publisher": {
+      "name": "The Gradient Descent",
+      "url": "https://hn6biykobl.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deep-learning-explained-simply.html"
+  }
+]

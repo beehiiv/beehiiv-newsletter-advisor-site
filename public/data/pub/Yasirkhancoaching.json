@@ -1,0 +1,83 @@
+[
+  {
+    "id": "warren-buffet-s-10-communication-lessons",
+    "title": "Warren Buffet's 10 Communication Lessons",
+    "category": "Digital Products",
+    "description": "Read time: 60 seconds",
+    "author": "Yasirkhancoaching",
+    "url": "https://yasirkhancoaching.com/p/warren-buffet-s-10-communication-lessons",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-12-12T18:09:33.47655Z",
+    "publisher": {
+      "name": "Yasirkhancoaching",
+      "url": "https://yasirkhancoaching.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Analytica Investor",
+        "url": "https://analyticainvestor.com/",
+        "logo": "https://analyticainvestor.com/wp-content/uploads/2021/10/Favicon-analyticalinvestor-2-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/warren-buffet-s-10-communication-lessons.html"
+  },
+  {
+    "id": "how-bdec",
+    "title": "The Key to Nike's Success",
+    "category": "Digital Products",
+    "description": "Read time: 2 minutes",
+    "author": "Yasirkhancoaching",
+    "url": "https://yasirkhancoaching.com/p/how-bdec",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2024-12-11T04:23:55.302126Z",
+    "publisher": {
+      "name": "Yasirkhancoaching",
+      "url": "https://yasirkhancoaching.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "https://cdn.brandfetch.io/id_0dwKPKT/w/399/h/399/theme/dark/icon.jpeg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-bdec.html"
+  },
+  {
+    "id": "google-made-a-huge-announcement",
+    "title": "Google made a HUGE announcement",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Yasirkhancoaching",
+    "url": "https://yasirkhancoaching.com/p/google-made-a-huge-announcement",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-11T03:58:03.921443Z",
+    "publisher": {
+      "name": "Yasirkhancoaching",
+      "url": "https://yasirkhancoaching.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-made-a-huge-announcement.html"
+  }
+]

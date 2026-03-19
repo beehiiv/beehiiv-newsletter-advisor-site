@@ -1,0 +1,55 @@
+[
+  {
+    "id": "is-the-keynote-dead",
+    "title": "Is the Keynote Dead?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Speak Goodr - Mic Drop",
+    "date": "2025-07-03",
+    "hasAds": true,
+    "url": "https://micdrop.speakgoodr.com/p/is-the-keynote-dead",
+    "publisher": {
+      "name": "Speak Goodr - Mic Drop",
+      "url": "https://micdrop.speakgoodr.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/is-the-keynote-dead.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-one-sentence-that-holds-your-talk-together",
+    "title": "The One Sentence That Holds Your Talk Together",
+    "category": "Digital Products",
+    "description": "Why your message probably isn’t as clear as you think—and what to do about it.",
+    "author": "Speak Goodr - Mic Drop",
+    "url": "https://micdrop.speakgoodr.com/p/the-one-sentence-that-holds-your-talk-together",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-19T13:15:12.251325Z",
+    "publisher": {
+      "name": "Speak Goodr - Mic Drop",
+      "url": "https://micdrop.speakgoodr.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-one-sentence-that-holds-your-talk-together.html"
+  }
+]

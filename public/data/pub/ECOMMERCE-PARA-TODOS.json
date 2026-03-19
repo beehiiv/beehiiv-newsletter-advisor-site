@@ -1,0 +1,56 @@
+[
+  {
+    "id": "migrar-woocommerce-para-shopify-vale-a-pena",
+    "title": "🛒Migrar Woocommerce para Shopify! Vale a pena?",
+    "category": "Digital Products",
+    "description": "🛍️ As 200 lojas online mais visitadas em Portugal",
+    "author": "ECOMMERCE PARA TODOS",
+    "url": "https://ecommerceparatodos.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T15:35:20.126067Z",
+    "publisher": {
+      "name": "ECOMMERCE PARA TODOS",
+      "url": "https://ecommerceparatodos.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/migrar-woocommerce-para-shopify-vale-a-pena.html",
+    "hasAds": true
+  },
+  {
+    "id": "os-10-melhores-programas-de-faturacao",
+    "title": "🔝 Os 10 melhores programas de faturação",
+    "category": "Digital Products",
+    "description": "🛠️ Workshop NotebookLM recebe primeiras inscrições",
+    "author": "ECOMMERCE PARA TODOS",
+    "url": "https://ecommerceparatodos.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T14:12:17.967975Z",
+    "publisher": {
+      "name": "ECOMMERCE PARA TODOS",
+      "url": "https://ecommerceparatodos.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/os-10-melhores-programas-de-faturacao.html",
+    "hasAds": true
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "semiconductorjobs-feb-12-2025",
+    "title": "SemiconductorJobs.com - Feb 12/2025",
+    "category": "Digital Products",
+    "description": "",
+    "author": "SemiconductorJobs.com Newsletter",
+    "url": "https://news.semiconductorjobs.com/p/semiconductorjobs-feb-12-2025",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-12T15:45:01.100483Z",
+    "publisher": {
+      "name": "SemiconductorJobs.com Newsletter",
+      "url": "https://news.semiconductorjobs.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/90298f9d-06ec-45f0-b666-36d18354215a/thumb_Screenshot_2025-10-22_at_4.47.53_PM.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/semiconductorjobs-feb-12-2025.html"
+  },
+  {
+    "id": "semiconductor-innovation-2024-patent-insights",
+    "title": "Semiconductor Innovation: 2024 Patent Insights",
+    "category": "Digital Products",
+    "description": "",
+    "author": "SemiconductorJobs.com Newsletter",
+    "url": "https://news.semiconductorjobs.com/p/semiconductor-innovation-2024-patent-insights",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-01-22T15:56:42.517081Z",
+    "publisher": {
+      "name": "SemiconductorJobs.com Newsletter",
+      "url": "https://news.semiconductorjobs.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/90298f9d-06ec-45f0-b666-36d18354215a/thumb_Screenshot_2025-10-22_at_4.47.53_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/semiconductor-innovation-2024-patent-insights.html"
+  }
+]

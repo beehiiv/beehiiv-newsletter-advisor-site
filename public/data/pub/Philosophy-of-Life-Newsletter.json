@@ -1,0 +1,29 @@
+[
+  {
+    "id": "pln10",
+    "title": "📜 Weekly Philosophy | Seneca on Time and Purpose",
+    "category": "Digital Products",
+    "description": "Stop Wasting Time – Seneca's Lesson on Living Meaningfully (PLN 10)",
+    "author": "Philosophy of Life Newsletter",
+    "url": "https://philosophyoflife.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-15T19:19:33.013712Z",
+    "publisher": {
+      "name": "Philosophy of Life Newsletter",
+      "url": "https://philosophyoflife.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/pln10.html",
+    "hasAds": true
+  }
+]

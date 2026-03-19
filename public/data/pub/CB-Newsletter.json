@@ -1,0 +1,373 @@
+[
+  {
+    "id": "cupid-s-arrow",
+    "title": "💘 Cupid's Arrow",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-12T14:53:29.020965Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/cupid-s-arrow.html",
+    "hasAds": true
+  },
+  {
+    "id": "heat-check",
+    "title": "🦫 Heat check",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/heat-check",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-29T15:56:18.835247Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/heat-check.html",
+    "hasAds": true
+  },
+  {
+    "id": "make-it-spicy",
+    "title": "🥶 Make it spicy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/make-it-spicy",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2026-01-22T01:35:23.504057Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Particle for Men",
+        "url": "https://www.particleformen.com/?mention=3",
+        "logo": "https://cdn.brandfetch.io/idoMA_v83d/w/1764/h/1764/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767785026723"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/make-it-spicy.html"
+  },
+  {
+    "id": "cold-feet",
+    "title": " 🧊 Cold Feet",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/cold-feet",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-12T22:25:37.235471Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cold-feet.html"
+  },
+  {
+    "id": "fresh-start-effect",
+    "title": "🏃 Fresh Start Effect",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/fresh-start-effect",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-08T15:44:10.231693Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "MEDVi",
+        "url": "https://medvi.org/",
+        "logo": "https://medvi.org/medvi-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fresh-start-effect.html"
+  },
+  {
+    "id": "once-a-wildcat",
+    "title": "🎶 Once a Wildcat",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/once-a-wildcat",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-11-12T18:40:26.385385Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/once-a-wildcat.html"
+  },
+  {
+    "id": "salute-to-veterans-day",
+    "title": "🇺🇸 Salute to Veterans Day",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/salute-to-veterans-day",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-05T14:45:02.396679Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/salute-to-veterans-day.html"
+  },
+  {
+    "id": "ghosts-n-goblins",
+    "title": "👻  Ghosts 'n Goblins",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/ghosts-n-goblins",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-30T00:26:11.528729Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ghosts-n-goblins.html"
+  },
+  {
+    "id": "soup-du-jour",
+    "title": "🍜 Soup du jour ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/soup-du-jour",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-15T14:31:28.028325Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/soup-du-jour.html"
+  },
+  {
+    "id": "leaf-senescence",
+    "title": "🍁 Leaf Senescence ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/leaf-senescence",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-07T19:56:39.994948Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/leaf-senescence.html"
+  },
+  {
+    "id": "kisses-and-wishes",
+    "title": "🎃 Kisses and 🌾 Wishes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/kisses-and-wishes",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-24T13:57:08.651429Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kisses-and-wishes.html"
+  },
+  {
+    "id": "with-caramel-please",
+    "title": "🍎 With Caramel Please",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/with-caramel-please",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-11T15:31:02.32209Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/with-caramel-please.html"
+  },
+  {
+    "id": "good-weekend",
+    "title": "🏈 + 😎 = good weekend",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CB Newsletter",
+    "url": "https://newsletter.carrollbroadcasting.com/p/good-weekend",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-04T00:24:47.694504Z",
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/good-weekend.html",
+    "hasAds": true
+  },
+  {
+    "id": "lion-and-lamb",
+    "title": "🐑 Lion and Lamb",
+    "category": "Newsletter Ads",
+    "description": "🧊 😁 Happy Friday! No extra day this year... we checked! Every four years, February gets a little overachiever moment and",
+    "author": "CB Newsletter",
+    "date": "",
+    "htmlFile": "/emails/lion-and-lamb.html",
+    "hasAds": true,
+    "url": "https://newsletter.carrollbroadcasting.com/p/lion-and-lamb",
+    "advertisers": [
+      {
+        "name": "Particle for Men",
+        "url": "https://www.particleformen.com/?mention=3",
+        "logo": "ParticleforMenlogo.png"
+      }
+    ],
+    "publisher": {
+      "name": "CB Newsletter",
+      "url": "https://newsletter.carrollbroadcasting.com"
+    },
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  }
+]

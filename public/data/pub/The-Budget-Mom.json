@@ -1,0 +1,54 @@
+[
+  {
+    "id": "can-you-really-manifest-money",
+    "title": "Can you really manifest money?",
+    "category": "Digital Products",
+    "description": "Let’s talk about the difference between positive mindset and magical thinking.",
+    "author": "The Budget Mom",
+    "url": "https://thebudgetmomnewsletter.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-17T15:38:03.014451Z",
+    "publisher": {
+      "name": "The Budget Mom",
+      "url": "https://thebudgetmomnewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Allara",
+        "url": "https://www.allarahealth.com/",
+        "logo": "https://cdn.prod.website-files.com/637f55cdd2e0aa051d497c52/64093d20a31020bb963b9d96_webclip2.png"
+      }
+    ],
+    "htmlFile": "/emails/can-you-really-manifest-money.html",
+    "hasAds": true
+  },
+  {
+    "id": "do-you-actually-have-enough-to-retire",
+    "title": "Do you actually have enough to retire?",
+    "category": "Digital Products",
+    "description": "Let’s talk about the numbers and what really matters.",
+    "author": "The Budget Mom",
+    "url": "https://thebudgetmomnewsletter.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-11T16:17:12.016706Z",
+    "publisher": {
+      "name": "The Budget Mom",
+      "url": "https://thebudgetmomnewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/do-you-actually-have-enough-to-retire.html",
+    "hasAds": true
+  }
+]

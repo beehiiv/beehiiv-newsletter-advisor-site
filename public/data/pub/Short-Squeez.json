@@ -1,0 +1,139 @@
+[
+  {
+    "id": "harvard-mbas-struggling",
+    "title": "🍋 Harvard MBAs Struggling",
+    "category": "Digital Products",
+    "description": "Plus: Amex fined for marketing violations, LeBron-advised investors seek $5B for new basketball league and a last-ditch effort to save TikTok.",
+    "author": "Short Squeez",
+    "url": "https://www.shortsqueez.co/p/harvard-mbas-struggling",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-11T04:08:38.784536Z",
+    "publisher": {
+      "name": "Short Squeez",
+      "url": "https://www.shortsqueez.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SmartNora",
+        "url": "https://www.smartnora.com/",
+        "logo": "https://smartnora.com/cdn/shop/files/cropped-720x720-logo-2-180x180.png?v=1753701066&width=180"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/harvard-mbas-struggling.html"
+  },
+  {
+    "id": "citi-claws-back-bonuses",
+    "title": "🍋 Citi Claws Back Bonuses?",
+    "category": "Digital Products",
+    "description": "Plus, Morgan Stanley ties investing to sports, private equity giants pour $50 billion into AI, Amazon beat earnings, and Carvana scores a record profit.",
+    "author": "Short Squeez",
+    "url": "https://www.shortsqueez.co/p/citi-claws-back-bonuses",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2024-10-25T15:06:42.493994Z",
+    "publisher": {
+      "name": "Short Squeez",
+      "url": "https://www.shortsqueez.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Webstreet",
+        "url": "https://webstreet.co/",
+        "logo": "https://webstreet.co/logo_192_by_192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/citi-claws-back-bonuses.html"
+  },
+  {
+    "id": "industry-nails-the-vibes-fumbles-the-finance",
+    "title": "🍋 'Industry' Nails the Vibes, Fumbles the Finance",
+    "category": "Digital Products",
+    "description": "Apparently, HBO's 'Industry' skipped Finance 101. Plus Goldman warns S&P 500 growth may slow to 3% annually over the next decade.",
+    "author": "Short Squeez",
+    "url": "https://www.shortsqueez.co/p/industry-nails-the-vibes-fumbles-the-finance",
+    "tags": [
+      "Finance",
+      "Health"
+    ],
+    "date": "2024-10-13T21:39:25.327093Z",
+    "publisher": {
+      "name": "Short Squeez",
+      "url": "https://www.shortsqueez.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      },
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/industry-nails-the-vibes-fumbles-the-finance.html"
+  },
+  {
+    "id": "private-equity-portability",
+    "title": "🍋 Private Equity Portability",
+    "category": "Digital Products",
+    "description": "Private equity's new financial engineering strategy, plus Uber to buy Expedia?",
+    "author": "Short Squeez",
+    "url": "https://www.shortsqueez.co/p/private-equity-portability",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-10-10T01:15:25.465631Z",
+    "publisher": {
+      "name": "Short Squeez",
+      "url": "https://www.shortsqueez.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/private-equity-portability.html"
+  },
+  {
+    "id": "blue-collar-millionaires",
+    "title": "🍋 Blue-Collar Millionaires",
+    "category": "Digital Products",
+    "description": "Why the path to building a $10-30 million business might be through an HVAC or plumbing company.",
+    "author": "Short Squeez",
+    "url": "https://www.shortsqueez.co/p/blue-collar-millionaires",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-10-10T01:15:22.83066Z",
+    "publisher": {
+      "name": "Short Squeez",
+      "url": "https://www.shortsqueez.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/blue-collar-millionaires.html",
+    "hasAds": true
+  }
+]

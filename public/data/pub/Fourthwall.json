@@ -1,0 +1,135 @@
+[
+  {
+    "id": "wicked",
+    "title": "The WICKED Problem 💅🏼",
+    "category": "Digital Products",
+    "description": "What happens when a show transcends 'hit musical'",
+    "author": "Fourthwall",
+    "url": "https://fourthwall.news/p/wicked",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-06T12:19:45.326844Z",
+    "publisher": {
+      "name": "Fourthwall",
+      "url": "https://fourthwall.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wicked.html"
+  },
+  {
+    "id": "kennedy-center",
+    "title": "The Kennedy Center Crisis 🚨",
+    "category": "Digital Products",
+    "description": "What Trump's takeover means for America's cultural centerpiece",
+    "author": "Fourthwall",
+    "url": "https://fourthwall.news/p/kennedy-center",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-20T00:36:18.158348Z",
+    "publisher": {
+      "name": "Fourthwall",
+      "url": "https://fourthwall.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kennedy-center.html"
+  },
+  {
+    "id": "channel-changers",
+    "title": "Channel Changers 📺",
+    "category": "Digital Products",
+    "description": "Big shifts in where, why, and how the world is watching 👀",
+    "author": "Fourthwall",
+    "url": "https://fourthwall.news/p/channel-changers",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-12T20:16:43.984774Z",
+    "publisher": {
+      "name": "Fourthwall",
+      "url": "https://fourthwall.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/channel-changers.html"
+  },
+  {
+    "id": "did-a-viral-tiktok-keep-swept-away-afloat-504dd2d8a08b4a96",
+    "title": "Clicks vs Claps 👏🏼",
+    "category": "Digital Products",
+    "description": "What this week said about the future of entertainment",
+    "author": "Fourthwall",
+    "url": "https://fourthwall.news/p/did-a-viral-tiktok-keep-swept-away-afloat-504dd2d8a08b4a96",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-05T23:12:37.714663Z",
+    "publisher": {
+      "name": "Fourthwall",
+      "url": "https://fourthwall.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/did-a-viral-tiktok-keep-swept-away-afloat-504dd2d8a08b4a96.html"
+  },
+  {
+    "id": "behind-the-curtain",
+    "title": "Behind the Curtain of The Fourth Wall",
+    "category": "Digital Products",
+    "description": "A peek into the Who, What, Why and How of this newsletter",
+    "author": "Fourthwall",
+    "url": "https://fourthwall.news/p/behind-the-curtain",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-01-07T15:42:20.559888Z",
+    "publisher": {
+      "name": "Fourthwall",
+      "url": "https://fourthwall.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/behind-the-curtain.html"
+  }
+]

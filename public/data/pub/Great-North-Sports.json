@@ -1,0 +1,324 @@
+[
+  {
+    "id": "electric-factory",
+    "title": "Electric Factory",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2025-02-22",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/electric-factory",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/electric-factory.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-in-the-world-is-going-on",
+    "title": "What In The World Is Going On?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2025-02-18",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/what-in-the-world-is-going-on",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "Light_background_horizontal.png"
+      }
+    ],
+    "htmlFile": "/emails/what-in-the-world-is-going-on.html",
+    "tags": [
+      "E-commerce",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-tale-in-two-parts",
+    "title": "A tale in two parts",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2025-01-24",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/a-tale-in-two-parts",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-tale-in-two-parts.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "all-in-for-real-jerry",
+    "title": "All-in (For Real, Jerry!)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-11-15",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/all-in-for-real-jerry",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/all-in-for-real-jerry.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "its-called-fashion",
+    "title": "Its called Fashion",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-11-08",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/its-called-fashion",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/its-called-fashion.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "drinking-the-kool-aid",
+    "title": "Drinking The Kool-Aid",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-10-18",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/drinking-the-kool-aid",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/drinking-the-kool-aid.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "puck-me",
+    "title": "Puck Me!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-10-11",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/puck-me",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/puck-me.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "bungled",
+    "title": "Bungled",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-10-04",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/bungled",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/bungled.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "httr-a-tiny-statue-and-weekend-wagers",
+    "title": "HTTR, A Tiny Statue, and Weekend Wagers!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-09-28",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/httr-a-tiny-statue-and-weekend-wagers",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/httr-a-tiny-statue-and-weekend-wagers.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-are-we-even-doing-here",
+    "title": "What Are We Even Doing Here?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-09-20",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/what-are-we-even-doing-here",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/what-are-we-even-doing-here.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "new-name-ol-ocho",
+    "title": "New name, Same ol Ocho",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-08-30",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/new-name-ol-ocho",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/new-name-ol-ocho.html",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "red-serge",
+    "title": "This Is The Red Serge!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Great North Sports",
+    "date": "2024-08-23",
+    "hasAds": true,
+    "url": "https://theocho.beehiiv.com/p/red-serge",
+    "publisher": {
+      "name": "Great North Sports",
+      "url": "https://theocho.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Branded Bills",
+        "url": "https://www.brandedbills.com/",
+        "logo": "Branded_Bills_BB_Logo_BLK__Transparent_.png"
+      }
+    ],
+    "htmlFile": "/emails/red-serge.html",
+    "tags": [
+      "E-commerce"
+    ]
+  }
+]

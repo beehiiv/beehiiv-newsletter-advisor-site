@@ -1,0 +1,920 @@
+[
+  {
+    "id": "riviera",
+    "title": "Riviera",
+    "category": "Digital Products",
+    "description": "The Genesis returns to LA after last year's forced hiatus",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-18T15:26:07.78792Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/riviera.html",
+    "hasAds": true
+  },
+  {
+    "id": "pebble-beach",
+    "title": "Pebble Beach",
+    "category": "Digital Products",
+    "description": "AT&T Pro-Am Betting, News, Course Preview and More!",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-11T13:51:18.502874Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/pebble-beach.html",
+    "hasAds": true
+  },
+  {
+    "id": "wmpo-25c0",
+    "title": "WMPO",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/wmpo-25c0",
+    "tags": [
+      "Lifestyle",
+      "Travel"
+    ],
+    "date": "2026-02-04T15:48:10.016124Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intrepid Travel",
+        "url": "https://www.intrepidtravel.com",
+        "logo": "https://www.intrepidtravel.com/files/icons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wmpo-25c0.html"
+  },
+  {
+    "id": "the-american-express",
+    "title": "The American Express",
+    "category": "Digital Products",
+    "description": "Course Preview, Bets, Weather, HOW TO WATCH",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-american-express",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-21T17:25:39.098107Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-american-express.html"
+  },
+  {
+    "id": "rsm-classic",
+    "title": "RSM Classic",
+    "category": "Digital Products",
+    "description": "Two Courses, One Island, and the Mafia",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/rsm-classic",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-19T13:02:54.093898Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rsm-classic.html"
+  },
+  {
+    "id": "butterfield-bermuda-championship",
+    "title": "Butterfield Bermuda Championship",
+    "category": "Digital Products",
+    "description": "High Winds and Low Scores in the Carribean",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/butterfield-bermuda-championship",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2025-11-12T15:03:05.877046Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Polymarket",
+        "url": "https://polymarket.com/",
+        "logo": "https://polymarket.com/icons/android-chrome-384x384.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/butterfield-bermuda-championship.html"
+  },
+  {
+    "id": "the-2025-ryder-cup",
+    "title": "The 2025 Ryder Cup",
+    "category": "Digital Products",
+    "description": "Can the US team defend home soil this weekend in New York?",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-2025-ryder-cup",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-09-25T15:56:49.048875Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-2025-ryder-cup.html"
+  },
+  {
+    "id": "the-u-s-ryder-cup-team-is-set-0e94",
+    "title": "The U.S. Ryder Cup Team is Set",
+    "category": "Digital Products",
+    "description": "12 stars, one mission: reclaim the Ryder Cup",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-u-s-ryder-cup-team-is-set-0e94",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-27T17:20:18.671741Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-u-s-ryder-cup-team-is-set-0e94.html"
+  },
+  {
+    "id": "the-tour-championship-7534",
+    "title": "The Tour Championship",
+    "category": "Digital Products",
+    "description": "It's down to 30 in Atlanta, this time without the stupid starting strokes",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-tour-championship-7534",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-19T14:22:17.839304Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-tour-championship-7534.html"
+  },
+  {
+    "id": "the-bmw-championship-fedc",
+    "title": "The BMW Championship",
+    "category": "Digital Products",
+    "description": "Round Two see the Tour head back to the Northeast",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-bmw-championship-fedc",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-08-11T12:56:03.005898Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-bmw-championship-fedc.html"
+  },
+  {
+    "id": "the-st-jude-championship-678e",
+    "title": "The St. Jude Championship",
+    "category": "Digital Products",
+    "description": "THE PLAYOFFS START IN MEMPHIS",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-st-jude-championship-678e",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-08-05T20:32:21.971391Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/the-st-jude-championship-678e.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-wyndham-championship-5643",
+    "title": "The Wyndham Championship",
+    "category": "Digital Products",
+    "description": "The Regular Season Comes to an End in North Carolina",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-wyndham-championship-5643",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-29T14:31:15.030614Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-wyndham-championship-5643.html"
+  },
+  {
+    "id": "the-3m-open-af61",
+    "title": "The 3M Open",
+    "category": "Digital Products",
+    "description": "The Northern Swing Resumes in Minnesota (so let's bet on it)",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-3m-open-af61",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-07-15T16:30:24.94742Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-3m-open-af61.html"
+  },
+  {
+    "id": "the-travelers-championship-23b8",
+    "title": "The Travelers Championship",
+    "category": "Digital Products",
+    "description": "Betting on the final siggy of '25",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-travelers-championship-23b8",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-17T13:35:53.987249Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-travelers-championship-23b8.html"
+  },
+  {
+    "id": "the-125th-u-s-open-d9df",
+    "title": "The 125th U.S. Open",
+    "category": "Digital Products",
+    "description": "It's been built up for weeks, can Oakmont deliver the pain?",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-125th-u-s-open-d9df",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-10T18:31:55.650752Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-125th-u-s-open-d9df.html"
+  },
+  {
+    "id": "the-memorial-90d6",
+    "title": "The Memorial",
+    "category": "Digital Products",
+    "description": "Finding a Winner at Jack's Place Between Milkshakes",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-memorial-90d6",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-05-27T13:55:01.43853Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-memorial-90d6.html"
+  },
+  {
+    "id": "valero-texas-open",
+    "title": "Valero Texas Open",
+    "category": "Digital Products",
+    "description": "Going Two for Two in Texas?!",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/valero-texas-open",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-31T18:53:38.601299Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/valero-texas-open.html"
+  },
+  {
+    "id": "the-players",
+    "title": "The Players",
+    "category": "Digital Products",
+    "description": "Betting on the Fifth Major",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-players",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-12T02:03:31.229349Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-players.html"
+  },
+  {
+    "id": "genesis-invitational",
+    "title": "Genesis Invitational",
+    "category": "Digital Products",
+    "description": "Relocated but Still Elite. Bets, Weather, Course Preview & More.",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/genesis-invitational",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-11T13:20:40.778264Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/genesis-invitational.html"
+  },
+  {
+    "id": "wmpo",
+    "title": "WMPO",
+    "category": "Digital Products",
+    "description": "Best Bets for the People's Open. Course Preview, Key Stats, Weather, One and Done.",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/wmpo",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-02-04T14:58:18.122246Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inspire Financial",
+        "url": "https://inspirefinancial.net/",
+        "logo": "https://beehiiv-images-production.s3.amazonaws.com/uploads/ad_network/advertiser/logo/2917aebd-ad07-4669-86a7-4df0a03da934/inspirefinancial.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wmpo.html"
+  },
+  {
+    "id": "the-american-express-14a9",
+    "title": "The American Express",
+    "category": "Digital Products",
+    "description": "The return of Matchup Bets! Plus Five Outrights, Weather, News, TGL, One and Done, & More",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-american-express-14a9",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-14T15:56:14.858971Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bettersleep.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-american-express-14a9.html"
+  },
+  {
+    "id": "the-sony-open",
+    "title": "The Sony Open",
+    "category": "Digital Products",
+    "description": "First full-field event of the season at beautiful Waialae",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-sony-open",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-07T15:24:41.391766Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-sony-open.html"
+  },
+  {
+    "id": "welcome-to-the-tgl",
+    "title": "Welcome to the TGL",
+    "category": "Digital Products",
+    "description": "Monday Night Football, Except it's Indoor Golf",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/welcome-to-the-tgl",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-12-18T23:28:15.405434Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Branded Bills",
+        "url": "https://www.brandedbills.com/",
+        "logo": "https://cdn.brandfetch.io/idqFixL6ve/w/1445/h/1445/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1764694662383"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/welcome-to-the-tgl.html"
+  },
+  {
+    "id": "the-2025-open-championship",
+    "title": "The 2025 Open Championship",
+    "category": "Digital Products",
+    "description": "Royal Portrush awaits us for next year's final major",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-2025-open-championship",
+    "tags": [
+      "Finance",
+      "Health"
+    ],
+    "date": "2024-12-13T22:25:16.003795Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.thecbdistillery.com&sz=128"
+      },
+      {
+        "name": "Inspire Financial",
+        "url": "https://inspirefinancial.net/",
+        "logo": "https://beehiiv-images-production.s3.amazonaws.com/uploads/ad_network/advertiser/logo/2917aebd-ad07-4669-86a7-4df0a03da934/inspirefinancial.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-2025-open-championship.html"
+  },
+  {
+    "id": "the-2025-u-s-open",
+    "title": "The 2025 U.S. Open",
+    "category": "Digital Products",
+    "description": "The tour heads to Pennsylvania next June",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-2025-u-s-open",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-03T14:39:16.979579Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Dub",
+        "url": "https://www.dubapp.com/",
+        "logo": "https://framerusercontent.com/images/AQwgQWivHAtcYj70Wt8yD8OdvU.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-2025-u-s-open.html"
+  },
+  {
+    "id": "the-2025-pga-championship",
+    "title": "The 2025 PGA Championship",
+    "category": "Digital Products",
+    "description": "A return to Quail Hollow",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-2025-pga-championship",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-12-02T20:25:17.891666Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inspire Financial",
+        "url": "https://inspirefinancial.net/",
+        "logo": "https://beehiiv-images-production.s3.amazonaws.com/uploads/ad_network/advertiser/logo/2917aebd-ad07-4669-86a7-4df0a03da934/inspirefinancial.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-2025-pga-championship.html"
+  },
+  {
+    "id": "the-rsm-classic",
+    "title": "The RSM Classic",
+    "category": "Digital Products",
+    "description": "One last swing before we fall into the true offseason",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/the-rsm-classic",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-11-19T16:37:32.296523Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Branded Bills",
+        "url": "https://www.brandedbills.com/",
+        "logo": "https://cdn.brandfetch.io/idqFixL6ve/w/1445/h/1445/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1764694662383"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-rsm-classic.html"
+  },
+  {
+    "id": "butterfield-bermuda",
+    "title": "Butterfield Bermuda",
+    "category": "Digital Products",
+    "description": "Windy Golf in the Beautiful Caribbean",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/butterfield-bermuda",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-11-12T20:44:27.590124Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/butterfield-bermuda.html"
+  },
+  {
+    "id": "black-desert-championship",
+    "title": "Black Desert Championship",
+    "category": "Digital Products",
+    "description": "A new edition to the Swing Season",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/black-desert-championship",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-07T00:22:15.379934Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/black-desert-championship.html"
+  },
+  {
+    "id": "sanderson-farms",
+    "title": "Sanderson Farms",
+    "category": "Digital Products",
+    "description": "The Meat of the Swing Season Starts in Mississippi",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/sanderson-farms",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-01T20:11:12.912023Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sanderson-farms.html"
+  },
+  {
+    "id": "presidents-cup-xv",
+    "title": "Presidents Cup XV",
+    "category": "Digital Products",
+    "description": "Montreal plays host to the \"everyone but Europe\" Cup",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/presidents-cup-xv",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-24T17:45:56.179428Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/presidents-cup-xv.html"
+  },
+  {
+    "id": "procore-championship",
+    "title": "Procore Championship",
+    "category": "Digital Products",
+    "description": "Into the Swing Season in Wine Country",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/procore-championship",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-06T19:24:29.553534Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/procore-championship.html"
+  },
+  {
+    "id": "tour-championship-week",
+    "title": "Tour Championship Week",
+    "category": "Digital Products",
+    "description": "It's the Super Bowl of Golf! (financially)",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/tour-championship-week",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-08-22T13:13:17.598315Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.clickfunnels.com&sz=128"
+      },
+      {
+        "name": "Keith Prowse",
+        "url": "https://www.presspool.ai/",
+        "logo": "https://framerusercontent.com/images/qwheOvO3hlpdUyQa6kzF1t4IbEE.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tour-championship-week.html"
+  },
+  {
+    "id": "fedex-st-jude-championship",
+    "title": "FedEx St. Jude Championship",
+    "category": "Digital Products",
+    "description": "The Playoffs start with a 70-man field in balmy Memphis",
+    "author": "Betsperts Golf",
+    "url": "https://newsletter.betspertsgolf.com/p/fedex-st-jude-championship",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-13T20:18:41.385305Z",
+    "publisher": {
+      "name": "Betsperts Golf",
+      "url": "https://newsletter.betspertsgolf.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fedex-st-jude-championship.html"
+  }
+]

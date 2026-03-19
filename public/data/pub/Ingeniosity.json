@@ -1,0 +1,82 @@
+[
+  {
+    "id": "think-100m",
+    "title": "I Started Thinking Like This and Made 100m",
+    "category": "Digital Products",
+    "description": "Ingeniosity Issue #37",
+    "author": "Ingeniosity",
+    "url": "https://ingeniosity.com/p/think-100m",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-07T01:34:40.663313Z",
+    "publisher": {
+      "name": "Ingeniosity",
+      "url": "https://ingeniosity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/think-100m.html"
+  },
+  {
+    "id": "affiliated-podcast",
+    "title": "Affiliated Podcast",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Ingeniosity",
+    "url": "https://ingeniosity.com/p/affiliated-podcast",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-08-19T18:06:25.670316Z",
+    "publisher": {
+      "name": "Ingeniosity",
+      "url": "https://ingeniosity.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/affiliated-podcast.html"
+  },
+  {
+    "id": "3-first-customer",
+    "title": "How to land your first customer ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Ingeniosity",
+    "date": "2024-06-21",
+    "hasAds": true,
+    "url": "https://ingeniosity.com/p/3-first-customer",
+    "publisher": {
+      "name": "Ingeniosity",
+      "url": "https://ingeniosity.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/3-first-customer.html"
+  }
+]

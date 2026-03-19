@@ -1,0 +1,934 @@
+[
+  {
+    "id": "feb-22-2026",
+    "title": "🐶 | My Interview with an MLB Umpire",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-22-2026",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-22T00:00:00Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/feb-22-2026.html",
+    "hasAds": true
+  },
+  {
+    "id": "feb-15-2026",
+    "title": "🐶 | The Real Glory Road",
+    "category": "Digital Products",
+    "description": "“There’s just no way any other college basketball game had this impact.”",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-13T14:39:09.38732Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/feb-15-2026.html",
+    "hasAds": true
+  },
+  {
+    "id": "feb-8-2026",
+    "title": "The NFL Coach Who Broke Every Rule",
+    "category": "Digital Products",
+    "description": "He's one game away from a Super Bowl ring.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-8-2026",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-06T15:16:48.672394Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feb-8-2026.html"
+  },
+  {
+    "id": "feb-1-2026",
+    "title": "Substitute Teacher in the Super Bowl",
+    "category": "Digital Products",
+    "description": "3 colleges + 5 jobs = Super Bowl ring?",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-1-2026",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-30T20:50:13.475956Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feb-1-2026.html"
+  },
+  {
+    "id": "dec-7-2025",
+    "title": "He Trained Like Rocky",
+    "category": "Digital Products",
+    "description": "Chopped wood, flipped tires, and power-cleaned 100-pound tanks on his way to the NFL.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/dec-7-2025",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2025-12-03T20:09:43.346444Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "TaylorMade",
+        "url": "https://www.taylormadegolf.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.taylormadegolf.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-7-2025.html"
+  },
+  {
+    "id": "sep-14-2025",
+    "title": "The Real-Life Happy Gilmore",
+    "category": "Digital Products",
+    "description": "How a self-taught rebel broke all the rules and became a legend.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/sep-14-2025",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-12T17:38:55.604576Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sep-14-2025.html"
+  },
+  {
+    "id": "sep-7-2025",
+    "title": "He Wasn't Invited",
+    "category": "Digital Products",
+    "description": "But he showed up anyway",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/sep-7-2025",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-04T22:58:29.39971Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sep-7-2025.html"
+  },
+  {
+    "id": "august-31-2025",
+    "title": "🐶 | He Hit Every Dead End",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Underdog Newsletter",
+    "date": "2025-08-31",
+    "hasAds": true,
+    "url": "https://newsletter.jokermag.com/p/august-31-2025",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      }
+    ],
+    "htmlFile": "/emails/august-31-2025.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "august-10-2025",
+    "title": "🐶 | 59-Year-Old College Athlete",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Underdog Newsletter",
+    "date": "2025-08-10",
+    "hasAds": true,
+    "url": "https://newsletter.jokermag.com/p/august-10-2025",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/august-10-2025.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "july-27-2025",
+    "title": "He Shouldn't Have Survived",
+    "category": "Digital Products",
+    "description": "How a near-death scare turned a mediocre D3 pitcher into an MLB flamethrower.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/july-27-2025",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-07-22T13:31:24.848161Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/july-27-2025.html"
+  },
+  {
+    "id": "june-29-2025",
+    "title": "He Drove a Dump Truck",
+    "category": "Digital Products",
+    "description": "And played semi-pro football under a made-up name...just in case.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/june-29-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-27T17:30:02.370502Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/june-29-2025.html",
+    "hasAds": true
+  },
+  {
+    "id": "june-15-2025",
+    "title": "The 9th-Stringer",
+    "category": "Digital Products",
+    "description": "He learned to play QB from YouTube videos & walked on as a 9th-stringer. Now he's a legend.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/june-15-2025",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-11T20:42:47.518339Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/june-15-2025.html"
+  },
+  {
+    "id": "june-1-2025",
+    "title": "He Bagged Groceries",
+    "category": "Digital Products",
+    "description": "He made $5.50/hr as his dream slipped away. Then a mysterious bug bite almost ended everything.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/june-1-2025",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-05-28T18:55:41.966435Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/june-1-2025.html"
+  },
+  {
+    "id": "may-25-2025",
+    "title": "He Walked Away from Millions",
+    "category": "Digital Products",
+    "description": "The untold story of a 7th-round draft pick who left the sport at his peak for something bigger.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/may-25-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-22T15:10:46.830335Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/may-25-2025.html"
+  },
+  {
+    "id": "apr-13-2025",
+    "title": "The Forklift Driver",
+    "category": "Digital Products",
+    "description": "He warmed the bench in high school and worked a factory job for $2.75 an hour on his way to becoming Larry Bird's favorite teammate.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/apr-13-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-11T16:42:34.181695Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/apr-13-2025.html"
+  },
+  {
+    "id": "march-30-2025",
+    "title": "The MLB Pipeline No One Talks About",
+    "category": "Digital Products",
+    "description": "Division III schools have produced some pretty incredible MLB talent.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/march-30-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-27T16:36:19.814994Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/march-30-2025.html"
+  },
+  {
+    "id": "feb-23-2025",
+    "title": "One Decision From Disaster",
+    "category": "Digital Products",
+    "description": "After two unthinkable tragedies, he made it farther than anyone ever imagined.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-23-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-22T12:49:30.538404Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "6AM City",
+        "url": "https://6amcity.com/",
+        "logo": "https://6amcity.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feb-23-2025.html"
+  },
+  {
+    "id": "feb-16-2025",
+    "title": "The High School Dropout",
+    "category": "Digital Products",
+    "description": "He went from pumping gas at 19 years old to becoming a Hockey Hall of Famer.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-16-2025",
+    "tags": [
+      "Health",
+      "Sports"
+    ],
+    "date": "2025-02-13T22:54:58.839286Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "RunDot",
+        "url": "https://www.rundot.com/",
+        "logo": "https://cdn.brandfetch.io/idjoRfxvyA/w/800/h/800/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764471550263"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feb-16-2025.html"
+  },
+  {
+    "id": "feb-9-2025",
+    "title": "The Errand Boy",
+    "category": "Digital Products",
+    "description": "He went from fetching cheeseburgers at 2 AM to building an NFL dynasty.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-9-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-07T21:42:44.19304Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "6AM City",
+        "url": "https://6amcity.com/",
+        "logo": "https://6amcity.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feb-9-2025.html"
+  },
+  {
+    "id": "feb-2-2025",
+    "title": "They Laughed At Him",
+    "category": "Digital Products",
+    "description": "People laughed at him in high school. Now he's gearing up for football's biggest stage.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/feb-2-2025",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2025-01-31T21:19:50.279182Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lysted",
+        "url": "https://lysted.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=lysted.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feb-2-2025.html"
+  },
+  {
+    "id": "jan-26-2025",
+    "title": "He Did Stupid Things",
+    "category": "Digital Products",
+    "description": "Caron Butler was arrested 15 times before he was 15. Here's how he turned his life around to become an NBA champion.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/jan-26-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-19T17:42:11.781487Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jan-26-2025.html"
+  },
+  {
+    "id": "jan-19-2025",
+    "title": "He Helped Build a Dynasty",
+    "category": "Digital Products",
+    "description": "How a small-school QB whisperer ended up with three Super Bowl rings.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/jan-19-2025",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-01-17T19:40:14.541074Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jan-19-2025.html"
+  },
+  {
+    "id": "jan-12-2025",
+    "title": "From Bingo Halls to Sold-Out Stadiums",
+    "category": "Digital Products",
+    "description": "He went from driving 16 hours to wrestle in bingo halls for a couple of bucks to fighting in the main event at WrestleMania.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/jan-12-2025",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-01-11T14:42:46.044817Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jan-12-2025.html"
+  },
+  {
+    "id": "dec-29-2024",
+    "title": "It's All Your Fault",
+    "category": "Digital Products",
+    "description": "We had a pretty good year...and it's all your fault!",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/dec-29-2024",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-12-27T18:03:39.048787Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-29-2024.html"
+  },
+  {
+    "id": "dec-22-2024",
+    "title": "The End of Everything",
+    "category": "Digital Products",
+    "description": "\"It wasn’t easy because I thought it was the end of the world.\" What happened next shocked everyone.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/dec-22-2024",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2024-12-20T20:43:12.737369Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "https://cdn.brandfetch.io/id_0dwKPKT/w/399/h/399/theme/dark/icon.jpeg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-22-2024.html"
+  },
+  {
+    "id": "dec-15-2024",
+    "title": "He Lost Everything",
+    "category": "Digital Products",
+    "description": "“A lot of times, I wanted to give up.\" After experiencing unimaginable tragedy, he made his dream come true.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/dec-15-2024",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2024-12-14T18:57:19.963993Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "https://cdn.brandfetch.io/id_0dwKPKT/w/399/h/399/theme/dark/icon.jpeg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-15-2024.html"
+  },
+  {
+    "id": "dec-8-2024",
+    "title": "How Far Would You Go?",
+    "category": "Digital Products",
+    "description": "\"I was the worst player in the whole organization.\" His worst nightmare became a reality.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/dec-8-2024",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-12-04T01:44:20.602582Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bettersleep.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-8-2024.html"
+  },
+  {
+    "id": "dec-1-2024",
+    "title": "He Broke Every Rule",
+    "category": "Digital Products",
+    "description": "Before he could make history, he first had to survive long enough to do it.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/dec-1-2024",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-11-29T19:31:48.226571Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=comparecredit.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dec-1-2024.html"
+  },
+  {
+    "id": "nov-24-2024",
+    "title": "From Fixing Tires to Blocking Shots",
+    "category": "Digital Products",
+    "description": "How a 21-year-old mechanic became one of the greatest shot blockers in NBA history.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/nov-24-2024",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-11-22T19:22:33.274862Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nov-24-2024.html"
+  },
+  {
+    "id": "nov-10-2024",
+    "title": "He Didn't Know a Thing",
+    "category": "Digital Products",
+    "description": "\"He came from nothing. He knew nothing.\" Here's how his 6,000-mile journey landed him in the league.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/nov-10-2024",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-11-08T15:47:30.590786Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nov-10-2024.html"
+  },
+  {
+    "id": "oct-13-2024",
+    "title": "5'6\" Third-Stringer to NFL Stud",
+    "category": "Digital Products",
+    "description": "How an undersized 3rd-stringer made the leap from D3 to the NFL.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/oct-13-2024",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-11T16:43:43.398441Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/oct-13-2024.html"
+  },
+  {
+    "id": "oct-6-2024",
+    "title": "Lying His Way to the NHL",
+    "category": "Digital Products",
+    "description": "It all started with a lie spoken into a payphone on a beach in San Diego.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/oct-6-2024",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-04T15:27:55.645743Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/oct-6-2024.html"
+  },
+  {
+    "id": "sep-29-2024",
+    "title": "From Madden Player to NFL Pro",
+    "category": "Digital Products",
+    "description": "\"I thought it was over. I’m not in college. I wasn’t a qualifier. What am I going to do?\"",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/sep-29-2024",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-09-27T19:53:59.169513Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tiege Hanley",
+        "url": "https://www.tiege.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.tiege.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sep-29-2024.html"
+  },
+  {
+    "id": "sep-1-2024",
+    "title": "I'm Gone",
+    "category": "Digital Products",
+    "description": "Instead of rushing out a half-baked story, I wanted to highlight a few crowd-pleasers.",
+    "author": "The Underdog Newsletter",
+    "url": "https://newsletter.jokermag.com/p/sep-1-2024",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-08-29T21:03:43.450359Z",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Purple Carrot",
+        "url": "https://www.purplecarrot.com/",
+        "logo": "https://www.purplecarrot.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sep-1-2024.html"
+  },
+  {
+    "id": "aug-18-2024",
+    "title": "🐶 | From Couch Surfer to Superstar",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Underdog Newsletter",
+    "date": "2024-08-18",
+    "hasAds": true,
+    "url": "https://newsletter.jokermag.com/p/aug-18-2024",
+    "publisher": {
+      "name": "The Underdog Newsletter",
+      "url": "https://newsletter.jokermag.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "Image_removebg_preview.png"
+      }
+    ],
+    "htmlFile": "/emails/aug-18-2024.html",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ]
+  }
+]

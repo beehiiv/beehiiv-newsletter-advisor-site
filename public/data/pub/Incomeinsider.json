@@ -1,0 +1,511 @@
+[
+  {
+    "id": "01-02-26-pm",
+    "title": "01/02/26 - PM",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/01-02-26-pm",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2026-01-02T09:34:55.249883Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/01-02-26-pm.html"
+  },
+  {
+    "id": "01-02-26-am",
+    "title": "01/02/26 - AM",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/01-02-26-am",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-12-30T19:58:22.969859Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://www.incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=thefeedmedia.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/01-02-26-am.html"
+  },
+  {
+    "id": "hubspot-09-12-25-b2ce",
+    "title": "Hubspot (09/12/25)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/hubspot-09-12-25-b2ce",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-09T11:57:01.757132Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hubspot-09-12-25-b2ce.html"
+  },
+  {
+    "id": "marketing-millenials-26-11-25",
+    "title": "Marketing Millenials (26/11/25)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/marketing-millenials-26-11-25",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-11-24T19:00:00.036382Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://www.incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/marketing-millenials-26-11-25.html"
+  },
+  {
+    "id": "11-23-2025",
+    "title": "November 23, 2025",
+    "category": "Digital Products",
+    "description": "Ali’s $10m course breakdown, how to test ideas, and a digital product cheat sheet.",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/11-23-2025",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-11-21T12:54:53.634864Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "EverQuote",
+        "url": "https://www.everquote.com/",
+        "logo": "https://www.everquote.com/icons/icon-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/11-23-2025.html"
+  },
+  {
+    "id": "11-22-2025",
+    "title": "November 22, 2025",
+    "category": "Digital Products",
+    "description": "Ali’s $10m course breakdown, how to test ideas, and a digital product cheat sheet.",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/11-22-2025",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-11-21T12:05:40.141629Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/11-22-2025.html"
+  },
+  {
+    "id": "11-20-2025",
+    "title": "November 21, 2025",
+    "category": "Digital Products",
+    "description": "How Eileen Wilder pulled off a $1m day - plus a simple truth about products and a free traffic vs paid traffic cheat sheet.",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/11-20-2025",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-17T13:59:19.596517Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/11-20-2025.html",
+    "hasAds": true
+  },
+  {
+    "id": "refind-05-09-25-c3c4481109a835c1",
+    "title": "Refind (05/09/25)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/refind-05-09-25-c3c4481109a835c1",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-01T22:33:48.402036Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/refind-05-09-25-c3c4481109a835c1.html"
+  },
+  {
+    "id": "hubspot-30-10-25",
+    "title": "Hubspot (30/10/25)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/hubspot-30-10-25",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-29T20:02:40.758192Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hubspot-30-10-25.html"
+  },
+  {
+    "id": "hubspot-21-10-25",
+    "title": "Hubspot 21/10/25",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/hubspot-21-10-25",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-17T10:15:51.74809Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hubspot-21-10-25.html"
+  },
+  {
+    "id": "timothy-moser",
+    "title": "How Timothy Moser built a $120,000/month teaching Spanish online",
+    "category": "Digital Products",
+    "description": "Discover how Timothy Moser grew LearnCraft Spanish into a 7-figure business with podcasts, email, and serious training. Plus, learn why you don’t need a big audience to sell your first course.",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/timothy-moser",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-11T15:16:52.063843Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://www.incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/timothy-moser.html"
+  },
+  {
+    "id": "superhuman-beehiiv-c789",
+    "title": "Superhuman (Beehiiv)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/superhuman-beehiiv-c789",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-19T09:50:49.463645Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/superhuman-beehiiv-c789.html"
+  },
+  {
+    "id": "new-post-233f",
+    "title": "Masters In Marketing (Beehiiv)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/new-post-233f",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-05T11:44:01.494792Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/new-post-233f.html"
+  },
+  {
+    "id": "hubspot-10-03-25",
+    "title": "Hubspot 10/03/25",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/hubspot-10-03-25",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-10T11:48:07.60727Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hubspot-10-03-25.html"
+  },
+  {
+    "id": "money-com-ad",
+    "title": "Money.com Ad",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/money-com-ad",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-02-25T14:25:47.822194Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://www.incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/money-com-ad.html"
+  },
+  {
+    "id": "1440-promotion-13-02-25",
+    "title": "1440 Promotion 13/02/25",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/1440-promotion-13-02-25",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-13T18:32:57.570067Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/1440-promotion-13-02-25.html"
+  },
+  {
+    "id": "the-rundown-25-01-25",
+    "title": "The Rundown 25/01/25",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/the-rundown-25-01-25",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-23T17:05:55.756071Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-rundown-25-01-25.html"
+  },
+  {
+    "id": "hubspot-23-01-25",
+    "title": "Hubspot 23/01/25",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/hubspot-23-01-25",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-23T16:58:53.398978Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hubspot-23-01-25.html"
+  },
+  {
+    "id": "the-rundown-23-01-25",
+    "title": "The Rundown 23/01/25",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Incomeinsider",
+    "url": "https://www.incomeinsider.co/p/the-rundown-23-01-25",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-23T16:47:44.518591Z",
+    "publisher": {
+      "name": "Incomeinsider",
+      "url": "https://incomeinsider.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-rundown-23-01-25.html"
+  }
+]

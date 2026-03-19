@@ -1,0 +1,262 @@
+[
+  {
+    "id": "managing-mcp-tools",
+    "title": "How to fix MCP tool overload",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-10-07",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/managing-mcp-tools",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/managing-mcp-tools.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "cursor-introduces-hooks",
+    "title": "Cursor finally catching up",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-10-03",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/cursor-introduces-hooks",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/cursor-introduces-hooks.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "plan-context-progress",
+    "title": "how to fix AI slop",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-09-26",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/plan-context-progress",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/plan-context-progress.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "orchestrating-claude-sub-agents",
+    "title": "You're probably using claude sub agents wrong",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-09-23",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/orchestrating-claude-sub-agents",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Typeless",
+        "url": "https://www.typeless.com/",
+        "logo": "Typelesslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/orchestrating-claude-sub-agents.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "top-mcp-servers",
+    "title": "transform your agent with these 5 MCP tools",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-09-19",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/top-mcp-servers",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/top-mcp-servers.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "claude-code-is-losing-trust",
+    "title": "why are devs saying goodbye to claude code?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-09-09",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/claude-code-is-losing-trust",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/claude-code-is-losing-trust.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "agent-memory",
+    "title": "How to give memory to agents",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-09-02",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/agent-memory",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/agent-memory.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "bmad",
+    "title": "meet BMAD",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/bmad",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/bmad.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "calude-code-pro-2",
+    "title": "slow down anthropic",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-08-22",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/calude-code-pro-2",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/calude-code-pro-2.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-agents-sentiment",
+    "title": "The AI tool no one talks about is secretly winning",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The AI Stack for devs",
+    "date": "2025-07-22",
+    "hasAds": true,
+    "url": "https://www.theaistack.dev/p/ai-agents-sentiment",
+    "publisher": {
+      "name": "The AI Stack for devs",
+      "url": "https://www.theaistack.dev"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-agents-sentiment.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

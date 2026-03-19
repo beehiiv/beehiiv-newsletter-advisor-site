@@ -1,0 +1,521 @@
+[
+  {
+    "id": "our-future-is-blind",
+    "title": "Our Future is Blind",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-27",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/our-future-is-blind",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "tangle.png"
+      }
+    ],
+    "htmlFile": "/emails/our-future-is-blind.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "you-are-the-product",
+    "title": "You Are the Product",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-27",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/you-are-the-product",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/you-are-the-product.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-and-creativity",
+    "title": "AI and Creativity",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/ai-and-creativity",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-and-creativity.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-and-privacy",
+    "title": "AI and Privacy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/ai-and-privacy",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-and-privacy.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-and-jobs",
+    "title": "AI and Jobs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/ai-and-jobs",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-and-jobs.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-and-the-future-of-work-c274",
+    "title": "AI and the Future of Work",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/ai-and-the-future-of-work-c274",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-and-the-future-of-work-c274.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-ai-knows-everything",
+    "title": "The AI knows everything.....",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-24",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-ai-knows-everything",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-ai-knows-everything.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-edge-of-strategy",
+    "title": "The Edge of Strategy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-edge-of-strategy",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-edge-of-strategy.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-sacred-test",
+    "title": "THE SACRED TEST",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-18",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-sacred-test",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-sacred-test.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-debt-trap",
+    "title": "The Debt Trap",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-15",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-debt-trap",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-debt-trap.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-final-prayer",
+    "title": "THE FINAL PRAYER",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-15",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-final-prayer",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-final-prayer.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-price-of-distraction",
+    "title": "THE PRICE OF DISTRACTION",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-14",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-price-of-distraction",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-price-of-distraction.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-cost-of-comfort",
+    "title": "THE COST OF COMFORT",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-cost-of-comfort",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-cost-of-comfort.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "unbroken",
+    "title": "UNBROKEN",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-12",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/unbroken",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/unbroken.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "psychology",
+    "title": "Psychology",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-10",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/psychology",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/psychology.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "interrupted",
+    "title": "INTERRUPTED",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/interrupted",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/interrupted.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "the-genocide",
+    "title": "THE GENOCIDE",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-07-30",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-genocide",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-genocide.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-sin-of-envy",
+    "title": "THE SIN OF ENVY",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-07-29",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-sin-of-envy",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-sin-of-envy.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-sin-of-greed",
+    "title": "THE SIN OF GREED",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-07-21",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-sin-of-greed",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-sin-of-greed.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-sin-of-lust",
+    "title": "THE SIN OF LUST ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AlphaStream",
+    "date": "2025-07-20",
+    "hasAds": true,
+    "url": "https://alphastreama.beehiiv.com/p/the-sin-of-lust",
+    "publisher": {
+      "name": "AlphaStream",
+      "url": "https://alphastreama.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-sin-of-lust.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

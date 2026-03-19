@@ -1,0 +1,86 @@
+[
+  {
+    "id": "the-real-cost-of-hiring-a-foreigner-in-japan",
+    "title": "The Real Cost of Hiring a Foreigner in Japan",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Foreign Professional",
+    "url": "https://foreignprofessional.beehiiv.com",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-15T21:15:11.948635Z",
+    "publisher": {
+      "name": "Foreign Professional",
+      "url": "https://foreignprofessional.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haystack",
+        "url": "https://www.haystackteam.com/",
+        "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/666c963ca49e956d3c8a1179_haystack.svg"
+      }
+    ],
+    "htmlFile": "/emails/the-real-cost-of-hiring-a-foreigner-in-japan.html",
+    "hasAds": true
+  },
+  {
+    "id": "japan-s-2026-snap-election",
+    "title": "Japan’s 2026 Snap Election",
+    "category": "Digital Products",
+    "description": "and What It Means for Foreign Professionals",
+    "author": "Foreign Professional",
+    "url": "https://foreignprofessional.beehiiv.com",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2026-02-08T21:19:03.489511Z",
+    "publisher": {
+      "name": "Foreign Professional",
+      "url": "https://foreignprofessional.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/japan-s-2026-snap-election.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-secret-backdoor-into-japan-that-locals-want-you-to-use-fa7694ce5982e823",
+    "title": "The Secret Backdoor Into Japan (That Locals Want You to Use)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Foreign Professional",
+    "date": "2025-05-25",
+    "hasAds": true,
+    "url": "https://foreignprofessional.beehiiv.com/p/the-secret-backdoor-into-japan-that-locals-want-you-to-use-fa7694ce5982e823",
+    "publisher": {
+      "name": "Foreign Professional",
+      "url": "https://foreignprofessional.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-secret-backdoor-into-japan-that-locals-want-you-to-use-fa7694ce5982e823.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

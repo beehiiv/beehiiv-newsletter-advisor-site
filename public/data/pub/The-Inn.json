@@ -1,0 +1,110 @@
+[
+  {
+    "id": "outgrow-life-wanted",
+    "title": "Outgrow the Life You Wanted",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Inn",
+    "date": "2024-08-17",
+    "hasAds": true,
+    "url": "https://theinn.beehiiv.com/p/outgrow-life-wanted",
+    "publisher": {
+      "name": "The Inn",
+      "url": "https://theinn.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/outgrow-life-wanted.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "freedom-fear",
+    "title": "Freedom from Fear",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Inn",
+    "date": "2024-08-15",
+    "hasAds": true,
+    "url": "https://theinn.beehiiv.com/p/freedom-fear",
+    "publisher": {
+      "name": "The Inn",
+      "url": "https://theinn.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Rewardful",
+        "url": "https://www.rewardful.com/",
+        "logo": "Rewardful_blue_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/freedom-fear.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "things-tell-people",
+    "title": "Do Things, Tell People",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Inn",
+    "date": "2024-08-05",
+    "hasAds": true,
+    "url": "https://theinn.beehiiv.com/p/things-tell-people",
+    "publisher": {
+      "name": "The Inn",
+      "url": "https://theinn.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/things-tell-people.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "customer-retention",
+    "title": "Customer Retention",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Inn",
+    "date": "2023-12-05",
+    "hasAds": true,
+    "url": "https://theinn.beehiiv.com/p/customer-retention",
+    "publisher": {
+      "name": "The Inn",
+      "url": "https://theinn.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/customer-retention.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

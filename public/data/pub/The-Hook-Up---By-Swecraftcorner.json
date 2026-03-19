@@ -1,0 +1,131 @@
+[
+  {
+    "id": "giveaway-and-referral-program",
+    "title": "Giveaway and referral program!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Hook Up - By Swecraftcorner",
+    "date": "2025-08-12",
+    "hasAds": true,
+    "url": "https://members.swecraftcorner.com/p/giveaway-and-referral-program",
+    "publisher": {
+      "name": "The Hook Up - By Swecraftcorner",
+      "url": "https://members.swecraftcorner.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/giveaway-and-referral-program.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "free-mystery-pattern-reveal-ae6176677dc8386f",
+    "title": "Free Mystery Pattern Reveal!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Hook Up - By Swecraftcorner",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://members.swecraftcorner.com/p/free-mystery-pattern-reveal-ae6176677dc8386f",
+    "publisher": {
+      "name": "The Hook Up - By Swecraftcorner",
+      "url": "https://members.swecraftcorner.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/free-mystery-pattern-reveal-ae6176677dc8386f.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "launching-the-hook-up-crochet-s-new-premium-mailzine-founder-price-inside",
+    "title": "Launching The Hook Up: Crochet’s New Premium Mailzine (Founder Price Inside)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Hook Up - By Swecraftcorner",
+    "date": "2025-08-01",
+    "hasAds": true,
+    "url": "https://members.swecraftcorner.com/p/launching-the-hook-up-crochet-s-new-premium-mailzine-founder-price-inside",
+    "publisher": {
+      "name": "The Hook Up - By Swecraftcorner",
+      "url": "https://members.swecraftcorner.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/launching-the-hook-up-crochet-s-new-premium-mailzine-founder-price-inside.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "poll-free-download-new-pattern-and-a-lot-of-babbling",
+    "title": "Free download, new pattern, polls and a lot of babbling!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Hook Up - By Swecraftcorner",
+    "date": "2025-07-29",
+    "hasAds": true,
+    "url": "https://members.swecraftcorner.com/p/poll-free-download-new-pattern-and-a-lot-of-babbling",
+    "publisher": {
+      "name": "The Hook Up - By Swecraftcorner",
+      "url": "https://members.swecraftcorner.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/poll-free-download-new-pattern-and-a-lot-of-babbling.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "free-pdf-download-crochet-bag-and-poll",
+    "title": "FREE PDF download - crochet bag and poll",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Hook Up - By Swecraftcorner",
+    "date": "2025-07-24",
+    "hasAds": true,
+    "url": "https://members.swecraftcorner.com/p/free-pdf-download-crochet-bag-and-poll",
+    "publisher": {
+      "name": "The Hook Up - By Swecraftcorner",
+      "url": "https://members.swecraftcorner.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/free-pdf-download-crochet-bag-and-poll.html",
+    "tags": [
+      "E-commerce"
+    ]
+  }
+]

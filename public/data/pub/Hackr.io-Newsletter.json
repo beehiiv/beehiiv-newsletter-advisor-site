@@ -1,0 +1,2366 @@
+[
+  {
+    "id": "doordash-confirms-major-security-breach",
+    "title": "DoorDash Confirms Major Security Breach",
+    "category": "Digital Products",
+    "description": "Attackers accessed personal information via social engineering, but payment and SSN data remained protected.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/doordash-confirms-major-security-breach",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-24T15:31:02.89466Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/doordash-confirms-major-security-breach.html"
+  },
+  {
+    "id": "cloudflare-had-a-bad-day",
+    "title": "Cloudflare Had a Bad Day",
+    "category": "Digital Products",
+    "description": "A major outage at Cloudflare this morning knocked a broad slice of the internet offline. The incident disrupted services for many notable platforms worldwide.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/cloudflare-had-a-bad-day",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-11-18T18:40:17.799613Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bright Data",
+        "url": "https://brightdata.com/",
+        "logo": "https://brightdata.com/wp-content/themes/brightdata/assets/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cloudflare-had-a-bad-day.html"
+  },
+  {
+    "id": "a-starter-playbook-for-threat-modeling-in-sprint-planning",
+    "title": "A starter playbook for threat modeling in sprint planning",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hackr.io Newsletter",
+    "date": "2025-11-17",
+    "hasAds": true,
+    "url": "https://newsletter.hackr.io/p/a-starter-playbook-for-threat-modeling-in-sprint-planning",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io"
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "ProtonMail.png"
+      }
+    ],
+    "htmlFile": "/emails/a-starter-playbook-for-threat-modeling-in-sprint-planning.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "softbank-cashes-out-of-nvidia-for-5-8-billion",
+    "title": "SoftBank Cashes Out of Nvidia for $5.8 Billion",
+    "category": "Digital Products",
+    "description": "Japanese conglomerate SoftBank sold its entire Nvidia stake to fund aggressive bets on OpenAI and other AI ventures, sparking debate about the company's investment strategy.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/softbank-cashes-out-of-nvidia-for-5-8-billion",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-11-11T17:09:23.144759Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deepgram",
+        "url": "https://deepgram.com/",
+        "logo": "https://deepgram.com/favicon.ico?favicon.4578aac0.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/softbank-cashes-out-of-nvidia-for-5-8-billion.html"
+  },
+  {
+    "id": "a-practical-guide-to-webauthn-for-developers",
+    "title": "A practical guide to WebAuthn for developers",
+    "category": "Digital Products",
+    "description": "A clear, practical walkthrough of WebAuthn that shows developers how to add passkeys, handle registration and login, and ship a secure passwordless flow.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/a-practical-guide-to-webauthn-for-developers",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-11-05T17:05:04.164652Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deepgram",
+        "url": "https://deepgram.com/",
+        "logo": "https://deepgram.com/favicon.ico?favicon.4578aac0.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-practical-guide-to-webauthn-for-developers.html"
+  },
+  {
+    "id": "louvre-security-breach-exposed-by-simple-password-vulnerability",
+    "title": "Louvre Security Breach Exposed by Simple Password Vulnerability",
+    "category": "Digital Products",
+    "description": "A $102 million crown jewel heist exposed decades of security failures at the Louvre, including surveillance passwords known to have \"serious shortcomings\".",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/louvre-security-breach-exposed-by-simple-password-vulnerability",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-05T16:23:49.71027Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/louvre-security-breach-exposed-by-simple-password-vulnerability.html",
+    "hasAds": true
+  },
+  {
+    "id": "linux-users-on-steam-have-crossed-the-3-mark-for-the-first-time",
+    "title": "Linux users on Steam have crossed the 3% mark for the first time",
+    "category": "Digital Products",
+    "description": "Driven by the Steam Deck and growing Windows migration, here's what happened.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/linux-users-on-steam-have-crossed-the-3-mark-for-the-first-time",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-03T13:59:29.853215Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/linux-users-on-steam-have-crossed-the-3-mark-for-the-first-time.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-app-idea-deserves-more-than-a-github-repo",
+    "title": "Your App Idea Deserves More Than a GitHub Repo",
+    "category": "Digital Products",
+    "description": "Transforming a side project into a full startup requires strategy, validation, and the right tools to bring your idea to life and sustain real growth.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/your-app-idea-deserves-more-than-a-github-repo",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-10-28T18:58:55.83419Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      },
+      {
+        "name": "QuarterZip",
+        "url": "https://www.quarterzip.ai/",
+        "logo": "https://cdn.prod.website-files.com/6894695956f5ee5691443986/6897a97374edbdef16abefd0_Frame%202147235078.svg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-app-idea-deserves-more-than-a-github-repo.html"
+  },
+  {
+    "id": "why-the-best-mobile-apps-still-work-without-the-internet",
+    "title": "Why the Best Mobile Apps Still Work Without the Internet",
+    "category": "Digital Products",
+    "description": "Ever opened an app on a plane or in an elevator and realized it was useless? Offline-first design solves that problem by keeping apps functional even without a connection, creating a smoother, more dependable user experience.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/why-the-best-mobile-apps-still-work-without-the-internet",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-10-28T18:53:10.632579Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "QuarterZip",
+        "url": "https://www.quarterzip.ai/",
+        "logo": "https://cdn.prod.website-files.com/6894695956f5ee5691443986/6897a97374edbdef16abefd0_Frame%202147235078.svg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-the-best-mobile-apps-still-work-without-the-internet.html"
+  },
+  {
+    "id": "the-hidden-costs-of-overusing-ai-in-your-codebase",
+    "title": "The Hidden Costs of Overusing AI in Your Codebase",
+    "category": "Digital Products",
+    "description": "AI tools can boost productivity, but relying on them too heavily can introduce technical debt, inconsistent logic, and long-term maintenance issues that cost more than they save.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-hidden-costs-of-overusing-ai-in-your-codebase",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-10-28T18:45:35.187283Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      },
+      {
+        "name": "QuarterZip",
+        "url": "https://www.quarterzip.ai/",
+        "logo": "https://cdn.prod.website-files.com/6894695956f5ee5691443986/6897a97374edbdef16abefd0_Frame%202147235078.svg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hidden-costs-of-overusing-ai-in-your-codebase.html"
+  },
+  {
+    "id": "python-debugging-tricks-you-wish-you-knew-sooner",
+    "title": "Python Debugging Tricks You Wish You Knew Sooner",
+    "category": "Digital Products",
+    "description": "Learn how to fix bugs faster with Python’s most overlooked debugging tools and techniques.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/python-debugging-tricks-you-wish-you-knew-sooner",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-14T18:04:20.221406Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/python-debugging-tricks-you-wish-you-knew-sooner.html"
+  },
+  {
+    "id": "5-git-commands-that-separate-juniors-from-pros",
+    "title": "5 Git Commands That Separate Juniors from Pros",
+    "category": "Digital Products",
+    "description": "Most developers use Git every day, but only a few understand its real power. Knowing how to go beyond commits and merges can make you faster, cleaner, and more confident when working on complex projects.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/5-git-commands-that-separate-juniors-from-pros",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-10T16:55:02.733701Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-git-commands-that-separate-juniors-from-pros.html"
+  },
+  {
+    "id": "the-ultimate-debugging-setup-inside-vs-code",
+    "title": "The Ultimate Debugging Setup Inside VS Code",
+    "category": "Digital Products",
+    "description": "If you spend more time fixing bugs than writing code, you are not alone. Debugging can be tedious, but the right tools inside VS Code can save hours every week and make problem solving smoother than ever.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-ultimate-debugging-setup-inside-vs-code",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-10T16:45:09.407765Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/the-ultimate-debugging-setup-inside-vs-code.html",
+    "hasAds": true
+  },
+  {
+    "id": "github-copilot-how-to-use-ai-without-letting-it-write-for-you",
+    "title": "GitHub Copilot: How to Use AI Without Letting It Write for You",
+    "category": "Digital Products",
+    "description": "AI coding assistants are changing how we work, but relying on them too much can hurt your growth as a developer. Copilot is powerful, but only if you know how to stay in the driver’s seat.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/github-copilot-how-to-use-ai-without-letting-it-write-for-you",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-10T16:30:41.364906Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/github-copilot-how-to-use-ai-without-letting-it-write-for-you.html",
+    "hasAds": true
+  },
+  {
+    "id": "angular-skills-what-makes-them-valuable-in-today-s-market",
+    "title": "Angular Skills: What Makes Them Valuable in Today’s Market",
+    "category": "Digital Products",
+    "description": "Angular has been around for a while, but it continues to be a framework employers look for when hiring front-end developers. If you want to stand out, Angular can give you the edge.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/angular-skills-what-makes-them-valuable-in-today-s-market",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-09-25T16:35:17.936576Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Typeless",
+        "url": "https://www.typeless.com/",
+        "logo": "https://www.typeless.com/logo_152.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/angular-skills-what-makes-them-valuable-in-today-s-market.html"
+  },
+  {
+    "id": "getting-started-with-r-basics-every-data-scientist-learns-first",
+    "title": "Getting Started With R: Basics Every Data Scientist Learns First",
+    "category": "Digital Products",
+    "description": "Want to explore data like a pro? R is one of the most powerful tools for data science, and getting started is easier than you might think. From setup to your first plot, here’s how to build a strong foundation.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/getting-started-with-r-basics-every-data-scientist-learns-first",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-09-25T16:10:52.979728Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/getting-started-with-r-basics-every-data-scientist-learns-first.html"
+  },
+  {
+    "id": "python-meets-excel-faster-analysis-without-vba",
+    "title": "Python Meets Excel: Faster Analysis Without VBA",
+    "category": "Digital Products",
+    "description": "Python is now built into Excel, giving you a faster way to clean, analyze, and visualize data without relying on complex formulas or VBA.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/python-meets-excel-faster-analysis-without-vba",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-09-25T14:32:54.413166Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/python-meets-excel-faster-analysis-without-vba.html"
+  },
+  {
+    "id": "oauth-demystified-for-developers",
+    "title": "OAuth Demystified for Developers",
+    "category": "Digital Products",
+    "description": "OAuth powers logins and secure connections across the web, but many developers still find it confusing",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/oauth-demystified-for-developers",
+    "tags": [
+      "AI",
+      "E-commerce"
+    ],
+    "date": "2025-09-09T12:58:29.845069Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Zipchat",
+        "url": "https://zipchat.ai/",
+        "logo": "https://www.google.com/s2/favicons?domain=zipchat.ai&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/oauth-demystified-for-developers.html"
+  },
+  {
+    "id": "write-smarter-queries-sql-basics-developers-overlook",
+    "title": "Write Smarter Queries: SQL Basics Developers Overlook",
+    "category": "Digital Products",
+    "description": "Learn the essential SQL queries that go beyond the basics and make your data work more powerful.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/write-smarter-queries-sql-basics-developers-overlook",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-09T11:36:21.904711Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/write-smarter-queries-sql-basics-developers-overlook.html"
+  },
+  {
+    "id": "how-to-write-tests-that-actually-prevent-bugs",
+    "title": "How to Write Tests That Actually Prevent Bugs",
+    "category": "Digital Products",
+    "description": "You can write a lot of tests and still miss real defects. The key is writing tests that target risky behavior, prove key invariants, and catch regressions before they ship.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-write-tests-that-actually-prevent-bugs",
+    "tags": [
+      "Marketing",
+      "Newsletter",
+      "Real Estate"
+    ],
+    "date": "2025-09-02T11:50:50.269598Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-write-tests-that-actually-prevent-bugs.html",
+    "hasAds": true
+  },
+  {
+    "id": "mastering-debugging-tools-and-techniques-every-developer-needs",
+    "title": "Mastering Debugging: Tools and Techniques Every Developer Needs",
+    "category": "Digital Products",
+    "description": "Sharpen your debugging skills with tools, methods, and practical habits that make finding bugs faster and less painful.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/mastering-debugging-tools-and-techniques-every-developer-needs",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-08-27T15:51:14.654778Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mastering-debugging-tools-and-techniques-every-developer-needs.html"
+  },
+  {
+    "id": "code-relax-repeat-long-weekend-learning-picks",
+    "title": "Code, Relax, Repeat: Long Weekend Learning Picks",
+    "category": "Digital Products",
+    "description": "Learning syntax is important, but real-world coding scenarios are what truly prepare you to solve problems as a developer.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/code-relax-repeat-long-weekend-learning-picks",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-08-27T15:39:19.798706Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/code-relax-repeat-long-weekend-learning-picks.html"
+  },
+  {
+    "id": "how-real-world-scenarios-make-you-a-better-developer",
+    "title": "How Real-World Scenarios Make You a Better Developer",
+    "category": "Digital Products",
+    "description": "Learning syntax is important, but real-world coding scenarios are what truly prepare you to solve problems as a developer.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-real-world-scenarios-make-you-a-better-developer",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-26T12:24:49.613555Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-real-world-scenarios-make-you-a-better-developer.html"
+  },
+  {
+    "id": "stop-hot-loops-what-to-do-when-coroutines-never-await",
+    "title": "Stop Hot Loops: What to Do When Coroutines Never Await",
+    "category": "Digital Products",
+    "description": "If a coroutine in your loop never calls await, it can create a hot loop that starves your event loop. Catch it by",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/stop-hot-loops-what-to-do-when-coroutines-never-await",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-08-26T11:54:23.997011Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/stop-hot-loops-what-to-do-when-coroutines-never-await.html",
+    "hasAds": true
+  },
+  {
+    "id": "14-react-projects-with-source-code-beginner-to-advanced",
+    "title": "14 React Projects with Source Code (Beginner to Advanced)",
+    "category": "Digital Products",
+    "description": "If you're serious about landing a front-end role, you need real hands-on experience. These React projects are designed to take you from building simple apps to launching full-stack interfaces, step by step.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/14-react-projects-with-source-code-beginner-to-advanced",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-06T12:53:11.221945Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/14-react-projects-with-source-code-beginner-to-advanced.html"
+  },
+  {
+    "id": "why-python-shows-up-everywhere",
+    "title": "Why Python Shows Up Everywhere",
+    "category": "Digital Products",
+    "description": "Python keeps showing up in job listings, tutorials, and open-source projects because it solves real problems across industries, from web apps to automation to AI.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/why-python-shows-up-everywhere",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-08-06T12:41:53.865325Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "https://contra.com/static/media/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-python-shows-up-everywhere.html"
+  },
+  {
+    "id": "the-zen-of-python-19-rules-every-dev-should-know",
+    "title": "The Zen of Python: 19 Rules Every Dev Should Know",
+    "category": "Digital Products",
+    "description": "The Zen of Python lays out 19 principles that help developers write code that’s clean, consistent, and easy to maintain.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-zen-of-python-19-rules-every-dev-should-know",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-06T11:46:12.513555Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-zen-of-python-19-rules-every-dev-should-know.html"
+  },
+  {
+    "id": "scan-this-learn-to-build-a-python-qr-app-from-scratch",
+    "title": "Scan This: Learn to Build a Python QR App from Scratch",
+    "category": "Digital Products",
+    "description": "Create a working QR code generator using Python in under 30 minutes.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/scan-this-learn-to-build-a-python-qr-app-from-scratch",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-07-31T15:39:34.395253Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/scan-this-learn-to-build-a-python-qr-app-from-scratch.html"
+  },
+  {
+    "id": "webassembly-lets-you-use-python-in-the-browser-but-should-you",
+    "title": "WebAssembly Lets You Use Python in the Browser. But Should You?",
+    "category": "Digital Products",
+    "description": "High-level languages compile down to bytecode that runs in the browser. Projects like Pyodide",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/webassembly-lets-you-use-python-in-the-browser-but-should-you",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-31T15:16:20.354101Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/webassembly-lets-you-use-python-in-the-browser-but-should-you.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-risks-of-ai-coding-replit-agent-destroys-code-and-covers-it-up",
+    "title": "The Risks of AI Coding: Replit Agent Destroys Code and Covers It Up",
+    "category": "Digital Products",
+    "description": "This AI tool wiped a live database and faked results during a coding experiment.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-risks-of-ai-coding-replit-agent-destroys-code-and-covers-it-up",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-23T14:00:30.114288Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-risks-of-ai-coding-replit-agent-destroys-code-and-covers-it-up.html"
+  },
+  {
+    "id": "florida-woman-loses-15k-in-ai-voice-scam-i-thought-it-was-her",
+    "title": "Florida Woman Loses $15K in AI Voice Scam: ‘I Thought It Was Her’",
+    "category": "Digital Products",
+    "description": "Scammers cloned her daughter’s voice with AI and demanded $15K in a chilling hoax.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/florida-woman-loses-15k-in-ai-voice-scam-i-thought-it-was-her",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-23T13:50:46.613249Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/florida-woman-loses-15k-in-ai-voice-scam-i-thought-it-was-her.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-math-powers-ai-inside-large-language-models",
+    "title": "How math powers AI: Inside large language models",
+    "category": "Digital Products",
+    "description": "Looking to future-proof a career? Here’s how to learn AI effectively right now, with curated resources for every level.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-math-powers-ai-inside-large-language-models",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-07T15:22:37.357097Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-math-powers-ai-inside-large-language-models.html"
+  },
+  {
+    "id": "how-to-handle-any-number-of-inputs-in-python-functions",
+    "title": "How to handle any number of inputs in Python functions",
+    "category": "Digital Products",
+    "description": "How Python handles flexible inputs (and why it matters for real-world code)",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-handle-any-number-of-inputs-in-python-functions",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-07T15:04:51.420281Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-handle-any-number-of-inputs-in-python-functions.html"
+  },
+  {
+    "id": "good-news-for-devs-you-can-train-ai-with-books-if-they-re-legal",
+    "title": "Good news for devs: You can train AI with books (if they’re legal)",
+    "category": "Digital Products",
+    "description": "Train smarter, not sketchier. A recent court ruling says legal datasets matter more than ever for coders.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/good-news-for-devs-you-can-train-ai-with-books-if-they-re-legal",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-07T14:51:36.985003Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/good-news-for-devs-you-can-train-ai-with-books-if-they-re-legal.html",
+    "hasAds": true
+  },
+  {
+    "id": "stop-reinventing-the-wheel-in-python",
+    "title": "Stop reinventing the wheel in Python.",
+    "category": "Digital Products",
+    "description": "5 powerful, lesser-known Python libraries that will save you time and headaches.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/stop-reinventing-the-wheel-in-python",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-19T14:46:58.493444Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-reinventing-the-wheel-in-python.html"
+  },
+  {
+    "id": "did-we-get-frontend-rendering-wrong",
+    "title": "Did we get frontend rendering wrong?",
+    "category": "Digital Products",
+    "description": "SSR is making a major comeback. Find out why frameworks like Next.js are leading the charge.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/did-we-get-frontend-rendering-wrong",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-19T14:04:34.41609Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/did-we-get-frontend-rendering-wrong.html"
+  },
+  {
+    "id": "build-faster-what-makes-the-rad-model-so-powerful",
+    "title": "Build Faster: What Makes the RAD Model So Powerful",
+    "category": "Digital Products",
+    "description": "The Rapid Application Development model emphasizes speed, flexibility, and user feedback, which is ideal for building functional software fast without sacrificing quality.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/build-faster-what-makes-the-rad-model-so-powerful",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-04T15:48:49.371202Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-faster-what-makes-the-rad-model-so-powerful.html"
+  },
+  {
+    "id": "this-week-s-cybersec-news",
+    "title": "This Week's Cybersec News",
+    "category": "Digital Products",
+    "description": "These stories caught our eye in the world of cybersecurity and ethical hacking.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/this-week-s-cybersec-news",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-04T14:55:48.63763Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/this-week-s-cybersec-news.html"
+  },
+  {
+    "id": "build-the-cheapest-network-meet-prim-s-algorithm",
+    "title": "Build the Cheapest Network: Meet Prim's Algorithm",
+    "category": "Digital Products",
+    "description": "Prim's Algorithm, a greedy method for finding the minimum spanning tree of a graph. Learn how it connects all points with the least possible cost.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/build-the-cheapest-network-meet-prim-s-algorithm",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-28T13:39:28.721356Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-the-cheapest-network-meet-prim-s-algorithm.html"
+  },
+  {
+    "id": "the-algorithm-that-finds-the-fastest-route-every-time",
+    "title": "The Algorithm That Finds the Fastest Route (Every Time)",
+    "category": "Digital Products",
+    "description": "Dijkstra's Algorithm powers navigation, network routing, and more. Learn its fundamental principles for finding optimal paths.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-algorithm-that-finds-the-fastest-route-every-time",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-28T11:43:16.166763Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-algorithm-that-finds-the-fastest-route-every-time.html"
+  },
+  {
+    "id": "how-to-write-cleaner-smarter-code",
+    "title": "How to Write Cleaner, Smarter Code",
+    "category": "Digital Products",
+    "description": "Learn how to use comments the right way. You know, clearer, easier to maintain, and more professional.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-write-cleaner-smarter-code",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Real Estate"
+    ],
+    "date": "2025-05-08T14:55:54.026947Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-write-cleaner-smarter-code.html"
+  },
+  {
+    "id": "the-case-for-learning-ethical-hacking",
+    "title": "The Case for Learning Ethical Hacking",
+    "category": "Digital Products",
+    "description": "Here's why learning ethical hacking is one of the smartest moves you can make for your cybersecurity skills, career growth, and digital safety.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-case-for-learning-ethical-hacking",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-08T14:49:43.891175Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-case-for-learning-ethical-hacking.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-quick-guide-to-using-json-in-python",
+    "title": "Your Quick Guide to Using JSON in Python",
+    "category": "Digital Products",
+    "description": "Learn how to easily work with JSON in Python. Here's how to read and write files and between JSON and Python objects.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/your-quick-guide-to-using-json-in-python",
+    "tags": [
+      "News",
+      "Newsletter",
+      "Real Estate"
+    ],
+    "date": "2025-05-07T17:12:44.968206Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-quick-guide-to-using-json-in-python.html"
+  },
+  {
+    "id": "faster-cleaner-and-easier-string-formatting-with-f-strings",
+    "title": "Faster, Cleaner, and Easier String Formatting with f-Strings",
+    "category": "Digital Products",
+    "description": "Here’s the short email abstract:Learn why Python’s f-strings are the fastest and cleanest way to format strings and how to start using them in your own code.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/faster-cleaner-and-easier-string-formatting-with-f-strings",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-07T17:06:54.540985Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/faster-cleaner-and-easier-string-formatting-with-f-strings.html"
+  },
+  {
+    "id": "master-binary-search-in-c-and-python-for-faster-code",
+    "title": "Master Binary Search in C (and Python) for Faster Code",
+    "category": "Digital Products",
+    "description": "Binary Search cuts your search time in half. Literally. Learn how to implement it in both C and Python, and when it’s the right tool for the job.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/master-binary-search-in-c-and-python-for-faster-code",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-23T15:20:25.351863Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/master-binary-search-in-c-and-python-for-faster-code.html"
+  },
+  {
+    "id": "how-to-use-a-breadth-first-search-algorithm",
+    "title": "How to Use a Breadth-First Search Algorithm",
+    "category": "Digital Products",
+    "description": "Learn how Breadth-First Search works, when to use it, and how to implement it in Python. From shortest path problems to maze solvers and search engines, BFS is one of the most practical algorithms every dev should know.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-use-a-breadth-first-search-algorithm",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-08T18:25:06.389261Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-use-a-breadth-first-search-algorithm.html"
+  },
+  {
+    "id": "what-cybersecurity-looks-like-in-2025",
+    "title": "What Cybersecurity Looks Like in 2025",
+    "category": "Digital Products",
+    "description": "The industry has changed so much this year. An inside look at cybersec ops and the certifications you'll need to excel in this field.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/what-cybersecurity-looks-like-in-2025",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-03T11:49:50.167163Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-cybersecurity-looks-like-in-2025.html"
+  },
+  {
+    "id": "html-clearing-up-the-confusion-once-and-for-all",
+    "title": "HTML: Clearing Up the Confusion (Once and for All)",
+    "category": "Digital Products",
+    "description": "You know HTML. But are you using it right? This week’s guide highlights the subtle mistakes that can hurt accessibility and performance. . . and how to fix them.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/html-clearing-up-the-confusion-once-and-for-all",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-28T13:44:37.586777Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/html-clearing-up-the-confusion-once-and-for-all.html"
+  },
+  {
+    "id": "how-to-build-a-retro-pong-arcade-game-in-python",
+    "title": "How To Build a Retro Pong Arcade Game in Python",
+    "category": "Digital Products",
+    "description": "This project includes full source code, tutorial, and step-by-step instructions.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-build-a-retro-pong-arcade-game-in-python",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-03-13T13:19:43.234687Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-build-a-retro-pong-arcade-game-in-python.html"
+  },
+  {
+    "id": "how-to-build-a-file-encryption-app-in-python",
+    "title": "How To Build a File Encryption App in Python",
+    "category": "Digital Products",
+    "description": "This project includes full source code, tutorial, and step-by-step instructions.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-build-a-file-encryption-app-in-python",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-03-07T13:01:25.815891Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-build-a-file-encryption-app-in-python.html"
+  },
+  {
+    "id": "build-a-python-error-monitoring-app-with-automated-gmail-alerts",
+    "title": "Build a Python Error Monitoring App with Automated Gmail Alerts",
+    "category": "Digital Products",
+    "description": "This project includes full source code, video walk-through, and step-by-step instructions.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/build-a-python-error-monitoring-app-with-automated-gmail-alerts",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-19T15:42:03.877985Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-a-python-error-monitoring-app-with-automated-gmail-alerts.html"
+  },
+  {
+    "id": "how-to-build-an-interactive-blackjack-game-in-python",
+    "title": "How To Build an Interactive Blackjack Game in Python",
+    "category": "Digital Products",
+    "description": "This coding project includes the full source code and step-by-step instructions.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-build-an-interactive-blackjack-game-in-python",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-14T14:30:28.837336Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-build-an-interactive-blackjack-game-in-python.html"
+  },
+  {
+    "id": "a-coding-project-that-scrapes-real-estate-data",
+    "title": "A Coding Project That Scrapes Real Estate Data",
+    "category": "Digital Products",
+    "description": "This real-world project includes the full source code and step-by-step instructions.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/a-coding-project-that-scrapes-real-estate-data",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-02-05T12:28:05.408657Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/a-coding-project-that-scrapes-real-estate-data.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-build-an-image-editor-in-python",
+    "title": "How to Build an Image Editor in Python",
+    "category": "Digital Products",
+    "description": "With full source code and video walkthrough.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-build-an-image-editor-in-python",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-30T17:11:07.789233Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "htmlFile": "/emails/how-to-build-an-image-editor-in-python.html",
+    "hasAds": true
+  },
+  {
+    "id": "build-your-own-image-editor",
+    "title": "Build Your Own Image Editor",
+    "category": "Digital Products",
+    "description": "With full source code and video walkthrough.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/build-your-own-image-editor",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-27T17:42:10.718439Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "htmlFile": "/emails/build-your-own-image-editor.html",
+    "hasAds": true
+  },
+  {
+    "id": "build-a-unit-converter-with-python",
+    "title": "Build a Unit Converter with Python",
+    "category": "Digital Products",
+    "description": "Full source code and video walkthrough.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/build-a-unit-converter-with-python",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-22T11:54:56.487943Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-a-unit-converter-with-python.html"
+  },
+  {
+    "id": "tech-resources-reviewed",
+    "title": "Tech Resources Reviewed",
+    "category": "Digital Products",
+    "description": "Popular coding and tech resources reviewed + misunderstood Linux commands with new video.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/tech-resources-reviewed",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-16T14:56:02.796812Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-resources-reviewed.html",
+    "hasAds": true
+  },
+  {
+    "id": "python-editor-access-enabled",
+    "title": "Python Editor Access Enabled",
+    "category": "Digital Products",
+    "description": "Tech news, Python code editor, new job opps, and cybersec certifications worth checking out in 2025",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/python-editor-access-enabled",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-08T14:16:33.335568Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/python-editor-access-enabled.html"
+  },
+  {
+    "id": "5-linux-resolutions-for-the-new-year",
+    "title": "5 Linux Resolutions for the New Year",
+    "category": "Digital Products",
+    "description": "Customizing the terminal, new tech opportunities, where to learn data science, and updating our calendars in Google Sheets.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/5-linux-resolutions-for-the-new-year",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-06T12:44:03.37586Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-linux-resolutions-for-the-new-year.html"
+  },
+  {
+    "id": "what-does-a-tech-career-look-like-in-2025",
+    "title": "What Does a Tech Career Look Like in 2025?",
+    "category": "Digital Products",
+    "description": "The value of coders in a world with AI, how to value Python, and the history of the Linux terminal.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/what-does-a-tech-career-look-like-in-2025",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-16T15:59:16.881229Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-does-a-tech-career-look-like-in-2025.html"
+  },
+  {
+    "id": "tech-films-for-the-holiday-season",
+    "title": "Tech Films for the Holiday Season",
+    "category": "Digital Products",
+    "description": "Emerging cybersecurity trends, new tech jobs, and angular resources + speedrunning the command line.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/tech-films-for-the-holiday-season",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2024-12-12T15:10:43.582277Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tech-films-for-the-holiday-season.html"
+  },
+  {
+    "id": "the-unexpected-history-of-common-terminal-commands",
+    "title": "The Unexpected History of Common Terminal Commands",
+    "category": "Digital Products",
+    "description": "New tech jobs, popular resources, and Python concepts for data science.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-unexpected-history-of-common-terminal-commands",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2024-12-09T14:53:21.766556Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-unexpected-history-of-common-terminal-commands.html"
+  },
+  {
+    "id": "linux-troubleshooting-commands",
+    "title": "Linux Troubleshooting Commands",
+    "category": "Digital Products",
+    "description": "And our team just rolled out a major upgrade, and you now have access on your account.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/linux-troubleshooting-commands",
+    "tags": [
+      "AI",
+      "Investing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-12-03T12:44:56.594041Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "RYSE",
+        "url": "https://invest.helloryse.com/",
+        "logo": "RYSElogo.png"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/linux-troubleshooting-commands.html"
+  },
+  {
+    "id": "frameworks-and-commands-that-shaped-the-modern-terminal",
+    "title": "Frameworks, And Commands that Shaped the Modern Terminal",
+    "category": "Digital Products",
+    "description": "Web development frameworks, historical commands that shaped how we use the terminal, and a poll.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/frameworks-and-commands-that-shaped-the-modern-terminal",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-22T15:49:16.338097Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/frameworks-and-commands-that-shaped-the-modern-terminal.html"
+  },
+  {
+    "id": "the-only-black-friday-guide-you-need-today",
+    "title": "Why Today is Unusual For Anyone Learning Something New",
+    "category": "Digital Products",
+    "description": "It only happens once a year. If you're waiting to get the best price of the year on anything, today's the day.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-only-black-friday-guide-you-need-today",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-19T19:05:02.040419Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-only-black-friday-guide-you-need-today.html"
+  },
+  {
+    "id": "arcane-origins-of-common-linux-commands",
+    "title": "The Surprising History Behind 10 Iconic Linux Commands",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hackr.io Newsletter",
+    "date": "2024-11-19",
+    "hasAds": true,
+    "url": "https://newsletter.hackr.io/p/arcane-origins-of-common-linux-commands",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/arcane-origins-of-common-linux-commands.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "terminal-commands-everybody-gets-wrong",
+    "title": "Terminal Commands Everybody Gets Wrong",
+    "category": "Digital Products",
+    "description": "Plus a hidden Star Wars ACII easter egg and news from the tech world.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/terminal-commands-everybody-gets-wrong",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-12T14:55:15.021193Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/terminal-commands-everybody-gets-wrong.html"
+  },
+  {
+    "id": "dangerous-linux-commands-worth-knowing",
+    "title": "Dangerous Linux Commands Worth Knowing",
+    "category": "Digital Products",
+    "description": "And a superconductor reaches time-reversal symmetry breaking temperatures.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/dangerous-linux-commands-worth-knowing",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-07T14:26:26.415122Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dangerous-linux-commands-worth-knowing.html"
+  },
+  {
+    "id": "anyone-can-program-a-video-game",
+    "title": "Anyone Can Program a Video Game",
+    "category": "Digital Products",
+    "description": "Plus Linux easter eggs, programming for Roblox, and the best distro for cybersecurity.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/anyone-can-program-a-video-game",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-04T11:40:14.299306Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/anyone-can-program-a-video-game.html"
+  },
+  {
+    "id": "you-arent-a-superuser-without-these-10-commands",
+    "title": "You Aren't a Superuser Without These 10 Commands",
+    "category": "Digital Products",
+    "description": "These are the 10 commands used by every Linux superuser.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/you-arent-a-superuser-without-these-10-commands",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-28T15:43:51.437893Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-arent-a-superuser-without-these-10-commands.html"
+  },
+  {
+    "id": "underutilized-command-line-prompts",
+    "title": "Underutilized Command Line Prompts",
+    "category": "Digital Products",
+    "description": "Forgotten Linux prompts with unexpected results + a survey",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/underutilized-command-line-prompts",
+    "tags": [
+      "Finance",
+      "Investing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-17T14:57:21.774851Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "https://www.vinovest.co/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/underutilized-command-line-prompts.html"
+  },
+  {
+    "id": "could-chatgpt-crumble-this-year",
+    "title": "Could ChatGPT Crumble This Year?",
+    "category": "Digital Products",
+    "description": "Three ways the giant could fall + the Linux distro with complete customization",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/could-chatgpt-crumble-this-year",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-15T19:28:52.157188Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/could-chatgpt-crumble-this-year.html"
+  },
+  {
+    "id": "how-chatgpt-could-crumble-this-year",
+    "title": "How ChatGPT Could Crumble This Year",
+    "category": "Digital Products",
+    "description": "Three ways the giant could fall + the Linux distro with complete customization",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-chatgpt-could-crumble-this-year",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-15T18:57:02.955406Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-chatgpt-could-crumble-this-year.html"
+  },
+  {
+    "id": "gentoo-kali-and-your-own-vs-code-theme",
+    "title": "Gentoo, Kali, and Your Own VS Code Theme",
+    "category": "Digital Products",
+    "description": "Popular Linux distros and a major upgrade to your AI mentor.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/gentoo-kali-and-your-own-vs-code-theme",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-08T11:37:28.495657Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gentoo-kali-and-your-own-vs-code-theme.html"
+  },
+  {
+    "id": "procedural-programming-solana-and-linux",
+    "title": "Procedural Programming, Solana, and Linux",
+    "category": "Digital Products",
+    "description": "Plus the verdict on Unreal Engine vs. Unity and an argument for Arch Linux.",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/procedural-programming-solana-and-linux",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-30T11:15:38.222452Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/procedural-programming-solana-and-linux.html"
+  },
+  {
+    "id": "the-best-ai-coding-assistants",
+    "title": "The Best AI Coding Assistants",
+    "category": "Digital Products",
+    "description": "+ Frameworks and VS Code Shortcuts",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/the-best-ai-coding-assistants",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-09T12:21:45.361408Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-best-ai-coding-assistants.html"
+  },
+  {
+    "id": "editors-picks-udemys-tech-courses",
+    "title": "Editor's Picks: Udemy's Tech Courses",
+    "category": "Digital Products",
+    "description": "machine learning, python, and web dev course highlights",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/editors-picks-udemys-tech-courses",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-27T17:27:06.093461Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/editors-picks-udemys-tech-courses.html"
+  },
+  {
+    "id": "how-to-start-a-career-in-ai",
+    "title": "How to Start a Career in AI",
+    "category": "Digital Products",
+    "description": "+ building a business from the ground up",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/how-to-start-a-career-in-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-08-22T11:39:38.360907Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.clickfunnels.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-start-a-career-in-ai.html"
+  },
+  {
+    "id": "code-browser-window",
+    "title": "Code In Your Browser Window",
+    "category": "Digital Products",
+    "description": "HTML, Python, JavaScript + Projects",
+    "author": "Hackr.io Newsletter",
+    "url": "https://newsletter.hackr.io/p/code-browser-window",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-02T11:24:03.912745Z",
+    "publisher": {
+      "name": "Hackr.io Newsletter",
+      "url": "https://newsletter.hackr.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/code-browser-window.html"
+  }
+]

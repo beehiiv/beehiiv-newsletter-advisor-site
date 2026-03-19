@@ -1,0 +1,54 @@
+[
+  {
+    "id": "501-jasper-vermeulen",
+    "title": "Jasper Vermeulen",
+    "category": "Digital Products",
+    "description": "Agency Founder living in Belgium",
+    "author": "Workspaces",
+    "url": "https://www.workspaces.xyz/p/501-jasper-vermeulen",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-09-13T00:44:18.119609Z",
+    "publisher": {
+      "name": "Workspaces",
+      "url": "https://www.workspaces.xyz",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/501-jasper-vermeulen.html"
+  },
+  {
+    "id": "491-gannon-nordberg",
+    "title": "491 - Gannon Nordberg",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Workspaces",
+    "date": "2025-07-05",
+    "hasAds": true,
+    "url": "https://www.workspaces.xyz/p/491-gannon-nordberg",
+    "publisher": {
+      "name": "Workspaces",
+      "url": "https://www.workspaces.xyz"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/491-gannon-nordberg.html",
+    "tags": [
+      "SaaS"
+    ]
+  }
+]

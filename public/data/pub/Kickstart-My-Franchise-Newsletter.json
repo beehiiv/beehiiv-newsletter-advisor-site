@@ -1,0 +1,27 @@
+[
+  {
+    "id": "newsletter-konala-face-foundrie",
+    "title": "$256k EBITDA from an ~1k sq. ft. location ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Kickstart My Franchise Newsletter",
+    "date": "2025-06-22",
+    "hasAds": true,
+    "url": "https://kickstartmyfranchise.beehiiv.com/p/newsletter-konala-face-foundrie",
+    "publisher": {
+      "name": "Kickstart My Franchise Newsletter",
+      "url": "https://kickstartmyfranchise.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-konala-face-foundrie.html",
+    "tags": [
+      "Finance"
+    ]
+  }
+]

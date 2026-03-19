@@ -1,0 +1,493 @@
+[
+  {
+    "id": "issue-099",
+    "title": "MindByte Issue #99: New GitHub License, Azure Service Bus Emulator & Ignite Recap",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-099",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-23T21:13:27.841109Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/issue-099.html",
+    "hasAds": true
+  },
+  {
+    "id": "issue-098",
+    "title": "MindByte Issue #98: .NET 9 is available",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-098",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-13T21:35:46.998377Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Lysted",
+        "url": "https://lysted.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=lysted.com&sz=128"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-098.html"
+  },
+  {
+    "id": "issue-097",
+    "title": "MindByte Issue #97: Hyperlight and GH Actions breaking changes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-097",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-02T22:03:12.621768Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-097.html"
+  },
+  {
+    "id": "issue-096",
+    "title": "MindByte Issue #96: What is new from GitHub Universe",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-096",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2024-10-23T22:11:34.448889Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-096.html"
+  },
+  {
+    "id": "issue-095",
+    "title": "MindByte Issue #95: GitHub Universe 2024 ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-095",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-17T20:38:59.019319Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-095.html"
+  },
+  {
+    "id": "issue-094",
+    "title": "MindByte Issue #94: the history of GitHub issues",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-094",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-14T22:14:28.462435Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-094.html"
+  },
+  {
+    "id": "issue-093",
+    "title": "MindByte Issue #93: will GitHub.io still be around?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-093",
+    "tags": [
+      "Business",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-23T20:08:37.560749Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      },
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-093.html"
+  },
+  {
+    "id": "issue-092",
+    "title": "MindByte Issue #92: GitHub Issues gets an overhaul",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-092",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-23T20:07:26.447282Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-092.html"
+  },
+  {
+    "id": "issue-091",
+    "title": "MindByte Issue #91: GitHub EC coming to Europe",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-091",
+    "tags": [
+      "Education",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-22T21:21:47.729483Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      },
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-091.html"
+  },
+  {
+    "id": "issue-090",
+    "title": "MindByte Issue #90: APIM turns 10!",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-090",
+    "tags": [
+      "Education",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-16T21:11:50.264209Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      },
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-090.html"
+  },
+  {
+    "id": "issue-089",
+    "title": "MindByte Issue #89: GitHub’s Victory, Copilot Innovations, and .NET 9 Performance Boosts",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-089",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-08T19:02:46.222735Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-089.html"
+  },
+  {
+    "id": "issue-088",
+    "title": "MindByte Issue #88: Mastering DevOps: GitHub, Azure, Databases, and .NET Insights",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-088",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-25T19:43:27.312352Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-088.html"
+  },
+  {
+    "id": "issue-087",
+    "title": "MindByte Issue #87: Boost Your Workflow: GitHub, DevContainers, and Kafka",
+    "category": "Digital Products",
+    "description": "This edition covers moving from AWS CodeCommit to GitHub Enterprise, the impact of upcoming elections on developers, optimizing Azure SQL with DevContainers, reconsidering Team Topologies, and leveraging Kafka in .NET.",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-087",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-21T21:34:06.916061Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-087.html"
+  },
+  {
+    "id": "issue-086",
+    "title": "MindByte Issue #86: Secrets, Security, and the Magic of 42: What’s New in DevOps",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-086",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-14T19:50:54.933677Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-086.html"
+  },
+  {
+    "id": "issue-084",
+    "title": "MindByte Issue #84: Enhanced GitHub Metrics, Azure Tips, and a Dive into the Blue Screen Legacy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+    "url": "https://pulse.mindbyte.nl/p/issue-084",
+    "tags": [
+      "Education",
+      "Marketing"
+    ],
+    "date": "2024-08-05T21:02:35.836676Z",
+    "publisher": {
+      "name": "MindByte Weekly Pulse: Quick GitHub, Azure, & .NET Updates",
+      "url": "https://pulse.mindbyte.nl",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Premium Ghostwriting Academy",
+        "url": "https://premiumghostwritingacademy.com/",
+        "logo": "https://cdn.prod.website-files.com/665ec08537f0805266f47555/683f5ec1a9f7be4723d5dddd_PGA%20Black%20Webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-084.html"
+  }
+]

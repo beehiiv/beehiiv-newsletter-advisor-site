@@ -1,0 +1,1335 @@
+[
+  {
+    "id": "rocket-labs",
+    "title": "Rocket Labs ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2026-01-15",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/rocket-labs",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/rocket-labs.html",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-to-expect-1-12",
+    "title": "What to expect: 1/12 ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2026-01-12",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-to-expect-1-12",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "Gladly_Logo_RBG__1_.png"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/what-to-expect-1-12.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "hive-the-green-crypto-miner",
+    "title": "HIVE - The \"Green\" Crypto Miner",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2026-01-08",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/hive-the-green-crypto-miner",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "HQLogo_Color.png"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      }
+    ],
+    "htmlFile": "/emails/hive-the-green-crypto-miner.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-1-5",
+    "title": "What the Expect this Week 1/5  ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2026-01-05",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-1-5",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "HQLogo_Color.png"
+      },
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-1-5.html",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "uipath-a-path-to-autonomy",
+    "title": "UIPath - A Path to Autonomy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2026-01-02",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/uipath-a-path-to-autonomy",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "HQLogo_Color.png"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/uipath-a-path-to-autonomy.html",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-space-race-be-careful",
+    "title": "The Space Race - Be Careful!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-30",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/the-space-race-be-careful",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "HQLogo_Color.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-space-race-be-careful.html",
+    "tags": [
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "week-of-12-29",
+    "title": "Week of 12/29",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-29",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/week-of-12-29",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "HQLogo_Color.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/week-of-12-29.html",
+    "tags": [
+      "Finance",
+      "Investing",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "waste-management-mastercard",
+    "title": "Waste Management, Mastercard",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-24",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/waste-management-mastercard",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "HQLogo_Color.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/waste-management-mastercard.html",
+    "tags": [
+      "Finance",
+      "Investing",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "social-arb-trade-snapchat",
+    "title": "Social Arb Trade - Snapchat",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-17",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/social-arb-trade-snapchat",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      }
+    ],
+    "htmlFile": "/emails/social-arb-trade-snapchat.html",
+    "tags": [
+      "E-commerce",
+      "Finance",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-12-15",
+    "title": "What the Expect this Week 12/15 ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-15",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-12-15",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-12-15.html",
+    "tags": [
+      "Entertainment",
+      "Finance",
+      "Investing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "japan-s-debt-dilemma",
+    "title": "Japan’s Debt Dilemma",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-11",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/japan-s-debt-dilemma",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/japan-s-debt-dilemma.html",
+    "tags": [
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "what-to-expect-12-8",
+    "title": "What to expect: 12/8",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-08",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-to-expect-12-8",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/what-to-expect-12-8.html",
+    "tags": [
+      "Entertainment",
+      "Finance",
+      "Investing",
+      "Productivity",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "iren-an-explanation-to-the-dilution",
+    "title": "Iren: An explanation to the dilution",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-12-04",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/iren-an-explanation-to-the-dilution",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/iren-an-explanation-to-the-dilution.html",
+    "tags": [
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "nvidia-earnings-and-what-they-meant",
+    "title": "Nvidia Earnings and What They Meant",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/nvidia-earnings-and-what-they-meant",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/nvidia-earnings-and-what-they-meant.html",
+    "tags": [
+      "Business",
+      "Finance",
+      "Investing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "blossom-energy-a-possible-ai-energy-provider",
+    "title": "Blossom Energy, a possible Ai Energy provider",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-11-20",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/blossom-energy-a-possible-ai-energy-provider",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/blossom-energy-a-possible-ai-energy-provider.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "Investing",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "nvidia-set-to-report-wednesday",
+    "title": "Nvidia set to Report Wednesday",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-11-17",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/nvidia-set-to-report-wednesday",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/nvidia-set-to-report-wednesday.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "nebius-earnings-the-good-the-bad-and-our-strategy",
+    "title": "Nebius Earnings: The good, the bad, and our Strategy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-11-13",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/nebius-earnings-the-good-the-bad-and-our-strategy",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/nebius-earnings-the-good-the-bad-and-our-strategy.html",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "nebius-our-most-anticipated-earnings-this-cycle",
+    "title": "Nebius, Our Most Anticipated Earnings this Cycle",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-11-10",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/nebius-our-most-anticipated-earnings-this-cycle",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/nebius-our-most-anticipated-earnings-this-cycle.html",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "Finance",
+      "Investing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-three-tiers-to-the-ai-boom",
+    "title": "The Three Tiers to the AI Boom",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-10-06",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/the-three-tiers-to-the-ai-boom",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      },
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/the-three-tiers-to-the-ai-boom.html",
+    "tags": [
+      "Careers",
+      "Health",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "lemonade-the-future-of-insurance",
+    "title": "Lemonade, the future of Insurance",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-24",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/lemonade-the-future-of-insurance",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      },
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      }
+    ],
+    "htmlFile": "/emails/lemonade-the-future-of-insurance.html",
+    "tags": [
+      "Careers",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-9-22",
+    "title": "What the Expect this Week 9/22 ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-22",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-9-22",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      },
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-9-22.html",
+    "tags": [
+      "Careers",
+      "E-commerce",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-9-15",
+    "title": "What the Expect this Week 9/15",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-15",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-9-15",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      },
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-9-15.html",
+    "tags": [
+      "E-commerce",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "market-recap-9-13",
+    "title": "Market Recap 9/13",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-13",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/market-recap-9-13",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Contrarian Thinking",
+        "url": "https://contrarianthinking.co/",
+        "logo": "CT_Logo__1_.png"
+      },
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/market-recap-9-13.html",
+    "tags": [
+      "E-commerce",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "navigating-this-months-ipo-market",
+    "title": "Navigating this Months IPO Market",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-11",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/navigating-this-months-ipo-market",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      },
+      {
+        "name": "Uniswap",
+        "url": "https://app.uniswap.org/",
+        "logo": "2560px-Uniswap_Logo_and_Wordmark.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/navigating-this-months-ipo-market.html",
+    "tags": [
+      "Business",
+      "Crypto",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-9-08",
+    "title": "What the Expect this Week 9/08",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-07",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-9-08",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      },
+      {
+        "name": "Uniswap",
+        "url": "https://app.uniswap.org/",
+        "logo": "2560px-Uniswap_Logo_and_Wordmark.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-9-08.html",
+    "tags": [
+      "Crypto",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "markets-recap-9-5",
+    "title": "Markets Recap 9/5",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-05",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/markets-recap-9-5",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      },
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      }
+    ],
+    "htmlFile": "/emails/markets-recap-9-5.html",
+    "tags": [
+      "Careers",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "our-updated-stock-theses",
+    "title": "Our Updated Stock Theses ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-04",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/our-updated-stock-theses",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      },
+      {
+        "name": "Uniswap",
+        "url": "https://app.uniswap.org/",
+        "logo": "2560px-Uniswap_Logo_and_Wordmark.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/our-updated-stock-theses.html",
+    "tags": [
+      "Crypto",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-9-01",
+    "title": "What the Expect this Week 9/01  ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-09-01",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-9-01",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      },
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-9-01.html",
+    "tags": [
+      "Careers",
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "nebius-ai",
+    "title": "Nebius AI",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-27",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/nebius-ai",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/nebius-ai.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-the-expect-this-week-8-25",
+    "title": "What the Expect this Week 8/25 ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-24",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-the-expect-this-week-8-25",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Uniswap",
+        "url": "https://app.uniswap.org/",
+        "logo": "2560px-Uniswap_Logo_and_Wordmark.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/what-the-expect-this-week-8-25.html",
+    "tags": [
+      "Crypto",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "market-recap-8-22",
+    "title": "Market Recap 8/22",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-22",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/market-recap-8-22",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/market-recap-8-22.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "sofi-the-future-of-banking",
+    "title": "SOFI - The Future of Banking",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-20",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/sofi-the-future-of-banking",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "inFlow Inventory",
+        "url": "https://inflowinventory.com/",
+        "logo": "inFlow.png"
+      }
+    ],
+    "htmlFile": "/emails/sofi-the-future-of-banking.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "market-recap-8-14",
+    "title": "Market Recap 8/14",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-15",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/market-recap-8-14",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/market-recap-8-14.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "vistra-energy-an-energy-ai-backbone",
+    "title": "Vistra Energy - An Energy AI Backbone",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/vistra-energy-an-energy-ai-backbone",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "Stocks___Income_black_transparent_600_x_300.png"
+      }
+    ],
+    "htmlFile": "/emails/vistra-energy-an-energy-ai-backbone.html",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-to-expect-this-week-8-11",
+    "title": "What to Expect this Week: 8/11",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-10",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-to-expect-this-week-8-11",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/what-to-expect-this-week-8-11.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "markets-recap-8-6",
+    "title": "Markets Recap 8/6",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-08",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/markets-recap-8-6",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/markets-recap-8-6.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "rigetti-computing-and-the-industry-of-quantum-computing",
+    "title": "Rigetti Computing and the Industry of Quantum Computing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-06",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/rigetti-computing-and-the-industry-of-quantum-computing",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/rigetti-computing-and-the-industry-of-quantum-computing.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-to-expect-this-week-8-4",
+    "title": "What to Expect this Week: 8/4",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-to-expect-this-week-8-4",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/what-to-expect-this-week-8-4.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-to-expect-this-week-7-28",
+    "title": "What to Expect this Week: 7/28",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-07-27",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/what-to-expect-this-week-7-28",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/what-to-expect-this-week-7-28.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "earning-income-through-bitcoin-volatility",
+    "title": "Earning Income through Bitcoin Volatility?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-07-23",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/earning-income-through-bitcoin-volatility",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/earning-income-through-bitcoin-volatility.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "new-to-offtheticker-tsla-hood-btc-picks-to-grow-your-money",
+    "title": "New to OffTheTicker? TSLA, HOOD, BTC Picks to Grow Your Money ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "OffTheTicker",
+    "date": "2025-06-17",
+    "hasAds": true,
+    "url": "https://offtheticker.beehiiv.com/p/new-to-offtheticker-tsla-hood-btc-picks-to-grow-your-money",
+    "publisher": {
+      "name": "OffTheTicker",
+      "url": "https://offtheticker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/new-to-offtheticker-tsla-hood-btc-picks-to-grow-your-money.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

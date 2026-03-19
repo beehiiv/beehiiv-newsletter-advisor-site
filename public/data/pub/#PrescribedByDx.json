@@ -1,0 +1,56 @@
+[
+  {
+    "id": "they-got-the-offer-before-the-interview",
+    "title": "They got the offer before the interview",
+    "category": "Digital Products",
+    "description": "Platforms don’t hire you. People do.",
+    "author": "#PrescribedByDx",
+    "url": "https://dxconsults.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-16T17:42:42.286457Z",
+    "publisher": {
+      "name": "#PrescribedByDx",
+      "url": "https://dxconsults.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/they-got-the-offer-before-the-interview.html",
+    "hasAds": true
+  },
+  {
+    "id": "remain-even-keeled",
+    "title": "Remain even-keeled.",
+    "category": "Digital Products",
+    "description": "$370k landed. 6 interviews this week. Here’s what’s actually working.",
+    "author": "#PrescribedByDx",
+    "url": "https://dxconsults.beehiiv.com",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2026-02-12T20:02:58.643906Z",
+    "publisher": {
+      "name": "#PrescribedByDx",
+      "url": "https://dxconsults.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "htmlFile": "/emails/remain-even-keeled.html",
+    "hasAds": true
+  }
+]

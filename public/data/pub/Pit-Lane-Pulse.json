@@ -1,0 +1,447 @@
+[
+  {
+    "id": "doo-gone",
+    "title": "🏁 Doo-gone",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-05-16",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/doo-gone",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/doo-gone.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "south-beach-bringin-the-heat",
+    "title": "🏁 South Beach Bringin' The Heat",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-05-02",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/south-beach-bringin-the-heat",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/south-beach-bringin-the-heat.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "cool-as-a-cucumber",
+    "title": "🏁 Cool as a Cucumber",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-04-18",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/cool-as-a-cucumber",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/cool-as-a-cucumber.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "snoozuka",
+    "title": "🏁 Snoozuka",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-04-11",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/snoozuka",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/snoozuka.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2025-starts-now",
+    "title": "🏁 2025 Starts NOW",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-03-14",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/2025-starts-now",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/2025-starts-now.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "launch-szn",
+    "title": "🏁 Launch SZN",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-02-21",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/launch-szn",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/launch-szn.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "hot-stove",
+    "title": "🏁 Hot Stove",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2025-01-24",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/hot-stove",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/hot-stove.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "papaya-prevails",
+    "title": "🏁 Papaya Prevails",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-12-13",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/papaya-prevails",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/papaya-prevails.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "m4x-makes-it-four",
+    "title": "🏁 M4X Makes it Four",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-11-29",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/m4x-makes-it-four",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/m4x-makes-it-four.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "fiesta-de-velocidad",
+    "title": "🏁 Fiesta de Velocidad",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-10-25",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/fiesta-de-velocidad",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/fiesta-de-velocidad.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "giddy-up",
+    "title": "🏁 Giddy Up",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-10-18",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/giddy-up",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/giddy-up.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "andretti-alpine-make-moves",
+    "title": "🏁 Andretti & Alpine Make Moves",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-10-04",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/andretti-alpine-make-moves",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "BRUNT Workwear",
+        "url": "https://bruntworkwear.com/",
+        "logo": "logobrunt.png"
+      }
+    ],
+    "htmlFile": "/emails/andretti-alpine-make-moves.html",
+    "tags": [
+      "E-commerce",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "so-long-honey-badger",
+    "title": "🏁 So Long, Honey Badger",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-09-27",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/so-long-honey-badger",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BRUNT Workwear",
+        "url": "https://bruntworkwear.com/",
+        "logo": "logobrunt.png"
+      }
+    ],
+    "htmlFile": "/emails/so-long-honey-badger.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "street-fight",
+    "title": "🏁 Street Fight",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-09-20",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/street-fight",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/street-fight.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "street-fighters",
+    "title": "🏁 The New(ey) Deal",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-09-13",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/street-fighters",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/street-fighters.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "fly-like-wind-lando",
+    "title": "🏁 Fly Like the Wind Lando",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-08-30",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/fly-like-wind-lando",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/fly-like-wind-lando.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "summer-swoon",
+    "title": "🏁 Summer Swoon",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pit Lane Pulse",
+    "date": "2024-08-09",
+    "hasAds": true,
+    "url": "https://pitlanepulse.beehiiv.com/p/summer-swoon",
+    "publisher": {
+      "name": "Pit Lane Pulse",
+      "url": "https://pitlanepulse.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/summer-swoon.html",
+    "tags": [
+      "Health"
+    ]
+  }
+]

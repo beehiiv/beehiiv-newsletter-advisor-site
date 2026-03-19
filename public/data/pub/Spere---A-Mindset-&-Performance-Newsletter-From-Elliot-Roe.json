@@ -1,0 +1,157 @@
+[
+  {
+    "id": "how-to-make-every-day-feel-like-daylight-savings",
+    "title": "🔵 How to make every day feel like Daylight Savings",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+    "date": "2025-11-03",
+    "hasAds": true,
+    "url": "https://spere.beehiiv.com/p/how-to-make-every-day-feel-like-daylight-savings",
+    "publisher": {
+      "name": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+      "url": "https://spere.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-make-every-day-feel-like-daylight-savings.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "stop-chasing-results",
+    "title": "🔵 Stop chasing results",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+    "date": "2025-10-05",
+    "hasAds": true,
+    "url": "https://spere.beehiiv.com/p/stop-chasing-results",
+    "publisher": {
+      "name": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+      "url": "https://spere.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wing Assistant",
+        "url": "https://wingassistant.com/",
+        "logo": "Wing.png"
+      }
+    ],
+    "htmlFile": "/emails/stop-chasing-results.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-frame-work",
+    "title": "🔵 The [Frame]work",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+    "date": "2025-09-28",
+    "hasAds": true,
+    "url": "https://spere.beehiiv.com/p/the-frame-work",
+    "publisher": {
+      "name": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+      "url": "https://spere.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wing Assistant",
+        "url": "https://wingassistant.com/",
+        "logo": "Wing.png"
+      }
+    ],
+    "htmlFile": "/emails/the-frame-work.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "high-performance-fatherhood",
+    "title": "🔵 High-Performance Fatherhood",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+    "date": "2025-06-15",
+    "hasAds": true,
+    "url": "https://spere.beehiiv.com/p/high-performance-fatherhood",
+    "publisher": {
+      "name": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+      "url": "https://spere.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/high-performance-fatherhood.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "preload-to-perform",
+    "title": "🔵 Preload to Perform",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+    "date": "2025-06-08",
+    "hasAds": true,
+    "url": "https://spere.beehiiv.com/p/preload-to-perform",
+    "publisher": {
+      "name": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+      "url": "https://spere.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/preload-to-perform.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-weekly-primer-is-now-spere",
+    "title": "The Weekly Primer is now Spere",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+    "date": "2025-05-25",
+    "hasAds": true,
+    "url": "https://spere.beehiiv.com/p/the-weekly-primer-is-now-spere",
+    "publisher": {
+      "name": "Spere - A Mindset & Performance Newsletter From Elliot Roe",
+      "url": "https://spere.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/the-weekly-primer-is-now-spere.html",
+    "tags": [
+      "Finance"
+    ]
+  }
+]

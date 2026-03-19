@@ -1,0 +1,862 @@
+[
+  {
+    "id": "quick-update-content-to-commas-now-has-audio",
+    "title": "You can listen to this newsletter now",
+    "category": "Digital Products",
+    "description": "You told me you saved it. I want to make sure you actually finish it.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-11T22:53:18.952438Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/quick-update-content-to-commas-now-has-audio.html",
+    "hasAds": true
+  },
+  {
+    "id": "help-i-ve-outgrown-my-niche",
+    "title": "Help! I've Outgrown my Niche",
+    "category": "Digital Products",
+    "description": "How to pivot your niche without losing your audience",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/help-i-ve-outgrown-my-niche",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-31T00:37:42.543073Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/help-i-ve-outgrown-my-niche.html",
+    "hasAds": true
+  },
+  {
+    "id": "tiktok-got-adopted-bbb2",
+    "title": "TikTok got adopted...",
+    "category": "Digital Products",
+    "description": "How to stay steady no matter what changes.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/tiktok-got-adopted-bbb2",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-24T03:48:41.927317Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tiktok-got-adopted-bbb2.html"
+  },
+  {
+    "id": "the-substack-hoax",
+    "title": "The Substack Hoax",
+    "category": "Digital Products",
+    "description": "Substack won't make you money like it marketed.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-substack-hoax",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2026-01-16T23:25:42.771979Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-substack-hoax.html"
+  },
+  {
+    "id": "same-money-different-outcomes",
+    "title": "Same Money. Different Outcomes.",
+    "category": "Digital Products",
+    "description": "How I decide what’s worth paying for.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/same-money-different-outcomes",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-09T20:28:12.12887Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/same-money-different-outcomes.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-invisible-work-behind-every-great-month",
+    "title": "The invisible work behind every great month",
+    "category": "Digital Products",
+    "description": "this is the work people skip ... not you though.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-invisible-work-behind-every-great-month",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-20T07:03:39.313572Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-invisible-work-behind-every-great-month.html",
+    "hasAds": true
+  },
+  {
+    "id": "why-filler-content-kills-your-brand-and-how-to-fix-it-fast",
+    "title": "Why \"Filler Content\" Kills Your Brand (and how to fix it fast)",
+    "category": "Digital Products",
+    "description": "Kill the fluff, not your consistency ... here’s the framework.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/why-filler-content-kills-your-brand-and-how-to-fix-it-fast",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-07T20:54:44.446038Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-filler-content-kills-your-brand-and-how-to-fix-it-fast.html"
+  },
+  {
+    "id": "why-you-need-pillar-content",
+    "title": "Why you need pillar content",
+    "category": "Digital Products",
+    "description": "What to publish. Who to message. What to say.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/why-you-need-pillar-content",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-11-05T04:08:31.218006Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-you-need-pillar-content.html"
+  },
+  {
+    "id": "how-to-get-your-next-job-with-content",
+    "title": "How to get your next job with content",
+    "category": "Digital Products",
+    "description": "What to publish. Who to message. What to say.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/how-to-get-your-next-job-with-content",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-10-31T15:06:10.505876Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-get-your-next-job-with-content.html"
+  },
+  {
+    "id": "the-inbound-engine-turn-your-brand-into-a-24-7-sales-rep",
+    "title": "The Inbound Engine: Turn Your Brand Into a 24/7 Sales Rep",
+    "category": "Digital Products",
+    "description": "Build. Publish simple content. Own the audience. Playbook inside.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-inbound-engine-turn-your-brand-into-a-24-7-sales-rep",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-24T22:19:03.014109Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-inbound-engine-turn-your-brand-into-a-24-7-sales-rep.html"
+  },
+  {
+    "id": "the-new-new-instagram",
+    "title": "The New New Instagram",
+    "category": "Digital Products",
+    "description": "The new Instagram OS for growth.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-new-new-instagram",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-18T02:31:57.067152Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-new-new-instagram.html"
+  },
+  {
+    "id": "predictable-money-isn-t-sexy",
+    "title": "Predictable money isn’t sexy.",
+    "category": "Digital Products",
+    "description": "Track wins, losses, and timing in 2026...but you can start now.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/predictable-money-isn-t-sexy",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-10-11T01:43:40.611076Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/predictable-money-isn-t-sexy.html"
+  },
+  {
+    "id": "how-to-get-your-content-in-shape",
+    "title": "How to get your content in shape",
+    "category": "Digital Products",
+    "description": "Train your content like a muscle — plan, reps, and recovery inside.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/how-to-get-your-content-in-shape",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-04T01:01:10.55907Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-get-your-content-in-shape.html"
+  },
+  {
+    "id": "the-first-1-000-subscriber-playbook",
+    "title": "The First 1,000 Subscriber Playbook",
+    "category": "Digital Products",
+    "description": "Forget algorithms ... here’s how to grow a list you own.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-first-1-000-subscriber-playbook",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-28T22:09:29.365048Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-first-1-000-subscriber-playbook.html"
+  },
+  {
+    "id": "the-exit-strategy-playbook",
+    "title": "The Exit Strategy Playbook: Replace Your \"9-5\"",
+    "category": "Digital Products",
+    "description": "Your side hustle is growing. But how do you know when to leap?",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-exit-strategy-playbook",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-22T17:27:19.558332Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-exit-strategy-playbook.html"
+  },
+  {
+    "id": "creator-founder-same-playbook",
+    "title": "Creator? Founder? Same Playbook.",
+    "category": "Digital Products",
+    "description": "Four experts. Unlimited potential.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/creator-founder-same-playbook",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-12T16:58:49.307747Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/creator-founder-same-playbook.html"
+  },
+  {
+    "id": "boring-freedom",
+    "title": "boring = freedom",
+    "category": "Digital Products",
+    "description": "Systems aren’t optional if you want your creativity to thrive.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/boring-freedom",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-27T23:26:02.132061Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/boring-freedom.html"
+  },
+  {
+    "id": "the-opportunity-cost-of-saying-yes",
+    "title": "The Opportunity Cost of Saying Yes",
+    "category": "Digital Products",
+    "description": "Not every collab, gig, or request deserves your time.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-opportunity-cost-of-saying-yes",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-06-21T11:48:57.246579Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/the-opportunity-cost-of-saying-yes.html",
+    "hasAds": true
+  },
+  {
+    "id": "every-post-needs-a-role-not-a-resume",
+    "title": "Every Post Needs a Role, Not a Resume.",
+    "category": "Digital Products",
+    "description": "If your content’s doing too much, it’s doing nothing.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/every-post-needs-a-role-not-a-resume",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-13T20:48:21.793059Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/every-post-needs-a-role-not-a-resume.html"
+  },
+  {
+    "id": "a-personal-audit-focus-bandwidth-and-building-with-intention",
+    "title": "A Personal Audit: Focus, Bandwidth, and Building With Intention",
+    "category": "Digital Products",
+    "description": "Success on the outside, burnout on the inside.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/a-personal-audit-focus-bandwidth-and-building-with-intention",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-29T02:19:05.853064Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-personal-audit-focus-bandwidth-and-building-with-intention.html"
+  },
+  {
+    "id": "how-i-3x-d-my-rates-without-burning-bridges",
+    "title": "How I 3X’d My Rates, Without Burning Bridges ",
+    "category": "Digital Products",
+    "description": "My negotiation strategy, email template, and rate structure—shared.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/how-i-3x-d-my-rates-without-burning-bridges",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-23T01:33:07.895098Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-i-3x-d-my-rates-without-burning-bridges.html"
+  },
+  {
+    "id": "how-to-build-before-you-feel-ready",
+    "title": "How to build before you feel ready",
+    "category": "Digital Products",
+    "description": "You’ll get answers faster by moving.. not planning.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/how-to-build-before-you-feel-ready",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-16T13:16:58.549916Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/how-to-build-before-you-feel-ready.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-anti-burnout-content-plan",
+    "title": "The Anti-Burnout Content Plan",
+    "category": "Digital Products",
+    "description": "A weekly workflow for creators who want results — not burnout.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-anti-burnout-content-plan",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-09T20:20:52.247705Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-anti-burnout-content-plan.html"
+  },
+  {
+    "id": "this-shortcut-helps-build-authority-faster",
+    "title": "This Shortcut Helps Build Authority Faster",
+    "category": "Digital Products",
+    "description": "Learn the simple formula behind trust, growth, and monetization—plus three ways to accelerate it",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/this-shortcut-helps-build-authority-faster",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-02T22:06:11.730704Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/this-shortcut-helps-build-authority-faster.html"
+  },
+  {
+    "id": "the-content-rate-system",
+    "title": "The Content Rate System",
+    "category": "Digital Products",
+    "description": "A step-by-step look at how to set smarter content rates, factor in your audience value, and protect your time.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/the-content-rate-system",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-26T00:21:37.911178Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-content-rate-system.html"
+  },
+  {
+    "id": "attention-is-cute-impact-pays",
+    "title": "the real flex is not followers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Content to Commas",
+    "date": "2025-04-19",
+    "hasAds": true,
+    "url": "https://www.contenttocommas.co/p/attention-is-cute-impact-pays",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/attention-is-cute-impact-pays.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "your-first-1k-is-closer-than-you-think",
+    "title": "Your first $1K is closer than you think...",
+    "category": "Digital Products",
+    "description": "The difference between $0 and $1K is clarity, not clout. Start here.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/your-first-1k-is-closer-than-you-think",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-04-11T14:53:32.733746Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "minisocial",
+        "url": "https://minisocial.com/",
+        "logo": "https://cdn.brandfetch.io/idFPK0k5WJ/w/750/h/750/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748904086539"
+      }
+    ],
+    "htmlFile": "/emails/your-first-1k-is-closer-than-you-think.html",
+    "hasAds": true
+  },
+  {
+    "id": "what-every-creatorpreneur-needs-to-know-before-launching",
+    "title": "What Every Creatorpreneur Needs to Know Before Launching",
+    "category": "Digital Products",
+    "description": "Easy, effective ways to set yourself apart online",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/what-every-creatorpreneur-needs-to-know-before-launching",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-05T12:40:00.561145Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-every-creatorpreneur-needs-to-know-before-launching.html"
+  },
+  {
+    "id": "sitting-on-content-gold",
+    "title": "You’re sitting on content gold and probably ignoring it.",
+    "category": "Digital Products",
+    "description": "A 3-part playbook to eliminate content decision fatigue.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/sitting-on-content-gold",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-28T21:46:08.076685Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sitting-on-content-gold.html"
+  },
+  {
+    "id": "niche-down-or-not",
+    "title": "The niche paradox ... why doing less grows more",
+    "category": "Digital Products",
+    "description": "Most creators start by doing too much. Here’s how to grow by doing less.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/niche-down-or-not",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-26T18:25:02.40195Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/niche-down-or-not.html"
+  },
+  {
+    "id": "4-techniques-to-get-more-engagement-on-your-content",
+    "title": "steal my most underrated content moves",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Content to Commas",
+    "date": "2025-03-22",
+    "hasAds": true,
+    "url": "https://www.contenttocommas.co/p/4-techniques-to-get-more-engagement-on-your-content",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/4-techniques-to-get-more-engagement-on-your-content.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "land-your-first-brand-deal",
+    "title": "How to land your first brand deal (0 luck required)",
+    "category": "Digital Products",
+    "description": "Brands aren’t just looking for big followings—they’re looking for the right creators.",
+    "author": "Content to Commas",
+    "url": "https://www.contenttocommas.co/p/land-your-first-brand-deal",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-03-14T03:55:55.336754Z",
+    "publisher": {
+      "name": "Content to Commas",
+      "url": "https://www.contenttocommas.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "minisocial",
+        "url": "https://minisocial.com/",
+        "logo": "https://cdn.brandfetch.io/idFPK0k5WJ/w/750/h/750/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1748904086539"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/land-your-first-brand-deal.html"
+  }
+]

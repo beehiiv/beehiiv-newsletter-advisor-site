@@ -1,0 +1,359 @@
+[
+  {
+    "id": "web3-security-how-people-lose-money",
+    "title": "Hashed Out V57: Web3 Security: How People Actually Lose (and Protect) Money",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2026-02-20",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/web3-security-how-people-lose-money",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/web3-security-how-people-lose-money.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "new-rules-digital-privacy",
+    "title": "The New Rules of Digital Privacy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2026-02-13",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/new-rules-digital-privacy",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "cowswap_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/new-rules-digital-privacy.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "digital-property-2026-what-you-already-own-issue",
+    "title": "What You Already Own Online — and How You Protect It",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2026-01-30",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/digital-property-2026-what-you-already-own-issue",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/digital-property-2026-what-you-already-own-issue.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "web3-myths-that-refuse-to-die-issue",
+    "title": "Web3 Myths That Refuse to Die",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2026-01-23",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/web3-myths-that-refuse-to-die-issue",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/web3-myths-that-refuse-to-die-issue.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2026-web3-what-to-expect-what-to-ignore",
+    "title": "2026 and Web3: What to Expect — and What to Ignore",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-12-22",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/2026-web3-what-to-expect-what-to-ignore",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/2026-web3-what-to-expect-what-to-ignore.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "web3-2025-year-in-review",
+    "title": "Web3 2025: What Really Happened This Year",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-12-12",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/web3-2025-year-in-review",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/web3-2025-year-in-review.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-next-billion-users-web3",
+    "title": "What Will It Take to Bring Web3 to the Next Billion Users?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-12-05",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/the-next-billion-users-web3",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Crypto101",
+        "url": "https://crypto101podcast.com/",
+        "logo": "crypto101logowithtext_blackoutline.png"
+      }
+    ],
+    "htmlFile": "/emails/the-next-billion-users-web3.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "digital-property-rights-web3-explainer",
+    "title": "What Does It Mean to Truly “Own” Something Online?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-11-21",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/digital-property-rights-web3-explainer",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Crypto101",
+        "url": "https://crypto101podcast.com/",
+        "logo": "crypto101logowithtext_blackoutline.png"
+      }
+    ],
+    "htmlFile": "/emails/digital-property-rights-web3-explainer.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "web3-and-civic-life-issue",
+    "title": "Can Web3 Rebuild Democracy?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-11-14",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/web3-and-civic-life-issue",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "cowswap_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/web3-and-civic-life-issue.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "messaging-on-the-blockchain-issue",
+    "title": "Messaging on the Blockchain: The Future of Private Communication",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-11-07",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/messaging-on-the-blockchain-issue",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "cowswap_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/messaging-on-the-blockchain-issue.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "web3-security-101-issue",
+    "title": "Web3 Security 101: Protect Your Assets and Reputation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-10-31",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/web3-security-101-issue",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "cowswap_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/web3-security-101-issue.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "ai-and-web3",
+    "title": "Can Web3 Make AI Safer?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-08-08",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/ai-and-web3",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-and-web3.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "daos-for-everyone-digital-movement-guide",
+    "title": "DAOs for Everyone:How to Join a Digital Movement That Matters ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Hashed Out",
+    "date": "2025-06-05",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/daos-for-everyone-digital-movement-guide",
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/daos-for-everyone-digital-movement-guide.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-web3-is-not",
+    "title": "What Web3 Is Not",
+    "category": "Newsletter Ads",
+    "description": "A calm look at what web3 isn’t – and why that matters more than you think",
+    "author": "Hashed Out",
+    "date": "",
+    "htmlFile": "/emails/what-web3-is-not.html",
+    "hasAds": true,
+    "url": "https://hashedout.beehiiv.com/p/what-web3-is-not",
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "publisher": {
+      "name": "Hashed Out",
+      "url": "https://hashedout.beehiiv.com"
+    },
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  }
+]

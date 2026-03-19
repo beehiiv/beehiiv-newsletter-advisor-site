@@ -1,0 +1,67 @@
+[
+  {
+    "id": "02-03-26",
+    "title": "Cypress Digest 🌲02.03.26",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cypress Digest 🌲",
+    "date": "2026-02-03",
+    "hasAds": true,
+    "url": "https://www.cypressdigest.com/p/02-03-26",
+    "publisher": {
+      "name": "Cypress Digest 🌲",
+      "url": "https://www.cypressdigest.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      },
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "ProtonMail.png"
+      }
+    ],
+    "htmlFile": "/emails/02-03-26.html",
+    "tags": [
+      "E-commerce",
+      "Finance",
+      "Investing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "cypress-digest-6-20-25",
+    "title": "Cypress Digest 🌲 New Look, New Deals!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cypress Digest 🌲",
+    "date": "2025-06-20",
+    "hasAds": true,
+    "url": "https://www.cypressdigest.com/p/cypress-digest-6-20-25",
+    "publisher": {
+      "name": "Cypress Digest 🌲",
+      "url": "https://www.cypressdigest.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/cypress-digest-6-20-25.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

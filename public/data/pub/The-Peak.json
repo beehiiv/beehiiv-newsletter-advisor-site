@@ -1,0 +1,214 @@
+[
+  {
+    "id": "whopper-wiretap",
+    "title": " 📈 Whopper wiretap",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Peak",
+    "date": "2026-02-27",
+    "hasAds": true,
+    "url": "https://www.readthepeak.com/p/whopper-wiretap",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/whopper-wiretap.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-depart-eh-d",
+    "title": "📈 The Depart-eh’d",
+    "category": "Digital Products",
+    "description": "Ontario police are under the microscope, GM bets on EV battery breakthrough.",
+    "author": "The Peak",
+    "url": "https://www.readthepeak.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-09T22:14:02.993326Z",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/the-depart-eh-d.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-real-page-turner",
+    "title": "A real page-turner",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Peak",
+    "date": "2026-02-06",
+    "hasAds": true,
+    "url": "https://www.readthepeak.com/p/a-real-page-turner",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "logo-full-dark.png"
+      }
+    ],
+    "htmlFile": "/emails/a-real-page-turner.html",
+    "tags": [
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "sell-sell-sell",
+    "title": "Sell sell sell",
+    "category": "Digital Products",
+    "description": "AI agents spark software sell-off, Ottawa and Washington talk critical minerals.",
+    "author": "The Peak",
+    "url": "https://www.readthepeak.com/p/sell-sell-sell",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-04T17:57:11.252036Z",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sell-sell-sell.html"
+  },
+  {
+    "id": "c-suite-scapegoat",
+    "title": "📈 C-suite scapegoat",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Peak",
+    "date": "2026-02-03",
+    "hasAds": true,
+    "url": "https://www.readthepeak.com/p/c-suite-scapegoat",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "logo-full-dark.png"
+      }
+    ],
+    "htmlFile": "/emails/c-suite-scapegoat.html",
+    "tags": [
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "separate-ways",
+    "title": "Separate ways",
+    "category": "Digital Products",
+    "description": "Alberta separatists met with U.S. officials, RBC charts Middle East expansion.",
+    "author": "The Peak",
+    "url": "https://www.readthepeak.com/p/separate-ways",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-01-29T20:01:28.835024Z",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/separate-ways.html",
+    "hasAds": true
+  },
+  {
+    "id": "pick-me",
+    "title": "Pick me",
+    "category": "Digital Products",
+    "description": "Submarine suitors woo Ottawa, Social media algorithms are going on trial.",
+    "author": "The Peak",
+    "url": "https://www.readthepeak.com/p/pick-me",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-01-21T21:59:52.668604Z",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/pick-me.html",
+    "hasAds": true
+  },
+  {
+    "id": "alright-alright-alright",
+    "title": "Alright, alright, alright",
+    "category": "Digital Products",
+    "description": "François Legault resigns as premier, Matthew McConaughey trademarks himself.",
+    "author": "The Peak",
+    "url": "https://www.readthepeak.com/p/alright-alright-alright",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-14T21:04:11.467212Z",
+    "publisher": {
+      "name": "The Peak",
+      "url": "https://www.readthepeak.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/alright-alright-alright.html",
+    "hasAds": true
+  }
+]

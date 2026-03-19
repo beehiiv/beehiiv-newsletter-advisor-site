@@ -1,0 +1,1689 @@
+[
+  {
+    "id": "state-of-the-operations",
+    "title": "State Of The Operations",
+    "category": "Digital Products",
+    "description": "Orbital Operations for 22 February 2026",
+    "author": "Orbital Operations",
+    "url": "https://orbitaloperations.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2026-02-19T16:03:59.058945Z",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/state-of-the-operations.html",
+    "hasAds": true
+  },
+  {
+    "id": "i-dream-more",
+    "title": "I Dream More",
+    "category": "Digital Products",
+    "description": "Orbital Operations for 15 February 2026",
+    "author": "Orbital Operations",
+    "url": "https://orbitaloperations.beehiiv.com",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T13:51:18.413098Z",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      },
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/i-dream-more.html",
+    "hasAds": true
+  },
+  {
+    "id": "unclean",
+    "title": "Unclean",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2026-02-08",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/unclean",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "flyover.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/unclean.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "reality-is-less-than-television",
+    "title": "Reality Is Less Than Television",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2026-01-25",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/reality-is-less-than-television",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "reMarkable",
+        "url": "https://remarkable.com/",
+        "logo": "reMarkable_Full-logo_Dark_RGB.png"
+      }
+    ],
+    "htmlFile": "/emails/reality-is-less-than-television.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "minimum-viable-newsletter",
+    "title": "Minimum Viable Newsletter",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2026-01-18",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/minimum-viable-newsletter",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "reMarkable",
+        "url": "https://remarkable.com/",
+        "logo": "reMarkable_Full-logo_Dark_RGB.png"
+      }
+    ],
+    "htmlFile": "/emails/minimum-viable-newsletter.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "winterlight",
+    "title": "Winterlight",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-11-23",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/winterlight",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/winterlight.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "goblin-christmas",
+    "title": "Goblin Christmas",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-11-16",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/goblin-christmas",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/goblin-christmas.html",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-internet-of-things-that-don-t-work",
+    "title": "The Internet Of Things That Don't Work",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-11-09",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-internet-of-things-that-don-t-work",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/the-internet-of-things-that-don-t-work.html",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "orbital-inoperations",
+    "title": "Orbital Inoperations",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-11-02",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/orbital-inoperations",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/orbital-inoperations.html",
+    "tags": [
+      "Business",
+      "E-commerce",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "walkmans",
+    "title": "Walkmans",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-10-26",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/walkmans",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/walkmans.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "tapped",
+    "title": "Tapped",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-10-19",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/tapped",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/tapped.html",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ghostmakers",
+    "title": "Ghostmakers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-10-12",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/ghostmakers",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/ghostmakers.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "dogs-have-owners-cats-have-staff",
+    "title": "Dogs Have Owners, Cats Have Staff",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-09-28",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/dogs-have-owners-cats-have-staff",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/dogs-have-owners-cats-have-staff.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "standing-on-the-shore",
+    "title": "Standing On The Shore",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-09-21",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/standing-on-the-shore",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/standing-on-the-shore.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "not-the-news",
+    "title": "Not The News",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-09-14",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/not-the-news",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/not-the-news.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "all-change-cbef66b8c7a00e7f",
+    "title": "All Change",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-09-07",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/all-change-cbef66b8c7a00e7f",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/all-change-cbef66b8c7a00e7f.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "summer-s-shadow-1610ff534160353e",
+    "title": "Summer's Shadow",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-08-31",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/summer-s-shadow-1610ff534160353e",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/summer-s-shadow-1610ff534160353e.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "this-and-that-42d0e3d107e5efa0",
+    "title": "This And That",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-08-24",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/this-and-that-42d0e3d107e5efa0",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-and-that-42d0e3d107e5efa0.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "wireborn-vs-clanker-5ed2cb685780fce7",
+    "title": "Wireborn Vs Clanker",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-08-17",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/wireborn-vs-clanker-5ed2cb685780fce7",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/wireborn-vs-clanker-5ed2cb685780fce7.html",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "12-rules-for-writing-800abf0b0d6cbd9d",
+    "title": "12 Rules For Writing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-08-10",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/12-rules-for-writing-800abf0b0d6cbd9d",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/12-rules-for-writing-800abf0b0d6cbd9d.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "you-re-impossible-72f93d84e175de94",
+    "title": "You're Impossible",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-08-03",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/you-re-impossible-72f93d84e175de94",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/you-re-impossible-72f93d84e175de94.html",
+    "tags": [
+      "Business",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "which-ideas-get-to-live-ce1871f3f3c3adeb",
+    "title": "Which Ideas Get To Live?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-07-27",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/which-ideas-get-to-live-ce1871f3f3c3adeb",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/which-ideas-get-to-live-ce1871f3f3c3adeb.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "no-no-everything-is-fine-why-do-you-ask-f5621b1d52f3c69d",
+    "title": "No No Everything Is Fine Why Do You Ask",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-07-13",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/no-no-everything-is-fine-why-do-you-ask-f5621b1d52f3c69d",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/no-no-everything-is-fine-why-do-you-ask-f5621b1d52f3c69d.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "dream-life",
+    "title": "Dream Life",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-07-06",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/dream-life",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/dream-life.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-view-from-out-here-84233106758f950f",
+    "title": "The View From Out Here",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-06-29",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-view-from-out-here-84233106758f950f",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-view-from-out-here-84233106758f950f.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "steam-engine-time-002d1b1e98e7b656",
+    "title": "Steam Engine Time",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-06-22",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/steam-engine-time-002d1b1e98e7b656",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/steam-engine-time-002d1b1e98e7b656.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "it-s-all-experiments",
+    "title": "It's All Experiments",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-06-15",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/it-s-all-experiments",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-all-experiments.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "let-s-have-a-look-then",
+    "title": "Let's Have A Look, Then",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-06-08",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/let-s-have-a-look-then",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/let-s-have-a-look-then.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "lonely-robots-and-other-internets",
+    "title": "Lonely Robots And Other Internets",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-06-01",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/lonely-robots-and-other-internets",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/lonely-robots-and-other-internets.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "putting-your-phone-in-a-leather-coffin-4497e20fdf895e1c",
+    "title": "Putting Your Phone In A Leather Coffin",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-05-25",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/putting-your-phone-in-a-leather-coffin-4497e20fdf895e1c",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/putting-your-phone-in-a-leather-coffin-4497e20fdf895e1c.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "reconnecting-2107",
+    "title": "Reconnecting",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-05-18",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/reconnecting-2107",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      }
+    ],
+    "htmlFile": "/emails/reconnecting-2107.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "talking-in-my-sleep",
+    "title": "Talking In My Sleep",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-04-27",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/talking-in-my-sleep",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/talking-in-my-sleep.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-dark-forest",
+    "title": "The Dark Forest",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-04-13",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-dark-forest",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-dark-forest.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-unnameable-architecture-of-time",
+    "title": "The Unnameable Architecture Of Time",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-04-06",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-unnameable-architecture-of-time",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/the-unnameable-architecture-of-time.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "on-discovery",
+    "title": "On Discovery",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-03-30",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/on-discovery",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/on-discovery.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-graveyard-of-the-future",
+    "title": "The Graveyard Of The Future",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-03-23",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-graveyard-of-the-future",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/the-graveyard-of-the-future.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "martians-and-hailstorms",
+    "title": "Martians And Hailstorms",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-03-16",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/martians-and-hailstorms",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/martians-and-hailstorms.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "it-s-not-spring-stop-lying",
+    "title": "It's Not Spring, Stop Lying",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-03-09",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/it-s-not-spring-stop-lying",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-not-spring-stop-lying.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-view-from-here",
+    "title": "The View From Here",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-03-02",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-view-from-here",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      },
+      {
+        "name": "Lulu",
+        "url": "https://www.lulu.com/",
+        "logo": "lulu.png"
+      }
+    ],
+    "htmlFile": "/emails/the-view-from-here.html",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "in-an-old-box",
+    "title": "In An Old Box",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-02-23",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/in-an-old-box",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/in-an-old-box.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "postcards-and-telegrams",
+    "title": "Postcards And Telegrams",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-02-09",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/postcards-and-telegrams",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/postcards-and-telegrams.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-covers-of-planetary",
+    "title": "The Covers Of Planetary",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-02-02",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-covers-of-planetary",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-covers-of-planetary.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-covers-of-screaming-metal",
+    "title": "The Covers Of Screaming Metal",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-01-26",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-covers-of-screaming-metal",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Raptive",
+        "url": "https://raptive.com/",
+        "logo": "Removebg_preview__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-covers-of-screaming-metal.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "eternity",
+    "title": "Eternity",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-01-19",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/eternity",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      }
+    ],
+    "htmlFile": "/emails/eternity.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "writing-for-pictures",
+    "title": "Writing For Pictures",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2025-01-12",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/writing-for-pictures",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/writing-for-pictures.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "comics-as-air",
+    "title": "Comics As Air",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-11-24",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/comics-as-air",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/comics-as-air.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "making-comics-weirdly",
+    "title": "Making Comics Weirdly",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-11-17",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/making-comics-weirdly",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/making-comics-weirdly.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "singing-and-crying",
+    "title": "Singing And Crying",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-11-10",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/singing-and-crying",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/singing-and-crying.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "all-shapes-and-sizes",
+    "title": "All Shapes And Sizes",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-11-03",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/all-shapes-and-sizes",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/all-shapes-and-sizes.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "my-nightmares-are-in-nine-panel-grid",
+    "title": "My Nightmares Are In Nine Panel Grid",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-10-27",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/my-nightmares-are-in-nine-panel-grid",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/my-nightmares-are-in-nine-panel-grid.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "frozen-music-on-the-comics-page",
+    "title": "Frozen Music On The Comics Page",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-10-20",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/frozen-music-on-the-comics-page",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/frozen-music-on-the-comics-page.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "i-survived-megalopolis-and-all-i-got-was-this-weird-time-disease",
+    "title": "I Survived MEGALOPOLIS And All I Got Was This Weird Time Disease",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-10-13",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/i-survived-megalopolis-and-all-i-got-was-this-weird-time-disease",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Raptive",
+        "url": "https://raptive.com/",
+        "logo": "Removebg_preview__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/i-survived-megalopolis-and-all-i-got-was-this-weird-time-disease.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "these-possible-lives",
+    "title": "These Possible Lives",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-10-06",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/these-possible-lives",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "Authory_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/these-possible-lives.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-devil-runs-out",
+    "title": "The Devil Runs Out",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-09-29",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/the-devil-runs-out",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Raptive",
+        "url": "https://raptive.com/",
+        "logo": "Removebg_preview__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-devil-runs-out.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "red-house",
+    "title": "The Red House",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-09-22",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/red-house",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/red-house.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "song-siren",
+    "title": "Song To The Siren",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-09-08",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/song-siren",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/song-siren.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "chimes-midnight",
+    "title": "Chimes At Midnight",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-08-18",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/chimes-midnight",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Stack Influence",
+        "url": "https://stackinfluence.com/",
+        "logo": "stackinfluence_black_logo_normal__2___2_.png"
+      }
+    ],
+    "htmlFile": "/emails/chimes-midnight.html",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "department-midnight-trailer",
+    "title": "THE DEPARTMENT OF MIDNIGHT Trailer",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-08-11",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/department-midnight-trailer",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Black Crow AI",
+        "url": "https://www.blackcrow.ai/",
+        "logo": "Black_Crow_-_Beehiiv_-_Transparent_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/department-midnight-trailer.html",
+    "tags": [
+      "AI",
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "bellport-theater",
+    "title": "The Bellport Theater",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Orbital Operations",
+    "date": "2024-08-04",
+    "hasAds": true,
+    "url": "https://orbitaloperations.beehiiv.com/p/bellport-theater",
+    "publisher": {
+      "name": "Orbital Operations",
+      "url": "https://orbitaloperations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Premium Ghostwriting Academy",
+        "url": "https://premiumghostwritingacademy.com/",
+        "logo": "pga_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/bellport-theater.html",
+    "tags": [
+      "Education",
+      "Marketing"
+    ]
+  }
+]

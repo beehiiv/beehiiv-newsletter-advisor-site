@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ai-broke-economics-of-giving",
+    "title": "What if \"I can't afford to help\" stopped being true?",
+    "category": "Digital Products",
+    "description": "A community platform for multiple organizations. One weekend. Less than a coffee.",
+    "author": "AI Strategist",
+    "url": "https://ai-strategist.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2026-02-11T12:35:43.466575Z",
+    "publisher": {
+      "name": "AI Strategist",
+      "url": "https://ai-strategist.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/ai-broke-economics-of-giving.html",
+    "hasAds": true
+  }
+]

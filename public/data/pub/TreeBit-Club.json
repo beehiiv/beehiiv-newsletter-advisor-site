@@ -1,0 +1,56 @@
+[
+  {
+    "id": "12-000-a-month-how-this-guy-turned-a-simple-idea-into-a-profitable-business",
+    "title": "$12,000 a Month: How this guy turned a Simple Idea into a Profitable Business",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TreeBit Club",
+    "url": "https://www.treebit.club/p/12-000-a-month-how-this-guy-turned-a-simple-idea-into-a-profitable-business",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-14T01:52:27.217079Z",
+    "publisher": {
+      "name": "TreeBit Club",
+      "url": "https://treebit.club",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/12-000-a-month-how-this-guy-turned-a-simple-idea-into-a-profitable-business.html"
+  },
+  {
+    "id": "how-did-she-built-a-10k-month-ai-image-generator",
+    "title": "How did she built a $10K/Month AI image generator?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TreeBit Club",
+    "url": "https://www.treebit.club/p/how-did-she-built-a-10k-month-ai-image-generator",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-29T01:30:18.993682Z",
+    "publisher": {
+      "name": "TreeBit Club",
+      "url": "https://treebit.club",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-did-she-built-a-10k-month-ai-image-generator.html"
+  }
+]

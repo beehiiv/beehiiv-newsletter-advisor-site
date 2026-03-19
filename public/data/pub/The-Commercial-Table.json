@@ -1,0 +1,80 @@
+[
+  {
+    "id": "fast-tracking-decade-long-fandom-formula-e",
+    "title": "Fast-tracking decade-long fandom: Formula E",
+    "category": "Digital Products",
+    "description": "Jeddah streams live Feb 15. Arcade produces, creators compete. Does the Sidemen audience actually watch Formula E races after?",
+    "author": "The Commercial Table",
+    "url": "https://thecommercialtable.beehiiv.com",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2026-02-09T17:16:06.552391Z",
+    "publisher": {
+      "name": "The Commercial Table",
+      "url": "https://thecommercialtable.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "htmlFile": "/emails/fast-tracking-decade-long-fandom-formula-e.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-jomboy-mlb-playbook",
+    "title": "The Jomboy-MLB playbook",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Commercial Table",
+    "date": "2026-01-20",
+    "hasAds": true,
+    "url": "https://thecommercialtable.beehiiv.com/p/the-jomboy-mlb-playbook",
+    "publisher": {
+      "name": "The Commercial Table",
+      "url": "https://thecommercialtable.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/the-jomboy-mlb-playbook.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "422m-fans-but-can-t-turn-a-profit",
+    "title": "422M fans but can't turn a profit",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Commercial Table",
+    "date": "2026-01-14",
+    "hasAds": true,
+    "url": "https://thecommercialtable.beehiiv.com/p/422m-fans-but-can-t-turn-a-profit",
+    "publisher": {
+      "name": "The Commercial Table",
+      "url": "https://thecommercialtable.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/422m-fans-but-can-t-turn-a-profit.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

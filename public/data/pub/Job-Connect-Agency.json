@@ -1,0 +1,79 @@
+[
+  {
+    "id": "complete-your-onboarding",
+    "title": "COMPLETE YOUR ONBOARDING",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Job Connect Agency",
+    "date": "2025-04-18",
+    "hasAds": true,
+    "url": "https://job-connect-agency.beehiiv.com/p/complete-your-onboarding",
+    "publisher": {
+      "name": "Job Connect Agency",
+      "url": "https://job-connect-agency.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/complete-your-onboarding.html"
+  },
+  {
+    "id": "doola-31b9",
+    "title": "Doola",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Job Connect Agency",
+    "date": "2025-04-03",
+    "hasAds": true,
+    "url": "https://job-connect-agency.beehiiv.com/p/doola-31b9",
+    "publisher": {
+      "name": "Job Connect Agency",
+      "url": "https://job-connect-agency.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "doola",
+        "url": "https://www.doola.com/",
+        "logo": "dpp_a.png"
+      }
+    ],
+    "tags": [
+      "Business"
+    ],
+    "htmlFile": "/emails/doola-31b9.html"
+  },
+  {
+    "id": "1440-two",
+    "title": "1440 two",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Job Connect Agency",
+    "date": "2025-03-31",
+    "hasAds": true,
+    "url": "https://job-connect-agency.beehiiv.com/p/1440-two",
+    "publisher": {
+      "name": "Job Connect Agency",
+      "url": "https://job-connect-agency.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/1440-two.html"
+  }
+]

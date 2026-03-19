@@ -1,0 +1,639 @@
+[
+  {
+    "id": "pcs-homefront-report",
+    "title": "PCS Homefront Report",
+    "category": "Digital Products",
+    "description": "",
+    "author": "MilAgent Minute",
+    "url": "https://milhousing-minute.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-25T13:40:02.920731Z",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/pcs-homefront-report.html",
+    "hasAds": true
+  },
+  {
+    "id": "from-orders-to-ownership-january-2026-update-for-military-realtors",
+    "title": "From Orders to Ownership: January 2026 Update for Military Realtors",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2026-01-15",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/from-orders-to-ownership-january-2026-update-for-military-realtors",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      },
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "White_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/from-orders-to-ownership-january-2026-update-for-military-realtors.html",
+    "tags": [
+      "Finance",
+      "Health",
+      "Investing",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "milagent-tips-for-starting-the-new-year-strong",
+    "title": "MilAgent Tips For Starting the New Year Strong",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-12-29",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/milagent-tips-for-starting-the-new-year-strong",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "MEDVi",
+        "url": "https://medvi.org/",
+        "logo": "MEDVi.png"
+      }
+    ],
+    "htmlFile": "/emails/milagent-tips-for-starting-the-new-year-strong.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "back-to-school-back-to-business-august-market-moves",
+    "title": "Back to School, Back to Business: August Market Moves",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/back-to-school-back-to-business-august-market-moves",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HomeBuddy",
+        "url": "https://www.homebuddy.com/",
+        "logo": "HB_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/back-to-school-back-to-business-august-market-moves.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "spring-forward-maximizing-your-real-estate-potential-this-may",
+    "title": "Spring Forward: Maximizing Your Real Estate Potential This May",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-05-26",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/spring-forward-maximizing-your-real-estate-potential-this-may",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/spring-forward-maximizing-your-real-estate-potential-this-may.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "spring-into-success-april-updates-and-tips-for-realtors",
+    "title": "Spring Into Success: April Updates and Tips for Realtors",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-04-07",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/spring-into-success-april-updates-and-tips-for-realtors",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "RYSE",
+        "url": "https://invest.helloryse.com/",
+        "logo": "RYSElogo.png"
+      }
+    ],
+    "htmlFile": "/emails/spring-into-success-april-updates-and-tips-for-realtors.html",
+    "tags": [
+      "Investing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "incoming-pcs-season",
+    "title": "Loading...PCS Season",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-02-28",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/incoming-pcs-season",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "EnergySage",
+        "url": "https://www.energysage.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.energysage.com&sz=128"
+      },
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "fyxer.png"
+      }
+    ],
+    "htmlFile": "/emails/incoming-pcs-season.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "Productivity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "month-of-love-ing-what-you-do",
+    "title": "Month of Love\"ing\" What You DO",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-02-10",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/month-of-love-ing-what-you-do",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "Light_background_horizontal.png"
+      }
+    ],
+    "htmlFile": "/emails/month-of-love-ing-what-you-do.html",
+    "tags": [
+      "E-commerce",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "new-resources-dropping-now",
+    "title": "New Resources Dropping NOW!!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-01-20",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/new-resources-dropping-now",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/new-resources-dropping-now.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kicking-off-2025",
+    "title": "Kicking Off 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-01-15",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/kicking-off-2025",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "Beehiiv_Newsletter_Logo__1_.png"
+      },
+      {
+        "name": "Land.id",
+        "url": "https://id.land/",
+        "logo": "Removebg_Logo.png"
+      },
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/kicking-off-2025.html",
+    "tags": [
+      "E-commerce",
+      "Health",
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "happy-2025-our-swag-giveaway",
+    "title": "Happy 2025+ Our Swag Giveaway!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2025-01-01",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/happy-2025-our-swag-giveaway",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "Light_background_horizontal.png"
+      },
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/happy-2025-our-swag-giveaway.html",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "cheers-to-the-holidays-and-an-amazing-new-year",
+    "title": "🎄Cheers to the Holidays and an Amazing New Year! 🎉",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-12-23",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/cheers-to-the-holidays-and-an-amazing-new-year",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      },
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Venice.AI",
+        "url": "https://venice.ai/",
+        "logo": "Wordmark_Blue.png"
+      }
+    ],
+    "htmlFile": "/emails/cheers-to-the-holidays-and-an-amazing-new-year.html",
+    "tags": [
+      "AI",
+      "Health",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "green-monday-education-offering",
+    "title": "Green Monday Educational Offering!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-12-10",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/green-monday-education-offering",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "RYSE",
+        "url": "https://invest.helloryse.com/",
+        "logo": "RYSElogo.png"
+      }
+    ],
+    "htmlFile": "/emails/green-monday-education-offering.html",
+    "tags": [
+      "Investing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "finding-your-joy-in-real-estate",
+    "title": "Finding Your Joy in Real Estate",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-12-02",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/finding-your-joy-in-real-estate",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "bslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/finding-your-joy-in-real-estate.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "happy-veterans-day",
+    "title": "Happy Veterans Day!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-11-11",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/happy-veterans-day",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "Light_background_horizontal.png"
+      }
+    ],
+    "htmlFile": "/emails/happy-veterans-day.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "happy-halloween-subscriber-giveaway",
+    "title": "Happy Halloween (+Subscriber Giveaway)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-10-31",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/happy-halloween-subscriber-giveaway",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/happy-halloween-subscriber-giveaway.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "viral-content-suggestions-for-october",
+    "title": "Viral Content Suggestions For October",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-10-14",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/viral-content-suggestions-for-october",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/viral-content-suggestions-for-october.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-to-schedule-your-absentee-ballot-and-listing-photography-made-easy",
+    "title": "Absentee Military Voting and Your Listing Photography, Simplified!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/how-to-schedule-your-absentee-ballot-and-listing-photography-made-easy",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-schedule-your-absentee-ballot-and-listing-photography-made-easy.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "essential-tips-for-agents",
+    "title": "Essential Tips for Your Real Estate Business",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-09-23",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/essential-tips-for-agents",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/essential-tips-for-agents.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "building-open-house-market",
+    "title": "MilHousing Agent: Revamping Your Open House",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-09-16",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/building-open-house-market",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/building-open-house-market.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "home-maintenance-august-mastering-nar-rules",
+    "title": "Home Maintenance for August, and Mastering the NAR rules",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-08-19",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/home-maintenance-august-mastering-nar-rules",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "image1.png"
+      }
+    ],
+    "htmlFile": "/emails/home-maintenance-august-mastering-nar-rules.html",
+    "tags": [
+      "Finance",
+      "Investing",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "brand-ambassador-giveaway-nar-settlement-education",
+    "title": "Brand Ambassador Giveaway, NAR Settlement, Education and More.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "MilAgent Minute",
+    "date": "2024-08-02",
+    "hasAds": true,
+    "url": "https://milhousing-minute.beehiiv.com/p/brand-ambassador-giveaway-nar-settlement-education",
+    "publisher": {
+      "name": "MilAgent Minute",
+      "url": "https://milhousing-minute.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/brand-ambassador-giveaway-nar-settlement-education.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

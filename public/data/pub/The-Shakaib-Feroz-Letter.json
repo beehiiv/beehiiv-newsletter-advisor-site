@@ -1,0 +1,385 @@
+[
+  {
+    "id": "duck-that-road",
+    "title": "“Duck that road!”",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2026-02-21",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/duck-that-road",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/duck-that-road.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-s-your-lens-doing",
+    "title": "How’s your lens doing?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2026-02-02",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/how-s-your-lens-doing",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wall Street Prep",
+        "url": "https://wallstreetprep.business.columbia.edu/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      }
+    ],
+    "htmlFile": "/emails/how-s-your-lens-doing.html",
+    "tags": [
+      "Education",
+      "Finance"
+    ]
+  },
+  {
+    "id": "this-is-how-the-story-goes",
+    "title": "This is how the story goes...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-12-27",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/this-is-how-the-story-goes",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-is-how-the-story-goes.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "i-have-never-done-this-before",
+    "title": "I have never done this before",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-12-26",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/i-have-never-done-this-before",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/i-have-never-done-this-before.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "what-is-content-what-is-work",
+    "title": "What is content? What is work?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-11-26",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/what-is-content-what-is-work",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/what-is-content-what-is-work.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "who-are-the-best-storytellers",
+    "title": "Who are the best storytellers?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-11-01",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/who-are-the-best-storytellers",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      }
+    ],
+    "htmlFile": "/emails/who-are-the-best-storytellers.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "how-s-this-for-a-new-halloween-ritual",
+    "title": "How’s this for a new Halloween ritual?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-10-30",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/how-s-this-for-a-new-halloween-ritual",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/how-s-this-for-a-new-halloween-ritual.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "history-is-made-in-tea-shops",
+    "title": "History is made in tea shops ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-10-24",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/history-is-made-in-tea-shops",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Contrarian Thinking",
+        "url": "https://contrarianthinking.co/",
+        "logo": "CT_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/history-is-made-in-tea-shops.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "return-of-the-email-jedi",
+    "title": "Return of the Email Jedi",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-10-15",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/return-of-the-email-jedi",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "BelayLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/return-of-the-email-jedi.html",
+    "tags": [
+      "Business"
+    ]
+  },
+  {
+    "id": "more-lessons-from-the-mighty-peacock",
+    "title": "More lessons from the mighty peacock",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-10-06",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/more-lessons-from-the-mighty-peacock",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/more-lessons-from-the-mighty-peacock.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "welcome-again-to-the-shakaib-feroz-letter",
+    "title": "Welcome (again) to The Shakaib Feroz Letter",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-10-05",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/welcome-again-to-the-shakaib-feroz-letter",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/welcome-again-to-the-shakaib-feroz-letter.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "lessons-from-the-mighty-peacock",
+    "title": "Lessons from the mighty peacock",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-10-04",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/lessons-from-the-mighty-peacock",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/lessons-from-the-mighty-peacock.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "insomnia-and-enlightenment",
+    "title": "Insomnia and enlightenment ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-09-28",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/insomnia-and-enlightenment",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/insomnia-and-enlightenment.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "who-do-you-think-i-m-stalking",
+    "title": "Who do you think I’m stalking? ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-09-24",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/who-do-you-think-i-m-stalking",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/who-do-you-think-i-m-stalking.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "hair-pulling-truth-of-the-biz-world",
+    "title": "Hair-pulling truth of the biz world",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Shakaib Feroz Letter",
+    "date": "2025-09-22",
+    "hasAds": true,
+    "url": "https://letter.dastaanworld.com/p/hair-pulling-truth-of-the-biz-world",
+    "publisher": {
+      "name": "The Shakaib Feroz Letter",
+      "url": "https://letter.dastaanworld.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/hair-pulling-truth-of-the-biz-world.html",
+    "tags": [
+      "Marketing"
+    ]
+  }
+]

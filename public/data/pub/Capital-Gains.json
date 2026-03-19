@@ -1,0 +1,28 @@
+[
+  {
+    "id": "emh",
+    "title": "What Do We Mean By \"Efficient Markets\"?",
+    "category": "Digital Products",
+    "description": "Are Prices Perfect? No, But It's Easier to Reason About Them When We Assume They're Good-Enough",
+    "author": "Capital Gains",
+    "url": "https://capitalgains.thediff.co/p/emh",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-09-11T03:11:47.790029Z",
+    "publisher": {
+      "name": "Capital Gains",
+      "url": "https://capitalgains.thediff.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/emh.html"
+  }
+]

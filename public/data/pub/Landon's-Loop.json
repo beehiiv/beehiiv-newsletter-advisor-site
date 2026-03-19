@@ -1,0 +1,29 @@
+[
+  {
+    "id": "133-133",
+    "title": "Chicago’s Stablecoin Ecosystem",
+    "category": "Digital Products",
+    "description": "AND Illinois lawmakers vote to unban nuclear power",
+    "author": "Landon's Loop",
+    "url": "https://www.landonsloop.com/p/133-133",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-27T15:04:59.227922Z",
+    "publisher": {
+      "name": "Landon's Loop",
+      "url": "https://landonsloop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/133-133.html"
+  }
+]

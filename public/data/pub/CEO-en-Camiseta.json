@@ -1,0 +1,484 @@
+[
+  {
+    "id": "preat",
+    "title": "👕 Con Ryan Reynolds lo vi clarito",
+    "category": "Digital Products",
+    "description": "Y ya nunca más pude des-verlo.",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-14T19:30:30.905012Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/preat.html",
+    "hasAds": true
+  },
+  {
+    "id": "ya-pensaste-tu-2026",
+    "title": "👕 ¿Ya pensaste tu 2026?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/ya-pensaste-tu-2026",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-11-05T23:14:20.252895Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ya-pensaste-tu-2026.html"
+  },
+  {
+    "id": "30min",
+    "title": "👕 Un equipo a tu disposición, gratis",
+    "category": "Digital Products",
+    "description": "Ponemos los Protagonistas a dar valor como parte de su construcción - y la tuya.",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/30min",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-25T14:36:50.505636Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/30min.html"
+  },
+  {
+    "id": "podes-evitar-anos-de-carrera-mediocre-con-este-mail-1",
+    "title": "👕👕 qué revuelo se armó (todavía podés ser parte)",
+    "category": "Digital Products",
+    "description": "Aprovechá esta oportunidad de multiplicar tu valor",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/podes-evitar-anos-de-carrera-mediocre-con-este-mail-1",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-22T18:02:15.663299Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/podes-evitar-anos-de-carrera-mediocre-con-este-mail-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "network",
+    "title": "👕 Podés evitar años de carrera mediocre con este mail",
+    "category": "Digital Products",
+    "description": "Aprendé a delegar, conectar y multiplicar antes de que empiece la semana.",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/network",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-17T13:33:10.579168Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/network.html"
+  },
+  {
+    "id": "estanca",
+    "title": "👕 Elige tu aventura preferida: edición especial Miedos",
+    "category": "Digital Products",
+    "description": "El miedo al fracaso grita. El estancamiento susurra. ¿Cuál te está controlando?",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/estanca",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-08-16T20:26:15.483513Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/estanca.html"
+  },
+  {
+    "id": "manada",
+    "title": "👕 Dale, seguí a la manada que es más seguro",
+    "category": "Digital Products",
+    "description": "Esa idea que da vueltas en tu cabeza puede ser genial... ¿Te animás a probar?",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/manada",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-07-27T23:01:02.928984Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/manada.html"
+  },
+  {
+    "id": "3futuros",
+    "title": "👕 3 pasos para definir tu futuro profesional",
+    "category": "Digital Products",
+    "description": "Actuar en el corto plazo pensando en el largo plazo es la mejor forma de crecer",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/3futuros",
+    "tags": [
+      "Business",
+      "Finance"
+    ],
+    "date": "2025-05-26T17:41:34.221687Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Collective",
+        "url": "https://www.collective.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.collective.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/3futuros.html"
+  },
+  {
+    "id": "quehumanos",
+    "title": "👕 NO TE VA A REEMPLAZAR LA TECNOLOGÍA...",
+    "category": "Digital Products",
+    "description": "El futuro de tu trabajo es distinto a su pasado",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/quehumanos",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-18T13:54:10.122748Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/quehumanos.html"
+  },
+  {
+    "id": "batallafinal",
+    "title": "👕 La batalla final: IT versus HR",
+    "category": "Digital Products",
+    "description": "Un CEO que incomoda más que CEO es un",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/batallafinal",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-09T18:56:28.627202Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/batallafinal.html"
+  },
+  {
+    "id": "procrastinar",
+    "title": "👕 Resolvamos hoy tu Problema de Procrastinación",
+    "category": "Digital Products",
+    "description": "Parece un trabalenguas... ¡Y lo es!",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/procrastinar",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-11-10T21:15:51.756606Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/procrastinar.html"
+  },
+  {
+    "id": "harrypotter",
+    "title": "👕 Revitalis Innovatio 🪄  La solución  a tus desafíos laborales la tenía Harry Potter",
+    "category": "Digital Products",
+    "description": "Cuando la razón no funciona es válido apelar a la magia.",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/harrypotter",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-17T19:08:25.026434Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/harrypotter.html"
+  },
+  {
+    "id": "budget",
+    "title": "👕 \"Baby steps\" en el trabajo 🍼",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "CEO en Camiseta",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://www.ceoencamiseta.com/p/budget",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/budget.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "independencia",
+    "title": "👕 ¿Cómo un CEO piensa el futuro?",
+    "category": "Digital Products",
+    "description": "Reduciendo el miedo al cambio con inteligencia",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/independencia",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-27T18:39:38.294619Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/independencia.html"
+  },
+  {
+    "id": "27preg",
+    "title": "👕 Es hora de cambiar el punto de vista 👓",
+    "category": "Digital Products",
+    "description": "Un email que garantizo te dejará pensando. No lo abras.",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/27preg",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-08-31T13:22:34.513171Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/27preg.html"
+  },
+  {
+    "id": "fin-de-semana-de-super-accion",
+    "title": "👕👕👕 Fin de semana de súper acción",
+    "category": "Digital Products",
+    "description": "¿Surgirá algún producto interesante?",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/fin-de-semana-de-super-accion",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-26T13:48:50.193027Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fin-de-semana-de-super-accion.html"
+  },
+  {
+    "id": "oratoria",
+    "title": "👕 5 Claves de Oratoria que Seguro no te Dijeron",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "CEO en Camiseta",
+    "date": "2024-08-19",
+    "hasAds": true,
+    "url": "https://www.ceoencamiseta.com/p/oratoria",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/oratoria.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "fisica",
+    "title": "👕 Salir de la parálisis YA",
+    "category": "Digital Products",
+    "description": "Un secreto para tomar decisiones",
+    "author": "CEO en Camiseta",
+    "url": "https://www.ceoencamiseta.com/p/fisica",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-07-29T18:06:16.81166Z",
+    "publisher": {
+      "name": "CEO en Camiseta",
+      "url": "https://www.ceoencamiseta.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tiege Hanley",
+        "url": "https://www.tiege.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.tiege.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fisica.html"
+  }
+]

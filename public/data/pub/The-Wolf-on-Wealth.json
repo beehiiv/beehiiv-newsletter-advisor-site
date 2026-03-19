@@ -1,0 +1,3145 @@
+[
+  {
+    "id": "get-paid-to-eat-burgers",
+    "title": "Five Guys",
+    "category": "Newsletter Ads",
+    "description": "Five Guys has no ad budget. Never needed one. Here's how it works.",
+    "author": "The Wolf on Wealth",
+    "date": "2026-02-27",
+    "htmlFile": "/emails/get-paid-to-eat-burgers.html",
+    "hasAds": true,
+    "url": "https://www.wolfonwealth.com/p/get-paid-to-eat-burgers",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com"
+    },
+    "bgColor": "#FFFFFF",
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "FI__Green_Text__Outlined.png"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "logo-full-dark.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Finance",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "costco-vs-sam-s-club",
+    "title": "Costco vs Sam's Club",
+    "category": "Digital Products",
+    "description": "Two warehouse giants, same product, same customer. One keeps its workers. One can't stop losing them. The difference is simpler than you think.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/costco-vs-sam-s-club",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2026-02-25T00:00:00Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "htmlFile": "/emails/costco-vs-sam-s-club.html",
+    "hasAds": true
+  },
+  {
+    "id": "kfc",
+    "title": "KFC",
+    "category": "Digital Products",
+    "description": "He was 65, broke, and sleeping in his car. What happened next took another 8 years.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com",
+    "tags": [
+      "AI",
+      "Finance",
+      "Newsletter",
+      "Productivity"
+    ],
+    "date": "2026-02-19T15:03:10.01426Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      },
+      {
+        "name": "Brew Markets",
+        "url": "https://www.brewmarkets.com/",
+        "logo": "https://www.brewmarkets.com/icon-512.png"
+      }
+    ],
+    "htmlFile": "/emails/kfc.html",
+    "hasAds": true
+  },
+  {
+    "id": "tai-lopez",
+    "title": "Tai Lopez",
+    "category": "Digital Products",
+    "description": "Tai Lopez discovered something more profitable than courses: other people's retirement savings.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/tai-lopez",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T14:20:46.116696Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tai-lopez.html"
+  },
+  {
+    "id": "every-sam-atlman-business-explained",
+    "title": "Every Sam Atlman Business, Explained",
+    "category": "Digital Products",
+    "description": "OpenAI's CEO isn't just making AI tools. He's solving the three existential problems that AGI creates—and nobody's connecting the dots yet.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/every-sam-atlman-business-explained",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2026-02-03T14:22:00.167752Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "https://cdn.prod.website-files.com/693317e747432cd054b3bdc6/693318d5adf6755726c17fae_Dark.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/every-sam-atlman-business-explained.html"
+  },
+  {
+    "id": "buffett-s-heir-destroyed-himself",
+    "title": "Buffett's Heir Destroyed Himself",
+    "category": "Digital Products",
+    "description": "The hardest-working executive Buffett ever saw. Positioned to inherit Berkshire Hathaway. Destroyed his future for 0.1% of annual income.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/buffett-s-heir-destroyed-himself",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2026-01-26T19:11:43.010441Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/buffett-s-heir-destroyed-himself.html"
+  },
+  {
+    "id": "fort-knox-for-lubricant",
+    "title": "Fort Knox for Lubricant",
+    "category": "Digital Products",
+    "description": "The world's most famous lubricant lives in a bank vault. Fewer than ten people have seen it. No patents. Just secrecy.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/fort-knox-for-lubricant",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-26T15:16:11.515007Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fort-knox-for-lubricant.html"
+  },
+  {
+    "id": "the-nfl-s-most-important-unknown-job",
+    "title": "The NFL's Most Important Unknown Job",
+    "category": "Digital Products",
+    "description": "The NFL's most important employee isn't a player, coach, or referee—and you've never heard of him.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-nfl-s-most-important-unknown-job",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-21T15:22:30.516376Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-nfl-s-most-important-unknown-job.html"
+  },
+  {
+    "id": "the-hoosiers-hurricane-cash-machine",
+    "title": "The Hoosiers-Hurricane Cash Machine",
+    "category": "Digital Products",
+    "description": "Monday's championship game wasn't about football. It was a billions dollar transaction disguised as sports entertainment. Here's where the $ went.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-hoosiers-hurricane-cash-machine",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-20T13:11:05.475055Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hoosiers-hurricane-cash-machine.html"
+  },
+  {
+    "id": "a-ceo-s-revenge",
+    "title": "A CEO's Revenge",
+    "category": "Digital Products",
+    "description": "What do you do when your employer lies to you after you double his stock? Julia Stewart spent $ 2.3B answering that question.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/a-ceo-s-revenge",
+    "tags": [
+      "AI",
+      "Business",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2026-01-14T15:47:01.353316Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-ceo-s-revenge.html"
+  },
+  {
+    "id": "one-oilman-owns-venezuela-s-future",
+    "title": "One Oilman Owns Venezuela's Future",
+    "category": "Digital Products",
+    "description": "Exxon won't touch Venezuela without security guarantees. One 70-year-old wildcatter who started in a mobile trailer already signed the contracts two years ago.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/one-oilman-owns-venezuela-s-future",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-01-13T11:33:57.251817Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/one-oilman-owns-venezuela-s-future.html"
+  },
+  {
+    "id": "the-end-of-mtv",
+    "title": "The End of MTV",
+    "category": "Digital Products",
+    "description": "MTV solved their monetization problem perfectly. Jersey Shore printed money. Reality TV crushed music videos in ad revenue. They won every quarterly earnings call but lost the war.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-end-of-mtv",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2026-01-01T18:34:48.314688Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-end-of-mtv.html"
+  },
+  {
+    "id": "your-2026-vivid-vision",
+    "title": "Your 2026 Vivid Vision",
+    "category": "Digital Products",
+    "description": "\"Every CEO can see the future, but teams can't execute what's locked in your head\" was Cameron Herold's revelation in 2007.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/your-2026-vivid-vision",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-31T00:58:57.058678Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-2026-vivid-vision.html"
+  },
+  {
+    "id": "did-i-really-sink-a-170-foot-yacht",
+    "title": "Did I really sink a 170-foot yacht?",
+    "category": "Digital Products",
+    "description": "To tell you the full story of sinking the yacht, you must first understand that I was addicted to Quaaludes",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/did-i-really-sink-a-170-foot-yacht",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-23T12:29:16.461569Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/did-i-really-sink-a-170-foot-yacht.html"
+  },
+  {
+    "id": "hallmark-s-750m-christmas-formula",
+    "title": "Hallmark's 750M Christmas Formula",
+    "category": "Digital Products",
+    "description": "How \"hot chocolate television\" leads to printing $ $ $ $ all year long.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/hallmark-s-750m-christmas-formula",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-19T21:06:03.247227Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.axioshq.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hallmark-s-750m-christmas-formula.html"
+  },
+  {
+    "id": "entertain-advertise",
+    "title": "Entertain > Advertise",
+    "category": "Digital Products",
+    "description": "Why your competitors are hiring comedy writers instead of media buyers",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/entertain-advertise",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-18T11:28:31.137843Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/entertain-advertise.html"
+  },
+  {
+    "id": "they-nearly-went-broke",
+    "title": "They nearly went broke",
+    "category": "Digital Products",
+    "description": "David Lee had a problem. His Silicon Valley startup was so close to running out of cash that he personally backed the company against his own assets",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/they-nearly-went-broke",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-16T14:42:36.590815Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/they-nearly-went-broke.html"
+  },
+  {
+    "id": "the-52-year-old-s-comeback",
+    "title": "The 52-Year-Old's Comeback",
+    "category": "Digital Products",
+    "description": "Fifty-two years old with zero restaurant experience. Most people that age are planning retirement. Ray Kroc just bought the rights to a burger joint instead",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-52-year-old-s-comeback",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-11T12:47:27.055958Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-52-year-old-s-comeback.html"
+  },
+  {
+    "id": "netflix-vs-paramount",
+    "title": "Netflix vs. Paramount",
+    "category": "Digital Products",
+    "description": "Ellison made six bids over 12 weeks. Most sellers quit after one \"no.\" He kept refining, repricing, restructuring. Each rejection revealed what Warner actually wanted.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/netflix-vs-paramount",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-09T11:26:46.502318Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BlueAlpha",
+        "url": "https://bluealpha.ai/",
+        "logo": "https://framerusercontent.com/images/XpW1BRUtvFrnvwioeIFBqgsB63Q.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/netflix-vs-paramount.html"
+  },
+  {
+    "id": "high-end-christmas-lights",
+    "title": "High-End Christmas Lights",
+    "category": "Digital Products",
+    "description": "Who would spend $ 50k on Christmas lights? More people than you might think.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/high-end-christmas-lights",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-04T11:24:11.651353Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/high-end-christmas-lights.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-10-task-trap",
+    "title": "The $ 10 Task Trap",
+    "category": "Digital Products",
+    "description": "DM: \"If your time is worth $ 1,000/hour—why do $ 10 tasks?\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-10-task-trap",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-02T14:14:42.245798Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-10-task-trap.html"
+  },
+  {
+    "id": "macy-s-money-machine",
+    "title": "Macy's Money Machine",
+    "category": "Digital Products",
+    "description": "Think advertising costs $? Macy's runs a 3-hour commercial every Thanksgiving. Brands pay THEM $ 190K each to be in it. They profit $ 15M+ from their \"gift to America.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/macy-s-money-machine",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-25T08:36:29.62063Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/macy-s-money-machine.html"
+  },
+  {
+    "id": "give-equity-not-inheritance",
+    "title": "Give equity, not inheritance",
+    "category": "Digital Products",
+    "description": "Most entrepreneurs keep 100% ownership until they die, then hand it to their kids. Sam Walton did the opposite",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/give-equity-not-inheritance",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-25T08:03:39.021348Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/give-equity-not-inheritance.html"
+  },
+  {
+    "id": "yeti-presents",
+    "title": "YETI Presents...",
+    "category": "Digital Products",
+    "description": "Think cooler companies should advertise coolers? Yeti spent 15 years filming cowboys and fishermen instead. No product demos. Customers wear their logo anyway.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/yeti-presents",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-20T14:22:47.944743Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/yeti-presents.html",
+    "hasAds": true
+  },
+  {
+    "id": "airlines-lose-to-bootstrap-startup",
+    "title": "Airlines lose to bootstrap startup",
+    "category": "Digital Products",
+    "description": "Turns out solving one problem correctly beats solving 47 problems adequately.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/airlines-lose-to-bootstrap-startup",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-17T11:28:11.945868Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/airlines-lose-to-bootstrap-startup.html",
+    "hasAds": true
+  },
+  {
+    "id": "justin-bieber-s-twitch-warehouse",
+    "title": "Justin Bieber's Twitch Warehouse",
+    "category": "Digital Products",
+    "description": "Ever wonder why top artists keep going live on gaming platforms?",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/justin-bieber-s-twitch-warehouse",
+    "tags": [
+      "Entertainment",
+      "Finance",
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-11-11T12:53:35.030194Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/justin-bieber-s-twitch-warehouse.html"
+  },
+  {
+    "id": "every-jeff-bezos-business-explained",
+    "title": "Every Jeff Bezos Business, Explained ",
+    "category": "Digital Products",
+    "description": "Bezos is focused on Earth 12,025. Here’s everything he’s doing with the future in mind.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/every-jeff-bezos-business-explained",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-05T14:35:54.59224Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/every-jeff-bezos-business-explained.html"
+  },
+  {
+    "id": "straight-line-sales-mastery",
+    "title": "Straight Line Sales Mastery ",
+    "category": "Digital Products",
+    "description": "When someone says \"let me think about it,\" weak salespeople think it's a real objection. I know it's a smoke screen.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/straight-line-sales-mastery",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-04T13:08:51.305454Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/straight-line-sales-mastery.html"
+  },
+  {
+    "id": "sears-quit-amazon-took-over",
+    "title": "Sears Quit. Amazon Took Over.",
+    "category": "Digital Products",
+    "description": "Sears mailed 15 million Wish Books annually and printed money for 60 years. Then they stopped. Amazon picked up the playbook and added Prime.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/sears-quit-amazon-took-over",
+    "tags": [
+      "Entertainment",
+      "Finance",
+      "Investing",
+      "Technology"
+    ],
+    "date": "2025-11-03T14:02:17.124981Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sears-quit-amazon-took-over.html"
+  },
+  {
+    "id": "the-world-s-most-haunted-airbnb",
+    "title": "The World's Most Haunted Airbnb",
+    "category": "Digital Products",
+    "description": "Real estate's dirtiest secret: \"Haunted\" houses aren't unmarketable—they're mispriced.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-world-s-most-haunted-airbnb",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-10-30T13:26:50.614987Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      }
+    ],
+    "htmlFile": "/emails/the-world-s-most-haunted-airbnb.html",
+    "hasAds": true
+  },
+  {
+    "id": "will-robot-shoes-save-nike",
+    "title": "Will Robot Shoes Save Nike?",
+    "category": "Digital Products",
+    "description": "Nike is about to launch half-ready prototypes. Welcome to strategic gambling.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/will-robot-shoes-save-nike",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-10-24T14:42:58.003113Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/will-robot-shoes-save-nike.html"
+  },
+  {
+    "id": "the-pumpkin-cartel",
+    "title": "The Pumpkin Cartel",
+    "category": "Digital Products",
+    "description": "Think your Halloween pumpkin comes from an independent family farm? The genetics came from a cartel that eliminated 75% of pumpkin diversity and made seed saving impossible.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-pumpkin-cartel",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-10-23T11:41:11.494781Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-pumpkin-cartel.html"
+  },
+  {
+    "id": "how-roku-makes",
+    "title": "How Roku Makes $ $ $ ",
+    "category": "Digital Products",
+    "description": "Roku's masterstroke wasn't standalone boxes—it was embedding their OS directly into smart TVs. Removal becomes impossible once you're built into the foundation.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-roku-makes",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-10-22T08:12:53.633674Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-roku-makes.html"
+  },
+  {
+    "id": "how-pinterest-sold-planning",
+    "title": "How Pinterest Sold Planning",
+    "category": "Digital Products",
+    "description": "Pinterest made \"saving for later\" feel so satisfying that users voluntarily started shopping seasons two months early",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-pinterest-sold-planning",
+    "tags": [
+      "Crypto",
+      "Marketing"
+    ],
+    "date": "2025-10-09T08:49:09.776952Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "https://cow.fi/android-chrome-512x512.png"
+      },
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-pinterest-sold-planning.html"
+  },
+  {
+    "id": "king-of-halloween-candy",
+    "title": "King of Halloween Candy",
+    "category": "Digital Products",
+    "description": "Need customers to help you sell? Mars and Hershey turned every WWII soldier into a brand ambassador by making chocolate symbolize American freedom",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/king-of-halloween-candy",
+    "tags": [
+      "Crypto",
+      "Marketing"
+    ],
+    "date": "2025-10-06T10:41:23.807013Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "https://cow.fi/android-chrome-512x512.png"
+      },
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/king-of-halloween-candy.html"
+  },
+  {
+    "id": "bumblebee-sold-80k-camaros",
+    "title": "Bumblebee Sold 80k Camaros",
+    "category": "Digital Products",
+    "description": "GM killed the Camaro in 2003, then brought it back four years later by revealing the new model in a movie theater—not an auto show",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/bumblebee-sold-80k-camaros",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-10-02T13:18:10.845188Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bumblebee-sold-80k-camaros.html"
+  },
+  {
+    "id": "the-nostalgia-economy",
+    "title": "The Nostalgia Economy",
+    "category": "Digital Products",
+    "description": "From purple milkshakes to movie rereleases to rewatch podcasts, smart brands stopped creating new products and started mining their customers' childhoods for billion-dollar profits.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-nostalgia-economy",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-09-29T11:41:23.396285Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "https://cdn.prod.website-files.com/636c27cea6bf2a38e9eea317/671a7f474857b7d64d3abc0d_White%20on%20Cobalt_256x256.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-nostalgia-economy.html"
+  },
+  {
+    "id": "how-to-pitch-celebrities-with-zero-credibility",
+    "title": "How to Pitch Celebrities with Zero Credibility",
+    "category": "Digital Products",
+    "description": "Most entrepreneurs pitch celebrities with empty dreams and slides. David Rogier built a data fortress that made saying no impossible.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-to-pitch-celebrities-with-zero-credibility",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-09-25T10:35:42.495406Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-pitch-celebrities-with-zero-credibility.html"
+  },
+  {
+    "id": "pacsun-s-nano-influencer-army",
+    "title": "Pacsun's Nano-Influencer Army",
+    "category": "Digital Products",
+    "description": "Code cracked: 10,000 regular customers just outperformed every mega-influencer campaign in retail.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/pacsun-s-nano-influencer-army",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-09-22T10:28:41.635747Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Typeless",
+        "url": "https://www.typeless.com/",
+        "logo": "https://www.typeless.com/logo_152.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pacsun-s-nano-influencer-army.html"
+  },
+  {
+    "id": "how-under-armour-signed-steph-curry",
+    "title": "How Under Armour Signed Steph Curry",
+    "category": "Digital Products",
+    "description": "How Under Armour brilliantly outsmarted Nike and Adidas using a strategic benchwarmer, daily packages, and one toddler's completely random choice.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-under-armour-signed-steph-curry",
+    "tags": [
+      "Careers",
+      "Investing",
+      "Newsletter"
+    ],
+    "date": "2025-09-18T10:48:24.09907Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Abundant Mines",
+        "url": "https://abundantmines.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=abundantmines.com&sz=128"
+      },
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-under-armour-signed-steph-curry.html"
+  },
+  {
+    "id": "elon-musk-vs-larry-ellison",
+    "title": "Elon Musk vs. Larry Ellison",
+    "category": "Digital Products",
+    "description": "Two tech titans battle to become the world's richest man.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/elon-musk-vs-larry-ellison",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-09-16T10:39:20.039217Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-musk-vs-larry-ellison.html"
+  },
+  {
+    "id": "gillette-lied-to-women",
+    "title": "Gillette lied to women",
+    "category": "Digital Products",
+    "description": "That \"essential\" beauty standard you've never questioned? A razor company literally invented it in 1915 to sell more products.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/gillette-lied-to-women",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-09-11T10:20:18.938437Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gillette-lied-to-women.html"
+  },
+  {
+    "id": "taylor-s-revenge",
+    "title": "Taylor's Revenge ",
+    "category": "Digital Products",
+    "description": "The most expensive tweet in music history",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/taylor-s-revenge",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-09-09T13:44:11.716712Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/taylor-s-revenge.html"
+  },
+  {
+    "id": "best-business-loss-ever",
+    "title": "Best Business Loss Ever",
+    "category": "Digital Products",
+    "description": "While inflation sent prices soaring everywhere, Costco doubled down on their buck-fifty hot dog deal",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/best-business-loss-ever",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-09-02T00:02:59.066502Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/best-business-loss-ever.html"
+  },
+  {
+    "id": "the-red-lobster-comeback",
+    "title": "The Red Lobster Comeback",
+    "category": "Digital Products",
+    "description": "The turnaround specialist who had previously rescued P.F. Chang's hit the ground running in September 2024, immediately making tough but necessary decisions.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-red-lobster-comeback",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-08-27T23:41:16.277295Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Cartograph",
+        "url": "https://www.gocartograph.com/",
+        "logo": "https://cdn.prod.website-files.com/67b6f7958515100d4ec614e9/68d66287567aeee60cbfacdc_webclip.svg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-red-lobster-comeback.html"
+  },
+  {
+    "id": "hiring-a-players",
+    "title": "Hiring A-Players",
+    "category": "Digital Products",
+    "description": "CS: \"If they're not better than you at something, they're not for you.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/hiring-a-players",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-08-26T10:30:01.224065Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hiring-a-players.html"
+  },
+  {
+    "id": "raise-your-iq-10-points",
+    "title": "Raise Your IQ 10 Points",
+    "category": "Digital Products",
+    "description": "PT's approach to optimization has influenced Silicon Valley's broader exploration of cognitive enhancement",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/raise-your-iq-10-points",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-08-21T12:25:46.914922Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/raise-your-iq-10-points.html"
+  },
+  {
+    "id": "rob-dyrdek-s-4-rule",
+    "title": "Rob Dyrdek's 4 % Rule",
+    "category": "Digital Products",
+    "description": "RD earns roughly $ 75k per working day by automating everything while the rest of us are still trading hours for dollar like it's 1995.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/rob-dyrdek-s-4-rule",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-19T12:14:39.661258Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rob-dyrdek-s-4-rule.html"
+  },
+  {
+    "id": "why-33-smoothies-sell",
+    "title": "Why $ 33 smoothies sell",
+    "category": "Digital Products",
+    "description": "Millennials will pay anything when you get the story right, completely upending decades of marketing wisdom.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/why-33-smoothies-sell",
+    "tags": [
+      "AI",
+      "Careers",
+      "Newsletter"
+    ],
+    "date": "2025-08-14T14:39:52.644209Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/why-33-smoothies-sell.html",
+    "hasAds": true
+  },
+  {
+    "id": "dana-white-s-comeback",
+    "title": "Dana White's Comeback",
+    "category": "Digital Products",
+    "description": "The marketing playbook hiding in UFC's origin story.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/dana-white-s-comeback",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-08-12T10:15:08.709928Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dana-white-s-comeback.html"
+  },
+  {
+    "id": "the-ballsiest-ad-in-history",
+    "title": "The Ballsiest Ad in History",
+    "category": "Digital Products",
+    "description": "While other brands fight over jersey space, the smartest marketers are claiming territories everyone else is too scared to touch.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-ballsiest-ad-in-history",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-08-05T11:38:12.192677Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      },
+      {
+        "name": "Stocks & Income",
+        "url": "https://stocks-income.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/b548d37e-aedc-422c-b405-1f5f7a551b0c/thumb_stocks_and_income_800x800.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-ballsiest-ad-in-history.html"
+  },
+  {
+    "id": "chris-voss",
+    "title": "Chris Voss",
+    "category": "Digital Products",
+    "description": "\"As soon as the other side starts to hear my voice, I've got influence. I might as well start building it right away...\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/chris-voss",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-31T12:36:30.969673Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "htmlFile": "/emails/chris-voss.html",
+    "hasAds": true
+  },
+  {
+    "id": "from-prison-to-bread-empire",
+    "title": "From Prison to Bread Empire",
+    "category": "Digital Products",
+    "description": "Your next business breakthrough might be hiding in your biggest professional disaster.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/from-prison-to-bread-empire",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-29T13:31:00.359404Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/from-prison-to-bread-empire.html",
+    "hasAds": true
+  },
+  {
+    "id": "chainsmokers",
+    "title": "Chainsmokers",
+    "category": "Digital Products",
+    "description": "Their 170 deals across three VC funds happened because they treated both careers with equal professionalism.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/chainsmokers",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-21T10:06:29.616313Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chainsmokers.html"
+  },
+  {
+    "id": "the-dan-bilzerian-edge",
+    "title": "The Dan Bilzerian Edge",
+    "category": "Digital Products",
+    "description": "\"I made my money playing poker, but not because I was the best poker player—I made it because I got into the best games.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-dan-bilzerian-edge",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-07-17T15:17:35.946373Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-dan-bilzerian-edge.html"
+  },
+  {
+    "id": "every-elon-musk-business-explained",
+    "title": "Every Elon Musk Business, Explained",
+    "category": "Digital Products",
+    "description": "It's all about Mars. Every \"distraction\" is actually infrastructure.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/every-elon-musk-business-explained",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-07-15T10:58:15.41464Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/every-elon-musk-business-explained.html"
+  },
+  {
+    "id": "9-7b-exit-playbook-revealed",
+    "title": "How to Make Billions",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Wolf on Wealth",
+    "date": "2025-07-02",
+    "hasAds": true,
+    "url": "https://www.wolfonwealth.com/p/9-7b-exit-playbook-revealed",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com"
+    },
+    "advertisers": [
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "SSR_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/9-7b-exit-playbook-revealed.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "red-brand-millions",
+    "title": "Red Brand = Millions",
+    "category": "Digital Products",
+    "description": "RM: \"If you line up 100 people and fewer than 10 are interested in your product, you've got a niche problem.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/red-brand-millions",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-18T14:33:38.148406Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/red-brand-millions.html"
+  },
+  {
+    "id": "the-anti-union-talent-first-philosophy",
+    "title": "The Anti-Union, Talent-First Philosophy",
+    "category": "Digital Products",
+    "description": "DP: \"But talent, for us, we're in a talent business. So, talent pays.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-anti-union-talent-first-philosophy",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-17T13:54:49.098869Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-anti-union-talent-first-philosophy.html"
+  },
+  {
+    "id": "pay-me-20-get-back-100",
+    "title": "\"Pay Me $20, Get Back $100\"",
+    "category": "Digital Products",
+    "description": "\"Help me help you\" hits different when it comes from the guy who actually lived Jerry Maguire's story.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/pay-me-20-get-back-100",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-11T13:30:14.930187Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pay-me-20-get-back-100.html"
+  },
+  {
+    "id": "sydney-sweeney-s-bathwater-soap",
+    "title": "Sydney Sweeney's Bathwater Soap",
+    "category": "Digital Products",
+    "description": "\"I pitched it,\" said the actress, defending the bathwater bar.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/sydney-sweeney-s-bathwater-soap",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-06-09T11:58:29.611532Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/sydney-sweeney-s-bathwater-soap.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-identity-limits-income",
+    "title": "Your identity limits income",
+    "category": "Digital Products",
+    "description": "Plus: What's inside the Wolf's house? Official Stratton golf bag and more",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/your-identity-limits-income",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ],
+    "date": "2025-06-05T13:42:05.630152Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Black Tux",
+        "url": "https://theblacktux.com/",
+        "logo": "https://cdn.brandfetch.io/idZtiS4abn/w/820/h/820/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1767996378732"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-identity-limits-income.html"
+  },
+  {
+    "id": "lessons-from-tommy-chong",
+    "title": "Lessons from Tommy Chong",
+    "category": "Digital Products",
+    "description": "TC: \"If you're doing the right thing, money will appear.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/lessons-from-tommy-chong",
+    "tags": [
+      "AI",
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-05-29T13:46:27.080213Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lessons-from-tommy-chong.html"
+  },
+  {
+    "id": "how-tom-cruise-saved-ray-bans",
+    "title": "How Tom Cruise saved Ray-Bans",
+    "category": "Digital Products",
+    "description": "Hollywood's greatest product placement? When Tom Cruise genuinely wore Ray-Bans in \"Risky Business\" and \"Top Gun,\" he wasn't being paid to endorse them. He just looked cool. That's why it worked so well.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-tom-cruise-saved-ray-bans",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Health",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-27T13:11:37.565445Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-tom-cruise-saved-ray-bans.html"
+  },
+  {
+    "id": "lessons-from-logan-paul",
+    "title": "Lessons from Logan Paul",
+    "category": "Digital Products",
+    "description": "LP: \"I think the biggest mistake I made was somehow getting lost in content creation—literally sacrificing my life, my health, my well-being.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/lessons-from-logan-paul",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-05-20T13:51:43.879186Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lessons-from-logan-paul.html"
+  },
+  {
+    "id": "red-bull-s-secret-formula",
+    "title": "Red Bull's Secret Formula",
+    "category": "Digital Products",
+    "description": "The story begins with Chaleo Yoovidhya, born to poor Chinese immigrants in Thailand who farmed ducks for a living.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/red-bull-s-secret-formula",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-20T13:13:49.571557Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/red-bull-s-secret-formula.html"
+  },
+  {
+    "id": "lessons-from-patrick-bet-david",
+    "title": "Lessons from Patrick Bet-David",
+    "category": "Digital Products",
+    "description": "Patrick Bet-David's billions-dollar blueprint might be the only business education you need today.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/lessons-from-patrick-bet-david",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-05-15T12:47:47.802055Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lessons-from-patrick-bet-david.html"
+  },
+  {
+    "id": "us-retail-s-silent-killer-exposed",
+    "title": "US Retail's Silent Killer, Exposed",
+    "category": "Digital Products",
+    "description": "Joann Fabrics, Forever 21, Party City, and Big Lots all collapse despite many profitable locations",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/us-retail-s-silent-killer-exposed",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-13T14:33:51.484859Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/us-retail-s-silent-killer-exposed.html"
+  },
+  {
+    "id": "how-to-hustle-like-dan-fleyshman",
+    "title": "How to Hustle Like Dan Fleyshman",
+    "category": "Digital Products",
+    "description": "Your iPhone has more power than NASA used to reach the moon. Dan Fleyshman leveraged far less to build an empire that reached 55,000 retail stores. The only question is: what's your excuse?",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-to-hustle-like-dan-fleyshman",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-05-08T12:33:20.78165Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-hustle-like-dan-fleyshman.html"
+  },
+  {
+    "id": "michelin-s-little-red-book",
+    "title": "Michelin's Little Red Book",
+    "category": "Digital Products",
+    "description": "The greatest sales hack in history didn't happen on LinkedIn or in a fancy sales deck.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/michelin-s-little-red-book",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-06T11:08:20.107576Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/michelin-s-little-red-book.html"
+  },
+  {
+    "id": "social-media-s-1m-follower-formula",
+    "title": "Social Media's 1M-Follower Formula",
+    "category": "Digital Products",
+    "description": "Brendan Kane's journey from Hollywood coffee runs to social media mastermind reveals one thing: virality isn't random.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/social-media-s-1m-follower-formula",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-30T18:06:49.483011Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wistia",
+        "url": "https://wistia.com/",
+        "logo": "https://wistia.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/social-media-s-1m-follower-formula.html"
+  },
+  {
+    "id": "sell-status-not-products",
+    "title": "Sell Status, Not Products",
+    "category": "Digital Products",
+    "description": "Plus: 48 Laws of Power, $ 1k a day emails, and torpedo bats.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/sell-status-not-products",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-29T12:53:14.155926Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Anvara",
+        "url": "https://www.anvara.com/",
+        "logo": "https://cdn.brandfetch.io/idZXeDNcew/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767627409450"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sell-status-not-products.html"
+  },
+  {
+    "id": "closing-sales-on-the-spot",
+    "title": "Closing Sales on the Spot",
+    "category": "Digital Products",
+    "description": "While your competition stands in one place pitching features and benefits, the pros are orchestrating a physical journey that makes saying \"yes\" feel like the natural next step.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/closing-sales-on-the-spot",
+    "tags": [
+      "Finance",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-04-23T02:44:36.894045Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      },
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/closing-sales-on-the-spot.html"
+  },
+  {
+    "id": "is-starbucks-a-bank",
+    "title": "Is Starbucks a Bank?",
+    "category": "Digital Products",
+    "description": "Plus: manifestation rules, morning routines, and dealing with disappointment.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/is-starbucks-a-bank",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-21T11:20:56.186128Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-starbucks-a-bank.html"
+  },
+  {
+    "id": "your-5-day-rebuttal-playbook",
+    "title": "Your 5-day rebuttal playbook",
+    "category": "Digital Products",
+    "description": "The wolves of Wall Street weren't born, they were scripted",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/your-5-day-rebuttal-playbook",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-04-17T11:10:41.37243Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-5-day-rebuttal-playbook.html"
+  },
+  {
+    "id": "rory-mcilroy-s-portfolio",
+    "title": "Rory McIlRoy's Portfolio",
+    "category": "Digital Products",
+    "description": "RM: \"I'm proud of how I kept coming back and dusting myself off and not letting the disappointments really get to me.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/rory-mcilroy-s-portfolio",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-14T18:55:00.153712Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rory-mcilroy-s-portfolio.html"
+  },
+  {
+    "id": "dial-more-make-more-period",
+    "title": "Dial More, Make More. Period.",
+    "category": "Digital Products",
+    "description": "Top performers make 300 calls daily. Not 50, not 100 — but 300. That's your benchmark for excellence",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/dial-more-make-more-period",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-04-09T15:38:16.096805Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dial-more-make-more-period.html"
+  },
+  {
+    "id": "duke-s-loss-by-the-numbers",
+    "title": "Duke's Loss, by the Numbers",
+    "category": "Digital Products",
+    "description": "Plus: how sports betting works, Naval's harsh truths, and car finance scams to avoid.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/duke-s-loss-by-the-numbers",
+    "tags": [
+      "AI",
+      "E-commerce"
+    ],
+    "date": "2025-04-07T17:53:49.31831Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Accio AI",
+        "url": "https://www.accio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.accio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/duke-s-loss-by-the-numbers.html"
+  },
+  {
+    "id": "how-dyson-made-dirt-profitable",
+    "title": "How Dyson Made Dirt Profitable",
+    "category": "Digital Products",
+    "description": "If you've ever emptied a vacuum bag, you've experienced the exact frustration that created a 6.5B company.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-dyson-made-dirt-profitable",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-03-31T18:00:11.232903Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AISOAP",
+        "url": "https://aisoap.com/",
+        "logo": "https://cdn.brandfetch.io/idGeDpib4h/w/827/h/827/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741014787168"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-dyson-made-dirt-profitable.html"
+  },
+  {
+    "id": "what-happens-if-someone-undercuts-you",
+    "title": "What Happens if Someone Undercuts You?",
+    "category": "Digital Products",
+    "description": "Your prospects don't care what you charge — they care what you COST",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/what-happens-if-someone-undercuts-you",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-03-26T10:31:52.030444Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-happens-if-someone-undercuts-you.html"
+  },
+  {
+    "id": "sharks-passed-pepsi-paid-billions",
+    "title": "Sharks Passed, Pepsi Paid Billions",
+    "category": "Digital Products",
+    "description": "Plus: The Wolf of Wall Street is coming to...Disney?",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/sharks-passed-pepsi-paid-billions",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-24T17:51:50.975719Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sharks-passed-pepsi-paid-billions.html"
+  },
+  {
+    "id": "how-to-sell-yourself",
+    "title": "How to Sell Yourself",
+    "category": "Digital Products",
+    "description": "Ever screwed up a job interview? Everyone remembers some cringing moment. Here's how to properly sell yourself.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-to-sell-yourself",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-19T10:17:56.657008Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-sell-yourself.html"
+  },
+  {
+    "id": "elon-s-stress-response-cycle",
+    "title": "Elon's Stress Response Cycle",
+    "category": "Digital Products",
+    "description": "EM: “Don't let stress sideline you. Instead, use it as fuel to keep rocketing ahead, maybe even to Mars.”",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/elon-s-stress-response-cycle",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-17T14:59:28.257336Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-s-stress-response-cycle.html"
+  },
+  {
+    "id": "steal-back-1-hour-each-day",
+    "title": "Steal Back 1 Hour Each Day",
+    "category": "Digital Products",
+    "description": "MF: \"Learning how to delegate is essential for every entrepreneur.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/steal-back-1-hour-each-day",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-03-12T15:12:18.689142Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "DIRTEA",
+        "url": "https://us.dirteaworld.com/",
+        "logo": "https://cdn.brandfetch.io/idnCjk3SA1/w/612/h/612/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1768822221136"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/steal-back-1-hour-each-day.html"
+  },
+  {
+    "id": "stop-chasing-wooden-leads",
+    "title": "Stop Chasing Wooden Leads",
+    "category": "Digital Products",
+    "description": "Discover how Neil Patel transformed his business by stopping this common lead mistake",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/stop-chasing-wooden-leads",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-03-10T09:53:29.640216Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "DIRTEA",
+        "url": "https://us.dirteaworld.com/",
+        "logo": "https://cdn.brandfetch.io/idnCjk3SA1/w/612/h/612/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1768822221136"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-chasing-wooden-leads.html"
+  },
+  {
+    "id": "your-first-full-loop",
+    "title": "Your First Full Loop",
+    "category": "Digital Products",
+    "description": "Stop letting \"think about it\" derail your sales process – start looping.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/your-first-full-loop",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-03-05T11:02:51.388515Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-first-full-loop.html"
+  },
+  {
+    "id": "mrbeast-success-became-his-prison",
+    "title": "MrBeast: Success Became His Prison",
+    "category": "Digital Products",
+    "description": "What happens when you become too essential? MrBeast shares all",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/mrbeast-success-became-his-prison",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-03-02T13:08:54.669631Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "htmlFile": "/emails/mrbeast-success-became-his-prison.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-forrest-gump-pattern",
+    "title": "The Forrest Gump Pattern ",
+    "category": "Digital Products",
+    "description": "FG: \"I guess we're not strangers anymore\" and how Gary Vee used this method to build his wine empire.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-forrest-gump-pattern",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-27T04:36:14.705402Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-forrest-gump-pattern.html"
+  },
+  {
+    "id": "machine-broken-follow-the-money",
+    "title": "Machine broken? Follow the money",
+    "category": "Digital Products",
+    "description": "This startup exposed the 900M repair racket targeting you",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/machine-broken-follow-the-money",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-24T15:01:40.255996Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/machine-broken-follow-the-money.html"
+  },
+  {
+    "id": "the-tritonal-closing-pattern",
+    "title": "The Tritonal Closing Pattern",
+    "category": "Digital Products",
+    "description": "Ever notice how the best salespeople sound different at the end of a pitch than they do at the start? That's not an accident.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-tritonal-closing-pattern",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-02-19T11:11:06.495546Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "https://assets.betterhelp.com/brand/betterhelp/apple-touch-icon.png?v=ab3ccb07d4f4"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-tritonal-closing-pattern.html"
+  },
+  {
+    "id": "gatekeepers-hate-this-approach",
+    "title": "Gatekeepers HATE this approach",
+    "category": "Digital Products",
+    "description": "Plus: Mark Cuban's early-bird strategy for bypassing gatekeepers completely",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/gatekeepers-hate-this-approach",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-17T15:18:50.029214Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gatekeepers-hate-this-approach.html"
+  },
+  {
+    "id": "the-75m-furniture-store-gamble",
+    "title": "The 75M Furniture Store Gamble",
+    "category": "Digital Products",
+    "description": "He bet big. His customers got the \"W.\" Business lessons from Mattress Mack.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-75m-furniture-store-gamble",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-02-12T14:10:54.724139Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "DIRTEA",
+        "url": "https://us.dirteaworld.com/",
+        "logo": "https://cdn.brandfetch.io/idnCjk3SA1/w/612/h/612/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1768822221136"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-75m-furniture-store-gamble.html"
+  },
+  {
+    "id": "master-sales-prospecting",
+    "title": "Master Sales Prospecting",
+    "category": "Digital Products",
+    "description": "Here's the story of how Peloton learned which customers to say no to, to make it big.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/master-sales-prospecting",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-06T11:18:24.05176Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/master-sales-prospecting.html"
+  },
+  {
+    "id": "what-crisis-teaches-us-about-closing",
+    "title": "What crisis teaches us about closing",
+    "category": "Digital Products",
+    "description": "Everyone thought Anne Wojcicki was crazy leaving Goldman Sachs to sell DNA tests, but she grasped something essential about success: certainty doesn't come from market analysis, it comes from mission clarity.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/what-crisis-teaches-us-about-closing",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-21T16:10:41.265046Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "DIRTEA",
+        "url": "https://us.dirteaworld.com/",
+        "logo": "https://cdn.brandfetch.io/idnCjk3SA1/w/612/h/612/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1768822221136"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-crisis-teaches-us-about-closing.html"
+  },
+  {
+    "id": "from-board-game-to-digital-giant",
+    "title": "From Board Game to Digital Giant",
+    "category": "Digital Products",
+    "description": "Smart innovation isn't about changing what people love — it's about making them love it more.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/from-board-game-to-digital-giant",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-21T14:07:58.050776Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/from-board-game-to-digital-giant.html",
+    "hasAds": true
+  },
+  {
+    "id": "stop-dressing-for-the-wrong-job",
+    "title": "Stop dressing for the wrong job",
+    "category": "Digital Products",
+    "description": "Warby Parker teaches us how successful people align their appearance with their asking price",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/stop-dressing-for-the-wrong-job",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-16T14:02:01.499316Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-dressing-for-the-wrong-job.html"
+  },
+  {
+    "id": "win-trust-in-4-seconds-flat",
+    "title": "Win Trust in 4 Seconds Flat",
+    "category": "Digital Products",
+    "description": "Like JB, Steve Jobs understood something profound about human psychology: you have 4 seconds to make a first impression.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/win-trust-in-4-seconds-flat",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-14T14:47:22.492143Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Raptive",
+        "url": "https://raptive.com/",
+        "logo": "https://raptive.com/wp-content/uploads/2023/04/cropped-favicon-270x270-1-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/win-trust-in-4-seconds-flat.html"
+  },
+  {
+    "id": "how-slack-profited-from-email-overload",
+    "title": "How Slack Profited From Email Overload",
+    "category": "Digital Products",
+    "description": "Every lost deal reveals a hidden pain point. Here's how Slack found theirs.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-slack-profited-from-email-overload",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-09T15:01:01.954562Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/how-slack-profited-from-email-overload.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-most-important-step-in-sales",
+    "title": "The Most Important Step in Sales",
+    "category": "Digital Products",
+    "description": "QVC turned a nervous mom into a millionaire by fixing her opening script. Stratton Oakmont built an empire on perfect first impressions. Here's the science behind both.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-most-important-step-in-sales",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-07T18:05:46.40761Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-most-important-step-in-sales.html"
+  },
+  {
+    "id": "how-coca-cola-s-santa-changed-christmas-forever",
+    "title": "How Coca-Cola's Santa Changed Christmas Forever",
+    "category": "Digital Products",
+    "description": "Here's how a Depression-era advertising campaign changed how the world sees Santa Claus forever.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/how-coca-cola-s-santa-changed-christmas-forever",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-20T14:57:38.040661Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-coca-cola-s-santa-changed-christmas-forever.html"
+  },
+  {
+    "id": "fedex-turning-impossible-into-tuesday",
+    "title": "FedEx: Turning Impossible Into Tuesday",
+    "category": "Digital Products",
+    "description": "While others saw shipping as moving boxes, Fred Smith was selling peace of mind.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/fedex-turning-impossible-into-tuesday",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2024-12-19T11:28:19.690652Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fedex-turning-impossible-into-tuesday.html"
+  },
+  {
+    "id": "gymshark-s-secret-growth-weapon-exposed",
+    "title": "Gymshark's secret growth weapon exposed",
+    "category": "Digital Products",
+    "description": "While established brands were playing it safe, a teenage fitness enthusiast was rewriting the rules of athletic wear from his bedroom.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/gymshark-s-secret-growth-weapon-exposed",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-17T10:18:40.792283Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gymshark-s-secret-growth-weapon-exposed.html"
+  },
+  {
+    "id": "nike-s-500-startup-success-story",
+    "title": "Nike's $500 Startup Success Story",
+    "category": "Digital Products",
+    "description": "Phil Knight slept in cars and built Nike from pure hustle. Here's the blueprint.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/nike-s-500-startup-success-story",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ],
+    "date": "2024-11-30T03:45:57.268734Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "https://cdn.brandfetch.io/id_0dwKPKT/w/399/h/399/theme/dark/icon.jpeg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nike-s-500-startup-success-story.html"
+  },
+  {
+    "id": "from-car-living-to-ranch-empire",
+    "title": "From Car-Living to Ranch Empire ",
+    "category": "Digital Products",
+    "description": "TS: \"I was real rich for 45 minutes - then I was broke again.\"",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/from-car-living-to-ranch-empire",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-20T13:46:00.533776Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/from-car-living-to-ranch-empire.html"
+  },
+  {
+    "id": "mcdonald-s-greatest-mistake",
+    "title": "McDonald's greatest mistake",
+    "category": "Digital Products",
+    "description": "Reminder: your biggest threat isn't competition, it's forgetting what made you great.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/mcdonald-s-greatest-mistake",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-11-18T12:19:43.483608Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "htmlFile": "/emails/mcdonald-s-greatest-mistake.html",
+    "hasAds": true
+  },
+  {
+    "id": "more-money-less-votes",
+    "title": "More money, less votes",
+    "category": "Digital Products",
+    "description": "How do you turn $1B into $20M in debt? Ask Kamala Harris's campaign team.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/more-money-less-votes",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-11-13T08:11:43.815527Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Insurify Auto",
+        "url": "https://insurify.com/",
+        "logo": "https://cdn.brandfetch.io/idI4iLbZaE/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1771457205976"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/more-money-less-votes.html"
+  },
+  {
+    "id": "the-first-influencer",
+    "title": "The First Influencer? ",
+    "category": "Digital Products",
+    "description": "From homemaker to Wall Street to prison and back again.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/the-first-influencer",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-11-11T15:18:34.365351Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=comparecredit.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-first-influencer.html"
+  },
+  {
+    "id": "presidential-advice",
+    "title": "Presidential Advice",
+    "category": "Digital Products",
+    "description": "Meet the economist turned President who runs Argentina like a business.",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/presidential-advice",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-10-23T12:54:03.984085Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/presidential-advice.html",
+    "hasAds": true
+  },
+  {
+    "id": "ray-dalio-vs-peter-thiel",
+    "title": "Ray Dalio vs. Peter Thiel",
+    "category": "Digital Products",
+    "description": "2 billionaires, 1 game-changing lesson about true success",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/ray-dalio-vs-peter-thiel",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-10-21T14:46:10.705666Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=comparecredit.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ray-dalio-vs-peter-thiel.html"
+  },
+  {
+    "id": "take-control-of-the-sale",
+    "title": "Take Control of the Sale",
+    "category": "Digital Products",
+    "description": "People don't buy from those they don't trust",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/take-control-of-the-sale",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-10-16T13:30:28.262215Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lysted",
+        "url": "https://lysted.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=lysted.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/take-control-of-the-sale.html"
+  },
+  {
+    "id": "good-vs-bad-listening",
+    "title": "Good vs. Bad Listening",
+    "category": "Digital Products",
+    "description": "Plus: a note straight from Jordan about how you can use this technique to improve your listening skills",
+    "author": "The Wolf on Wealth",
+    "url": "https://www.wolfonwealth.com/p/good-vs-bad-listening",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2024-07-25T10:42:52.191246Z",
+    "publisher": {
+      "name": "The Wolf on Wealth",
+      "url": "https://www.wolfonwealth.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/good-vs-bad-listening.html"
+  }
+]

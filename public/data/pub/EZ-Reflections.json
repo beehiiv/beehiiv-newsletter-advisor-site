@@ -1,0 +1,1492 @@
+[
+  {
+    "id": "the-stream-of-consciousness",
+    "title": "The Stream of Consciousness",
+    "description": "",
+    "date": "2026-02-22",
+    "author": "EZ Reflections",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/the-stream-of-consciousness",
+    "hasHtml": true,
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/the-stream-of-consciousness.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-blank-canvas-that-is-life",
+    "title": "The Blank Canvas That Is Life",
+    "category": "Digital Products",
+    "description": "",
+    "author": "EZ Reflections",
+    "url": "https://ez-reflections-newsletter.beehiiv.com",
+    "tags": [
+      "AI",
+      "Health",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2026-02-15T22:55:33.844833Z",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/the-blank-canvas-that-is-life.html",
+    "hasAds": true
+  },
+  {
+    "id": "freedom-is-never-the-easy-road",
+    "title": "Freedom Is Never the Easy Road",
+    "category": "Digital Products",
+    "description": "",
+    "author": "EZ Reflections",
+    "url": "https://ez-reflections-newsletter.beehiiv.com",
+    "tags": [
+      "Business",
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T05:03:40.038559Z",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "https://fintechtakes.com/wp-content/uploads/sites/8/2024/03/fav-icon-300x300.png"
+      },
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "htmlFile": "/emails/freedom-is-never-the-easy-road.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-art-of-healing-without-words",
+    "title": "The Art of Healing Without Words",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2026-02-03",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-art-of-healing-without-words",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Acadia Learning",
+        "url": "https://acadialearning.org/",
+        "logo": "ALlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-art-of-healing-without-words.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "does-evil-survive-without-good",
+    "title": "Does Evil Survive Without Good? ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2026-01-13",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/does-evil-survive-without-good",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      },
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "bh_logo_large__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/does-evil-survive-without-good.html",
+    "tags": [
+      "Health",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-process-of-individuation",
+    "title": "The Process of Individuation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2026-01-06",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-process-of-individuation",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "bh_logo_large__1___1_.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      },
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "thepourover.png"
+      }
+    ],
+    "htmlFile": "/emails/the-process-of-individuation.html",
+    "tags": [
+      "Finance",
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-natural-order-of-things",
+    "title": "The Natural Order of Things",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-12-23",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-natural-order-of-things",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "bh_logo_large__1___1_.png"
+      },
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/the-natural-order-of-things.html",
+    "tags": [
+      "Finance",
+      "Health",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "immersed-in-self-belief",
+    "title": "Immersed in Self-Belief",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-12-16",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/immersed-in-self-belief",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "bh_logo_large__1___1_.png"
+      },
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/immersed-in-self-belief.html",
+    "tags": [
+      "Finance",
+      "Health",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "why-we-need-hope",
+    "title": "Why We Need Hope",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-12-09",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/why-we-need-hope",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/why-we-need-hope.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "judging-what-we-do-not-know",
+    "title": "Judging What We Do Not Know",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-12-02",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/judging-what-we-do-not-know",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/judging-what-we-do-not-know.html",
+    "tags": [
+      "Business",
+      "Marketing",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "are-we-headed-for-utopia",
+    "title": "Are We Headed for Utopia?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/are-we-headed-for-utopia",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      },
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/are-we-headed-for-utopia.html",
+    "tags": [
+      "Careers",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "let-s-talk-about-sex",
+    "title": "Let's Talk About Sex",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-11-18",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/let-s-talk-about-sex",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "fintech-logo-300x139.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/let-s-talk-about-sex.html",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "escaping-the-prison-of-the-mind",
+    "title": "Escaping the Prison of the Mind",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-11-11",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/escaping-the-prison-of-the-mind",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "gtm_beehiiv_logo.png"
+      },
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/escaping-the-prison-of-the-mind.html",
+    "tags": [
+      "AI",
+      "E-commerce",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-dark-side-of-human-behaviour",
+    "title": "The Dark Side of Human Behaviour",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-11-04",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-dark-side-of-human-behaviour",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "AUTHOR_INC.png"
+      },
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "fintech-logo-300x139.png"
+      }
+    ],
+    "htmlFile": "/emails/the-dark-side-of-human-behaviour.html",
+    "tags": [
+      "Finance",
+      "Health",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "confronting-shame",
+    "title": "Confronting Shame",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-10-28",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/confronting-shame",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "AUTHOR_INC.png"
+      },
+      {
+        "name": "trainwell",
+        "url": "https://www.trainwell.net/",
+        "logo": "Screenshot_2025-08-26_at_9.32.14_AM.png"
+      }
+    ],
+    "htmlFile": "/emails/confronting-shame.html",
+    "tags": [
+      "Health",
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS",
+      "Sports"
+    ]
+  },
+  {
+    "id": "discipline-is-freedom",
+    "title": "Discipline is Freedom",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-10-21",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/discipline-is-freedom",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Contrarian Thinking",
+        "url": "https://contrarianthinking.co/",
+        "logo": "CT_Logo__1_.png"
+      },
+      {
+        "name": "GURU",
+        "url": "https://guruconference.com/",
+        "logo": "https://guruconference.com/Content/favicon/android-icon-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/discipline-is-freedom.html",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-importance-of-curiosity",
+    "title": "The Importance of Curiosity",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-10-14",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-importance-of-curiosity",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-importance-of-curiosity.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-will-you-do",
+    "title": "What Will You Do?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-10-07",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/what-will-you-do",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/what-will-you-do.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "do-you-dream",
+    "title": "Do you dream?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-09-30",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/do-you-dream",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/do-you-dream.html",
+    "tags": [
+      "AI",
+      "Health",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "do-you-speak-the-truth",
+    "title": "Do You Speak the Truth?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-09-23",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/do-you-speak-the-truth",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/do-you-speak-the-truth.html",
+    "tags": [
+      "AI",
+      "Health",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-intersection-of-masculinity-and-mental-health",
+    "title": "The Intersection of Masculinity and Mental Health",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-09-16",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-intersection-of-masculinity-and-mental-health",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/the-intersection-of-masculinity-and-mental-health.html",
+    "tags": [
+      "AI",
+      "Health",
+      "Newsletter",
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "taming-the-inner-animal",
+    "title": "Taming the Inner Animal",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-09-09",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/taming-the-inner-animal",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/taming-the-inner-animal.html",
+    "tags": [
+      "AI",
+      "Health",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "remember-who-we-were",
+    "title": "Remember Who We Were",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-09-02",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/remember-who-we-were",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/remember-who-we-were.html",
+    "tags": [
+      "AI",
+      "Health",
+      "Newsletter",
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "the-grand-design-1c67",
+    "title": "The Grand Design",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-grand-design-1c67",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-grand-design-1c67.html",
+    "tags": [
+      "AI",
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "learning-from-our-ancestors-6584",
+    "title": "Learning from our Ancestors",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/learning-from-our-ancestors-6584",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      },
+      {
+        "name": "Superpower",
+        "url": "https://superpower.com/",
+        "logo": "superpowerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/learning-from-our-ancestors-6584.html",
+    "tags": [
+      "Health",
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "the-monsters-that-lurk-beneath-5c70",
+    "title": "The Monsters that Lurk Beneath",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-08-12",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-monsters-that-lurk-beneath-5c70",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      }
+    ],
+    "htmlFile": "/emails/the-monsters-that-lurk-beneath-5c70.html",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "why-necessity-is-the-mother-of-invention-the-problems-worth-solving-20d7",
+    "title": "Why Necessity is the Mother of Invention: The Problems Worth Solving",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/why-necessity-is-the-mother-of-invention-the-problems-worth-solving-20d7",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      },
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/why-necessity-is-the-mother-of-invention-the-problems-worth-solving-20d7.html",
+    "tags": [
+      "Health",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-is-male-empathy-6ed4",
+    "title": "What is Male Empathy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-07-01",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/what-is-male-empathy-6ed4",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/what-is-male-empathy-6ed4.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "taking-care-of-unfinished-business-c603",
+    "title": "Taking Care of Unfinished Business",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-06-24",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/taking-care-of-unfinished-business-c603",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/taking-care-of-unfinished-business-c603.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "when-fathers-stumble",
+    "title": "When Fathers Stumble",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-06-17",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/when-fathers-stumble",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/when-fathers-stumble.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "balancing-family-and-purpose-2139",
+    "title": "Balancing Family and Purpose",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/balancing-family-and-purpose-2139",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/balancing-family-and-purpose-2139.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "allying-with-the-inner-saboteur-ca70",
+    "title": "Allying with the Inner Saboteur",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-06-03",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/allying-with-the-inner-saboteur-ca70",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/allying-with-the-inner-saboteur-ca70.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "integrating-awareness-e0e4",
+    "title": "Integrating Awareness",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-05-27",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/integrating-awareness-e0e4",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Headway",
+        "url": "https://headway.co/",
+        "logo": "HeadwaySMALL.png"
+      }
+    ],
+    "htmlFile": "/emails/integrating-awareness-e0e4.html",
+    "tags": [
+      "Education",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "finding-stillness-de6e",
+    "title": "Finding Stillness",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-05-20",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/finding-stillness-de6e",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/finding-stillness-de6e.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-issue-with-modern-relationships",
+    "title": "The Issue with Modern Relationships",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-05-13",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-issue-with-modern-relationships",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Headway",
+        "url": "https://headway.co/",
+        "logo": "HeadwaySMALL.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-issue-with-modern-relationships.html",
+    "tags": [
+      "AI",
+      "Education",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "building-an-olympic-mindset",
+    "title": "Building an Olympic Mindset",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-05-06",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/building-an-olympic-mindset",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "Beehiiv_Newsletter_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/building-an-olympic-mindset.html",
+    "tags": [
+      "E-commerce",
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "awareness-and-responsibility",
+    "title": "Awareness and Responsibility",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-04-29",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/awareness-and-responsibility",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Headway",
+        "url": "https://headway.co/",
+        "logo": "HeadwaySMALL.png"
+      }
+    ],
+    "htmlFile": "/emails/awareness-and-responsibility.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "why-the-act-of-service-matters",
+    "title": "Why the Act of Service Matters",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-04-22",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/why-the-act-of-service-matters",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/why-the-act-of-service-matters.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "leadership-with-accountability-and-ownership",
+    "title": "Leadership with Accountability and Ownership",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-04-15",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/leadership-with-accountability-and-ownership",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/leadership-with-accountability-and-ownership.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-truth-will-set-you-free",
+    "title": "The Truth Will Set You Free",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-04-08",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-truth-will-set-you-free",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "SoundSelf",
+        "url": "https://soundself.com/",
+        "logo": "soundself.png"
+      }
+    ],
+    "htmlFile": "/emails/the-truth-will-set-you-free.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "the-gift-of-parenting",
+    "title": "The Gift of Parenting",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-03-31",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-gift-of-parenting",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-gift-of-parenting.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "paying-attention-to-propaganda",
+    "title": "Paying Attention to Propaganda",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-03-18",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/paying-attention-to-propaganda",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/paying-attention-to-propaganda.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "to-live-a-virtuous-life",
+    "title": "To Live a Virtuous Life",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-03-11",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/to-live-a-virtuous-life",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/to-live-a-virtuous-life.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-cost-of-consciousness",
+    "title": "The Cost of Consciousness",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-03-04",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-cost-of-consciousness",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-cost-of-consciousness.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "to-be-a-lighthouse-for-others",
+    "title": "To be a Lighthouse for Others",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-02-25",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/to-be-a-lighthouse-for-others",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/to-be-a-lighthouse-for-others.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-power-of-perseverance-and-stumbling-upon-answers",
+    "title": "Perseverance and Stumbling Upon Answers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "EZ Reflections",
+    "date": "2025-02-11",
+    "hasAds": true,
+    "url": "https://ez-reflections-newsletter.beehiiv.com/p/the-power-of-perseverance-and-stumbling-upon-answers",
+    "publisher": {
+      "name": "EZ Reflections",
+      "url": "https://ez-reflections-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-power-of-perseverance-and-stumbling-upon-answers.html",
+    "tags": [
+      "Marketing"
+    ]
+  }
+]

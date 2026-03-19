@@ -1,0 +1,110 @@
+[
+  {
+    "id": "rejection-sensitive-dysphoria",
+    "title": "REJECTION SENSITIVE DYSPHORIA",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Unmasked By MindedSouls",
+    "date": "2026-02-28",
+    "htmlFile": "/emails/rejection-sensitive-dysphoria.html",
+    "hasAds": true,
+    "url": "https://mindedsouls.com/p/rejection-sensitive-dysphoria",
+    "publisher": {
+      "name": "Unmasked By MindedSouls",
+      "url": "https://mindedsouls.com"
+    },
+    "bgColor": "#00054FFF",
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "social-media-gives-head-too",
+    "title": "SOCIAL MEDIA GIVES HEAD TOO",
+    "category": "Digital Products",
+    "description": "Its A Slippery Slope",
+    "author": "Unmasked By MindedSouls",
+    "url": "https://mindedsouls.com",
+    "tags": [
+      "Finance",
+      "Investing",
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2026-02-22T22:36:41.106999Z",
+    "publisher": {
+      "name": "Unmasked By MindedSouls",
+      "url": "https://mindedsouls.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      },
+      {
+        "name": "EnergyX",
+        "url": "https://energyx.com/",
+        "logo": "https://energyx.com/app/uploads/2020/03/android-chrome-384x384-1-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/social-media-gives-head-too.html",
+    "hasAds": true
+  },
+  {
+    "id": "drained-by-hidden-vampires",
+    "title": "Drained By Hidden Vampires",
+    "category": "Digital Products",
+    "description": "The Energy Leech Frogs",
+    "author": "Unmasked By MindedSouls",
+    "url": "https://mindedsouls.com",
+    "tags": [
+      "AI",
+      "Business",
+      "News",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2026-02-08T19:01:29.750419Z",
+    "publisher": {
+      "name": "Unmasked By MindedSouls",
+      "url": "https://mindedsouls.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neo",
+        "url": "https://neobrowser.ai/",
+        "logo": "https://framerusercontent.com/images/MW5d272dTRfC14rRCoM6ygjb4.png"
+      },
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/drained-by-hidden-vampires.html",
+    "hasAds": true
+  }
+]

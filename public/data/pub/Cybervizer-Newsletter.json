@@ -1,0 +1,1993 @@
+[
+  {
+    "id": "virtualization-blind-spot",
+    "title": "The Virtualization Blind Spot",
+    "category": "Digital Products",
+    "description": "Why attackers are targeting the hypervisor + VMware Zero-Days",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/virtualization-blind-spot",
+    "tags": [
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2026-02-24T00:00:00Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "IT Brew",
+        "url": "https://www.itbrew.com/",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/virtualization-blind-spot.html",
+    "hasAds": true
+  },
+  {
+    "id": "machine-lifeline",
+    "title": "Your Hiring Crisis Ends with a Machine Lifeline ",
+    "category": "Digital Products",
+    "description": "Rescuing your best people from burnout with an AI workforce",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/machine-lifeline",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-06T01:08:17.607475Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/machine-lifeline.html",
+    "hasAds": true
+  },
+  {
+    "id": "end-mfa-era",
+    "title": "The End of the \"MFA as a Silver Bullet\" Era",
+    "category": "Digital Products",
+    "description": "The Authentication War and a False Sense of Security",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/end-mfa-era",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-05T17:48:21.762389Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/end-mfa-era.html"
+  },
+  {
+    "id": "deepfake-vishing",
+    "title": "Deepfake Vishing: When the Boss Calls with a \"Crisis\"",
+    "category": "Digital Products",
+    "description": "Why \"Safe Words\" are becoming a standard corporate protocol",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/deepfake-vishing",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-03T20:42:05.799707Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deepfake-vishing.html"
+  },
+  {
+    "id": "hijack-ai-agents",
+    "title": "The \"Confused Deputy\": How Attackers Hijack AI Agents",
+    "category": "Digital Products",
+    "description": "We need to talk about the rush to give AI \"arms and legs.\"",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/hijack-ai-agents",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-27T17:19:29.121779Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hijack-ai-agents.html"
+  },
+  {
+    "id": "beyond-transformers",
+    "title": "Beyond Transformers: The Rise of New AI with Infinite Context ",
+    "category": "Digital Products",
+    "description": "Upcoming models will introduce \"Neural Memory,\" allowing AI to \"To memorize and train itself on your data as it reads it",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/beyond-transformers",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-20T18:27:42.352472Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/beyond-transformers.html"
+  },
+  {
+    "id": "workforce-transformation",
+    "title": "The Wild Workforce Transformation ",
+    "category": "Digital Products",
+    "description": "Why You Need an \"AI Auditor\" Now 🎓 & Agentic SOC",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/workforce-transformation",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-12T22:55:32.042805Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/workforce-transformation.html"
+  },
+  {
+    "id": "144-1-ratio",
+    "title": "The 144:1 Ratio: Why Non-Human Identities Are Your Biggest Risk 🤖 ",
+    "category": "Digital Products",
+    "description": "Machine identities explode and far outnumber humans in the enterprise",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/144-1-ratio",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-05T17:01:03.320711Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/144-1-ratio.html"
+  },
+  {
+    "id": "oauth-backdoor",
+    "title": "The OAuth Backdoor: Is Your MFA Broken 🔓",
+    "category": "Digital Products",
+    "description": "Microsoft 365 device code attacks surge + React2Shell Critical Zero-Day)",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/oauth-backdoor",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-23T19:40:59.359529Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Coactive",
+        "url": "https://www.coactive.ai/",
+        "logo": "https://cdn.prod.website-files.com/6690d1954ec4c8275f8b8b44/6690d25123f245732a2f0658_favicon-8.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/oauth-backdoor.html"
+  },
+  {
+    "id": "human-firewall",
+    "title": "🧠 The Human Firewall Fail",
+    "category": "Digital Products",
+    "description": "Why training isn't enough + The behavioral fix",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/human-firewall",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-22T18:35:41.966941Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/human-firewall.html"
+  },
+  {
+    "id": "self-healing-ai",
+    "title": "The Resilience Pivot & The Rise of Self-Healing AI",
+    "category": "Digital Products",
+    "description": "Why prevention is failing + The new CISO mandate",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/self-healing-ai",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-18T13:20:01.839041Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/self-healing-ai.html"
+  },
+  {
+    "id": "holiday-siege",
+    "title": "The Holiday Siege: Why Ransomware Loves Your \"Out of Office\" 🎄",
+    "category": "Digital Products",
+    "description": "52% of attacks happen on holidays + React2Shell Critical Zero-Day",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/holiday-siege",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-12-08T21:51:33.301591Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/holiday-siege.html"
+  },
+  {
+    "id": "credential-crisis",
+    "title": "The Credential Crisis & The AI Defense",
+    "category": "Digital Products",
+    "description": "New data reveals 50% of all ransomware attacks now start with compromised credentials, making identity the new perimeter",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/credential-crisis",
+    "tags": [
+      "Education"
+    ],
+    "date": "2025-12-01T22:04:42.376717Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/credential-crisis.html"
+  },
+  {
+    "id": "agentic-soc",
+    "title": "Force Multiplication With Agentic SOC",
+    "category": "Digital Products",
+    "description": "Solving the talent gap with agentic AI and human partnership",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/agentic-soc",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-25T18:29:28.656906Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/agentic-soc.html",
+    "hasAds": true
+  },
+  {
+    "id": "cyber-insurance-terms",
+    "title": "How AI-Powered Threats Are Reshaping Cyber Insurance Terms",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cybervizer Newsletter",
+    "date": "2025-11-18",
+    "hasAds": true,
+    "url": "https://www.cybervizer.com/p/cyber-insurance-terms",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/cyber-insurance-terms.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "shadow-ai-in-the-enterprise",
+    "title": "Shadow AI in the Enterprise",
+    "category": "Digital Products",
+    "description": "Unapproved tools and hidden models are creating new blind spots in security posture",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/shadow-ai-in-the-enterprise",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-11-06T18:52:40.592242Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/shadow-ai-in-the-enterprise.html"
+  },
+  {
+    "id": "security-leaders-awake",
+    "title": "What Five Things Keeps Security Leaders Awake at Night",
+    "category": "Digital Products",
+    "description": "Issues forcing CISOs to rethink risk, resilience, and responsibility",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/security-leaders-awake",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-28T00:42:48.367058Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/security-leaders-awake.html",
+    "hasAds": true
+  },
+  {
+    "id": "5-chilling-ways",
+    "title": "5 Chilling Ways Generative AI is a Cybersecurity Threat",
+    "category": "Digital Products",
+    "description": "What leaders need to know about the unseen risks lurking behind generative AI",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/5-chilling-ways",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-23T16:33:13.1441Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-chilling-ways.html"
+  },
+  {
+    "id": "2026-reward",
+    "title": "Why 2026 Will Reward the Enterprises that Balance Intelligent Automation with Human Insight",
+    "category": "Digital Products",
+    "description": "Why tomorrow’s most trusted brands will master the art of AI-human collaboration",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/2026-reward",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-22T12:43:00.498366Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2026-reward.html"
+  },
+  {
+    "id": "ai-disruption",
+    "title": "How Enterprise Leaders are Turning AI Disruption into Long-term Competitive Advantage",
+    "category": "Digital Products",
+    "description": "Why sustainable advantage in the AI era depends on governance, agility, and purpose",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/ai-disruption",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-12T13:44:18.982638Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-disruption.html",
+    "hasAds": true
+  },
+  {
+    "id": "five-ai-key-trends",
+    "title": "Five Key Trends Shaping AI Heading into 2026",
+    "category": "Digital Products",
+    "description": "From regulation to reasoning engines, the forces that will reshape AI’s global trajectory",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/five-ai-key-trends",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-07T12:51:49.281379Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/five-ai-key-trends.html",
+    "hasAds": true
+  },
+  {
+    "id": "agentic-ai-attackers",
+    "title": "When Agentic AI Attackers Lead the Breach",
+    "category": "Digital Products",
+    "description": "Addresses attackers using AI agents to autonomously breach systems at scale.",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/agentic-ai-attackers",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-09-15T00:00:32.383588Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/agentic-ai-attackers.html"
+  },
+  {
+    "id": "good-guy-ai",
+    "title": "When Bad Guy AI Meets Good Guy AI, And How to Stay Ahead",
+    "category": "Digital Products",
+    "description": "Five things leaders must know as artificial intelligence rewrites cyber strategy",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/good-guy-ai",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-29T12:59:25.758632Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/good-guy-ai.html"
+  },
+  {
+    "id": "cyber-war-one-scenario",
+    "title": "Cyber War: One Scenario",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cybervizer Newsletter",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://www.cybervizer.com/p/cyber-war-one-scenario",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com"
+    },
+    "advertisers": [
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "Syllaby_BlackText__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/cyber-war-one-scenario.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "velocity-of-patching",
+    "title": "What Every Leader Needs to Know About the Velocity of Patching",
+    "category": "Digital Products",
+    "description": "Here are seven important things you need to know",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/velocity-of-patching",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-08-07T11:44:40.258515Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "https://cdn.prod.website-files.com/686c116534831e8f603168b9/686eca3d5b6f6d932f4f1c57_delve_favicon-large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/velocity-of-patching.html"
+  },
+  {
+    "id": "automating-the-soc-with-ai-driven-threat-detection-and-response",
+    "title": "Automating the SOC With AI-Driven Threat Detection and Response",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cybervizer Newsletter",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://www.cybervizer.com/p/automating-the-soc-with-ai-driven-threat-detection-and-response",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/automating-the-soc-with-ai-driven-threat-detection-and-response.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ot-attacks-surge",
+    "title": "OT Attacks Surge 146% – Critical Infrastructure Wake-Up Call",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cybervizer Newsletter",
+    "date": "2025-07-29",
+    "hasAds": true,
+    "url": "https://www.cybervizer.com/p/ot-attacks-surge",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      }
+    ],
+    "htmlFile": "/emails/ot-attacks-surge.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "five-emerging-threats",
+    "title": "Weaponizing AI: Five Unique and Emerging Threats Every CIO & CISO Must Anticipate",
+    "category": "Digital Products",
+    "description": "Rapid advances in generative AI are enabling threats like deepfake scams and adaptive malware, forcing security leaders to urgently rethink their defense strategies.",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/five-emerging-threats",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-07-20T20:23:31.487795Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/five-emerging-threats.html",
+    "hasAds": true
+  },
+  {
+    "id": "human-ai-five-ways-this-combination-can-augment-security-teams-for-better-protection",
+    "title": "Human + AI: Five Ways This Combination Can Augment Security Teams for Better Protection",
+    "category": "Digital Products",
+    "description": "A combination that experts say can outperform AI alone by a wide margin",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/human-ai-five-ways-this-combination-can-augment-security-teams-for-better-protection",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-12T23:25:51.822439Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/human-ai-five-ways-this-combination-can-augment-security-teams-for-better-protection.html"
+  },
+  {
+    "id": "data-protection",
+    "title": "7 Powerful Ways to Improve Your Data Protection",
+    "category": "Digital Products",
+    "description": "These seven ways can help you better protect your data",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/data-protection",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-07T12:08:34.234444Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/data-protection.html"
+  },
+  {
+    "id": "7-powerful-ways-xdr-can-escalate-your-cybersecurity-posture",
+    "title": "7 Powerful Ways XDR Can Escalate Your Cybersecurity Posture",
+    "category": "Digital Products",
+    "description": "These seven ways can help you do more with less, while improving security",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/7-powerful-ways-xdr-can-escalate-your-cybersecurity-posture",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-29T12:35:23.354047Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AI with Allie",
+        "url": "https://www.alliekmiller.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.alliekmiller.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7-powerful-ways-xdr-can-escalate-your-cybersecurity-posture.html"
+  },
+  {
+    "id": "7-hidden-cybersecurity-levers",
+    "title": "7 Hidden Cybersecurity Levers You Can Pull For Stronger Outcomes",
+    "category": "Digital Products",
+    "description": "Seven Improvements That Provide Immediate and Lasting Value",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/7-hidden-cybersecurity-levers",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-06-22T22:22:17.869777Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7-hidden-cybersecurity-levers.html"
+  },
+  {
+    "id": "rpo-and-rto",
+    "title": "Seven Things Leaders Should Know About RPO and RTO",
+    "category": "Digital Products",
+    "description": "Are Your Recovery Goals Aligned with Business Needs? Find Out!",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/rpo-and-rto",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-14T21:46:13.470512Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/rpo-and-rto.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-agents-provide-real-value",
+    "title": "7 Ways AI Agents Can Provide Real Value To A Business",
+    "category": "Digital Products",
+    "description": "I promise not to use the way over-hyped and generic travel itinerary example",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/ai-agents-provide-real-value",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-09T16:21:00.677725Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-agents-provide-real-value.html"
+  },
+  {
+    "id": "the-compounding-interest-of-security-debt",
+    "title": "The Compounding Interest of Security Debt",
+    "category": "Digital Products",
+    "description": "Why delays in patching and upgrades cost more than you think",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/the-compounding-interest-of-security-debt",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-05-16T11:52:44.641668Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-compounding-interest-of-security-debt.html"
+  },
+  {
+    "id": "the-measurement-dilemma",
+    "title": "The Measurement Dilemma: Proving Cybersecurity's Value",
+    "category": "Digital Products",
+    "description": "Metrics and KPIs that demonstrate ROI to skeptical executive stakeholders",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/the-measurement-dilemma",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-07T13:33:19.073047Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-measurement-dilemma.html"
+  },
+  {
+    "id": "7-ways-it-is-driving-operational-efficiency-and-cost-optimization",
+    "title": "7 Ways IT is Driving Operational Efficiency and Cost Optimization ",
+    "category": "Digital Products",
+    "description": "Leveraging Technology to Optimize Costs Without Compromising Service Quality",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/7-ways-it-is-driving-operational-efficiency-and-cost-optimization",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-03T13:01:42.850016Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7-ways-it-is-driving-operational-efficiency-and-cost-optimization.html"
+  },
+  {
+    "id": "don-t-be-one",
+    "title": "Don't Be One of the 86% of Global Orgs That Paid Ransom Last Year ",
+    "category": "Digital Products",
+    "description": "It is recovery, not prevention, where most cyber defenses still fail.",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/don-t-be-one",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-24T14:27:10.345488Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/don-t-be-one.html"
+  },
+  {
+    "id": "winning-ai-strategy",
+    "title": "Ensure a Winning AI Strategy with These 7 Powerful Steps",
+    "category": "Digital Products",
+    "description": "Discover Key Tactics for Secure and Ethical Innovation",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/winning-ai-strategy",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-21T01:05:47.524538Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/winning-ai-strategy.html"
+  },
+  {
+    "id": "10-powerful-actions",
+    "title": "10 Powerful Actions You Can Take To Reduce Ransomware Risk",
+    "category": "Digital Products",
+    "description": "You Can Lower Your Risk of Ransomware IntelligentlyAbove Image Credit: Halycon - https://www.halcyon.ai/attacks",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/10-powerful-actions",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-10T14:02:56.645549Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/10-powerful-actions.html"
+  },
+  {
+    "id": "the-seven-top-cyber-threats-in-2025-you-should-be-concerned-about",
+    "title": "The Seven Top Cyber Threats in 2025, You Should be Concerned About",
+    "category": "Digital Products",
+    "description": "Every Security Leader Should Know These!",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/the-seven-top-cyber-threats-in-2025-you-should-be-concerned-about",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-09T15:15:58.938902Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-seven-top-cyber-threats-in-2025-you-should-be-concerned-about.html"
+  },
+  {
+    "id": "eleven-early-indicators",
+    "title": "Eleven Early Indicators You’re Being Breached Right Now",
+    "category": "Digital Products",
+    "description": "Critical Warning Signs of Cyber Compromise Every Security Leader Must Know",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/eleven-early-indicators",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-26T20:14:28.218493Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/eleven-early-indicators.html"
+  },
+  {
+    "id": "how-security-automation-can-be-your-force-multiplier-in-2025",
+    "title": "How Security Automation Can Be Your Force Multiplier in 2025",
+    "category": "Digital Products",
+    "description": "Unlocking Next-Level Cyber Defense by Doing More With Less Effort",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/how-security-automation-can-be-your-force-multiplier-in-2025",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-03-22T20:14:17.531747Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-security-automation-can-be-your-force-multiplier-in-2025.html"
+  },
+  {
+    "id": "what-cybercriminals-look-for-when-targeting-organizations",
+    "title": "What Cybercriminals Look for When Targeting Organizations",
+    "category": "Digital Products",
+    "description": "Breaking Down the Risk Factors That Attract Hackers to Your Organization",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/what-cybercriminals-look-for-when-targeting-organizations",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-13T14:12:58.99486Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-cybercriminals-look-for-when-targeting-organizations.html"
+  },
+  {
+    "id": "how-secure-are-we-key-questions-for-leadership-to-ask-the-cio-ciso",
+    "title": "How Secure Are We? Key Questions for Leadership to Ask the CIO/CISO",
+    "category": "Digital Products",
+    "description": "Uncovering Cybersecurity Gaps, Coverage, and Readiness to Strengthen Resilience",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/how-secure-are-we-key-questions-for-leadership-to-ask-the-cio-ciso",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-03-10T13:35:23.316132Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-secure-are-we-key-questions-for-leadership-to-ask-the-cio-ciso.html"
+  },
+  {
+    "id": "first-5-cybersecurity-investments",
+    "title": "The First 5 Cybersecurity Investments I’d Make If I Was A CIO or CISO Again",
+    "category": "Digital Products",
+    "description": "Been There, Done That 4 Times... Cyber Moves I’d Prioritize from Day One",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/first-5-cybersecurity-investments",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-03-01T16:15:33.701778Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/first-5-cybersecurity-investments.html"
+  },
+  {
+    "id": "how-inadequate-cybersecurity-creates-opportunities-for-bad-actors",
+    "title": "How Inadequate Cybersecurity Creates Opportunities for Bad Actors",
+    "category": "Digital Products",
+    "description": "Unseen Weaknesses Invite Cyber Attacks",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/how-inadequate-cybersecurity-creates-opportunities-for-bad-actors",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-21T18:45:06.765425Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-inadequate-cybersecurity-creates-opportunities-for-bad-actors.html"
+  },
+  {
+    "id": "how-to-master-cybersecurity-incident-response",
+    "title": "How to Master Cybersecurity Incident Response",
+    "category": "Digital Products",
+    "description": "Constructing an Effective Incident Response Plan",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/how-to-master-cybersecurity-incident-response",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-18T19:20:34.064831Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-master-cybersecurity-incident-response.html"
+  },
+  {
+    "id": "the-right-framework",
+    "title": "Unlock AI's Full Potential with the Right Framework",
+    "category": "Digital Products",
+    "description": "Frameworks that empower you to take control of your AI journey",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/the-right-framework",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-07T13:35:02.573404Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-right-framework.html"
+  },
+  {
+    "id": "5-proven-strategies-to-secure-a-bigger-cybersecurity-budget-amazing-prompt-included",
+    "title": "5 Proven Strategies to Secure a Bigger Cybersecurity Budget (Amazing prompt included)",
+    "category": "Digital Products",
+    "description": "How CISOs and CIOs Can Make a Compelling Case for More Funding",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/5-proven-strategies-to-secure-a-bigger-cybersecurity-budget-amazing-prompt-included",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-04T14:40:22.082688Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-proven-strategies-to-secure-a-bigger-cybersecurity-budget-amazing-prompt-included.html"
+  },
+  {
+    "id": "winning-against-ransomware-with-near-real-time-recovery",
+    "title": "Winning Against Ransomware with Near Real-time Recovery",
+    "category": "Digital Products",
+    "description": "Reducing Recovery Time from Days to Hours or even Minutes",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/winning-against-ransomware-with-near-real-time-recovery",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-25T20:53:46.238452Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/winning-against-ransomware-with-near-real-time-recovery.html"
+  },
+  {
+    "id": "5-insider-secrets",
+    "title": "5 Insider Secrets to Revolutionize Your Incident Response",
+    "category": "Digital Products",
+    "description": "Transform Your Incident Response Playbook with These Expert Secrets",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/5-insider-secrets",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-20T20:30:05.86208Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-insider-secrets.html"
+  },
+  {
+    "id": "7-game-changing-moves",
+    "title": "7 Game-Changing Moves to Shield Your Organization from Ransomware Attacks!  ",
+    "category": "Digital Products",
+    "description": "🔒 Security experts are going crazy over #5",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/7-game-changing-moves",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-10T15:23:46.919953Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7-game-changing-moves.html"
+  },
+  {
+    "id": "7-critical-cybersecurity-metrics",
+    "title": "7 Critical Metrics to Prove Your Cybersecurity is Working",
+    "category": "Digital Products",
+    "description": "Why Tracking These 7 Metrics Could Save Your Organizations Millions",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/7-critical-cybersecurity-metrics",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-29T15:32:21.510276Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7-critical-cybersecurity-metrics.html"
+  },
+  {
+    "id": "2025-cyber-defenses",
+    "title": "Why 2025 Will Test the Limits of Cyber Defenses",
+    "category": "Digital Products",
+    "description": "The Rise of Autonomous Attacks: What Cyber Defenders Must Prepare For",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/2025-cyber-defenses",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-18T13:27:43.317432Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2025-cyber-defenses.html"
+  },
+  {
+    "id": "navigating-insider-threats",
+    "title": "The Silent Saboteur: Navigating Insider Threats",
+    "category": "Digital Products",
+    "description": "Innovative Strategies to Detect and Deter the Enemy Within",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/navigating-insider-threats",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-16T13:22:06.750989Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/navigating-insider-threats.html"
+  },
+  {
+    "id": "advanced-strategies-to-detect-and-recover-from-ransomware",
+    "title": "Advanced Strategies to Detect and Recover from Ransomware",
+    "category": "Digital Products",
+    "description": "Don't pay, Don't Panic: Detect Faster, Recover in Hours, Not Weeks",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/advanced-strategies-to-detect-and-recover-from-ransomware",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-08T23:09:11.936623Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/advanced-strategies-to-detect-and-recover-from-ransomware.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-powered-security-revolution",
+    "title": "The AI-Powered Security Revolution: Hype or Reality?",
+    "category": "Digital Products",
+    "description": "Separating fact from fiction in the world of AI-driven cybersecurity solutions",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/ai-powered-security-revolution",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-12-03T16:21:07.15051Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-powered-security-revolution.html"
+  },
+  {
+    "id": "ransomware-in-2025-7-myths-that-could-put-you-at-risk-2b8e0849e6704e01",
+    "title": "Seven Reasons a Security Platform Approach  Outperforms Best-of-Breed",
+    "category": "Digital Products",
+    "description": "Maximizing Protection, Minimizing Complexity",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/ransomware-in-2025-7-myths-that-could-put-you-at-risk-2b8e0849e6704e01",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-24T13:34:01.52237Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ransomware-in-2025-7-myths-that-could-put-you-at-risk-2b8e0849e6704e01.html"
+  },
+  {
+    "id": "ransomware-in-2025-7-myths",
+    "title": "Ransomware in 2025: 7 Myths That Could Put You at Risk",
+    "category": "Digital Products",
+    "description": "Myths about ransomware that continue to confuse those responsible for stopping and/or remediating it.",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/ransomware-in-2025-7-myths",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-18T21:00:44.217228Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ransomware-in-2025-7-myths.html"
+  },
+  {
+    "id": "actionable-incident-response-plan",
+    "title": " Be Remembered for Having an Actionable Incident Response Plan",
+    "category": "Digital Products",
+    "description": "Not for not having one and becoming a victim and unemployed",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/actionable-incident-response-plan",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-10T14:09:43.604138Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/actionable-incident-response-plan.html"
+  },
+  {
+    "id": "think-you-ve-budgeted-enough-for-cybersecurity-here-s-why-you-might-be-wrong",
+    "title": "Think You’ve Budgeted Enough for Cybersecurity? Here’s Why You Might Be Wrong",
+    "category": "Digital Products",
+    "description": "Why Last Year's Budget Won't Shield Against Next Year's Threats",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/think-you-ve-budgeted-enough-for-cybersecurity-here-s-why-you-might-be-wrong",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2024-11-06T18:41:11.848063Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/think-you-ve-budgeted-enough-for-cybersecurity-here-s-why-you-might-be-wrong.html"
+  },
+  {
+    "id": "the-roi-of-ot-security-quantifying-the-value-of-protection",
+    "title": "The ROI of OT Security: Quantifying the Value of Protection",
+    "category": "Digital Products",
+    "description": "Making the Business Case for Enhanced Operational Security Investments",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/the-roi-of-ot-security-quantifying-the-value-of-protection",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-23T14:29:19.49886Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-roi-of-ot-security-quantifying-the-value-of-protection.html"
+  },
+  {
+    "id": "securing-our-voting-systems-in-the-united-states",
+    "title": "Securing Our Voting Systems in the United States?",
+    "category": "Digital Products",
+    "description": "Part 2 of Can We Be Sure Our Votes Are Counted Accurately?",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/securing-our-voting-systems-in-the-united-states",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-22T17:33:39.056915Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/securing-our-voting-systems-in-the-united-states.html"
+  },
+  {
+    "id": "how-secure-are-our-voting-systems-in-the-united-states",
+    "title": " How Secure Are Our Voting Systems in the United States?",
+    "category": "Digital Products",
+    "description": "Can We Be Sure Our Votes Are Counted Accurately?",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/how-secure-are-our-voting-systems-in-the-united-states",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-07T15:24:18.857218Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-secure-are-our-voting-systems-in-the-united-states.html"
+  },
+  {
+    "id": "when-was-your-last-cybersecurity-audit-last-week",
+    "title": "When Was Your Last Cybersecurity Audit? Last Week?",
+    "category": "Digital Products",
+    "description": "Regular audits can save your business from future attacks",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/when-was-your-last-cybersecurity-audit-last-week",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-04T10:59:58.896984Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-was-your-last-cybersecurity-audit-last-week.html"
+  },
+  {
+    "id": "rethink-your-cybersecurity-budget-where-are-you-really-at-risk",
+    "title": "Rethink Your Cybersecurity Budget: Where Are You Really at Risk",
+    "category": "Digital Products",
+    "description": "How do you determine and plan for your risk",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/rethink-your-cybersecurity-budget-where-are-you-really-at-risk",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-01T14:17:21.352767Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rethink-your-cybersecurity-budget-where-are-you-really-at-risk.html"
+  },
+  {
+    "id": "still-focusing-your-cybersecurity-only-on-prevention-that-s-yesterday-s-strategy",
+    "title": "Still Focusing Your Cybersecurity Only on Prevention? That’s Yesterday’s Strategy",
+    "category": "Digital Products",
+    "description": "Why Relying Solely on Preventive Measures Could Be Your Downfall",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/still-focusing-your-cybersecurity-only-on-prevention-that-s-yesterday-s-strategy",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-23T21:22:54.310496Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/still-focusing-your-cybersecurity-only-on-prevention-that-s-yesterday-s-strategy.html"
+  },
+  {
+    "id": "critical-infrastructure-cyber",
+    "title": "7 Looming Threats to Critical Infrastructure That Could Trigger Societal Chaos",
+    "category": "Digital Products",
+    "description": "Recent Cyber Attacks on US Infrastructure Underscore Vulnerability",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/critical-infrastructure-cyber",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-12T19:32:25.645669Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/critical-infrastructure-cyber.html"
+  },
+  {
+    "id": "xdr-breakdown",
+    "title": "XDR breakdown",
+    "category": "Digital Products",
+    "description": "Journey to Near Real-time Detection and Recovery",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/xdr-breakdown",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-04T13:51:52.471219Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/xdr-breakdown.html"
+  },
+  {
+    "id": "maximize-cybersecurity-spend",
+    "title": "Balancing Your Cybersecurity Spend for Greater Protection",
+    "category": "Digital Products",
+    "description": "Focusing on Relevant Threats and Lowering Risk",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/maximize-cybersecurity-spend",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-30T17:28:51.217361Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/maximize-cybersecurity-spend.html"
+  },
+  {
+    "id": "determine-overall-cyber-risk",
+    "title": "How to Determine Your Cyber Risk",
+    "category": "Digital Products",
+    "description": "It Takes More Than Just Numbers",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/determine-overall-cyber-risk",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-22T18:45:02.061763Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/determine-overall-cyber-risk.html"
+  },
+  {
+    "id": "ask-questions-cio",
+    "title": "From Cybersecurity Gaps to Posture: What Leaders Need to Ask Their CIO and CISO",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cybervizer Newsletter",
+    "date": "2024-08-13",
+    "hasAds": true,
+    "url": "https://www.cybervizer.com/p/ask-questions-cio",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com"
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "oneleet.png"
+      }
+    ],
+    "htmlFile": "/emails/ask-questions-cio.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "insider-threats-growing-increasingly-perilous",
+    "title": "Insider Threats Are Growing and Increasingly Perilous",
+    "category": "Digital Products",
+    "description": "They can be very hard to uncover",
+    "author": "Cybervizer Newsletter",
+    "url": "https://www.cybervizer.com/p/insider-threats-growing-increasingly-perilous",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-01T14:35:51.371985Z",
+    "publisher": {
+      "name": "Cybervizer Newsletter",
+      "url": "https://www.cybervizer.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "htmlFile": "/emails/insider-threats-growing-increasingly-perilous.html",
+    "hasAds": true
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "issue-february-17-2026",
+    "title": "ESG Litigation Weekly - February 17, 2026",
+    "category": "Digital Products",
+    "description": "Carrboro climate suit tossed, EPA scraps 2009 GHG finding, EU details unsold clothing destruction ban, and much more",
+    "author": "ESG Litigation Weekly",
+    "url": "https://www.esglitigation.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T03:01:17.874334Z",
+    "publisher": {
+      "name": "ESG Litigation Weekly",
+      "url": "https://www.esglitigation.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/issue-february-17-2026.html",
+    "hasAds": true
+  },
+  {
+    "id": "issue-february-10-2026",
+    "title": "ESG Litigation Weekly - February 10, 2026",
+    "category": "Digital Products",
+    "description": "Vale mine overflows spur asset-freeze bids, EEOC seeks Nike DEI subpoena, UK ASA backs P&G vs baby eco claims, and much more",
+    "author": "ESG Litigation Weekly",
+    "url": "https://www.esglitigation.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-08T08:51:43.071559Z",
+    "publisher": {
+      "name": "ESG Litigation Weekly",
+      "url": "https://www.esglitigation.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/issue-february-10-2026.html",
+    "hasAds": true
+  },
+  {
+    "id": "issue-august-12-2025",
+    "title": "ESG Litigation Weekly - August 12, 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ESG Litigation Weekly",
+    "date": "2025-08-12",
+    "hasAds": true,
+    "url": "https://www.esglitigation.com/p/issue-august-12-2025",
+    "publisher": {
+      "name": "ESG Litigation Weekly",
+      "url": "https://www.esglitigation.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/issue-august-12-2025.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "issue-august-5-2025",
+    "title": "ESG Litigation Weekly - August 5, 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ESG Litigation Weekly",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://www.esglitigation.com/p/issue-august-5-2025",
+    "publisher": {
+      "name": "ESG Litigation Weekly",
+      "url": "https://www.esglitigation.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/issue-august-5-2025.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "issue-july-15-2025",
+    "title": "ESG Litigation Weekly (Jul 7-13, 2025)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ESG Litigation Weekly",
+    "date": "2025-07-15",
+    "hasAds": true,
+    "url": "https://www.esglitigation.com/p/issue-july-15-2025",
+    "publisher": {
+      "name": "ESG Litigation Weekly",
+      "url": "https://www.esglitigation.com"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/issue-july-15-2025.html",
+    "tags": [
+      "Finance"
+    ]
+  }
+]

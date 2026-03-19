@@ -1,0 +1,79 @@
+[
+  {
+    "id": "sketch-goes-liquid-womp-gets-physical-and-openai-builds-a-browser",
+    "title": "Sketch Goes Liquid, Womp Gets Physical, and OpenAI Builds a Browser",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "UI / UX Design Inspiration and Design Newsletter",
+    "date": "2025-10-27",
+    "hasAds": true,
+    "url": "https://uibits.co/p/sketch-goes-liquid-womp-gets-physical-and-openai-builds-a-browser",
+    "publisher": {
+      "name": "UI / UX Design Inspiration and Design Newsletter",
+      "url": "https://uibits.co"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/sketch-goes-liquid-womp-gets-physical-and-openai-builds-a-browser.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "microsoft-s-fluid-icons-figma-s-chatgpt-diagrams-okay-dev-s-creative-beta",
+    "title": "Microsoft’s Fluid Icons, Figma’s ChatGPT Diagrams & OKAY DEV’s Creative Beta",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "UI / UX Design Inspiration and Design Newsletter",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://uibits.co/p/microsoft-s-fluid-icons-figma-s-chatgpt-diagrams-okay-dev-s-creative-beta",
+    "publisher": {
+      "name": "UI / UX Design Inspiration and Design Newsletter",
+      "url": "https://uibits.co"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/microsoft-s-fluid-icons-figma-s-chatgpt-diagrams-okay-dev-s-creative-beta.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "design-news-inspiration-and-prompt-of-the-day",
+    "title": "Design news, inspiration and prompt of the day",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "UI / UX Design Inspiration and Design Newsletter",
+    "date": "2025-09-22",
+    "hasAds": true,
+    "url": "https://uibits.co/p/design-news-inspiration-and-prompt-of-the-day",
+    "publisher": {
+      "name": "UI / UX Design Inspiration and Design Newsletter",
+      "url": "https://uibits.co"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/design-news-inspiration-and-prompt-of-the-day.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

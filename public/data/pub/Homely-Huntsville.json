@@ -1,0 +1,80 @@
+[
+  {
+    "id": "south-star-music-festival",
+    "title": "🏠 South Star Music Festival",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Homely Huntsville",
+    "date": "2024-09-27",
+    "hasAds": true,
+    "url": "https://homelyhuntsville.beehiiv.com/p/south-star-music-festival",
+    "publisher": {
+      "name": "Homely Huntsville",
+      "url": "https://homelyhuntsville.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Cozy Earth",
+        "url": "https://cozyearth.com/",
+        "logo": "ce.png"
+      }
+    ],
+    "htmlFile": "/emails/south-star-music-festival.html",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ]
+  },
+  {
+    "id": "monte-sano-art-festival",
+    "title": "🏠 Monte Sano Art Festival",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Homely Huntsville",
+    "date": "2024-09-20",
+    "hasAds": true,
+    "url": "https://homelyhuntsville.beehiiv.com/p/monte-sano-art-festival",
+    "publisher": {
+      "name": "Homely Huntsville",
+      "url": "https://homelyhuntsville.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "ACTIVE",
+        "url": "https://www.amazon.com/stores/ACTIVE/page/2127346B-F8EB-47DB-BBE2-086932857940?store_ref=bl_ast_dp_brandLogo_sto",
+        "logo": "Active_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/monte-sano-art-festival.html",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ]
+  },
+  {
+    "id": "rnblues-bbq-fest-1",
+    "title": "🏠 USA PrimeFest",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Homely Huntsville",
+    "date": "2024-08-16",
+    "hasAds": true,
+    "url": "https://homelyhuntsville.beehiiv.com/p/rnblues-bbq-fest-1",
+    "publisher": {
+      "name": "Homely Huntsville",
+      "url": "https://homelyhuntsville.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      }
+    ],
+    "htmlFile": "/emails/rnblues-bbq-fest-1.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  }
+]

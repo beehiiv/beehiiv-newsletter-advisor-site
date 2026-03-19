@@ -1,0 +1,53 @@
+[
+  {
+    "id": "tech-neill-ogy-119-30-november-2025",
+    "title": "Tech-Neill-ogy #119 - 30 November 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech-Neill-ogy",
+    "date": "2025-12-01",
+    "hasAds": true,
+    "url": "https://techneillogy.beehiiv.com/p/tech-neill-ogy-119-30-november-2025",
+    "publisher": {
+      "name": "Tech-Neill-ogy",
+      "url": "https://techneillogy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "UDACITY.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-neill-ogy-119-30-november-2025.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "thanksgiving2025",
+    "title": "Happy Thanksgiving!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Tech-Neill-ogy",
+    "date": "2025-11-27",
+    "hasAds": true,
+    "url": "https://techneillogy.beehiiv.com/p/thanksgiving2025",
+    "publisher": {
+      "name": "Tech-Neill-ogy",
+      "url": "https://techneillogy.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "flowkey",
+        "url": "https://www.flowkey.com/en",
+        "logo": "flowkey-logo-primary-orange__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/thanksgiving2025.html",
+    "tags": [
+      "Education",
+      "Entertainment"
+    ]
+  }
+]

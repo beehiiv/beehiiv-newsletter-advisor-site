@@ -1,0 +1,29 @@
+[
+  {
+    "id": "freddie-freeman",
+    "title": "My Freddie Freeman Story",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Process",
+    "url": "https://www.theprocess.news/p/freddie-freeman",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-10T10:15:44.396828Z",
+    "publisher": {
+      "name": "The Process",
+      "url": "https://www.theprocess.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/freddie-freeman.html"
+  }
+]

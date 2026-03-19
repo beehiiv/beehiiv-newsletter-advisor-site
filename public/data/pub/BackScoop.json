@@ -1,0 +1,958 @@
+[
+  {
+    "id": "oat-my-goo",
+    "title": "🍨 Bon voyage",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2026-01-19",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/oat-my-goo",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/oat-my-goo.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "2025-holiday-rewind-2",
+    "title": "🍨 2025 Holiday Rewind #2",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-12-25",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/2025-holiday-rewind-2",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/2025-holiday-rewind-2.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "want-that-orderfaz",
+    "title": "🍨 Want that Orderfaz?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-12-01",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/want-that-orderfaz",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/want-that-orderfaz.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "deel-the-founding-story-of-the-17b-company-that-makes-global-work-possible-1",
+    "title": "🍨 Petronas: How Malaysia built one of Asia's largest oil companies from scratch",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-11-23",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/deel-the-founding-story-of-the-17b-company-that-makes-global-work-possible-1",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bright Data",
+        "url": "https://brightdata.com/",
+        "logo": "Bright_Data.png"
+      }
+    ],
+    "htmlFile": "/emails/deel-the-founding-story-of-the-17b-company-that-makes-global-work-possible-1.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "nov-7",
+    "title": "🍨 Order up",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-11-06",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/nov-7",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/nov-7.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "nippon-paint-how-rotten-paint-barrels-made-goh-cheng-liang-singapore-s-richest-at-13b",
+    "title": "🍨 Nippon Paint: how rotten paint barrels made Goh Cheng Liang Singapore's richest at $13B",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-11-05",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/nippon-paint-how-rotten-paint-barrels-made-goh-cheng-liang-singapore-s-richest-at-13b",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/nippon-paint-how-rotten-paint-barrels-made-goh-cheng-liang-singapore-s-richest-at-13b.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "don",
+    "title": "🍨 Build y(ourteam)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-10-30",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/don",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/don.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "marvell-technologies-the-indonesian-who-founded-a-74b-us-chipmaker",
+    "title": "🍨 Marvell Technologies: the Indonesian who founded a $74B US chipmaker",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-10-29",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/marvell-technologies-the-indonesian-who-founded-a-74b-us-chipmaker",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/marvell-technologies-the-indonesian-who-founded-a-74b-us-chipmaker.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "get-in-ryder-2",
+    "title": "🍨 Got a Deel?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-10-20",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/get-in-ryder-2",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/get-in-ryder-2.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-dropout-that-built-a-390m-pawnshop-from-singapore",
+    "title": "🍨 ValueMax: the dropout that built a $390M pawnshop from Singapore",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-10-15",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/the-dropout-that-built-a-390m-pawnshop-from-singapore",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "mavenagi.png"
+      }
+    ],
+    "htmlFile": "/emails/the-dropout-that-built-a-390m-pawnshop-from-singapore.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-pork-stall-turned-into-a-3b-supermarket-chain",
+    "title": "🍨 The pork stall turned into a $3B supermarket chain",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/the-pork-stall-turned-into-a-3b-supermarket-chain",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-pork-stall-turned-into-a-3b-supermarket-chain.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "yeo-s-how-a-church-loan-and-a-soy-sauce-factory-built-southeast-asia-s-go-to-drinks-brand",
+    "title": "🍨 Yeo's: how a church loan and a soy sauce factory built Southeast Asia’s go-to drinks brand",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-09-17",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/yeo-s-how-a-church-loan-and-a-soy-sauce-factory-built-southeast-asia-s-go-to-drinks-brand",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/yeo-s-how-a-church-loan-and-a-soy-sauce-factory-built-southeast-asia-s-go-to-drinks-brand.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "singapore-airlines-the-tiny-nation-that-built-one-of-the-world-s-best-airlines",
+    "title": "🍨 Singapore Airlines: The tiny nation that built one of the world's best airlines",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-09-03",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/singapore-airlines-the-tiny-nation-that-built-one-of-the-world-s-best-airlines",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/singapore-airlines-the-tiny-nation-that-built-one-of-the-world-s-best-airlines.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "need-some-space-ly-2",
+    "title": "🍨To the (Hey)Max",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-07-28",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/need-some-space-ly-2",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/need-some-space-ly-2.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "treat-yourself-1",
+    "title": "🍨 Seeing in HD",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-02-17",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/treat-yourself-1",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/treat-yourself-1.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "pizza-4p-s-the-couple-who-turned-backyard-pizza-parties-into-a-pizza-empire",
+    "title": "🍨 Pizza 4P’s: The couple who turned backyard pizza parties into a pizza empire",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-02-05",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/pizza-4p-s-the-couple-who-turned-backyard-pizza-parties-into-a-pizza-empire",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "Notion_Logo_Lockup.png"
+      }
+    ],
+    "htmlFile": "/emails/pizza-4p-s-the-couple-who-turned-backyard-pizza-parties-into-a-pizza-empire.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "make-it-faz-waz",
+    "title": "🍨 Make it Faz(Waz)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-01-30",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/make-it-faz-waz",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "Notion_Logo_Lockup.png"
+      }
+    ],
+    "htmlFile": "/emails/make-it-faz-waz.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "y-u",
+    "title": "🍨 Elev8(-ing) deep tech",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-01-27",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/y-u",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "Notion_Logo_Lockup.png"
+      }
+    ],
+    "htmlFile": "/emails/y-u.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "skor-scores-fresh-1",
+    "title": "🍨 It's ABBANK",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-01-20",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/skor-scores-fresh-1",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "BelayLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/skor-scores-fresh-1.html",
+    "tags": [
+      "Business"
+    ]
+  },
+  {
+    "id": "got-parking",
+    "title": "🍨 Got parking?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2025-01-09",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/got-parking",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Agree.com",
+        "url": "https://agree.com/",
+        "logo": "agree.com.png"
+      }
+    ],
+    "htmlFile": "/emails/got-parking.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "eureka-20f5",
+    "title": "🍨 Eureka!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-12-16",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/eureka-20f5",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "BelayLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/eureka-20f5.html",
+    "tags": [
+      "Business"
+    ]
+  },
+  {
+    "id": "live-or-co-live-your-way",
+    "title": "🍨 Live (or co-live) your way",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-12-12",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/live-or-co-live-your-way",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/live-or-co-live-your-way.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "oldtown-white-coffee-the-brand-that-introduced-malaysian-white-coffee-to-the-world",
+    "title": "🍨 OldTown White Coffee: The brand that introduced Malaysian white coffee to the world",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-12-11",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/oldtown-white-coffee-the-brand-that-introduced-malaysian-white-coffee-to-the-world",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "nikelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/oldtown-white-coffee-the-brand-that-introduced-malaysian-white-coffee-to-the-world.html",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ]
+  },
+  {
+    "id": "the-paper-bunny-the-singaporean-stationary-brand-with-the-viral-puffer-bags-2",
+    "title": "🍨 Old Chang Kee: The man with no culinary experience who took a risk on a curry puff stall",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-12-04",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/the-paper-bunny-the-singaporean-stationary-brand-with-the-viral-puffer-bags-2",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/the-paper-bunny-the-singaporean-stationary-brand-with-the-viral-puffer-bags-2.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "cebuana-lhuillier-the-family-pawn-shop-that-made-it-to-the-guinness-book-of-world-records",
+    "title": "🍨 Cebuana Lhuillier: The family pawn shop that made it to the Guinness Book of World Records",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-11-27",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/cebuana-lhuillier-the-family-pawn-shop-that-made-it-to-the-guinness-book-of-world-records",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "BelayLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/cebuana-lhuillier-the-family-pawn-shop-that-made-it-to-the-guinness-book-of-world-records.html",
+    "tags": [
+      "Business"
+    ]
+  },
+  {
+    "id": "the-paper-bunny-the-singaporean-stationary-brand-with-the-viral-puffer-bags",
+    "title": "🍨The Paper Bunny: The Singaporean stationary brand with the viral Puffer bags",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-11-20",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/the-paper-bunny-the-singaporean-stationary-brand-with-the-viral-puffer-bags",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "gamma_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-paper-bunny-the-singaporean-stationary-brand-with-the-viral-puffer-bags.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "beyond-the-vines-the-singaporean-brand-with-the-dumpling-bags-that-took-over-the-country",
+    "title": "🍨 Beyond the Vines: The Singaporean brand with the Dumpling bags that took over the country",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-11-13",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/beyond-the-vines-the-singaporean-brand-with-the-dumpling-bags-that-took-over-the-country",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "Notion_Logo_Lockup.png"
+      }
+    ],
+    "htmlFile": "/emails/beyond-the-vines-the-singaporean-brand-with-the-dumpling-bags-that-took-over-the-country.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "mr-coconut-the-creamy-coconut-drink-brand-that-took-singapore-by-storm-1",
+    "title": "🍨 99 Speed Mart: The polio survivor who built one of Malaysia’s largest convenience store chains",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-11-06",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/mr-coconut-the-creamy-coconut-drink-brand-that-took-singapore-by-storm-1",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "Notion_Logo_Lockup.png"
+      }
+    ],
+    "htmlFile": "/emails/mr-coconut-the-creamy-coconut-drink-brand-that-took-singapore-by-storm-1.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "are-you-chickin",
+    "title": "🍨 Are you Chickin?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-10-28",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/are-you-chickin",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/are-you-chickin.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "don-t-get-hacked",
+    "title": "🍨 Don't get hacked",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-10-10",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/don-t-get-hacked",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "HoneyBook_Full_Word_Logo_2023.png"
+      }
+    ],
+    "htmlFile": "/emails/don-t-get-hacked.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "alfamart-the-stall-turned-minimart-chain-that-sells-everyday-essentials-with-heart",
+    "title": "🍨 Alfamart: The stall turned minimart chain that sells everyday essentials with heart ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-09-26",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/alfamart-the-stall-turned-minimart-chain-that-sells-everyday-essentials-with-heart",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/alfamart-the-stall-turned-minimart-chain-that-sells-everyday-essentials-with-heart.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "common-man-coffee-roasters-the-cafe-chain-that-made-specialty-coffee-easy-to-access",
+    "title": "🍨 Common Man Coffee Roasters: the cafe chain that made specialty coffee easy to access",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-09-18",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/common-man-coffee-roasters-the-cafe-chain-that-made-specialty-coffee-easy-to-access",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "DraftBoard",
+        "url": "https://www.draftboard.com/",
+        "logo": "Removebg_Preview__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/common-man-coffee-roasters-the-cafe-chain-that-made-specialty-coffee-easy-to-access.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "chatramue-75-year-old-family-business-built-timeless-thai-tea-legacy",
+    "title": "🍨 ChaTraMue: The 75+ year old family business that built a timeless Thai Tea legacy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-09-04",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/chatramue-75-year-old-family-business-built-timeless-thai-tea-legacy",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/chatramue-75-year-old-family-business-built-timeless-thai-tea-legacy.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "flash-express-story-thailands-first-unicorn",
+    "title": "🍨 Flash Express: the story of Thailand’s first unicorn",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-08-29",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/flash-express-story-thailands-first-unicorn",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/flash-express-story-thailands-first-unicorn.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "need-pickmeup",
+    "title": "🍨 Need a pick-me-up?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-08-22",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/need-pickmeup",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "Logo-Bill-Full-Color.png"
+      }
+    ],
+    "htmlFile": "/emails/need-pickmeup.html",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "11b-go-private",
+    "title": "🍨 $1.1B to go private",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-08-19",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/11b-go-private",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/11b-go-private.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "not-just-playing",
+    "title": "🍨 Not just playing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BackScoop",
+    "date": "2024-08-12",
+    "hasAds": true,
+    "url": "https://backscoop.beehiiv.com/p/not-just-playing",
+    "publisher": {
+      "name": "BackScoop",
+      "url": "https://backscoop.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "Logo-Bill-Full-Color.png"
+      }
+    ],
+    "htmlFile": "/emails/not-just-playing.html",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ]
+  }
+]

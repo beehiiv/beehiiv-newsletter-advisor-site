@@ -1,0 +1,989 @@
+[
+  {
+    "id": "the-product-that-teaches-is-already-losing-1",
+    "title": "🧪 I had a crash out in a meeting last week",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Product Potion",
+    "date": "2026-02-27",
+    "hasAds": true,
+    "url": "https://www.productpotion.com/p/the-product-that-teaches-is-already-losing-1",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/the-product-that-teaches-is-already-losing-1.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-product-that-teaches-is-already-losing",
+    "title": "🧪 AI just made onboarding obsolete",
+    "category": "Digital Products",
+    "description": "The next wave of products won't have better onboarding. They won't have onboarding at all.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-20T00:36:59.204009Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      },
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/the-product-that-teaches-is-already-losing.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-best-customers-are-quitting-in-the-first-5-minutes",
+    "title": "🧪 Your best customers are quitting in the first 5 minutes",
+    "category": "Digital Products",
+    "description": "And it's not your product, it's the 47 micro-decisions they're making before seeing any value.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T19:40:59.172127Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/your-best-customers-are-quitting-in-the-first-5-minutes.html",
+    "hasAds": true
+  },
+  {
+    "id": "scarcity-lies-exposed-how-businesses-play-you",
+    "title": "Scarcity Lies Exposed: How Businesses Play You",
+    "category": "Digital Products",
+    "description": "Why fake urgency kills trust faster than it builds revenue.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/scarcity-lies-exposed-how-businesses-play-you",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-02T15:49:37.348236Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/scarcity-lies-exposed-how-businesses-play-you.html"
+  },
+  {
+    "id": "netflix-45b-couch-rotting-machine",
+    "title": "Netflix's $45B Couch-Rotting Machine",
+    "category": "Digital Products",
+    "description": "How removing one decision made them billions (and how to steal it).",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/netflix-45b-couch-rotting-machine",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-26T17:47:07.727873Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/netflix-45b-couch-rotting-machine.html"
+  },
+  {
+    "id": "the-5-minute-rule-that-s-killing-your-revenue",
+    "title": "The 5-Minute Rule That's Killing Your Revenue",
+    "category": "Digital Products",
+    "description": "How to remove friction using 4 science-backed principles.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/the-5-minute-rule-that-s-killing-your-revenue",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-20T23:19:54.845468Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-5-minute-rule-that-s-killing-your-revenue.html"
+  },
+  {
+    "id": "i-changed-my-subscribe-page-20-times-in-2025",
+    "title": "I Changed My Subscribe Page 20 Times in 2025",
+    "category": "Digital Products",
+    "description": "Here's why commitment beats optimization (and how to finally pick one direction)",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/i-changed-my-subscribe-page-20-times-in-2025",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-12T21:48:43.297435Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/i-changed-my-subscribe-page-20-times-in-2025.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-this-500b-ai-company-converts-in-30-seconds",
+    "title": "How this $500B AI Company Converts in 30 Seconds (And Why Your Product Doesn't)",
+    "category": "Digital Products",
+    "description": "Most products don't have a conversion problem. They have a first-win problem.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/how-this-500b-ai-company-converts-in-30-seconds",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2026-01-08T18:25:34.186884Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-this-500b-ai-company-converts-in-30-seconds.html"
+  },
+  {
+    "id": "how-to-stop-failing-at-conversions-teardown",
+    "title": "How to Stop Failing at User Conversion (Real Onboarding Teardown)",
+    "category": "Digital Products",
+    "description": "I grabbed a random product and simplified their onboarding flow in half. Here's the visual breakdown showing you what's killing conversions and how to fix it.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/how-to-stop-failing-at-conversions-teardown",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-12-29T19:39:12.0751Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.axioshq.com&sz=128"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-stop-failing-at-conversions-teardown.html"
+  },
+  {
+    "id": "10-second-conversion-checklist",
+    "title": "Your 10-Second Conversion Checklist",
+    "category": "Digital Products",
+    "description": "A simple, science-backed gut check to see if someone understands your product in the first 10 seconds, and what to cut when they don’t.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/10-second-conversion-checklist",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-12-22T23:03:04.012742Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.axioshq.com&sz=128"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/10-second-conversion-checklist.html"
+  },
+  {
+    "id": "stop-adding-features-start-removing-friction",
+    "title": "Stop Adding Features. Start Removing Friction",
+    "category": "Digital Products",
+    "description": "Why Hick's Law proves that simplicity converts better than feature lists, and how to apply it to your product or service.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/stop-adding-features-start-removing-friction",
+    "tags": [
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-12-16T16:38:16.994237Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-adding-features-start-removing-friction.html"
+  },
+  {
+    "id": "how-pain-convinces-people-to-buy-your-product",
+    "title": "How Pain Convinces People to Buy Your Product",
+    "category": "Digital Products",
+    "description": "Most solopreneurs solve problems no one feels this week. Anchor your product to one sharp, recent pain to increase signups and revenue.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/how-pain-convinces-people-to-buy-your-product",
+    "tags": [
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-12-08T19:44:53.950891Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-pain-convinces-people-to-buy-your-product.html"
+  },
+  {
+    "id": "the-one-offer-pyramid-build",
+    "title": "The One-Offer Pyramid: Build an Offer That Sells Itself",
+    "category": "Digital Products",
+    "description": "Learn how to structure one clear, simple, sellable offer using the three-level pyramid framework that removes friction and creates demand.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/the-one-offer-pyramid-build",
+    "tags": [
+      "Business",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-12-02T20:49:01.176252Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-one-offer-pyramid-build.html"
+  },
+  {
+    "id": "onboarding-to-revenue",
+    "title": "Onboarding to Revenue: Turn New Users Into Paying Customers in Days, Not Weeks",
+    "category": "Digital Products",
+    "description": "From landing page to first win, here's how to redesign onboarding so Day 1 directly drives revenue to your product.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/onboarding-to-revenue",
+    "tags": [
+      "AI",
+      "Business",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-11-17T22:54:03.085871Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/onboarding-to-revenue.html"
+  },
+  {
+    "id": "the-good-bad-of-onboarding-flows-and-how-to-fix-yours",
+    "title": "The Good & Bad of Onboarding Flows (And How to Fix Yours)",
+    "category": "Digital Products",
+    "description": "See what works, what doesn’t, plus real app examples to fix your own.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/the-good-bad-of-onboarding-flows-and-how-to-fix-yours",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-11-12T21:42:16.370547Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-good-bad-of-onboarding-flows-and-how-to-fix-yours.html"
+  },
+  {
+    "id": "productize-anything-even-your-half-baked-ideas",
+    "title": "Productize Anything (Even Your Half-Baked Ideas)",
+    "category": "Digital Products",
+    "description": "Most founders lose buyers because their offer feels abstract. Here's how to package anything into something people actually buy.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/productize-anything-even-your-half-baked-ideas",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-11-06T23:50:29.931042Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/productize-anything-even-your-half-baked-ideas.html"
+  },
+  {
+    "id": "build-a-layoff-proof-income-in-30-days",
+    "title": "Build a layoff-proof income in 30 days",
+    "category": "Digital Products",
+    "description": "Tiny offer + owned audience = an income buffer before sh*t hits the fan.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/build-a-layoff-proof-income-in-30-days",
+    "tags": [
+      "AI",
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-31T17:48:49.368765Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "https://cdn.prod.website-files.com/6437abb8b7920191d3b9a68b/65a675777624a0885e0a723c_Pressmaster%20Favicon%20-%20Black%20(1)%20(256px).png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/build-a-layoff-proof-income-in-30-days.html"
+  },
+  {
+    "id": "stop-hourly-pricing-use-this-formula",
+    "title": "Stop hourly pricing, use this formula to charge what you’re worth",
+    "category": "Digital Products",
+    "description": "Use Outcome × Credibility × Scope to land a fair price fast.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/stop-hourly-pricing-use-this-formula",
+    "tags": [
+      "Entertainment",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-10-23T21:28:13.391821Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Kojo",
+        "url": "https://www.kojo.gg/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.kojo.gg&sz=128"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-hourly-pricing-use-this-formula.html"
+  },
+  {
+    "id": "turn-your-newsletter-into-a-mini-product-in-20-minutes",
+    "title": "Turn your newsletter into a mini-product in 20 minutes",
+    "category": "Digital Products",
+    "description": "Start with proof, promise the outcome, point to one next step, that's the formula.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/turn-your-newsletter-into-a-mini-product-in-20-minutes",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-10-14T13:22:14.956456Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/turn-your-newsletter-into-a-mini-product-in-20-minutes.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-3-critical-moments-to-onboard-your-users",
+    "title": "The 3 Critical Moments to Onboard Your Users",
+    "category": "Digital Products",
+    "description": "Welcome nudge, first success, tiny loop. Keeps new users from bouncing, which helps a solopreneur turn ideas into profit quickly.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/the-3-critical-moments-to-onboard-your-users",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-10-04T11:00:11.742519Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "https://cdn.prod.website-files.com/68f131193c06d0856bf03af3/68ff817be6479a3557abeaf9_Final%20icon%20256.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-3-critical-moments-to-onboard-your-users.html"
+  },
+  {
+    "id": "your-first-1000-users-only-takes-one-outcome",
+    "title": "Your First 1000 Users Only Takes One Outcome",
+    "category": "Digital Products",
+    "description": "Most solopreneurs build feature factories. Here's what gets you paid instead.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/your-first-1000-users-only-takes-one-outcome",
+    "tags": [
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-09-26T13:30:59.758192Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "https://cdn.prod.website-files.com/68f131193c06d0856bf03af3/68ff817be6479a3557abeaf9_Final%20icon%20256.png"
+      },
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-first-1000-users-only-takes-one-outcome.html"
+  },
+  {
+    "id": "why-users-hate-your-product-and-the-psychology-tricks-that-fix-it",
+    "title": "Why Users Hate Your Product (And the Psychology Tricks That Fix It)",
+    "category": "Digital Products",
+    "description": "BeReal hit 10M users with ONE feature. ChatGPT got 100M in 2 months. Here's the psychology behind why simple products win (and how to apply it) 🧠",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/why-users-hate-your-product-and-the-psychology-tricks-that-fix-it",
+    "tags": [
+      "News",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-18T00:30:53.783376Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-users-hate-your-product-and-the-psychology-tricks-that-fix-it.html"
+  },
+  {
+    "id": "how-to-boost-your-sales-using-the-starbucks-double-points-hack",
+    "title": "How to Boost Your Sales Using The Starbucks Double-Points Hack",
+    "category": "Digital Products",
+    "description": "Why 41% of Starbucks sales come from loyalty members (and how to steal their behavioral addiction playbook)",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/how-to-boost-your-sales-using-the-starbucks-double-points-hack",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-10T17:00:29.677797Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-boost-your-sales-using-the-starbucks-double-points-hack.html"
+  },
+  {
+    "id": "turn-subscriptions-into-profit-magnets",
+    "title": "How Designjoy Turns Subscriptions Into Profit Magnets",
+    "category": "Digital Products",
+    "description": "The UX psychology behind $3.1M in productized service revenue (and how to steal the blueprint)",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/turn-subscriptions-into-profit-magnets",
+    "tags": [
+      "Careers",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-06-30T16:42:28.719344Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/turn-subscriptions-into-profit-magnets.html"
+  },
+  {
+    "id": "stop-losing-conversions-in-the-first-5-seconds",
+    "title": "Why Your Landing Page is Silently Screaming at Visitors",
+    "category": "Digital Products",
+    "description": "Your landing page is leaking money, and it’s happening above the fold.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/stop-losing-conversions-in-the-first-5-seconds",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-24T19:23:05.739687Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/stop-losing-conversions-in-the-first-5-seconds.html",
+    "hasAds": true
+  },
+  {
+    "id": "why-your-users-are-silently-screaming-and-how-to-fix-it",
+    "title": "Why Your Users Are Silently Screaming (And How to Fix It)",
+    "category": "Digital Products",
+    "description": "The brutal truth about why most products confuse the hell out of their users, plus the simple framework that turns confusion into conversions.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/why-your-users-are-silently-screaming-and-how-to-fix-it",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-06-18T19:17:47.869174Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/why-your-users-are-silently-screaming-and-how-to-fix-it.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-choose-your-best-idea-without-second-guessing-it",
+    "title": "How to Choose Your Best Idea (Without Second-Guessing It for 3 Weeks)",
+    "category": "Digital Products",
+    "description": "Drowning in ideas? Use this 4-step clarity filter to pick the right one, fast, and build something you’re proud of.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/how-to-choose-your-best-idea-without-second-guessing-it",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2025-06-11T19:42:35.943083Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-choose-your-best-idea-without-second-guessing-it.html"
+  },
+  {
+    "id": "why-creators-quit-before-they-start",
+    "title": "Why Creators Quit Before They Ever Start",
+    "category": "Digital Products",
+    "description": "If clarity feels impossible, this will help you pick your path in 60 minutes or less.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/why-creators-quit-before-they-start",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-06-03T16:07:49.589372Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/why-creators-quit-before-they-start.html",
+    "hasAds": true
+  },
+  {
+    "id": "1500-to-stop-lying-about-newsletters",
+    "title": "I paid $1500 to stop lying to myself about newsletters",
+    "category": "Digital Products",
+    "description": "The brutal truth about why you're still \"planning\" instead of publishing",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/1500-to-stop-lying-about-newsletters",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-28T15:31:46.164281Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/1500-to-stop-lying-about-newsletters.html",
+    "hasAds": true
+  },
+  {
+    "id": "dopamine-design-the-neuroscience-of-products-people-cant-resist",
+    "title": "Dopamine Design: The Neuroscience of Products People Can’t Resist",
+    "category": "Digital Products",
+    "description": "Minimalism is killing engagement. Here's the neurochemical fix.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/dopamine-design-the-neuroscience-of-products-people-cant-resist",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-20T19:33:07.354608Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://www.productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dopamine-design-the-neuroscience-of-products-people-cant-resist.html"
+  },
+  {
+    "id": "ux-can-add-100k-in-revenue",
+    "title": "UX Design Can Add $100K+ in Revenue",
+    "category": "Digital Products",
+    "description": "Most teams obsess over pixels. Smart ones print profits.",
+    "author": "Product Potion",
+    "url": "https://www.productpotion.com/p/ux-can-add-100k-in-revenue",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-13T22:21:38.876391Z",
+    "publisher": {
+      "name": "Product Potion",
+      "url": "https://productpotion.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ux-can-add-100k-in-revenue.html"
+  }
+]

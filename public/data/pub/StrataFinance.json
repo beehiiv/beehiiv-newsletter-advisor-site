@@ -1,0 +1,176 @@
+[
+  {
+    "id": "oracle",
+    "title": "Oracle Corporation (ORCL)🏛️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "StrataFinance",
+    "date": "2026-02-19",
+    "hasAds": true,
+    "url": "https://stratafinance.beehiiv.com/p/oracle",
+    "publisher": {
+      "name": "StrataFinance",
+      "url": "https://stratafinance.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/oracle.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "salesforce",
+    "title": "Salesforce, Inc. (CRM)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "StrataFinance",
+    "date": "2026-02-18",
+    "hasAds": true,
+    "url": "https://stratafinance.beehiiv.com/p/salesforce",
+    "publisher": {
+      "name": "StrataFinance",
+      "url": "https://stratafinance.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/salesforce.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "royal-caribbean",
+    "title": "Royal Caribbean Cruises Ltd.  (RCL) 🚢",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "StrataFinance",
+    "date": "2026-02-03",
+    "hasAds": true,
+    "url": "https://stratafinance.beehiiv.com/p/royal-caribbean",
+    "publisher": {
+      "name": "StrataFinance",
+      "url": "https://stratafinance.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/royal-caribbean.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "black-rock-coffee",
+    "title": "Black Rock Coffee Bar, Inc. (BRCB) ☕",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "StrataFinance",
+    "date": "2026-01-28",
+    "hasAds": true,
+    "url": "https://stratafinance.beehiiv.com/p/black-rock-coffee",
+    "publisher": {
+      "name": "StrataFinance",
+      "url": "https://stratafinance.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/black-rock-coffee.html",
+    "tags": [
+      "AI",
+      "Business",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "gamestop",
+    "title": "GameStop Corp. (GME) 🎮",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "StrataFinance",
+    "date": "2025-10-10",
+    "hasAds": true,
+    "url": "https://stratafinance.beehiiv.com/p/gamestop",
+    "publisher": {
+      "name": "StrataFinance",
+      "url": "https://stratafinance.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Peak Bank",
+        "url": "https://www.peak.bank/peak-bank",
+        "logo": "Logo__1_.png"
+      },
+      {
+        "name": "RYSE",
+        "url": "https://invest.helloryse.com/",
+        "logo": "RYSElogo.png"
+      }
+    ],
+    "htmlFile": "/emails/gamestop.html",
+    "tags": [
+      "Finance",
+      "Investing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "tsmc",
+    "title": "Taiwan Semiconductor Manufacturing Company (TSMC) ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "StrataFinance",
+    "date": "2025-06-05",
+    "hasAds": true,
+    "url": "https://stratafinance.beehiiv.com/p/tsmc",
+    "publisher": {
+      "name": "StrataFinance",
+      "url": "https://stratafinance.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      },
+      {
+        "name": "RYSE",
+        "url": "https://invest.helloryse.com/",
+        "logo": "RYSElogo.png"
+      }
+    ],
+    "htmlFile": "/emails/tsmc.html",
+    "tags": [
+      "AI",
+      "Investing",
+      "Newsletter",
+      "Technology"
+    ]
+  }
+]

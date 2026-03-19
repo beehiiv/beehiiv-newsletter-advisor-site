@@ -1,0 +1,956 @@
+[
+  {
+    "id": "name-bezos-is-building-something-big",
+    "title": "{{name | }} Bezos Is Building Something Big",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-30",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-bezos-is-building-something-big",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-bezos-is-building-something-big.html",
+    "tags": [
+      "Business",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "name-a-stopwatch-website",
+    "title": "{{name | }} A stopwatch website??",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-28",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-a-stopwatch-website",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-a-stopwatch-website.html",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-we-are-keeping-it",
+    "title": "{{name | }} we are keeping it...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-we-are-keeping-it",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-we-are-keeping-it.html",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-20-tiny-ideas",
+    "title": "{{name | }} 20 tiny ideas!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-21",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-20-tiny-ideas",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      },
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-20-tiny-ideas.html",
+    "tags": [
+      "Entertainment",
+      "Productivity",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-bedtime-story",
+    "title": "{{name | }} bedtime story?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-19",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-bedtime-story",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-bedtime-story.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Productivity",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-build-something",
+    "title": "{{name | }} Build SOMETHING...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-16",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-build-something",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/name-build-something.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Newsletter",
+      "Productivity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-youtube-chapters",
+    "title": "{{name | }} Youtube Chapters?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-14",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-youtube-chapters",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-youtube-chapters.html",
+    "tags": [
+      "AI",
+      "Business",
+      "Entertainment",
+      "Productivity",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-how-among-us-was-made",
+    "title": "{{name | }} How Among Us Was Made?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-12",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-how-among-us-was-made",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-how-among-us-was-made.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Marketing",
+      "Productivity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-a-puppy-yoga-business-for-local",
+    "title": "{{name | }} A puppy yoga business for local?”",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-09",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-a-puppy-yoga-business-for-local",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Haus",
+        "url": "https://www.haus.io/",
+        "logo": "Haus_logotype.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-a-puppy-yoga-business-for-local.html",
+    "tags": [
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-from-failure-to-37k-mrr-rashid-s-comeback",
+    "title": "{{name | }} From Failure to $37K MRR: Rashid’s Comeback",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-07",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-from-failure-to-37k-mrr-rashid-s-comeback",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-from-failure-to-37k-mrr-rashid-s-comeback.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-how-emma-built-a-15k-month-virtual-assistant-business",
+    "title": "{{name | }} How Emma Built a $15K/Month Virtual Assistant Business",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-05",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-how-emma-built-a-15k-month-virtual-assistant-business",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-how-emma-built-a-15k-month-virtual-assistant-business.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-the-5-piano-sheet-business-making-millions",
+    "title": "{{name | }} The $5 piano sheet business making millions",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-11-03",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-the-5-piano-sheet-business-making-millions",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      },
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-the-5-piano-sheet-business-making-millions.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Marketing",
+      "Productivity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-2k-month-from-photo-restoration",
+    "title": "{{name | }} $2K/month from photo restoration",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-31",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-2k-month-from-photo-restoration",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-2k-month-from-photo-restoration.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-the-build-in-public-path-to-5k-month",
+    "title": "{{name | }} The Build in Public Path to $5K/Month",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-29",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-the-build-in-public-path-to-5k-month",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-the-build-in-public-path-to-5k-month.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-how-mom-turned-her-kid-s-laziness-into-a-2-4m-startup",
+    "title": "{{name | }} How mom turned her kid’s laziness into a $2.4M startup",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-26",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-how-mom-turned-her-kid-s-laziness-into-a-2-4m-startup",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kojo",
+        "url": "https://www.kojo.gg/",
+        "logo": "KOJOLOGO.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/name-how-mom-turned-her-kid-s-laziness-into-a-2-4m-startup.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "name-the-25k-month-rubik-s-cube-site",
+    "title": "{{name | }} The $25K/Month Rubik’s Cube Site",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-24",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-the-25k-month-rubik-s-cube-site",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kojo",
+        "url": "https://www.kojo.gg/",
+        "logo": "KOJOLOGO.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/name-the-25k-month-rubik-s-cube-site.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "name-the-chrome-extension-does-nothing-to-make-money",
+    "title": "{{name | }} The Chrome Extension Does Nothing to Make Money",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-22",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-the-chrome-extension-does-nothing-to-make-money",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kojo",
+        "url": "https://www.kojo.gg/",
+        "logo": "KOJOLOGO.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/name-the-chrome-extension-does-nothing-to-make-money.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "name-how-a-teen-built-a-1m-download-app",
+    "title": "{{name | }} How a Teen Built a 1M-Download App",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-19",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-how-a-teen-built-a-1m-download-app",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/name-how-a-teen-built-a-1m-download-app.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "name-a-website-that-sells-weird-domain-names",
+    "title": "{{name | }} A Website That Sells Weird Domain Names",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-17",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-a-website-that-sells-weird-domain-names",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/name-a-website-that-sells-weird-domain-names.html",
+    "tags": [
+      "Entertainment",
+      "Marketing",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "name-happy-birthday-became-a-six-figure-business",
+    "title": "{{name | }} \"Happy Birthday\" became a six figure business",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-15",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-happy-birthday-became-a-six-figure-business",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Pressmaster DMCC",
+        "url": "https://www.pressmaster.ai/",
+        "logo": "Pressmaster_Logo_600px.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "TMM.png"
+      }
+    ],
+    "htmlFile": "/emails/name-happy-birthday-became-a-six-figure-business.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "name-build-a-10k-month-website-this-weekend-no-blogging-needed",
+    "title": "{{name | }} Build a $10K/Month Website This Weekend — No Blogging Needed",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-12",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-build-a-10k-month-website-this-weekend-no-blogging-needed",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Peak Bank",
+        "url": "https://www.peak.bank/peak-bank",
+        "logo": "Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/name-build-a-10k-month-website-this-weekend-no-blogging-needed.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "name-selling-slimes-123k-btc-chatgpt",
+    "title": "{{name | }} - Selling Slimes, $123k BTC & ChatGPT",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-selling-slimes-123k-btc-chatgpt",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Peak Bank",
+        "url": "https://www.peak.bank/peak-bank",
+        "logo": "Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/name-selling-slimes-123k-btc-chatgpt.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "name-50-ai-tools-startups-are-investing-in",
+    "title": "{{name | }} - 50 AI Tools Startups Are Investing In",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-05",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/name-50-ai-tools-startups-are-investing-in",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/name-50-ai-tools-startups-are-investing-in.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "how-sarah-built-a-20k-month-accounting-biz",
+    "title": "{{name | }} - How Sarah Built a $20K/Month Accounting Biz",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-10-01",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/how-sarah-built-a-20k-month-accounting-biz",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/how-sarah-built-a-20k-month-accounting-biz.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-100-hr-tiktok-script",
+    "title": "The $100/hr TikTok Script",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-09-28",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/the-100-hr-tiktok-script",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-100-hr-tiktok-script.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "brain-games-a-33b-market-waiting-for-builders",
+    "title": "Brain Games: A $33B Market Waiting for Builders",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-09-24",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/brain-games-a-33b-market-waiting-for-builders",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      }
+    ],
+    "htmlFile": "/emails/brain-games-a-33b-market-waiting-for-builders.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "how-a-solo-creator-built-a-221k-year-newsletter",
+    "title": "How a Solo Creator Built a $221K/Year Newsletter",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Fringe Alley",
+    "date": "2025-09-13",
+    "hasAds": true,
+    "url": "https://fringe-alle.beehiiv.com/p/how-a-solo-creator-built-a-221k-year-newsletter",
+    "publisher": {
+      "name": "Fringe Alley",
+      "url": "https://fringe-alle.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/how-a-solo-creator-built-a-221k-year-newsletter.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

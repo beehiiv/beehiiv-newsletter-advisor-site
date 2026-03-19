@@ -1,0 +1,53 @@
+[
+  {
+    "id": "these-coins-have-something-in-common-they-could-be-yours",
+    "title": "These Coins Have Something in Common (They Could be Yours)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Silverpicker Newsletter",
+    "date": "2024-11-15",
+    "hasAds": true,
+    "url": "https://thesilverpicker.beehiiv.com/p/these-coins-have-something-in-common-they-could-be-yours",
+    "publisher": {
+      "name": "The Silverpicker Newsletter",
+      "url": "https://thesilverpicker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CompareCredit",
+        "url": "https://www.comparecredit.com/",
+        "logo": "cc-logo_1200x600.png"
+      }
+    ],
+    "htmlFile": "/emails/these-coins-have-something-in-common-they-could-be-yours.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "friend-made-5-coin-mistakes",
+    "title": "My friend made these 5 coin mistakes...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Silverpicker Newsletter",
+    "date": "2024-08-09",
+    "hasAds": true,
+    "url": "https://thesilverpicker.beehiiv.com/p/friend-made-5-coin-mistakes",
+    "publisher": {
+      "name": "The Silverpicker Newsletter",
+      "url": "https://thesilverpicker.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "Bullseye_Trades_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/friend-made-5-coin-mistakes.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  }
+]

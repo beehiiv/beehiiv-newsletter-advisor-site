@@ -1,0 +1,470 @@
+[
+  {
+    "id": "net-aspire-quick-tip-managing-container-data-lifetime",
+    "title": "⚙️ .NET Aspire Quick Tip – Managing Container & Data Lifetime",
+    "category": "Digital Products",
+    "description": "Discover C# performance tips, new features in .NET 9, MongoDB's EF Core updates, and more in this week's edition of C# Insights.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/net-aspire-quick-tip-managing-container-data-lifetime",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-08T15:27:51.663395Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/net-aspire-quick-tip-managing-container-data-lifetime.html"
+  },
+  {
+    "id": "top-net-blog-posts-of-2024",
+    "title": "⚙️ Top .NET Blog Posts of 2024",
+    "category": "Digital Products",
+    "description": "Discover the latest in .NET: top blog posts, Azure bot deployment, macOS dev tips, C# tricks, 2025 tools, and domain-driven design insights.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/top-net-blog-posts-of-2024",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2024-12-31T13:24:33.931089Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/top-net-blog-posts-of-2024.html"
+  },
+  {
+    "id": "some-news-about-net-10",
+    "title": "⚙️ Some News About .NET 10",
+    "category": "Digital Products",
+    "description": "Explore .NET innovations: Ambient Context Pattern, HybridCache, .NET 10 updates, JSON deserialization tips, GitHub repo management, and more!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/some-news-about-net-10",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-18T18:14:35.122293Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/some-news-about-net-10.html"
+  },
+  {
+    "id": "chain-of-responsibility-design-pattern-in-c",
+    "title": "⚙️ Chain of Responsibility Design Pattern in C#",
+    "category": "Digital Products",
+    "description": "Explore performance tips, new .NET features, and security improvements, including updates on Minimal API, EF Core, MediatR, and LINQ in this week's edition.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/chain-of-responsibility-design-pattern-in-c",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-12-10T08:19:14.610315Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chain-of-responsibility-design-pattern-in-c.html"
+  },
+  {
+    "id": "how-to-create-a-minimal-api-in-net-core-free-handbook",
+    "title": "⚙️ How to Create a Minimal API in .NET Core – Free Handbook",
+    "category": "Digital Products",
+    "description": "Explore the latest in .NET with performance comparisons, new features, security tips, and more in this week's C# Insights newsletter!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/how-to-create-a-minimal-api-in-net-core-free-handbook",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-12-04T06:45:53.786Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-create-a-minimal-api-in-net-core-free-handbook.html"
+  },
+  {
+    "id": "how-to-benchmark-your-code-in-c",
+    "title": "⚙️ How to Benchmark Your Code in C#!",
+    "category": "Digital Products",
+    "description": "Explore .NET 9 features like Raspberry Pi integration, JSON schema boosts, benchmarking, logging with Seq, and new community tools for efficient cross-platform development.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/how-to-benchmark-your-code-in-c",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-20T11:25:09.334274Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-benchmark-your-code-in-c.html"
+  },
+  {
+    "id": "c-patterns-best-practices",
+    "title": "⚙️ C# Patterns & Best Practices",
+    "category": "Digital Products",
+    "description": "Explore essential software patterns, .NET 9 features, C# records, Blazor modals, MSBuild tips, AOP caching, and more to boost your .NET development.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/c-patterns-best-practices",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-12T20:11:13.18643Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/c-patterns-best-practices.html"
+  },
+  {
+    "id": "new-design-patter-code-faster",
+    "title": "⚙️ New Design Patter + Code Faster",
+    "category": "Digital Products",
+    "description": "Explore .NET insights, from using Metalama for code validation to optimizing EF Core with ToListAsync. Discover the Modern Web App pattern and new GitHub Copilot features.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/new-design-patter-code-faster",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-05T20:38:57.620592Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/new-design-patter-code-faster.html"
+  },
+  {
+    "id": "free-book-how-to-build-custom-logging",
+    "title": "⚙️ Free Book + How to Build Custom Logging",
+    "category": "Digital Products",
+    "description": "Grab your free copy of 'Practical Debugging for .NET Developers'! Plus, learn custom logging, AI function calling, and what's new in .NET 9.\"",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/free-book-how-to-build-custom-logging",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-29T19:51:07.264215Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/free-book-how-to-build-custom-logging.html"
+  },
+  {
+    "id": "minimal-api-vs-classic-controllers",
+    "title": "⚙️ Minimal API vs. Classic Controllers",
+    "category": "Digital Products",
+    "description": "Explore the latest insights on ASP.NET, MongoDB EF Core, performance improvements in .NET 9, and unit testing with AutoFixture in this week's C# Insights!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/minimal-api-vs-classic-controllers",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-23T12:37:31.488045Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/minimal-api-vs-classic-controllers.html"
+  },
+  {
+    "id": "net-aspire-day-2024",
+    "title": "⚙️ .NET Aspire Day 2024!",
+    "category": "Digital Products",
+    "description": "Discover key insights from Azure Developers – .NET Aspire Day 2024, new features in System.Text.Json, and productivity tips for .NET developers!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/net-aspire-day-2024",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-15T16:17:13.878811Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/net-aspire-day-2024.html"
+  },
+  {
+    "id": "add-ef-core-migrations-to-net-aspire-solutions",
+    "title": "⚙️ Add EF Core Migrations to .NET Aspire Solutions",
+    "category": "Digital Products",
+    "description": "Discover the latest in .NET and C# with insights on Metalama, EF Core migrations, the result pattern, NuGet, memory profiling, Python integration, and domain events!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/add-ef-core-migrations-to-net-aspire-solutions",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-08T18:06:51.671837Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      },
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/add-ef-core-migrations-to-net-aspire-solutions.html"
+  },
+  {
+    "id": "what-s-new-in-net-9-a-developer-s-perspective",
+    "title": "⚙️ What’s New in .NET 9: A Developer’s Perspective",
+    "category": "Digital Products",
+    "description": "Explore .NET 9's enhancements for faster app development, testing with Aspire, MVUX architecture, and security updates. Plus, tips for advanced document tables!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/what-s-new-in-net-9-a-developer-s-perspective",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-01T11:50:44.70567Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-s-new-in-net-9-a-developer-s-perspective.html"
+  },
+  {
+    "id": "preventing-breaking-changes-in-public-apis-with-publicapigenerator",
+    "title": "⚙️ Preventing Breaking Changes in Public APIs with PublicApiGenerator",
+    "category": "Digital Products",
+    "description": "Explore new tools and techniques for .NET, from Blazor Hybrid apps to public API management, Windows Error Reporting, and more in our latest newsletter!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/preventing-breaking-changes-in-public-apis-with-publicapigenerator",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-10T18:01:04.15283Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/preventing-breaking-changes-in-public-apis-with-publicapigenerator.html"
+  },
+  {
+    "id": "net-community-toolkit-8-3-is-here",
+    "title": "⚙️ .NET Community Toolkit 8.3 Is Here!",
+    "category": "Digital Products",
+    "description": "Explore the latest in .NET, from simplifying code comments to optimizing dictionary performance. Plus, updates on .NET Aspire 8.2 and new toolkit features!",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/net-community-toolkit-8-3-is-here",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-03T13:01:38.424101Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/net-community-toolkit-8-3-is-here.html"
+  },
+  {
+    "id": "best-practices-writing-custom-middlewares-aspnet-core",
+    "title": "⚙️ Best Practices for Writing Custom Middlewares in ASP.NET Core ",
+    "category": "Digital Products",
+    "description": "Explore .NET middleware best practices, test data simplification, Minimal API organization, Dependify tool, CRUD API creation, feature toggles, and modern Singleton pattern.",
+    "author": "C# Insights",
+    "url": "https://newsletter.csharpinsights.com/p/best-practices-writing-custom-middlewares-aspnet-core",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-06T15:13:28.250465Z",
+    "publisher": {
+      "name": "C# Insights",
+      "url": "https://newsletter.csharpinsights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/best-practices-writing-custom-middlewares-aspnet-core.html"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id": "defeated",
+    "title": "🗞️ Defeated",
+    "category": "Digital Products",
+    "description": "If productivity feels a little lighter today, the T20 Cricket World Cup in India might have something to do with it.",
+    "author": "Pick & Scroll News",
+    "url": "https://pickandscrollnews.beehiiv.com",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2026-02-16T08:11:08.88696Z",
+    "publisher": {
+      "name": "Pick & Scroll News",
+      "url": "https://pickandscrollnews.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "htmlFile": "/emails/defeated.html",
+    "hasAds": true
+  },
+  {
+    "id": "mondayisation",
+    "title": "🗞️ Mondayisation",
+    "category": "Digital Products",
+    "description": "So you can talk to your colleagues about something else other than the weather this morning, we’ll be starting off your Monday morning with some good news.",
+    "author": "Pick & Scroll News",
+    "url": "https://pickandscrollnews.beehiiv.com",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2026-02-15T13:25:13.862779Z",
+    "publisher": {
+      "name": "Pick & Scroll News",
+      "url": "https://pickandscrollnews.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "htmlFile": "/emails/mondayisation.html",
+    "hasAds": true
+  },
+  {
+    "id": "overstretched",
+    "title": "🗞️ Overstretched",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Pick & Scroll News",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://pickandscrollnews.beehiiv.com/p/overstretched",
+    "publisher": {
+      "name": "Pick & Scroll News",
+      "url": "https://pickandscrollnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/overstretched.html",
+    "tags": [
+      "Finance",
+      "Investing"
+    ]
+  },
+  {
+    "id": "bottoms-up",
+    "title": "🗞️ Bottoms up",
+    "category": "Digital Products",
+    "description": "Turns out the secret to career success might be hidden at the bottom of that keg stand you did at high school.",
+    "author": "Pick & Scroll News",
+    "url": "https://x1z1lgboq4.beehiiv.com/p/bottoms-up",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-11-12T08:00:27.345144Z",
+    "publisher": {
+      "name": "Pick & Scroll News",
+      "url": "https://x1z1lgboq4.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bottoms-up.html"
+  }
+]

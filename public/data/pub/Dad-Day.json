@@ -1,0 +1,83 @@
+[
+  {
+    "id": "when-you-find-your-last-nerve",
+    "title": "When you find your last nerve...",
+    "category": "Digital Products",
+    "description": "Plus - can you do this many pushups?",
+    "author": "Dad Day",
+    "url": "https://newsletter.dadday.co/p/when-you-find-your-last-nerve",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-12-08T20:30:23.714082Z",
+    "publisher": {
+      "name": "Dad Day",
+      "url": "https://newsletter.dadday.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "htmlFile": "/emails/when-you-find-your-last-nerve.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-be-a-high-agency-man",
+    "title": "How to Be a High-Agency Man",
+    "category": "Digital Products",
+    "description": "Plus - check out this gadget for movie nights",
+    "author": "Dad Day",
+    "url": "https://newsletter.dadday.co/p/how-to-be-a-high-agency-man",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ],
+    "date": "2024-10-02T01:15:00.721308Z",
+    "publisher": {
+      "name": "Dad Day",
+      "url": "https://newsletter.dadday.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ACTIVE",
+        "url": "https://www.amazon.com/stores/ACTIVE/page/2127346B-F8EB-47DB-BBE2-086932857940?store_ref=bl_ast_dp_brandLogo_sto",
+        "logo": "https://www.google.com/s2/favicons?domain=www.active.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-be-a-high-agency-man.html"
+  },
+  {
+    "id": "some-good-ol-fashioned-grit",
+    "title": "Some Good Ol' Fashioned Grit",
+    "category": "Digital Products",
+    "description": "Plus - add this to your everyday carry.",
+    "author": "Dad Day",
+    "url": "https://newsletter.dadday.co/p/some-good-ol-fashioned-grit",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-09-30T12:37:06.908324Z",
+    "publisher": {
+      "name": "Dad Day",
+      "url": "https://newsletter.dadday.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Little Bellies",
+        "url": "https://littlebellies.com/",
+        "logo": "https://littlebellies.com/wp-content/uploads/Little-Bellies-Icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/some-good-ol-fashioned-grit.html"
+  }
+]

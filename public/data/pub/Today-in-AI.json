@@ -1,0 +1,803 @@
+[
+  {
+    "id": "corgi",
+    "title": "Corgi: The full-stack AI native insurance company",
+    "category": "Digital Products",
+    "description": "🤖 Meet Nico Laqua & Emily Yuan: the founders who went from 200M MAU gaming to rebuilding insurance",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/corgi",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-09T14:18:02.748153Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://www.todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/corgi.html"
+  },
+  {
+    "id": "surgeai",
+    "title": "Surge AI: The $24B Data Engine Teaching AGI Real Human Taste",
+    "category": "Digital Products",
+    "description": "🤖 Meet Edwin Chen: the 37-year-old who bootstrapped a $24B AI startup with $0 in VC",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/surgeai",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-12-23T13:32:15.560286Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/surgeai.html"
+  },
+  {
+    "id": "standardbots",
+    "title": "Standard Bots: The robotics startup betting on an American manufacturing comeback",
+    "category": "Digital Products",
+    "description": "🤖 Meet Evan Beard & David Golden: the serial founder & repeat industrial builder rebuilding American manufacturing with robots",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/standardbots",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-02T11:22:31.808309Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/standardbots.html"
+  },
+  {
+    "id": "gigaml",
+    "title": "GigaML: The 100x AI Operations Platform for Enterprise",
+    "category": "Digital Products",
+    "description": "🤖 Meet Varun Vummadi & Esha Manideep Dinne: the 24-year-old IIT duo who turned down $675,000+ in offers to build AI that does enterprise ops better than humans.",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/gigaml",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-10T15:41:42.008897Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/gigaml.html",
+    "hasAds": true
+  },
+  {
+    "id": "suno",
+    "title": "Suno: The AI studio turning prompts into platinum-level tracks",
+    "category": "Digital Products",
+    "description": "🤖 Meet Mikey, Georg, Martin & Keenan: the ex-Kensho team that just hit $150M ARR in 2 years with their AI music startup",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/suno",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-15T17:38:49.416866Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/suno.html"
+  },
+  {
+    "id": "retell",
+    "title": "Retell AI: The “AI BPO” putting a voice agent on every phone line",
+    "category": "Digital Products",
+    "description": "🤖 Meet Bing Wu, Zexia Zhang, Todd Li, Weijia Yu, and Evie Wang: the founders that hit $15M ARR in under 2 years building a full-stack AI BPO that makes voice agents feel human.",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/retell",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-10-01T09:19:02.687437Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "https://cdn.prod.website-files.com/68f131193c06d0856bf03af3/68ff817be6479a3557abeaf9_Final%20icon%20256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/retell.html"
+  },
+  {
+    "id": "vercel",
+    "title": "Vercel: The $9B startup building frontend cloud for everyone",
+    "category": "Digital Products",
+    "description": "🤖 Meet Guillermo Rauch: the open-source prodigy turning AI into the way software gets built with his $200M ARR startup",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/vercel",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ],
+    "date": "2025-09-04T10:02:10.394764Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.shutterstock.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/vercel.html"
+  },
+  {
+    "id": "maven",
+    "title": "Maven AGI: The $250M Enterprise AI Co-pilot for Customer Experience",
+    "category": "Digital Products",
+    "description": "🤖 Meet Jonathan, Sami, and Eugene: The founders behind the enterprise co-pilot that just raised a $50M Series B just 9 months from launch",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/maven",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-10T00:01:16.86258Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/maven.html",
+    "hasAds": true
+  },
+  {
+    "id": "n8n",
+    "title": "n8n",
+    "category": "Digital Products",
+    "description": "n8n is a flexible, open-source workflow automation tool tailored for technical teams to build and manage AI-powered processes with both code and UI.",
+    "author": "Today in AI",
+    "url": "https://www.gtmwithai.co/p/n8n",
+    "tags": [
+      "AI",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-06T19:59:03.17349Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "https://cdn.prod.website-files.com/686c116534831e8f603168b9/686eca3d5b6f6d932f4f1c57_delve_favicon-large.png"
+      },
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/n8n.html",
+    "hasAds": true
+  },
+  {
+    "id": "clay",
+    "title": "Clay: The AI CRM tool that just hit $30M in ARR 3 years from launch",
+    "category": "Digital Products",
+    "description": "🤖 Meet the Egyptian-born entrepreneur who’s revolutionizing Go-to-Market with his $3 billion AI CRM tool",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/clay",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-06-03T17:52:43.299098Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/clay.html"
+  },
+  {
+    "id": "fyxer",
+    "title": "Fyxer AI: The UK startup that just hit $9M in ARR 8 months from launch",
+    "category": "Digital Products",
+    "description": "🤖 Discover the London-based email AI startup that’s on track to hit $30M in ARR by the end of 2025",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/fyxer",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-25T16:14:41.437727Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://www.todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fyxer.html"
+  },
+  {
+    "id": "manus",
+    "title": "Manus AI: The $500m Chinese AI startup that’s winning over the U.S.",
+    "category": "Digital Products",
+    "description": "🤖 Discover the chinese AI startup that just got funded by American investors at a $500 million valuation",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/manus",
+    "tags": [
+      "Business",
+      "Finance",
+      "Investing",
+      "Newsletter"
+    ],
+    "date": "2025-05-11T14:47:16.129123Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://www.todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/manus.html"
+  },
+  {
+    "id": "crescendo",
+    "title": "Crescendo AI: The $500M startup reinventing customer service with AI 🚀",
+    "category": "Digital Products",
+    "description": "🤖 Discover the startup that just hit $91 million in ARR helping businesses automate customer support",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/crescendo",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-27T19:41:42.315205Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/crescendo.html"
+  },
+  {
+    "id": "krea",
+    "title": "Krea AI: The $500M startup fueling the new era of creators",
+    "category": "Digital Products",
+    "description": "🤖 Inside Krea - The startup that just hit 22 million users helping creatives build with AI",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/krea",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-16T16:06:43.559066Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/krea.html"
+  },
+  {
+    "id": "cursor",
+    "title": "Cursor: The fastest growing startup to hit $200M ARR ever?? 🚀",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Today in AI",
+    "date": "2025-04-11",
+    "hasAds": true,
+    "url": "https://www.todayin-ai.com/p/cursor",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://www.todayin-ai.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/cursor.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "stackblitz",
+    "title": "StackBlitz (Bolt.new): 0 to $20M ARR in 2 months. The fastest growing startup ever?? 🦄",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/stackblitz",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-30T12:37:31.415582Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stackblitz.html"
+  },
+  {
+    "id": "colossal",
+    "title": "Colossal Biosciences: The $10 Billion AI Startup bringing Wooly Mammoths back to life",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/colossal",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-21T17:00:39.52808Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/colossal.html"
+  },
+  {
+    "id": "speak",
+    "title": "Speak: The $1 Billion Startup building DuoLingo on Steroids",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/speak",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-30T07:22:10.110051Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://www.todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/speak.html"
+  },
+  {
+    "id": "cognism",
+    "title": "Cognism: The UK B2B Sales Startup doing $71M ARR",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/cognism",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2024-12-20T13:33:59.549086Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "https://cdn.brandfetch.io/idjX1G4DDD/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667902606972"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cognism.html"
+  },
+  {
+    "id": "wordware",
+    "title": "WordWare: The AI startup that just raised a $30 million seed in 7 days",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/wordware",
+    "tags": [
+      "Health",
+      "Investing"
+    ],
+    "date": "2024-12-12T15:16:38.7626Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Cizzle Bio",
+        "url": "https://www.cizzlebio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.cizzlebio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wordware.html"
+  },
+  {
+    "id": "lovable",
+    "title": "Lovable: The AI startup helping you build Full-Stack Web Apps in seconds",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Today in AI",
+    "date": "2024-12-05",
+    "hasAds": true,
+    "url": "https://www.todayin-ai.com/p/lovable",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://www.todayin-ai.com"
+    },
+    "advertisers": [
+      {
+        "name": "Convergence AI",
+        "url": "https://convergence.ai/",
+        "logo": "Convergence_Full_Lockup_Dark_Teal.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      },
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "Syllaby_BlackText__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/lovable.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "humanloop",
+    "title": "HumanLoop: The AI startup helping you make your own LLMs",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/humanloop",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-11-28T14:22:39.375493Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/humanloop.html",
+    "hasAds": true
+  },
+  {
+    "id": "11x",
+    "title": "11x.ai: The $350M startup killing traditional software",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/11x",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-14T11:29:10.610834Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/11x.html",
+    "hasAds": true
+  },
+  {
+    "id": "sierra",
+    "title": "Sierra: Enabling every company to elevate their customer experience with AI",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/sierra",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-05T13:16:56.140582Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sierra.html"
+  },
+  {
+    "id": "appliedintuition",
+    "title": "Applied Intuition: Building Autonomous Driving Systems for the World's Biggest Automakers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/appliedintuition",
+    "tags": [
+      "AI"
+    ],
+    "date": "2024-10-22T15:03:53.723444Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Convergence AI",
+        "url": "https://convergence.ai/",
+        "logo": "https://cdn.brandfetch.io/idhHdM4t22/w/346/h/314/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1733852330807"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/appliedintuition.html"
+  },
+  {
+    "id": "etched",
+    "title": "Etched: Meet the 2 Harvard dropouts that just raised $120M to compete with Nvidia",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/etched",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-30T12:42:06.871059Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/etched.html"
+  },
+  {
+    "id": "mercor",
+    "title": "Mercor: Meet the 3 21-year old dropouts that just raised at a $250M valuation",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/mercor",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-24T10:27:25.198781Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "DraftBoard",
+        "url": "https://www.draftboard.com/",
+        "logo": "https://www.draftboard.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mercor.html"
+  },
+  {
+    "id": "photoroom",
+    "title": "Photoroom: The $50M/Year Background removal tool",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/photoroom",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-17T12:16:34.542019Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/photoroom.html"
+  },
+  {
+    "id": "bland",
+    "title": "Bland AI: Automating phone calls for enterprises with AI",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Today in AI",
+    "url": "https://www.todayin-ai.com/p/bland",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-09T08:33:26.340765Z",
+    "publisher": {
+      "name": "Today in AI",
+      "url": "https://todayin-ai.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bland.html"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "a-quick-note-and-apology",
+    "title": "A Quick Note (and Apology)",
+    "category": "Digital Products",
+    "description": "I owe you a quick apology.",
+    "author": "Howls of the Continuum",
+    "url": "https://howlsofthecontinuum.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-25T19:45:05.109856Z",
+    "publisher": {
+      "name": "Howls of the Continuum",
+      "url": "https://howlsofthecontinuum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/a-quick-note-and-apology.html",
+    "hasAds": true
+  },
+  {
+    "id": "some-choices-were-never-choices-at-all",
+    "title": "Some Choices Were Never Choices at All",
+    "category": "Digital Products",
+    "description": "Not everyone who endured had a choice.",
+    "author": "Howls of the Continuum",
+    "url": "https://howlsofthecontinuum.beehiiv.com",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-02-19T19:33:14.616888Z",
+    "publisher": {
+      "name": "Howls of the Continuum",
+      "url": "https://howlsofthecontinuum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/some-choices-were-never-choices-at-all.html",
+    "hasAds": true
+  },
+  {
+    "id": "forging-a-world-and-the-tool-behind-it",
+    "title": "Forging a World (And the Tool Behind It)",
+    "category": "Digital Products",
+    "description": "Behind the scenes of the myth — where foundations are tested before stories are told.",
+    "author": "Howls of the Continuum",
+    "url": "https://howlsofthecontinuum.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-16T19:45:01.447577Z",
+    "publisher": {
+      "name": "Howls of the Continuum",
+      "url": "https://howlsofthecontinuum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/forging-a-world-and-the-tool-behind-it.html",
+    "hasAds": true
+  },
+  {
+    "id": "some-forces-were-never-meant-to-agree",
+    "title": "Some Forces Were Never Meant to Agree",
+    "category": "Digital Products",
+    "description": "After the Collapse, coexistence became a test no universe was built to pass.",
+    "author": "Howls of the Continuum",
+    "url": "https://howlsofthecontinuum.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-16T19:42:54.362977Z",
+    "publisher": {
+      "name": "Howls of the Continuum",
+      "url": "https://howlsofthecontinuum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/some-forces-were-never-meant-to-agree.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-thank-you-to-a-broken-society",
+    "title": "A Thank You to a Broken Society",
+    "category": "Digital Products",
+    "description": "This was the first raw drop—the ironic litany of thanks to society's flaws that cracked open my voice on X. A purge of pain, judgment, corruption, disposability, and the monsters it creates. Resurfaced now as the journey's foundation. 🧩",
+    "author": "Howls of the Continuum",
+    "url": "https://howlsofthecontinuum.beehiiv.com",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-10T18:15:33.884328Z",
+    "publisher": {
+      "name": "Howls of the Continuum",
+      "url": "https://howlsofthecontinuum.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/a-thank-you-to-a-broken-society.html",
+    "hasAds": true
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "december-09-2024",
+    "title": "😨 Pro-no-types",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechDay Express",
+    "url": "https://news.techdayhq.com/p/december-09-2024",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-06T15:09:35.057131Z",
+    "publisher": {
+      "name": "TechDay Express",
+      "url": "https://news.techdayhq.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "Convergence AI",
+        "url": "https://convergence.ai/",
+        "logo": "https://cdn.brandfetch.io/idhHdM4t22/w/346/h/314/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1733852330807"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/december-09-2024.html"
+  },
+  {
+    "id": "sparkle-sparkle",
+    "title": "✨ Sparkle, Sparkle",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechDay Express",
+    "url": "https://news.techdayhq.com/p/sparkle-sparkle",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-08-23T13:23:14.177501Z",
+    "publisher": {
+      "name": "TechDay Express",
+      "url": "https://news.techdayhq.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sparkle-sparkle.html"
+  }
+]

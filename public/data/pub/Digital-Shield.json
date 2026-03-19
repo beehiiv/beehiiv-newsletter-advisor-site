@@ -1,0 +1,80 @@
+[
+  {
+    "id": "building-your-ai-twin-meta-s-vision-for-personal-superintelligence",
+    "title": "🧠 Building Your AI Twin: Meta’s Vision for Personal Superintelligence",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Digital Shield",
+    "date": "2025-08-03",
+    "hasAds": true,
+    "url": "https://karimullas-newsletter.beehiiv.com/p/building-your-ai-twin-meta-s-vision-for-personal-superintelligence",
+    "publisher": {
+      "name": "Digital Shield",
+      "url": "https://karimullas-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      }
+    ],
+    "htmlFile": "/emails/building-your-ai-twin-meta-s-vision-for-personal-superintelligence.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "openai-oracle-unite-building-the-brains-behind-ai",
+    "title": "OpenAI & Oracle Unite: Building the Brains Behind AI",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Digital Shield",
+    "date": "2025-07-24",
+    "hasAds": true,
+    "url": "https://karimullas-newsletter.beehiiv.com/p/openai-oracle-unite-building-the-brains-behind-ai",
+    "publisher": {
+      "name": "Digital Shield",
+      "url": "https://karimullas-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/openai-oracle-unite-building-the-brains-behind-ai.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "redefining-cybersecurity-accenture-microsoft-lead-the-genai-revolution",
+    "title": "🛡️ Redefining Cybersecurity: Accenture & Microsoft Lead the GenAI Revolution",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Digital Shield",
+    "date": "2025-07-11",
+    "hasAds": true,
+    "url": "https://karimullas-newsletter.beehiiv.com/p/redefining-cybersecurity-accenture-microsoft-lead-the-genai-revolution",
+    "publisher": {
+      "name": "Digital Shield",
+      "url": "https://karimullas-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      }
+    ],
+    "htmlFile": "/emails/redefining-cybersecurity-accenture-microsoft-lead-the-genai-revolution.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  }
+]

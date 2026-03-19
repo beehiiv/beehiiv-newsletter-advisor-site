@@ -1,0 +1,443 @@
+[
+  {
+    "id": "newly-released-market-map",
+    "title": "Newly Released Market Map",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-12-29",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/newly-released-market-map",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "htmlFile": "/emails/newly-released-market-map.html",
+    "tags": [
+      "Finance",
+      "Investing"
+    ]
+  },
+  {
+    "id": "how-do-you-do",
+    "title": "How Do You Do?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-12-09",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/how-do-you-do",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-do-you-do.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "let-s-circle-back-in-the-new-year",
+    "title": "Let's Circle Back In The New Year",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-12-02",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/let-s-circle-back-in-the-new-year",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/let-s-circle-back-in-the-new-year.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-vest-season",
+    "title": "The Vest Season",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-10-06",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/the-vest-season",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "Enterpret.png"
+      }
+    ],
+    "htmlFile": "/emails/the-vest-season.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "happy-45929-to-those-who-celebrate",
+    "title": "Happy 45929 to those who celebrate",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-09-29",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/happy-45929-to-those-who-celebrate",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "fintech-logo-300x139.png"
+      }
+    ],
+    "htmlFile": "/emails/happy-45929-to-those-who-celebrate.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "my-sources",
+    "title": "My sources?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-09-15",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/my-sources",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pioneer by Fin",
+        "url": "https://pioneer.fin.ai/",
+        "logo": "Fin_Logomark_B_W_black.png"
+      }
+    ],
+    "htmlFile": "/emails/my-sources.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "jobs-report-3a3c",
+    "title": "Jobs Report",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/jobs-report-3a3c",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "Shutterstock.png"
+      }
+    ],
+    "htmlFile": "/emails/jobs-report-3a3c.html",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "sun-valley-recap-4a80",
+    "title": "Sun Valley Recap",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-07-14",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/sun-valley-recap-4a80",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/sun-valley-recap-4a80.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-sunday-edition-26f6",
+    "title": "The Sunday Edition",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-02-17",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/the-sunday-edition-26f6",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/the-sunday-edition-26f6.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kendrick-vs-drake",
+    "title": "Kendrick vs. Drake",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-02-10",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/kendrick-vs-drake",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/kendrick-vs-drake.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-chief-eagle",
+    "title": "The Chief Eagle",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-01-27",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/the-chief-eagle",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/the-chief-eagle.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "tik-tok-on-the-clock",
+    "title": "Tik Tok On The Clock",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-01-20",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/tik-tok-on-the-clock",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "cw-vc.png"
+      }
+    ],
+    "htmlFile": "/emails/tik-tok-on-the-clock.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "dude-you-re-getting-a-dell",
+    "title": "Dude, You're Getting A Dell",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-01-13",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/dude-you-re-getting-a-dell",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "JKBX",
+        "url": "https://jkbx.com/",
+        "logo": "JKBX_Logo_Stable_Blue.png"
+      }
+    ],
+    "htmlFile": "/emails/dude-you-re-getting-a-dell.html",
+    "tags": [
+      "Entertainment",
+      "Finance"
+    ]
+  },
+  {
+    "id": "agent-007",
+    "title": "Agent 007",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2025-01-06",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/agent-007",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/agent-007.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "annual-review",
+    "title": "Annual Review",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2024-12-30",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/annual-review",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "gamma_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/annual-review.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-golden-age-of-private-data",
+    "title": "The Golden Age of Private Data",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2024-12-23",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/the-golden-age-of-private-data",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Confluence VC",
+        "url": "https://confluencevcweekly.beehiiv.com/",
+        "logo": "cw-vc.png"
+      }
+    ],
+    "htmlFile": "/emails/the-golden-age-of-private-data.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "transformative-m-a",
+    "title": "Transformative M&A",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "It's Pronounced Data",
+    "date": "2024-12-16",
+    "hasAds": true,
+    "url": "https://itspronounceddata.beehiiv.com/p/transformative-m-a",
+    "publisher": {
+      "name": "It's Pronounced Data",
+      "url": "https://itspronounceddata.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Analytica Investor",
+        "url": "https://analyticainvestor.com/",
+        "logo": "allogo.png"
+      }
+    ],
+    "htmlFile": "/emails/transformative-m-a.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  }
+]

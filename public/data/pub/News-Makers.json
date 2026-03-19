@@ -1,0 +1,81 @@
+[
+  {
+    "id": "9-700-de-crescimento-sem-hack",
+    "title": "Alugar atenção vs. construir patrimônio",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "News Makers",
+    "date": "2025-12-15",
+    "hasAds": true,
+    "url": "https://newsmakers.beehiiv.com/p/9-700-de-crescimento-sem-hack",
+    "publisher": {
+      "name": "News Makers",
+      "url": "https://newsmakers.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/9-700-de-crescimento-sem-hack.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "1-newsletter-10-conteudos-sem-esforco-extra-802f",
+    "title": "1 newsletter = 10 conteúdos (sem esforço extra)",
+    "category": "Digital Products",
+    "description": "🗞️ News Makers: Edição #045",
+    "author": "News Makers",
+    "url": "https://g29e495n8u.beehiiv.com/p/1-newsletter-10-conteudos-sem-esforco-extra-802f",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-08T15:31:01.586995Z",
+    "publisher": {
+      "name": "News Makers",
+      "url": "https://g29e495n8u.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/1-newsletter-10-conteudos-sem-esforco-extra-802f.html"
+  },
+  {
+    "id": "a-queda-de-um-imp-rio",
+    "title": "A Queda de um Império",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "News Makers",
+    "date": "2025-10-20",
+    "hasAds": true,
+    "url": "https://newsmakers.beehiiv.com/p/a-queda-de-um-imp-rio",
+    "publisher": {
+      "name": "News Makers",
+      "url": "https://newsmakers.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/a-queda-de-um-imp-rio.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

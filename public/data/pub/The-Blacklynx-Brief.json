@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "a-message-to-the-frightful",
+    "title": "A Message to the Frightful",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2026-02-27",
+    "htmlFile": "/emails/a-message-to-the-frightful.html",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/a-message-to-the-frightful",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "bgColor": "#ededed",
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-rewrote-physics-nobody-noticed",
+    "title": "AI Rewrote Physics. Nobody Noticed.",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-17T06:45:40.049055Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/ai-rewrote-physics-nobody-noticed.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-tsunami-is-here-run-for-the-hills",
+    "title": "A Tsunami is Here. Run for the Hills.",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-10T09:43:53.612484Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/a-tsunami-is-here-run-for-the-hills.html",
+    "hasAds": true
+  },
+  {
+    "id": "lobster-hype",
+    "title": "Lobster Hype",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/lobster-hype",
+    "tags": [
+      "AI"
+    ],
+    "date": "2026-01-31T15:54:27.572165Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Forward Future AI",
+        "url": "https://www.forwardfuture.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/f6c178f4-9377-48e4-90be-1db85ee83517/thumb_ICON-only.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lobster-hype.html"
+  },
+  {
+    "id": "the-infinity-loop",
+    "title": "The Infinity Loop",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-infinity-loop",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-01-24T14:17:34.474674Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-infinity-loop.html"
+  },
+  {
+    "id": "jevon-s-paradox",
+    "title": "Jevon's Paradox",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/jevon-s-paradox",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-17T15:55:46.216908Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jevon-s-paradox.html"
+  },
+  {
+    "id": "the-goalposts-have-left-the-stadium",
+    "title": "The Goalposts Have Left The Stadium",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-goalposts-have-left-the-stadium",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-10T12:33:46.5421Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-goalposts-have-left-the-stadium.html"
+  },
+  {
+    "id": "the-state-of-ai-in-2026",
+    "title": "The State of AI in 2026",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-state-of-ai-in-2026",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2026-01-05T09:31:52.498007Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-state-of-ai-in-2026.html"
+  },
+  {
+    "id": "we-can-not-screw-this-up",
+    "title": "We Can Not Screw This Up",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/we-can-not-screw-this-up",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-30T11:03:12.854238Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/we-can-not-screw-this-up.html"
+  },
+  {
+    "id": "sam-altman-s-1-trillion-trust-me-bro-economy",
+    "title": "Sam Altman's $1 Trillion \"Trust Me Bro\" Economy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/sam-altman-s-1-trillion-trust-me-bro-economy",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-22T08:04:39.494991Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sam-altman-s-1-trillion-trust-me-bro-economy.html"
+  },
+  {
+    "id": "the-cat-is-out-of-the-bag",
+    "title": "The Cat Is Out of The Bag",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-cat-is-out-of-the-bag",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-17T10:21:52.093804Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-cat-is-out-of-the-bag.html"
+  },
+  {
+    "id": "if-anyone-builds-it-everyone-dies",
+    "title": "If Anyone Builds It, Everyone Dies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/if-anyone-builds-it-everyone-dies",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-09T14:31:29.74374Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/if-anyone-builds-it-everyone-dies.html"
+  },
+  {
+    "id": "what-to-expect-in-2026-and-beyond",
+    "title": "What to Expect in 2026 (and Beyond)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/what-to-expect-in-2026-and-beyond",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-24T09:15:45.994693Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/what-to-expect-in-2026-and-beyond.html",
+    "hasAds": true
+  },
+  {
+    "id": "civilization-changing-releases-in-2026",
+    "title": "\"Civilization-Changing Releases in 2026\"",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/civilization-changing-releases-in-2026",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-17T09:57:31.599898Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "htmlFile": "/emails/civilization-changing-releases-in-2026.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-ends-capitalism-before-2030",
+    "title": "AI Ends Capitalism Before 2030",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/ai-ends-capitalism-before-2030",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-11-10T07:39:59.82965Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-ends-capitalism-before-2030.html"
+  },
+  {
+    "id": "we-re-all-just-guessing",
+    "title": "We're All Just Guessing",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/we-re-all-just-guessing",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-11-03T14:03:46.582947Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/we-re-all-just-guessing.html"
+  },
+  {
+    "id": "technology-creep",
+    "title": "Technology Creep",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/technology-creep",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-28T06:45:05.628371Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/technology-creep.html"
+  },
+  {
+    "id": "do-llms-have-personalities",
+    "title": "Do LLMs Have Personalities?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/do-llms-have-personalities",
+    "tags": [
+      "Education",
+      "Finance"
+    ],
+    "date": "2025-10-20T12:35:33.114089Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wall Street Prep",
+        "url": "https://wallstreetprep.business.columbia.edu/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/do-llms-have-personalities.html"
+  },
+  {
+    "id": "the-fall-of-ai-s-promise",
+    "title": "The Fall of AI’s Promise",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-fall-of-ai-s-promise",
+    "tags": [
+      "Education",
+      "Finance"
+    ],
+    "date": "2025-10-12T09:41:23.516862Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wall Street Prep",
+        "url": "https://wallstreetprep.business.columbia.edu/",
+        "logo": "https://cdn.brandfetch.io/iddwoFNlG4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1753789081006"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-fall-of-ai-s-promise.html"
+  },
+  {
+    "id": "judgment-day-for-real-this-time",
+    "title": "Judgment Day (for Real This Time)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/judgment-day-for-real-this-time",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-05T05:56:16.369983Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/judgment-day-for-real-this-time.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-ai-company-is-here",
+    "title": "The AI Company is Here",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-ai-company-is-here",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-22T06:39:53.842358Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-ai-company-is-here.html"
+  },
+  {
+    "id": "ai-s-sloppy-writing-and-how-to-spot-it",
+    "title": "AI's Sloppy Writing and How To Spot It",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/ai-s-sloppy-writing-and-how-to-spot-it",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ],
+    "date": "2025-09-14T12:05:13.050347Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.shutterstock.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-s-sloppy-writing-and-how-to-spot-it.html"
+  },
+  {
+    "id": "the-net-is-closing",
+    "title": "The Net Is Closing",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-net-is-closing",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ],
+    "date": "2025-09-08T08:15:54.884391Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.shutterstock.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-net-is-closing.html"
+  },
+  {
+    "id": "your-deal-with-the-devil",
+    "title": "Your Deal With The Devil",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/your-deal-with-the-devil",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-30T15:21:38.048716Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-deal-with-the-devil.html"
+  },
+  {
+    "id": "could-ai-become-conscious",
+    "title": "Could AI Become Conscious?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/could-ai-become-conscious",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-08-23T16:09:55.43384Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickUp",
+        "url": "https://clickup.com/",
+        "logo": "https://clickup.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/could-ai-become-conscious.html"
+  },
+  {
+    "id": "is-the-ai-bubble-about-to-pop",
+    "title": "Is The AI Bubble About to Pop?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2025-08-22",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/is-the-ai-bubble-about-to-pop",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "Syllaby_BlackText__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/is-the-ai-bubble-about-to-pop.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "gpt-5-is-a-freak",
+    "title": "GPT-5 Is A Freak",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/gpt-5-is-a-freak",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ],
+    "date": "2025-08-09T18:25:38.823868Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.shutterstock.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gpt-5-is-a-freak.html"
+  },
+  {
+    "id": "what-s-the-plan",
+    "title": "What's The Plan?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/what-s-the-plan",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-08-03T11:28:38.404361Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/what-s-the-plan.html",
+    "hasAds": true
+  },
+  {
+    "id": "post-labor-economics",
+    "title": "Post Labor Economics",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/post-labor-economics",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-15T13:00:08.143114Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/post-labor-economics.html",
+    "hasAds": true
+  },
+  {
+    "id": "we-need-to-talk-about-your-ai-girlfriend",
+    "title": "We Need to Talk About Your AI Girlfriend",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/we-need-to-talk-about-your-ai-girlfriend",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-15T12:44:53.899539Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/we-need-to-talk-about-your-ai-girlfriend.html",
+    "hasAds": true
+  },
+  {
+    "id": "30-chance-of-rain",
+    "title": "30% Chance of Rain",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/30-chance-of-rain",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-07-08T05:24:58.714859Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/30-chance-of-rain.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-slop",
+    "title": "AI Slop",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2025-06-27",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/ai-slop",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-slop.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "Real Estate",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-thinking-machine",
+    "title": "The Thinking Machine",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-thinking-machine",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-16T12:35:39.50557Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-thinking-machine.html"
+  },
+  {
+    "id": "apple-is-cooked",
+    "title": "Apple is Cooked",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/apple-is-cooked",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-08T08:12:50.660077Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/apple-is-cooked.html"
+  },
+  {
+    "id": "we-will-be-ok",
+    "title": "We Will Be OK",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/we-will-be-ok",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-03T05:44:12.650728Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/we-will-be-ok.html"
+  },
+  {
+    "id": "black-box-drop-005-learn-agents-with-this-free-course",
+    "title": "Black Box // Drop 005 // Learn Agents with this Free Course",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/black-box-drop-005-learn-agents-with-this-free-course",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-25T10:04:24.474972Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/black-box-drop-005-learn-agents-with-this-free-course.html"
+  },
+  {
+    "id": "guardrails",
+    "title": "Guardrails",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/guardrails",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-05-22T18:44:31.036128Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "StartEngine",
+        "url": "https://www.startengine.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.startengine.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/guardrails.html"
+  },
+  {
+    "id": "black-box-drop-004-your-personal-wake-up-call",
+    "title": "Black Box // Drop 004 // Your Personal Wake-up Call",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/black-box-drop-004-your-personal-wake-up-call",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-18T16:36:13.016541Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/black-box-drop-004-your-personal-wake-up-call.html"
+  },
+  {
+    "id": "superintelligence-and-you",
+    "title": "Superintelligence and You",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/superintelligence-and-you",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-14T14:24:23.921012Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/superintelligence-and-you.html"
+  },
+  {
+    "id": "black-box-drop-003-uh-oh",
+    "title": "Black Box // Drop 003 // Uh-Oh !",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/black-box-drop-003-uh-oh",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-11T10:56:17.196262Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/black-box-drop-003-uh-oh.html"
+  },
+  {
+    "id": "black-box-drop-002-the-prompt-that-will-put-you-in-therapy",
+    "title": "Black Box // Drop 002 // The Prompt That Will Put You in Therapy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/black-box-drop-002-the-prompt-that-will-put-you-in-therapy",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-05T15:57:08.990995Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/black-box-drop-002-the-prompt-that-will-put-you-in-therapy.html"
+  },
+  {
+    "id": "god-help-us",
+    "title": "God Help Us",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/god-help-us",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-20T16:28:02.261764Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/god-help-us.html"
+  },
+  {
+    "id": "openai-the-weakest-link",
+    "title": "OpenAI : The Weakest Link",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2025-04-18",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/openai-the-weakest-link",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/openai-the-weakest-link.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "we-re-not-ready-for-this",
+    "title": "\"We're Not Ready For This\"",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/we-re-not-ready-for-this",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-06T05:50:26.249734Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/we-re-not-ready-for-this.html"
+  },
+  {
+    "id": "why-china-is-winning-the-ai-war",
+    "title": "Why China Is Winning the AI War",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/why-china-is-winning-the-ai-war",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-30T07:46:40.072772Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-china-is-winning-the-ai-war.html"
+  },
+  {
+    "id": "cybernetic-teammates",
+    "title": "Cybernetic Teammates",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2025-03-28",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/cybernetic-teammates",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/cybernetic-teammates.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-illusion-of-stagnation",
+    "title": "The Illusion of Stagnation",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-illusion-of-stagnation",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-03-17T09:51:35.921405Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-illusion-of-stagnation.html"
+  },
+  {
+    "id": "another-feel-the-ai-moment",
+    "title": "Another \"Feel The AI\" Moment",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/another-feel-the-ai-moment",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-11T16:22:46.683834Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/another-feel-the-ai-moment.html"
+  },
+  {
+    "id": "the-case-against-ai",
+    "title": "The Case Against AI",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-case-against-ai",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-24T11:18:58.293846Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-case-against-ai.html"
+  },
+  {
+    "id": "elon-derangement-syndrome",
+    "title": "Elon Derangement Syndrome",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/elon-derangement-syndrome",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-17T16:03:38.68057Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/elon-derangement-syndrome.html"
+  },
+  {
+    "id": "no-more-rat-race",
+    "title": "No More Rat Race",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/no-more-rat-race",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-09T09:39:35.523534Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/no-more-rat-race.html",
+    "hasAds": true
+  },
+  {
+    "id": "from-search-to-research",
+    "title": "From Search to Research",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/from-search-to-research",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-03T06:02:48.60895Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/from-search-to-research.html"
+  },
+  {
+    "id": "deepseek-trouble-3938",
+    "title": "Deep(Seek) Trouble",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/deepseek-trouble-3938",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-27T10:33:32.151152Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/deepseek-trouble-3938.html",
+    "hasAds": true
+  },
+  {
+    "id": "not-good-enough-yet",
+    "title": "Not Good Enough ... Yet",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/not-good-enough-yet",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-27T08:59:48.133049Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/not-good-enough-yet.html"
+  },
+  {
+    "id": "all-human-work-obsolete-in-3-years",
+    "title": "\"All Human Work Obsolete in 3 Years\"",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/all-human-work-obsolete-in-3-years",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-20T08:16:47.162671Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/all-human-work-obsolete-in-3-years.html"
+  },
+  {
+    "id": "the-age-of-the-agent",
+    "title": "The Age of the Agent",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/the-age-of-the-agent",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-12T11:20:38.963741Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-age-of-the-agent.html"
+  },
+  {
+    "id": "destination-superintelligence",
+    "title": "Destination Superintelligence",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/destination-superintelligence",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-04T11:43:01.660569Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/destination-superintelligence.html"
+  },
+  {
+    "id": "bot-bonanza",
+    "title": "Bot Bonanza",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/bot-bonanza",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-30T06:52:31.565191Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bot-bonanza.html"
+  },
+  {
+    "id": "pandemonium",
+    "title": "Pandemonium",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/pandemonium",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-23T06:59:53.964164Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pandemonium.html"
+  },
+  {
+    "id": "three-sleepless-nights",
+    "title": "Three Sleepless Nights",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/three-sleepless-nights",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-16T06:51:42.159034Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/three-sleepless-nights.html"
+  },
+  {
+    "id": "rabbithole-galore",
+    "title": "Rabbithole Galore!",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/rabbithole-galore",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-08T07:09:19.515667Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rabbithole-galore.html"
+  },
+  {
+    "id": "are-you-stealing-from-your-boss",
+    "title": "Are You Stealing From Your Boss?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2024-12-06",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/are-you-stealing-from-your-boss",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/are-you-stealing-from-your-boss.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "there-s-always-one",
+    "title": "There's Always One ...",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/there-s-always-one",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-24T13:05:36.703353Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/there-s-always-one.html"
+  },
+  {
+    "id": "is-sam-a-snake",
+    "title": "Is Sam A Snake ?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/is-sam-a-snake",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-11-11T11:04:49.622339Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-sam-a-snake.html"
+  },
+  {
+    "id": "this-is-why-your-colleague-got-promoted",
+    "title": "This is Why Your Colleague Got Promoted",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/this-is-why-your-colleague-got-promoted",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-04T12:11:15.626591Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/this-is-why-your-colleague-got-promoted.html"
+  },
+  {
+    "id": "people-are-strange",
+    "title": "People Are Strange",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/people-are-strange",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-27T06:51:13.798777Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/people-are-strange.html"
+  },
+  {
+    "id": "what-we-think",
+    "title": "What We Think",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/what-we-think",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-20T09:48:00.636926Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-we-think.html"
+  },
+  {
+    "id": "too-stupid-to-know-you-re-stupid",
+    "title": "Too Stupid To Know You're Stupid",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/too-stupid-to-know-you-re-stupid",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-13T13:58:40.568365Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/too-stupid-to-know-you-re-stupid.html"
+  },
+  {
+    "id": "get-out-of-the-ai-closet-now",
+    "title": "Get Out Of The AI Closet Now",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/get-out-of-the-ai-closet-now",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-06T08:47:34.139862Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/get-out-of-the-ai-closet-now.html"
+  },
+  {
+    "id": "will-it-all-come-crashing-down",
+    "title": "Will It All Come Crashing Down?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/will-it-all-come-crashing-down",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-29T19:41:52.56635Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/will-it-all-come-crashing-down.html"
+  },
+  {
+    "id": "more-popcorn-please",
+    "title": "More Popcorn Please!",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/more-popcorn-please",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-23T06:41:28.205672Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/more-popcorn-please.html"
+  },
+  {
+    "id": "fattening-pig",
+    "title": "Fattening Up The Pig",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/fattening-pig",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-13T17:09:57.752333Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fattening-pig.html"
+  },
+  {
+    "id": "openais-strawberry-upgrade-set-release-next-week",
+    "title": "OpenAI Releases Its \"Strawberry\" Upgrade !",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2024-09-13",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/openais-strawberry-upgrade-set-release-next-week",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/openais-strawberry-upgrade-set-release-next-week.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "openai-verge-bankruptcy",
+    "title": "OpenAI on the Verge of Bankruptcy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "date": "2024-09-06",
+    "hasAds": true,
+    "url": "https://www.blacklynxbrief.com/p/openai-verge-bankruptcy",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/openai-verge-bankruptcy.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "openais-project-strawberry-real-coming-soon",
+    "title": "OpenAI's Project Strawberry Is Real and Coming Soon !",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/openais-project-strawberry-real-coming-soon",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-26T09:52:21.234674Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/openais-project-strawberry-real-coming-soon.html"
+  },
+  {
+    "id": "japanese-ai-company-delivers-breakthrough",
+    "title": "Japanese AI Company Delivers Breakthrough",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/japanese-ai-company-delivers-breakthrough",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-19T08:44:54.02505Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/japanese-ai-company-delivers-breakthrough.html"
+  },
+  {
+    "id": "ai-revolution-scam",
+    "title": "Is 'The AI Revolution\" A Scam ?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Blacklynx Brief",
+    "url": "https://www.blacklynxbrief.com/p/ai-revolution-scam",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-01T06:56:07.094537Z",
+    "publisher": {
+      "name": "The Blacklynx Brief",
+      "url": "https://www.blacklynxbrief.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "htmlFile": "/emails/ai-revolution-scam.html",
+    "hasAds": true
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "3-unexpected-insights-i-learned-about-how-l-d-teams-are-using-ai-today",
+    "title": "🤔 I didn't see that coming",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Steal These Thoughts!",
+    "date": "2026-02-10",
+    "hasAds": true,
+    "url": "https://stealthesethoughts.beehiiv.com/p/3-unexpected-insights-i-learned-about-how-l-d-teams-are-using-ai-today",
+    "publisher": {
+      "name": "Steal These Thoughts!",
+      "url": "https://stealthesethoughts.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/3-unexpected-insights-i-learned-about-how-l-d-teams-are-using-ai-today.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "are-you-thinking-with-ai-or-is-ai-shaping-your-thinking",
+    "title": "😨 Maybe it's not what you think",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Steal These Thoughts!",
+    "date": "2025-07-15",
+    "hasAds": true,
+    "url": "https://stealthesethoughts.beehiiv.com/p/are-you-thinking-with-ai-or-is-ai-shaping-your-thinking",
+    "publisher": {
+      "name": "Steal These Thoughts!",
+      "url": "https://stealthesethoughts.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/are-you-thinking-with-ai-or-is-ai-shaping-your-thinking.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

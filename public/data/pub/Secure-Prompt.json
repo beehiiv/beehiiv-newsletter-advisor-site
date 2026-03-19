@@ -1,0 +1,82 @@
+[
+  {
+    "id": "newsletter-issue-16",
+    "title": "Newsletter Issue #16",
+    "category": "Digital Products",
+    "description": "This week’s Secure Prompt: mass Claude model distillation exposed, prompt injection moves operational via supply-chain compromise, and AI-generated passwords proven predictably weak.",
+    "author": "Secure Prompt",
+    "url": "https://newsletter.secureprompt.io",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-25T02:34:24.3677Z",
+    "publisher": {
+      "name": "Secure Prompt",
+      "url": "https://newsletter.secureprompt.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-issue-16.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-issue-14",
+    "title": "Newsletter Issue #14",
+    "category": "Digital Products",
+    "description": "This week’s Secure Prompt: vLLM RCE exposes millions of AI servers, OpenAI declares prompt injection \"unfixable,\" and AWS breached via LLM in 8 minutes.",
+    "author": "Secure Prompt",
+    "url": "https://newsletter.secureprompt.io",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-12T20:58:50.077696Z",
+    "publisher": {
+      "name": "Secure Prompt",
+      "url": "https://newsletter.secureprompt.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-issue-14.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-issue-12",
+    "title": "Newsletter Issue #12",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Secure Prompt",
+    "date": "2026-01-30",
+    "hasAds": true,
+    "url": "https://newsletter.secureprompt.io/p/newsletter-issue-12",
+    "publisher": {
+      "name": "Secure Prompt",
+      "url": "https://newsletter.secureprompt.io"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-issue-12.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

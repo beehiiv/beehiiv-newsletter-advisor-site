@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2025-01-22-no-53",
+    "title": "🏴‍☠️🏝️ Winter is Coming | January 22, 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Old City Lowdown",
+    "date": "2025-01-22",
+    "hasAds": true,
+    "url": "https://www.oldcitylowdown.com/p/2025-01-22-no-53",
+    "publisher": {
+      "name": "Old City Lowdown",
+      "url": "https://www.oldcitylowdown.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/2025-01-22-no-53.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2024-09-06-no-17",
+    "title": "🏴‍☠️ Happy Founders Day Weekend! | September 6, 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Old City Lowdown",
+    "date": "2024-09-06",
+    "hasAds": true,
+    "url": "https://www.oldcitylowdown.com/p/2024-09-06-no-17",
+    "publisher": {
+      "name": "Old City Lowdown",
+      "url": "https://www.oldcitylowdown.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/2024-09-06-no-17.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2024-08-06-no-8",
+    "title": "🏴‍☠️ Dumpster Drama | August 6, 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Old City Lowdown",
+    "date": "2024-08-06",
+    "hasAds": true,
+    "url": "https://www.oldcitylowdown.com/p/2024-08-06-no-8",
+    "publisher": {
+      "name": "Old City Lowdown",
+      "url": "https://www.oldcitylowdown.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/2024-08-06-no-8.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

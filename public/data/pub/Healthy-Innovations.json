@@ -1,0 +1,370 @@
+[
+  {
+    "id": "migraine-tech",
+    "title": "🤕 Migraine tech that finally matches the complexity of the disease",
+    "category": "Digital Products",
+    "description": "New devices stop attacks without pills, apps predict episodes days early, and cluster headache gets breakthroughs",
+    "author": "Healthy Innovations",
+    "url": "https://healthy-innovations.beehiiv.com",
+    "tags": [
+      "Health",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T09:54:09.064313Z",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Healthcare Brew",
+        "url": "https://www.healthcare-brew.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.healthcare-brew.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/migraine-tech.html",
+    "hasAds": true
+  },
+  {
+    "id": "2025-weirdest-health-innovations",
+    "title": "🤯 2025's weirdest health innovations (that somehow made sense)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2026-01-06",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/2025-weirdest-health-innovations",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "htmlFile": "/emails/2025-weirdest-health-innovations.html"
+  },
+  {
+    "id": "drug-repurposing",
+    "title": "💊 AI-powered drug repurposing: The fast track to new cures",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-10-28",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/drug-repurposing",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "AUTHOR_INC.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/drug-repurposing.html"
+  },
+  {
+    "id": "robotic-exoskeletons",
+    "title": "🦾 Meet the robotic exoskeletons restoring mobility",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-10-14",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/robotic-exoskeletons",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/robotic-exoskeletons.html"
+  },
+  {
+    "id": "four-frameworks",
+    "title": "🔬📚 Translating complex science to compelling stories",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-08-12",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/four-frameworks",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "Shutterstock.png"
+      }
+    ],
+    "tags": [
+      "Creativity",
+      "Technology"
+    ],
+    "htmlFile": "/emails/four-frameworks.html"
+  },
+  {
+    "id": "heart-health",
+    "title": "🫀The heart health revolution",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-07-22",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/heart-health",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/heart-health.html"
+  },
+  {
+    "id": "remote-patient-monitoring",
+    "title": "🏡 Faster, cheaper and closer to home",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-06-24",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/remote-patient-monitoring",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/remote-patient-monitoring.html"
+  },
+  {
+    "id": "telehealth",
+    "title": "🩺 What’s next for telehealth? Hint: It’s not just video calls",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-05-27",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/telehealth",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nautilus",
+        "url": "https://nautil.us/",
+        "logo": "Nautilus_Symbol_Remove_Background.png"
+      }
+    ],
+    "tags": [
+      "Media"
+    ],
+    "htmlFile": "/emails/telehealth.html"
+  },
+  {
+    "id": "robotic-surgery",
+    "title": "🤖 Robotic surgery: Precision beyond human limits",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-05-06",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/robotic-surgery",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nautilus",
+        "url": "https://nautil.us/",
+        "logo": "Nautilus_Symbol_Remove_Background.png"
+      }
+    ],
+    "tags": [
+      "Media"
+    ],
+    "htmlFile": "/emails/robotic-surgery.html"
+  },
+  {
+    "id": "biotech-startup-valuation",
+    "title": "🧪 Biotech startup valuation: Where science meets finance",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-04-08",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/biotech-startup-valuation",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/biotech-startup-valuation.html"
+  },
+  {
+    "id": "diagnostic-dream-team",
+    "title": "👩🏻‍⚕️🤖 The diagnostic dream team solving complex challenges",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-04-01",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/diagnostic-dream-team",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/diagnostic-dream-team.html"
+  },
+  {
+    "id": "sxsw2025",
+    "title": "SXSW 2025: Emerging healthcare trends you need to know",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-03-11",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/sxsw2025",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/sxsw2025.html"
+  },
+  {
+    "id": "your-wearables-are-getting-smarter",
+    "title": "⌚ Your wearables are getting smarter",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-02-18",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/your-wearables-are-getting-smarter",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/your-wearables-are-getting-smarter.html"
+  },
+  {
+    "id": "diagnostic-radiology",
+    "title": "🩻 Teaching machines to see disease: AI in diagnostic radiology",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Healthy Innovations",
+    "date": "2025-01-07",
+    "hasAds": true,
+    "url": "https://healthy-innovations.beehiiv.com/p/diagnostic-radiology",
+    "publisher": {
+      "name": "Healthy Innovations",
+      "url": "https://healthy-innovations.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/diagnostic-radiology.html"
+  }
+]

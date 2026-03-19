@@ -1,0 +1,29 @@
+[
+  {
+    "id": "i-finally-automated-the-content-research-process",
+    "title": "🕵️‍♀️ I Finally Automated the Content Research Process",
+    "category": "Digital Products",
+    "description": "How I get weekly content ideas based on real discussions.",
+    "author": "Content Backstage",
+    "url": "https://www.contentbackstage.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-13T17:19:48.057175Z",
+    "publisher": {
+      "name": "Content Backstage",
+      "url": "https://www.contentbackstage.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/i-finally-automated-the-content-research-process.html",
+    "hasAds": true
+  }
+]

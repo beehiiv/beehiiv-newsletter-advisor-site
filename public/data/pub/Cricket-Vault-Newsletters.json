@@ -1,0 +1,283 @@
+[
+  {
+    "id": "post-cheak",
+    "title": "Post cheak",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-11-04",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/post-cheak",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/post-cheak.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "history-of-indian-cricket",
+    "title": "History of Indian Cricket",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-10-19",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/history-of-indian-cricket",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/history-of-indian-cricket.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "kumar-sangakkara",
+    "title": "Kumar Sangakkara",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-10-03",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/kumar-sangakkara",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/kumar-sangakkara.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "sachin-tendulkar",
+    "title": "Sachin Tendulkar",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-09-25",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/sachin-tendulkar",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/sachin-tendulkar.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "yuvraj-singh-s-debut",
+    "title": "Yuvraj Singh’s Debut",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-09-22",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/yuvraj-singh-s-debut",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/yuvraj-singh-s-debut.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "duleep-trophy",
+    "title": "Duleep Trophy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-09-15",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/duleep-trophy",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/duleep-trophy.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "yuvraj-singh",
+    "title": "Yuvraj Singh",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-09-08",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/yuvraj-singh",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/yuvraj-singh.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "rohit-sharma",
+    "title": "Rohit Sharma",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-09-02",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/rohit-sharma",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/rohit-sharma.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "shikhar-dhawan",
+    "title": "Shikhar Dhawan",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-08-30",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/shikhar-dhawan",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/shikhar-dhawan.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "virat-kohli",
+    "title": "Virat Kohli",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-08-24",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/virat-kohli",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Branded Bills",
+        "url": "https://www.brandedbills.com/",
+        "logo": "Branded_Bills_BB_Logo_BLK__Transparent_.png"
+      }
+    ],
+    "htmlFile": "/emails/virat-kohli.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "day-08",
+    "title": "Day 08",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Cricket Vault Newsletters",
+    "date": "2024-08-05",
+    "hasAds": true,
+    "url": "https://crickets-newsletter.beehiiv.com/p/day-08",
+    "publisher": {
+      "name": "Cricket Vault Newsletters",
+      "url": "https://crickets-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/day-08.html",
+    "tags": [
+      "Health"
+    ]
+  }
+]

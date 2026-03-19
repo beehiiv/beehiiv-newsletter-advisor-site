@@ -1,0 +1,29 @@
+[
+  {
+    "id": "whales-bought-dip",
+    "title": "🐋 Whales bought the dip",
+    "category": "Digital Products",
+    "description": "Plus: SOL/ETH hits all time highs",
+    "author": "The Crypto Journal",
+    "url": "https://thecryptojournal.org/p/whales-bought-dip",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-07T09:06:50.761381Z",
+    "publisher": {
+      "name": "The Crypto Journal",
+      "url": "https://thecryptojournal.org",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/whales-bought-dip.html"
+  }
+]

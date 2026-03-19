@@ -1,0 +1,285 @@
+[
+  {
+    "id": "the-mutual-close",
+    "title": "The Mutual Close",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2026-01-07",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-mutual-close",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "thepourover.png"
+      }
+    ],
+    "htmlFile": "/emails/the-mutual-close.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-pipeline-lie",
+    "title": "The Pipeline Lie",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2026-01-03",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-pipeline-lie",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/the-pipeline-lie.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-champion-test",
+    "title": "The Champion Test",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-29",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-champion-test",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/the-champion-test.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-second-call",
+    "title": "The Second Call",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-22",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-second-call",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/the-second-call.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-deal-that-doesn-t-close",
+    "title": "The Deal That Doesn't Close",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-19",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-deal-that-doesn-t-close",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "FI__Green_Text__Outlined.png"
+      }
+    ],
+    "htmlFile": "/emails/the-deal-that-doesn-t-close.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "the-email-you-didn-t-send",
+    "title": "The Email You Didn't Send",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-18",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-email-you-didn-t-send",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-email-you-didn-t-send.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-invisible-bonus",
+    "title": "The Invisible Bonus",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-18",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-invisible-bonus",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/the-invisible-bonus.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-safe-yes",
+    "title": "The Safe Yes",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-15",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-safe-yes",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      }
+    ],
+    "htmlFile": "/emails/the-safe-yes.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-org-chart-illusion",
+    "title": "The Org Chart Illusion",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-13",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-org-chart-illusion",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-org-chart-illusion.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-empty-office-the-obvious-lease-and-the-value-of-seeing",
+    "title": "The Empty Office, The Obvious Lease, and the Value of Seeing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-09",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/the-empty-office-the-obvious-lease-and-the-value-of-seeing",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      }
+    ],
+    "htmlFile": "/emails/the-empty-office-the-obvious-lease-and-the-value-of-seeing.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "solving-interesting-problems",
+    "title": "Solving Interesting Problems",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Bricks & Bonds",
+    "date": "2025-12-01",
+    "hasAds": true,
+    "url": "https://bricksbonds.beehiiv.com/p/solving-interesting-problems",
+    "publisher": {
+      "name": "Bricks & Bonds",
+      "url": "https://bricksbonds.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "ETC1.png"
+      }
+    ],
+    "htmlFile": "/emails/solving-interesting-problems.html",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ]
+  }
+]

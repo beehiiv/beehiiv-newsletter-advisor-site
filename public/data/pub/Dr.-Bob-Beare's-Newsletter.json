@@ -1,0 +1,160 @@
+[
+  {
+    "id": "i-don-t-need-no-stinkin-help-307f",
+    "title": "I don't need no stinkin' help!",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Dr. Bob Beare's Newsletter",
+    "url": "https://dr-bobs-newsletter.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-13T23:23:15.80632Z",
+    "publisher": {
+      "name": "Dr. Bob Beare's Newsletter",
+      "url": "https://dr-bobs-newsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/i-don-t-need-no-stinkin-help-307f.html",
+    "hasAds": true
+  },
+  {
+    "id": "everything-a-battle",
+    "title": "Everything a battle?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Dr. Bob Beare's Newsletter",
+    "url": "https://dr-bobs-newsletter.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T19:20:34.283121Z",
+    "publisher": {
+      "name": "Dr. Bob Beare's Newsletter",
+      "url": "https://dr-bobs-newsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/everything-a-battle.html",
+    "hasAds": true
+  },
+  {
+    "id": "think-think-think",
+    "title": "Think Think Think",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Dr. Bob Beare's Newsletter",
+    "date": "2025-10-30",
+    "hasAds": true,
+    "url": "https://dr-bobs-newsletter.beehiiv.com/p/think-think-think",
+    "publisher": {
+      "name": "Dr. Bob Beare's Newsletter",
+      "url": "https://dr-bobs-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/think-think-think.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "damn-me",
+    "title": "Damn Me",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Dr. Bob Beare's Newsletter",
+    "date": "2025-10-23",
+    "hasAds": true,
+    "url": "https://dr-bobs-newsletter.beehiiv.com/p/damn-me",
+    "publisher": {
+      "name": "Dr. Bob Beare's Newsletter",
+      "url": "https://dr-bobs-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/damn-me.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "you-re-so-smart-8a8b8b5f1164a900",
+    "title": "You're so smart",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Dr. Bob Beare's Newsletter",
+    "date": "2025-07-03",
+    "hasAds": true,
+    "url": "https://dr-bobs-newsletter.beehiiv.com/p/you-re-so-smart-8a8b8b5f1164a900",
+    "publisher": {
+      "name": "Dr. Bob Beare's Newsletter",
+      "url": "https://dr-bobs-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/you-re-so-smart-8a8b8b5f1164a900.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "my-first-addiction-aded907e052c0c4b",
+    "title": "My first addiction",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Dr. Bob Beare's Newsletter",
+    "date": "2025-06-26",
+    "hasAds": true,
+    "url": "https://dr-bobs-newsletter.beehiiv.com/p/my-first-addiction-aded907e052c0c4b",
+    "publisher": {
+      "name": "Dr. Bob Beare's Newsletter",
+      "url": "https://dr-bobs-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/my-first-addiction-aded907e052c0c4b.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

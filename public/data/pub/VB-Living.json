@@ -1,0 +1,103 @@
+[
+  {
+    "id": "2-13-26",
+    "title": "🎮 New Spot. Big Community Moves. Good Local News.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "VB Living",
+    "date": "2026-02-13",
+    "hasAds": true,
+    "url": "https://www.vblivingconnect.com/p/2-13-26",
+    "publisher": {
+      "name": "VB Living",
+      "url": "https://www.vblivingconnect.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/2-13-26.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "1-16-26",
+    "title": "🥂 We’re Calling It: This Is The Tastiest Week In VB",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "VB Living",
+    "date": "2026-01-16",
+    "hasAds": true,
+    "url": "https://www.vblivingconnect.com/p/1-16-26",
+    "publisher": {
+      "name": "VB Living",
+      "url": "https://www.vblivingconnect.com"
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "CBDISTILLERY.png"
+      }
+    ],
+    "htmlFile": "/emails/1-16-26.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "12-5-25",
+    "title": "🎄Open This Before You Make Weekend Plans",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "VB Living",
+    "date": "2025-12-05",
+    "hasAds": true,
+    "url": "https://www.vblivingconnect.com/p/12-5-25",
+    "publisher": {
+      "name": "VB Living",
+      "url": "https://www.vblivingconnect.com"
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "ProtonMail.png"
+      }
+    ],
+    "htmlFile": "/emails/12-5-25.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "11-28-25",
+    "title": "🛍️ VB’s Ultimate Shop Local Guide Just Dropped",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "VB Living",
+    "date": "2025-11-28",
+    "hasAds": true,
+    "url": "https://www.vblivingconnect.com/p/11-28-25",
+    "publisher": {
+      "name": "VB Living",
+      "url": "https://www.vblivingconnect.com"
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/11-28-25.html",
+    "tags": [
+      "Health"
+    ]
+  }
+]

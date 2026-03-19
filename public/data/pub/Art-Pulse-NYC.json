@@ -1,0 +1,110 @@
+[
+  {
+    "id": "february-s-museum-lineup",
+    "title": "February's Museum Lineup ❤️‍🔥",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Art Pulse NYC",
+    "url": "https://artpulse.nyc/p/february-s-museum-lineup",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-25T01:30:33.547271Z",
+    "publisher": {
+      "name": "Art Pulse NYC",
+      "url": "https://artpulse.nyc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/february-s-museum-lineup.html",
+    "hasAds": true
+  },
+  {
+    "id": "last-days-to-visit-galleries-before-they-close-for-the-year",
+    "title": "Last Days to Visit Galleries Before They Close for the Year ☃️",
+    "category": "Digital Products",
+    "description": "Issue #91: Gallery Happenings Between Dec 17 - Jan 2",
+    "author": "Art Pulse NYC",
+    "url": "https://artpulse.nyc/p/last-days-to-visit-galleries-before-they-close-for-the-year",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-17T00:41:52.851505Z",
+    "publisher": {
+      "name": "Art Pulse NYC",
+      "url": "https://artpulse.nyc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/last-days-to-visit-galleries-before-they-close-for-the-year.html",
+    "hasAds": true
+  },
+  {
+    "id": "new-gallery-exhibitions-spotlight-legendary-women-artists-joan-mitchell-louise-bourgeois-agnes-marti-c3ca",
+    "title": "Jeff Koons at Gagosian, Catherine Goodman at Hauser & Wirth, and more 🎈",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Art Pulse NYC",
+    "url": "https://artpulse.nyc/p/new-gallery-exhibitions-spotlight-legendary-women-artists-joan-mitchell-louise-bourgeois-agnes-marti-c3ca",
+    "tags": [
+      "Finance",
+      "Investing"
+    ],
+    "date": "2025-11-11T15:45:10.710906Z",
+    "publisher": {
+      "name": "Art Pulse NYC",
+      "url": "https://artpulse.nyc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/new-gallery-exhibitions-spotlight-legendary-women-artists-joan-mitchell-louise-bourgeois-agnes-marti-c3ca.html"
+  },
+  {
+    "id": "last-days-see-brooklyn-museums-paul-mccartney-photographs",
+    "title": "Last days to see the Brooklyn Museum's 'Paul McCartney Photographs'",
+    "category": "Digital Products",
+    "description": "Issue #45: August 13 - 19",
+    "author": "Art Pulse NYC",
+    "url": "https://artpulse.nyc/p/last-days-see-brooklyn-museums-paul-mccartney-photographs",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-12T00:40:23.524771Z",
+    "publisher": {
+      "name": "Art Pulse NYC",
+      "url": "https://artpulse.nyc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/last-days-see-brooklyn-museums-paul-mccartney-photographs.html"
+  }
+]

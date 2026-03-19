@@ -1,0 +1,29 @@
+[
+  {
+    "id": "this-weeks-steals-are-too-good-to-miss",
+    "title": "This Week’s Steals Are Too Good to Miss",
+    "category": "Digital Products",
+    "description": "Smarter tools. Bigger savings. Same Dealiciouz energy.",
+    "author": "Dealiciouz",
+    "url": "https://newsletter.dealiciouz.com/p/this-weeks-steals-are-too-good-to-miss",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-07T14:04:49.467931Z",
+    "publisher": {
+      "name": "Dealiciouz",
+      "url": "https://newsletter.dealiciouz.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/this-weeks-steals-are-too-good-to-miss.html"
+  }
+]

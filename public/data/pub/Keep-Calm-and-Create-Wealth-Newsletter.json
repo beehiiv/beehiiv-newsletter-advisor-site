@@ -1,0 +1,56 @@
+[
+  {
+    "id": "act-now-protect-years-of-growth",
+    "title": "Act Now - Protect Years of Growth",
+    "category": "Digital Products",
+    "description": "Buffett's approach: cut hidden costs early✂️",
+    "author": "Keep Calm and Create Wealth Newsletter",
+    "url": "https://www.wealthyvisor.com/p/act-now-protect-years-of-growth",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-20T07:40:42.225521Z",
+    "publisher": {
+      "name": "Keep Calm and Create Wealth Newsletter",
+      "url": "https://www.wealthyvisor.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/act-now-protect-years-of-growth.html"
+  },
+  {
+    "id": "get-rich-on-fear-really",
+    "title": "Get Rich on Fear (Really)",
+    "category": "Digital Products",
+    "description": "Buffett’s secret for crisis profits🍦",
+    "author": "Keep Calm and Create Wealth Newsletter",
+    "url": "https://www.wealthyvisor.com/p/get-rich-on-fear-really",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-12T06:11:26.382551Z",
+    "publisher": {
+      "name": "Keep Calm and Create Wealth Newsletter",
+      "url": "https://wealthyvisor.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/get-rich-on-fear-really.html"
+  }
+]

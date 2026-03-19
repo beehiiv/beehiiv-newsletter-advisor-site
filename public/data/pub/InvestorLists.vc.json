@@ -1,0 +1,110 @@
+[
+  {
+    "id": "worldwide-seed-family-offices",
+    "title": "Worldwide seed family offices",
+    "category": "Digital Products",
+    "description": "A curated list of active worldwide seed family offices investing in startups.",
+    "author": "InvestorLists.vc",
+    "url": "https://investorlists.vc",
+    "tags": [
+      "Investing",
+      "Technology"
+    ],
+    "date": "2026-02-15T19:04:24.70478Z",
+    "publisher": {
+      "name": "InvestorLists.vc",
+      "url": "https://investorlists.vc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "EnergyX",
+        "url": "https://energyx.com/",
+        "logo": "https://energyx.com/app/uploads/2020/03/android-chrome-384x384-1-300x300.png"
+      }
+    ],
+    "htmlFile": "/emails/worldwide-seed-family-offices.html",
+    "hasAds": true
+  },
+  {
+    "id": "worldwide-family-offices",
+    "title": "Worldwide family offices",
+    "category": "Digital Products",
+    "description": "A curated list of active worldwide family offices investing in startups.",
+    "author": "InvestorLists.vc",
+    "url": "https://investorlists.vc",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-15T11:29:31.164812Z",
+    "publisher": {
+      "name": "InvestorLists.vc",
+      "url": "https://investorlists.vc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/worldwide-family-offices.html",
+    "hasAds": true
+  },
+  {
+    "id": "europe-series-a-vcs-investing-in-healthcare",
+    "title": "Europe Series-A VCs investing in healthcare",
+    "category": "Digital Products",
+    "description": "A curated list of active Europe Series-A VCs investing in healthcare startups.",
+    "author": "InvestorLists.vc",
+    "url": "https://investorlists.vc",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-12T14:12:24.560005Z",
+    "publisher": {
+      "name": "InvestorLists.vc",
+      "url": "https://investorlists.vc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/europe-series-a-vcs-investing-in-healthcare.html",
+    "hasAds": true
+  },
+  {
+    "id": "top-family-offices-in-nyc-new-list",
+    "title": "Top Family Offices in NYC (new list)",
+    "category": "Digital Products",
+    "description": "A curated list of 88 active family offices based in New York",
+    "author": "InvestorLists.vc",
+    "url": "https://investorlists.vc/p/top-family-offices-in-nyc-new-list",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-22T08:04:36.547477Z",
+    "publisher": {
+      "name": "InvestorLists.vc",
+      "url": "https://investorlists.vc",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/top-family-offices-in-nyc-new-list.html",
+    "hasAds": true
+  }
+]

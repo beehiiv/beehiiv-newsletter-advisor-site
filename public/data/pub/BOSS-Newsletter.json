@@ -1,0 +1,157 @@
+[
+  {
+    "id": "time-only-measures-time",
+    "title": "Time only measures time",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BOSS Newsletter",
+    "date": "2025-10-26",
+    "hasAds": true,
+    "url": "https://bossnews.beehiiv.com/p/time-only-measures-time",
+    "publisher": {
+      "name": "BOSS Newsletter",
+      "url": "https://bossnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/time-only-measures-time.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "in-defense-of-risk",
+    "title": "In defense of risk",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BOSS Newsletter",
+    "date": "2025-09-29",
+    "hasAds": true,
+    "url": "https://bossnews.beehiiv.com/p/in-defense-of-risk",
+    "publisher": {
+      "name": "BOSS Newsletter",
+      "url": "https://bossnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marpipe",
+        "url": "https://www.marpipe.com/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/in-defense-of-risk.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "your-assumptions-are-wrong",
+    "title": "Your assumptions are wrong",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BOSS Newsletter",
+    "date": "2025-09-14",
+    "hasAds": true,
+    "url": "https://bossnews.beehiiv.com/p/your-assumptions-are-wrong",
+    "publisher": {
+      "name": "BOSS Newsletter",
+      "url": "https://bossnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "GURU",
+        "url": "https://guruconference.com/",
+        "logo": "https://guruconference.com/Content/favicon/android-icon-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/your-assumptions-are-wrong.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "who-cares-about-values",
+    "title": "Who cares about values?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BOSS Newsletter",
+    "date": "2025-09-07",
+    "hasAds": true,
+    "url": "https://bossnews.beehiiv.com/p/who-cares-about-values",
+    "publisher": {
+      "name": "BOSS Newsletter",
+      "url": "https://bossnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Remofirst",
+        "url": "https://www.remofirst.com/",
+        "logo": "RemoFirst_Logo_RGB_Green.png"
+      }
+    ],
+    "htmlFile": "/emails/who-cares-about-values.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "action-beats-accolades",
+    "title": "Action beats accolades",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BOSS Newsletter",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://bossnews.beehiiv.com/p/action-beats-accolades",
+    "publisher": {
+      "name": "BOSS Newsletter",
+      "url": "https://bossnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "ClickUp",
+        "url": "https://clickup.com/",
+        "logo": "Screenshot_2025-06-11_at_2.04.26_PM-removebg-preview.png"
+      }
+    ],
+    "htmlFile": "/emails/action-beats-accolades.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "beat-back-buyer-s-remorse",
+    "title": "Beat back buyer’s remorse",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "BOSS Newsletter",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://bossnews.beehiiv.com/p/beat-back-buyer-s-remorse",
+    "publisher": {
+      "name": "BOSS Newsletter",
+      "url": "https://bossnews.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      }
+    ],
+    "htmlFile": "/emails/beat-back-buyer-s-remorse.html",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ]
+  }
+]

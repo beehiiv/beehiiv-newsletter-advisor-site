@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ai-washing",
+    "title": "AI is the new scapegoat",
+    "description": "The new corporate move is moral outsourcing",
+    "date": "2026-02-26",
+    "author": "Bold Efforts",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/ai-washing",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Bold Efforts",
+      "url": "",
+      "logo": ""
+    },
+    "htmlFile": "/emails/ai-washing.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "growth-without-jobs",
+    "title": "Growth Without Jobs Isn’t a Paradox",
+    "category": "Digital Products",
+    "description": "The work economy is splitting in two: strong headlines above, tight doors below",
+    "author": "Bold Efforts",
+    "url": "https://www.boldefforts.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-19T12:31:22.528328Z",
+    "publisher": {
+      "name": "Bold Efforts",
+      "url": "https://www.boldefforts.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/growth-without-jobs.html",
+    "hasAds": true
+  },
+  {
+    "id": "networking-events",
+    "title": "The Business Card Treadmill",
+    "category": "Digital Products",
+    "description": "Networking events and the addiction to looking busy",
+    "author": "Bold Efforts",
+    "url": "https://www.boldefforts.com/p/networking-events",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-01-22T16:48:20.535718Z",
+    "publisher": {
+      "name": "Bold Efforts",
+      "url": "https://www.boldefforts.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/networking-events.html"
+  }
+]

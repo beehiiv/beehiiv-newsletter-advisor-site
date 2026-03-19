@@ -1,0 +1,723 @@
+[
+  {
+    "id": "your-brand-is-your-best-defense",
+    "title": "Your Brand Is Your Best Defense",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-02-23T18:45:49.782339Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/your-brand-is-your-best-defense.html",
+    "hasAds": true
+  },
+  {
+    "id": "so-you-thought-seo-was-easy",
+    "title": "So You Thought SEO Was Easy",
+    "category": "Digital Products",
+    "description": "SEO sounds simple enough at first.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-19T00:07:10.200911Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/so-you-thought-seo-was-easy.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-answering-questions-brings-in-more-business",
+    "title": "How Answering Questions Brings in More Business",
+    "category": "Digital Products",
+    "description": "The easiest way to come up with content? Answer the questions you hear every day.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/how-answering-questions-brings-in-more-business",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-24T14:07:56.16864Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-answering-questions-brings-in-more-business.html"
+  },
+  {
+    "id": "don-t-post-on-social-media-just-for-the-sake-of-it",
+    "title": "Don't Post on Social Media Just For the Sake of It ",
+    "category": "Digital Products",
+    "description": "Posting more won’t grow your business...posting with purpose will.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/don-t-post-on-social-media-just-for-the-sake-of-it",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-24T15:32:04.35744Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/don-t-post-on-social-media-just-for-the-sake-of-it.html"
+  },
+  {
+    "id": "stop-listening-to-your-friends",
+    "title": "Stop Listening to Your Friends!",
+    "category": "Digital Products",
+    "description": "Just because someone has an opinion on your business doesn’t mean you should listen. Here’s how to filter out advice that does more harm than good.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/stop-listening-to-your-friends",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-18T12:58:01.275059Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/stop-listening-to-your-friends.html"
+  },
+  {
+    "id": "4-chatgpt-tips-from-openai-s-founder",
+    "title": "4 ChatGPT tips from OpenAI's founder",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Soapbox News",
+    "date": "2025-03-17",
+    "hasAds": true,
+    "url": "https://soapbox.news/p/4-chatgpt-tips-from-openai-s-founder",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/4-chatgpt-tips-from-openai-s-founder.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-every-business-needs-before-a-website",
+    "title": "What Every Business Needs BEFORE a Website",
+    "category": "Digital Products",
+    "description": "A website won’t grow your business without the right foundation in place.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/what-every-business-needs-before-a-website",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-06T16:35:51.151344Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-every-business-needs-before-a-website.html"
+  },
+  {
+    "id": "using-landing-pages-to-drive-sales",
+    "title": "Using landing pages to drive sales",
+    "category": "Digital Products",
+    "description": "Take advantage of the high conversion rate of landing pages",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/using-landing-pages-to-drive-sales",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-24",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/using-landing-pages-to-drive-sales.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-best-content-for-generating-leads",
+    "title": "The Best Content For Generating Leads ",
+    "category": "Digital Products",
+    "description": "Helpful tools outperform any other content type in lead generation.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/the-best-content-for-generating-leads",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-02-21T16:17:13.945631Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-best-content-for-generating-leads.html"
+  },
+  {
+    "id": "see-your-website-through-your-customer-s-eyes",
+    "title": "See Your Website Through Your Customer's Eyes",
+    "category": "Digital Products",
+    "description": "Why website architecture matters and how to get it right",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/see-your-website-through-your-customer-s-eyes",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-17T19:06:10.303061Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/see-your-website-through-your-customer-s-eyes.html"
+  },
+  {
+    "id": "to-pop-up-or-not-to-pop-up",
+    "title": "To Pop-Up or Not to Pop-Up?",
+    "category": "Digital Products",
+    "description": "Website pop-ups can be extremely annoying...but also really effective.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/to-pop-up-or-not-to-pop-up",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-11T19:13:05.913094Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/to-pop-up-or-not-to-pop-up.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-1-automation-every-business-needs",
+    "title": "The #1 Automation Every Business Needs",
+    "category": "Digital Products",
+    "description": "Automated emails get 199% higher click rates than typical emails – take advantage of it with an automated welcome sequence.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/the-1-automation-every-business-needs",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-07T16:22:30.352625Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-1-automation-every-business-needs.html"
+  },
+  {
+    "id": "get-more-mileage-from-your-social-media-posts",
+    "title": "Get More Mileage From Your Social Media Posts",
+    "category": "Digital Products",
+    "description": "Social media is one of the most resource-heavy platforms out there. Prioritize a multi-channel approach instead.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/get-more-mileage-from-your-social-media-posts",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-04T19:36:54.91285Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/get-more-mileage-from-your-social-media-posts.html"
+  },
+  {
+    "id": "the-world-has-changed-now-what",
+    "title": "The World Has Changed...Now What?",
+    "category": "Digital Products",
+    "description": "The way people find businesses online is completely different. It's time for a new approach.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/the-world-has-changed-now-what",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-29T15:45:02.611169Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Ubiquitous",
+        "url": "https://www.ubiquitousinfluence.com/",
+        "logo": "https://cdn.prod.website-files.com/6090253feea1c123cd00c1ee/60a5d914ffac654b8b2cddff_Untitled%20design-18.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-world-has-changed-now-what.html"
+  },
+  {
+    "id": "newsletters-owning-your-audience",
+    "title": "The First Step to Owning Your Audience",
+    "category": "Digital Products",
+    "description": "Newsletters are the best way to build an ongoing relationship with your audience where you set the terms",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/newsletters-owning-your-audience",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-24T19:06:55.80332Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletters-owning-your-audience.html",
+    "hasAds": true
+  },
+  {
+    "id": "your-website-is-an-investment",
+    "title": "Your Website Should Be Making You $$$  ",
+    "category": "Digital Products",
+    "description": "When treated like an ongoing investment, your website can become your most reliable source of revenue.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/your-website-is-an-investment",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-22T13:49:30.917746Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-website-is-an-investment.html"
+  },
+  {
+    "id": "what-happened-to-decent-customer-service",
+    "title": "What Happened to Decent Customer Service?",
+    "category": "Digital Products",
+    "description": "The quality of customer service is at an all-time low. Use it to your advantage.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/what-happened-to-decent-customer-service",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-20T18:57:35.483458Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-happened-to-decent-customer-service.html"
+  },
+  {
+    "id": "you-cant-build-a-business-on-a-rented-audience",
+    "title": "You Can’t Build a Business on a Rented Audience ",
+    "category": "Digital Products",
+    "description": "The latest TikTok drama is the perfect reminder that you need to own your audience.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/you-cant-build-a-business-on-a-rented-audience",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-16T16:46:43.186211Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "htmlFile": "/emails/you-cant-build-a-business-on-a-rented-audience.html",
+    "hasAds": true
+  },
+  {
+    "id": "getting-the-most-out-of-automation-tools",
+    "title": "Getting the Most out of Automation Tools ",
+    "category": "Digital Products",
+    "description": "With a little effort and strategy, marketing automation can save you a ton of time and boost your ROI.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/getting-the-most-out-of-automation-tools",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-13T19:17:01.047983Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/getting-the-most-out-of-automation-tools.html"
+  },
+  {
+    "id": "it-s-not-the-economy-you-should-be-worried-about",
+    "title": "It’s not THE economy you should be worried about",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Soapbox News",
+    "date": "2025-01-13",
+    "hasAds": true,
+    "url": "https://soapbox.news/p/it-s-not-the-economy-you-should-be-worried-about",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-not-the-economy-you-should-be-worried-about.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "finding-and-keeping-top-talent",
+    "title": "Finding (and Keeping) Top Talent",
+    "category": "Digital Products",
+    "description": "Your website is the first place potential employees go to learn about your company. Is it making a good impression?",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/finding-and-keeping-top-talent",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-07T15:50:34.050182Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/finding-and-keeping-top-talent.html"
+  },
+  {
+    "id": "overcoming-the-fear-of-asking-for-reviews",
+    "title": "Overcoming the fear of asking for reviews",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Soapbox News",
+    "date": "2024-12-19",
+    "hasAds": true,
+    "url": "https://soapbox.news/p/overcoming-the-fear-of-asking-for-reviews",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/overcoming-the-fear-of-asking-for-reviews.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "finding-the-sweet-spot-with-ai-tools",
+    "title": "Finding the Sweet Spot with AI Tools",
+    "category": "Digital Products",
+    "description": "AI can be a lifesaver for busy business owners who dread writing content. But there's a right way to use it.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/finding-the-sweet-spot-with-ai-tools",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-13T21:37:16.483893Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/finding-the-sweet-spot-with-ai-tools.html"
+  },
+  {
+    "id": "nurturing-relationships-to-grow-your-business",
+    "title": "Nurturing Relationships to Grow Your Business",
+    "category": "Digital Products",
+    "description": "It's not enough to have a great product and business plan. Here's why customer relationships are the foundation of real business growth.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/nurturing-relationships-to-grow-your-business",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-04T16:39:07.339783Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nurturing-relationships-to-grow-your-business.html"
+  },
+  {
+    "id": "what-ai-search-results-mean-for-you",
+    "title": "What AI Search Results Mean for You",
+    "category": "Digital Products",
+    "description": "Google's AI is changing how people find you online. This week's advice will help you stay visible and relevant.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/what-ai-search-results-mean-for-you",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-12-02T18:41:02.697806Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/what-ai-search-results-mean-for-you.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-thing-i-m-most-thankful-for-as-a-business-owner",
+    "title": "Giving Thanks for the People in Our Corner",
+    "category": "Digital Products",
+    "description": "No one can build a business alone. The supportive people in our lives make all the difference.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/the-thing-i-m-most-thankful-for-as-a-business-owner",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2024-11-21T21:21:22.797194Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-thing-i-m-most-thankful-for-as-a-business-owner.html"
+  },
+  {
+    "id": "website-hero-section",
+    "title": "Make Those 50 Milliseconds Count",
+    "category": "Digital Products",
+    "description": "It takes 0.05 seconds to make an impression on your website visitors, and it all starts with your hero section.",
+    "author": "Soapbox News",
+    "url": "https://soapbox.news/p/website-hero-section",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-11-20T16:32:12.293259Z",
+    "publisher": {
+      "name": "Soapbox News",
+      "url": "https://soapbox.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/website-hero-section.html"
+  }
+]

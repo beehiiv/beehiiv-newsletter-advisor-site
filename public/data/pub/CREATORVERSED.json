@@ -1,0 +1,149 @@
+[
+  {
+    "id": "the-151k-reality-check",
+    "title": "☑ The $151K Reality Check",
+    "category": "Digital Products",
+    "description": "Marketing/brand roles dominate creator economy salaries. Inside: 2026-ready verified opps and what's paying top dollar right now",
+    "author": "CREATORVERSED",
+    "url": "https://www.creatorversed.com/p/the-151k-reality-check",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-16T22:44:29.715793Z",
+    "publisher": {
+      "name": "CREATORVERSED",
+      "url": "https://www.creatorversed.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-151k-reality-check.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-creator",
+    "title": "☑ Before the Holiday Freeze ",
+    "category": "Digital Products",
+    "description": "1,115+ verified opportunities across executive to entry-level. All actively hiring for January starts!",
+    "author": "CREATORVERSED",
+    "url": "https://www.creatorversed.com/p/the-creator",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-10-22T12:40:53.519852Z",
+    "publisher": {
+      "name": "CREATORVERSED",
+      "url": "https://www.creatorversed.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-creator.html"
+  },
+  {
+    "id": "swift-monday-moves",
+    "title": "☑ Swift Monday Moves",
+    "category": "Digital Products",
+    "description": "Time-sensitive verified remote opps, major brand strategy shifts, + insights worth your attention",
+    "author": "CREATORVERSED",
+    "url": "https://www.creatorversed.com/p/swift-monday-moves",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-31T05:23:38.949407Z",
+    "publisher": {
+      "name": "CREATORVERSED",
+      "url": "https://www.creatorversed.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/swift-monday-moves.html"
+  },
+  {
+    "id": "your-weekend-advantage",
+    "title": "☑ Your Weekend Advantage",
+    "category": "Digital Products",
+    "description": "100+ side hustles, new vetted opportunities, and the tool pros are using.",
+    "author": "CREATORVERSED",
+    "url": "https://www.creatorversed.com/p/your-weekend-advantage",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-28T17:48:01.809668Z",
+    "publisher": {
+      "name": "CREATORVERSED",
+      "url": "https://www.creatorversed.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-weekend-advantage.html"
+  },
+  {
+    "id": "new-post-65c4",
+    "title": "☑ Creator Economy Pro Refresh",
+    "category": "Digital Products",
+    "description": "Upgrade your work routine with essential insights + legit opportunities (no ghost jobs!)",
+    "author": "CREATORVERSED",
+    "url": "https://www.creatorversed.com/p/new-post-65c4",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-03-11T21:59:16.498839Z",
+    "publisher": {
+      "name": "CREATORVERSED",
+      "url": "https://www.creatorversed.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/new-post-65c4.html"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "what-is-a-crm-a-beginner-s-guide",
+    "title": "What Is a CRM? A Beginner’s Guide",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AIWorkflow",
+    "date": "2025-12-29",
+    "hasAds": true,
+    "url": "https://www.aiworkflow.news/p/what-is-a-crm-a-beginner-s-guide",
+    "publisher": {
+      "name": "AIWorkflow",
+      "url": "https://www.aiworkflow.news"
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/what-is-a-crm-a-beginner-s-guide.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-best-marketing-tool-right-now-hubspot",
+    "title": "The Best Marketing Tool Right Now: HubSpot",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AIWorkflow",
+    "date": "2025-12-14",
+    "hasAds": true,
+    "url": "https://www.aiworkflow.news/p/the-best-marketing-tool-right-now-hubspot",
+    "publisher": {
+      "name": "AIWorkflow",
+      "url": "https://www.aiworkflow.news"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-best-marketing-tool-right-now-hubspot.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "ai-tools-that-instantly-cut-through-fake-reviews-customer-support-chaos",
+    "title": "AI Tools That Instantly Cut Through Fake Reviews & Customer Support Chaos",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AIWorkflow",
+    "date": "2025-12-01",
+    "hasAds": true,
+    "url": "https://www.aiworkflow.news/p/ai-tools-that-instantly-cut-through-fake-reviews-customer-support-chaos",
+    "publisher": {
+      "name": "AIWorkflow",
+      "url": "https://www.aiworkflow.news"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-tools-that-instantly-cut-through-fake-reviews-customer-support-chaos.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "new-post-2fa2",
+    "title": "How to Use AI to Transform Hiring — Without Losing the Human Touch",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AIWorkflow",
+    "date": "2025-11-26",
+    "hasAds": true,
+    "url": "https://www.aiworkflow.news/p/new-post-2fa2",
+    "publisher": {
+      "name": "AIWorkflow",
+      "url": "https://www.aiworkflow.news"
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "Intercom_Logo_Lockup_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/new-post-2fa2.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "how-to-use-ai-to-redesign-your-workday-for-maximum-focus-e61f",
+    "title": "How to Use AI to Redesign Your Workday for Maximum Focus",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "AIWorkflow",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://www.aiworkflow.news/p/how-to-use-ai-to-redesign-your-workday-for-maximum-focus-e61f",
+    "publisher": {
+      "name": "AIWorkflow",
+      "url": "https://www.aiworkflow.news"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-use-ai-to-redesign-your-workday-for-maximum-focus-e61f.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "10-07-2025-northwest-arkansas-news",
+    "title": "Too Legit 2 Lit",
+    "category": "Digital Products",
+    "description": "10th Annual Square 2 Square, TrueLit returns to Fayetteville Public Library, Art Walk in Downtown Bentonville, and much more!",
+    "author": "NWA Daily",
+    "url": "https://www.nwadaily.com/p/10-07-2025-northwest-arkansas-news",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-06T14:51:35.324224Z",
+    "publisher": {
+      "name": "NWA Daily",
+      "url": "https://www.nwadaily.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/10-07-2025-northwest-arkansas-news.html"
+  }
+]

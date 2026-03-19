@@ -1,0 +1,28 @@
+[
+  {
+    "id": "trump-s-2-billion-bitcoin-bet",
+    "title": "Trump's $2 Billion Bitcoin Bet",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Block Briefing",
+    "date": "2025-07-22",
+    "hasAds": true,
+    "url": "https://block-briefing.beehiiv.com/p/trump-s-2-billion-bitcoin-bet",
+    "publisher": {
+      "name": "Block Briefing",
+      "url": "https://block-briefing.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/trump-s-2-billion-bitcoin-bet.html"
+  }
+]

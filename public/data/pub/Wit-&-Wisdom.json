@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sense-of-community",
+    "title": "Why We Lost Our Sense of Community",
+    "category": "Digital Products",
+    "description": "Mister Rogers would be appalled",
+    "author": "Wit & Wisdom",
+    "url": "https://witwisdom.tomgreene.com/p/sense-of-community",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-11T12:17:02.681196Z",
+    "publisher": {
+      "name": "Wit & Wisdom",
+      "url": "https://witwisdom.tomgreene.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sense-of-community.html"
+  },
+  {
+    "id": "how-much-money-do-you-need-to-be-rich",
+    "title": "How Much Money Do You Need to Be Rich? ",
+    "category": "Digital Products",
+    "description": "...and what do toilets have to do with it?",
+    "author": "Wit & Wisdom",
+    "url": "https://witwisdom.tomgreene.com/p/how-much-money-do-you-need-to-be-rich",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-22T03:42:34.613843Z",
+    "publisher": {
+      "name": "Wit & Wisdom",
+      "url": "https://witwisdom.tomgreene.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterHelp",
+        "url": "https://www.betterhelp.com/get-started/",
+        "logo": "https://assets.betterhelp.com/brand/betterhelp/apple-touch-icon.png?v=ab3ccb07d4f4"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-much-money-do-you-need-to-be-rich.html"
+  },
+  {
+    "id": "why-we-lost-faith-in-our-american-institutions",
+    "title": "Why We Lost Faith in Our American Institutions ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Wit & Wisdom",
+    "url": "https://witwisdom.tomgreene.com/p/why-we-lost-faith-in-our-american-institutions",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-19T04:07:02.239569Z",
+    "publisher": {
+      "name": "Wit & Wisdom",
+      "url": "https://witwisdom.tomgreene.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-we-lost-faith-in-our-american-institutions.html"
+  }
+]

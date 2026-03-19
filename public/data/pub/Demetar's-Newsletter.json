@@ -1,0 +1,54 @@
+[
+  {
+    "id": "donald-trump-just-invaded-russia",
+    "title": "Donald Trump Just Invaded Russia",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Demetar's Newsletter",
+    "date": "2025-03-11",
+    "hasAds": true,
+    "url": "https://demetars-newsletter.beehiiv.com/p/donald-trump-just-invaded-russia",
+    "publisher": {
+      "name": "Demetar's Newsletter",
+      "url": "https://demetars-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/donald-trump-just-invaded-russia.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "work-like-an-immigrant",
+    "title": "Work Like An Immigrant",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Demetar's Newsletter",
+    "date": "2025-02-04",
+    "hasAds": true,
+    "url": "https://demetars-newsletter.beehiiv.com/p/work-like-an-immigrant",
+    "publisher": {
+      "name": "Demetar's Newsletter",
+      "url": "https://demetars-newsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/work-like-an-immigrant.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

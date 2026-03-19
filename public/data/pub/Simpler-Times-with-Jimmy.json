@@ -1,0 +1,130 @@
+[
+  {
+    "id": "boxes-blocks-and-breathing-room",
+    "title": "A Practical Pause for an Impatient World",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Simpler Times with Jimmy",
+    "date": "2025-11-24",
+    "hasAds": true,
+    "url": "https://simpler-times.beehiiv.com/p/boxes-blocks-and-breathing-room",
+    "publisher": {
+      "name": "Simpler Times with Jimmy",
+      "url": "https://simpler-times.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "White_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/boxes-blocks-and-breathing-room.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "family-values",
+    "title": "Family Values",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Simpler Times with Jimmy",
+    "date": "2025-10-13",
+    "hasAds": true,
+    "url": "https://simpler-times.beehiiv.com/p/family-values",
+    "publisher": {
+      "name": "Simpler Times with Jimmy",
+      "url": "https://simpler-times.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/family-values.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "totally-tubular-teamwork",
+    "title": "Totally Tubular Teamwork",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Simpler Times with Jimmy",
+    "date": "2025-08-25",
+    "hasAds": true,
+    "url": "https://simpler-times.beehiiv.com/p/totally-tubular-teamwork",
+    "publisher": {
+      "name": "Simpler Times with Jimmy",
+      "url": "https://simpler-times.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fay Nutrition",
+        "url": "https://www.faynutrition.com/",
+        "logo": "60e47aa2553f0aeea477964e_Logo_v5.png"
+      }
+    ],
+    "htmlFile": "/emails/totally-tubular-teamwork.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "saved-by-stillness",
+    "title": "Saved by Stillness!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Simpler Times with Jimmy",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://simpler-times.beehiiv.com/p/saved-by-stillness",
+    "publisher": {
+      "name": "Simpler Times with Jimmy",
+      "url": "https://simpler-times.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/saved-by-stillness.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "back-to-simple",
+    "title": "Back to Simple",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Simpler Times with Jimmy",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://simpler-times.beehiiv.com/p/back-to-simple",
+    "publisher": {
+      "name": "Simpler Times with Jimmy",
+      "url": "https://simpler-times.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "tangle.png"
+      }
+    ],
+    "htmlFile": "/emails/back-to-simple.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

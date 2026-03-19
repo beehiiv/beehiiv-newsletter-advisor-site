@@ -1,0 +1,1040 @@
+[
+  {
+    "id": "not-so-small-loan",
+    "title": "🍺A not so small loan ",
+    "category": "Newsletter Ads",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "date": "2026-02-27",
+    "htmlFile": "/emails/not-so-small-loan.html",
+    "hasAds": true,
+    "url": "https://www.thepint.news/p/not-so-small-loan",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news"
+    },
+    "bgColor": "#FFFFFF",
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-royal-pain",
+    "title": "🍺A royal pain in the ...",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-02-19T10:02:20.330955Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/a-royal-pain.html",
+    "hasAds": true
+  },
+  {
+    "id": "sorry-you-re-on-the-list",
+    "title": "🍺Sorry, you're on the list",
+    "description": "The week's news in memes",
+    "date": "2026-02-02",
+    "author": "The Pint ",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/sorry-you-re-on-the-list",
+    "hasHtml": true,
+    "publisher": {
+      "name": "The Pint ",
+      "url": "",
+      "logo": ""
+    },
+    "htmlFile": "/emails/sorry-you-re-on-the-list.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "speak-a-lil-chinese-for-em-keir",
+    "title": "🍺Speak a lil chinese for em, Keir",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/speak-a-lil-chinese-for-em-keir",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-01-28T12:05:35.983104Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/speak-a-lil-chinese-for-em-keir.html"
+  },
+  {
+    "id": "u-turned-a-corner",
+    "title": "🍺U-turned a corner ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/u-turned-a-corner",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-14T09:26:40.699443Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/u-turned-a-corner.html",
+    "hasAds": true
+  },
+  {
+    "id": "you-re-coming-home-with-me",
+    "title": "🍺You're coming home with me",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/you-re-coming-home-with-me",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2026-01-05T06:46:32.411409Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Finance Buzz",
+        "url": "https://financebuzz.com/",
+        "logo": "https://cdn.financebuzz.com/static-assets/statics-27078/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-re-coming-home-with-me.html"
+  },
+  {
+    "id": "let-s-circle-back-next-year",
+    "title": "🍺 Let's circle back next year",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/let-s-circle-back-next-year",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-26T09:54:30.694919Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/let-s-circle-back-next-year.html"
+  },
+  {
+    "id": "you-better-lawyer-up",
+    "title": "🍺 You better lawyer up",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/you-better-lawyer-up",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-12-18T10:18:47.39966Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "htmlFile": "/emails/you-better-lawyer-up.html",
+    "hasAds": true
+  },
+  {
+    "id": "never-gonna-give-eu-up",
+    "title": "🍺 Never gonna give EU up",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/never-gonna-give-eu-up",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-12-08T16:03:01.358407Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Elite Trade Club",
+        "url": "https://elitetrade.club/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2f0a7f16-8131-4842-af34-1cbd8fd2a43c/thumb_ETC_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/never-gonna-give-eu-up.html",
+    "hasAds": true
+  },
+  {
+    "id": "wrap-your-head-around-that",
+    "title": "🍺 Wrap your head around that",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/wrap-your-head-around-that",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-02T14:44:00.774852Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wrap-your-head-around-that.html"
+  },
+  {
+    "id": "i-m-a-fiscal-creep",
+    "title": "🍺 I'm a (fiscal) creep",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/i-m-a-fiscal-creep",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-11-24T11:32:34.061733Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-m-a-fiscal-creep.html"
+  },
+  {
+    "id": "the-phantom-briefing",
+    "title": "🍺 The phantom briefing ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/the-phantom-briefing",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-13T07:18:21.658108Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/the-phantom-briefing.html",
+    "hasAds": true
+  },
+  {
+    "id": "let-s-make-a-deal",
+    "title": "🍺 Let's make a deal",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/let-s-make-a-deal",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-28T13:05:19.692615Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Author.Inc",
+        "url": "https://www.author.inc/",
+        "logo": "https://cdn.prod.website-files.com/68daa87cfade9832b6e1c806/6998dde5b71b407238d7ebb4_author.inc-webclip-black.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/let-s-make-a-deal.html"
+  },
+  {
+    "id": "cease-your-fire-please",
+    "title": "🍺 Now that's what I call a ceasefire",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/cease-your-fire-please",
+    "tags": [
+      "Finance",
+      "Investing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-06T08:07:17.443448Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "https://www.masterworks.com/favicon-512.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/cease-your-fire-please.html",
+    "hasAds": true
+  },
+  {
+    "id": "one-shutdown-after-another",
+    "title": "🍺 One shutdown after another ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/one-shutdown-after-another",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-10-01T16:40:27.261052Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/one-shutdown-after-another.html"
+  },
+  {
+    "id": "they-are-eating-the-swans",
+    "title": "🍺 They're eating the swans  ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/they-are-eating-the-swans",
+    "tags": [
+      "Careers",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-22T13:57:07.014898Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/they-are-eating-the-swans.html"
+  },
+  {
+    "id": "the-special-needs-relationship",
+    "title": "🍺 The special (needs) relationship ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/the-special-needs-relationship",
+    "tags": [
+      "Business",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-09-17T09:25:08.974662Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Wing Assistant",
+        "url": "https://wingassistant.com/",
+        "logo": "https://cdn-ilbfehp.nitrocdn.com/cgoWepdFhKRvviSNSthVyDGDHPPpczFN/assets/images/optimized/rev-a858355/wingassistant.com/wp-content/uploads/2021/10/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-special-needs-relationship.html"
+  },
+  {
+    "id": "it-s-ok-if-it-s-in-a-threeway",
+    "title": "🍺 It's ok if it's in a threeway ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Pint ",
+    "date": "2025-09-05",
+    "hasAds": true,
+    "url": "https://www.thepint.news/p/it-s-ok-if-it-s-in-a-threeway",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-ok-if-it-s-in-a-threeway.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "it-s-a-love-story",
+    "title": "🍺 It's a love story ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Pint ",
+    "date": "2025-08-29",
+    "hasAds": true,
+    "url": "https://www.thepint.news/p/it-s-a-love-story",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news"
+    },
+    "advertisers": [
+      {
+        "name": "Uniswap",
+        "url": "https://app.uniswap.org/",
+        "logo": "2560px-Uniswap_Logo_and_Wordmark.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-a-love-story.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "that-look-suits-you",
+    "title": "🍺 That look suits you  ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/that-look-suits-you",
+    "tags": [
+      "AI",
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-08-19T12:30:28.324999Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Delve",
+        "url": "https://delve.co/",
+        "logo": "https://cdn.prod.website-files.com/686c116534831e8f603168b9/686eca3d5b6f6d932f4f1c57_delve_favicon-large.png"
+      },
+      {
+        "name": "Motley Fool Money",
+        "url": "https://www.fool.com/money/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.fool.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/that-look-suits-you.html"
+  },
+  {
+    "id": "from-the-cotswolds-with-love",
+    "title": "🍺 From the Cotswolds with love",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/from-the-cotswolds-with-love",
+    "tags": [
+      "AI",
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-08-15T07:56:07.711517Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      },
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/from-the-cotswolds-with-love.html"
+  },
+  {
+    "id": "final-boss-of-tariffs",
+    "title": "🍺 The final boss of tariffs",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/final-boss-of-tariffs",
+    "tags": [
+      "Crypto",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-07T09:58:32.976458Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Crypto101",
+        "url": "https://crypto101podcast.com/",
+        "logo": "https://crypto101podcast.com/wp-content/uploads/2019/08/Crypto101_Icon_Colored-3.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/final-boss-of-tariffs.html"
+  },
+  {
+    "id": "vpns-to-the-rescue",
+    "title": "🍺 VPNs to the rescue  ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/vpns-to-the-rescue",
+    "tags": [
+      "Finance",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-07-31T06:55:51.581127Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/vpns-to-the-rescue.html"
+  },
+  {
+    "id": "the-dog-ate-my-client-list",
+    "title": "🍺 The dog ate my client list ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/the-dog-ate-my-client-list",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-07-10T13:46:11.939861Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-dog-ate-my-client-list.html"
+  },
+  {
+    "id": "it-can-t-go-on-like-this",
+    "title": "🍺 It can't go on like this? ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Pint ",
+    "date": "2025-07-04",
+    "hasAds": true,
+    "url": "https://www.thepint.news/p/it-can-t-go-on-like-this",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news"
+    },
+    "advertisers": [
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "SSR_Logo.png"
+      },
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "tangle.png"
+      }
+    ],
+    "htmlFile": "/emails/it-can-t-go-on-like-this.html",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "daddy-s-home",
+    "title": "🍺 Daddy's home",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/daddy-s-home",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-26T14:06:47.27181Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/daddy-s-home.html"
+  },
+  {
+    "id": "ready-for-the-draft",
+    "title": "🍺 Ready for the draft? ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/ready-for-the-draft",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-16T08:59:55.640526Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ready-for-the-draft.html"
+  },
+  {
+    "id": "introducing-liquid-ass",
+    "title": "🍺 Introducing...Liquid Ass ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/introducing-liquid-ass",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-11T17:13:15.267869Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/introducing-liquid-ass.html"
+  },
+  {
+    "id": "alien-vs-predator",
+    "title": "🍺 Alien vs Predator ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/alien-vs-predator",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-05T09:43:25.119975Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/alien-vs-predator.html"
+  },
+  {
+    "id": "a-slap-in-the-face",
+    "title": "🍺 A slap in the face",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Pint ",
+    "date": "2025-05-30",
+    "hasAds": true,
+    "url": "https://www.thepint.news/p/a-slap-in-the-face",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news"
+    },
+    "advertisers": [
+      {
+        "name": "Ground News",
+        "url": "https://ground.news/",
+        "logo": "Beehiv_Dark_Logo.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/a-slap-in-the-face.html",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "i-miss-eu",
+    "title": "🍺 I need EU, I miss EU ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/i-miss-eu",
+    "tags": [
+      "Finance",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-22T09:28:07.453348Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/i-miss-eu.html"
+  },
+  {
+    "id": "deal-with-it",
+    "title": "🍺 Deal with it ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/deal-with-it",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-16T07:42:50.226461Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deal-with-it.html"
+  },
+  {
+    "id": "crack-out-the-white-smoke",
+    "title": "🍺 Crack out the white smoke",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/crack-out-the-white-smoke",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-08T15:25:30.34915Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/crack-out-the-white-smoke.html"
+  },
+  {
+    "id": "there-s-a-chance",
+    "title": "🍺 So you're telling me there's a chance?",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/there-s-a-chance",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-18T06:33:36.653286Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/there-s-a-chance.html"
+  },
+  {
+    "id": "is-everyone-having-a-good-time",
+    "title": "🍺 Is everyone having a good time? ",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/is-everyone-having-a-good-time",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-11T09:25:42.015773Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-everyone-having-a-good-time.html"
+  },
+  {
+    "id": "finally-out-the-group-chat",
+    "title": "🍺 Finally made it out the group chat",
+    "category": "Digital Products",
+    "description": "The week's news in memes",
+    "author": "The Pint ",
+    "url": "https://www.thepint.news/p/finally-out-the-group-chat",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-22T09:37:19.226263Z",
+    "publisher": {
+      "name": "The Pint ",
+      "url": "https://www.thepint.news",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/finally-out-the-group-chat.html"
+  }
+]

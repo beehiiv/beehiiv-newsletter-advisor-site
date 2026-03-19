@@ -1,0 +1,83 @@
+[
+  {
+    "id": "the-halal-hustle-12",
+    "title": "The Halal Hustle #12",
+    "category": "Digital Products",
+    "description": "Copying Can Make You Rich (In Sha Allah)",
+    "author": "TheHalalHustle",
+    "url": "https://thehalalhustleweekly.beehiiv.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-22T14:11:55.815686Z",
+    "publisher": {
+      "name": "TheHalalHustle",
+      "url": "https://thehalalhustleweekly.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/the-halal-hustle-12.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-halal-hustle-11",
+    "title": "The Halal Hustle #11",
+    "category": "Digital Products",
+    "description": "AI Didn’t Change the Game - It Changed the Tools",
+    "author": "TheHalalHustle",
+    "url": "https://thehalalhustleweekly.beehiiv.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-15T14:06:41.799108Z",
+    "publisher": {
+      "name": "TheHalalHustle",
+      "url": "https://thehalalhustleweekly.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/the-halal-hustle-11.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-halal-hustle-10",
+    "title": "The Halal Hustle #10",
+    "category": "Digital Products",
+    "description": "Attention Brings Money",
+    "author": "TheHalalHustle",
+    "url": "https://thehalalhustleweekly.beehiiv.com",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-08T11:46:25.482653Z",
+    "publisher": {
+      "name": "TheHalalHustle",
+      "url": "https://thehalalhustleweekly.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/the-halal-hustle-10.html",
+    "hasAds": true
+  }
+]

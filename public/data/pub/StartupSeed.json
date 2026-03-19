@@ -1,0 +1,29 @@
+[
+  {
+    "id": "62-ausgabe",
+    "title": "62. Ausgabe",
+    "category": "Digital Products",
+    "description": "",
+    "author": "StartupSeed",
+    "url": "https://startupseed.de/p/62-ausgabe",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-04T13:01:12.219095Z",
+    "publisher": {
+      "name": "StartupSeed",
+      "url": "https://startupseed.de",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/62-ausgabe.html"
+  }
+]

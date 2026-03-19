@@ -1,0 +1,111 @@
+[
+  {
+    "id": "the-event-publisher-s-playbook-for-2025",
+    "title": "🎟️ The Event Publisher’s Playbook for 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Niche Media",
+    "date": "2025-10-16",
+    "hasAds": true,
+    "url": "https://niche-media.beehiiv.com/p/the-event-publisher-s-playbook-for-2025",
+    "publisher": {
+      "name": "Niche Media",
+      "url": "https://niche-media.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Galactic Fed",
+        "url": "https://www.galacticfed.com/",
+        "logo": "GF_Logo_Horizontal_675AA7.png"
+      }
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "htmlFile": "/emails/the-event-publisher-s-playbook-for-2025.html"
+  },
+  {
+    "id": "how-top-sellers-are-winning-in-niche-publishing",
+    "title": "🤝🏻 How Top Sellers Are Winning in Niche Publishing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Niche Media",
+    "date": "2025-10-02",
+    "hasAds": true,
+    "url": "https://niche-media.beehiiv.com/p/how-top-sellers-are-winning-in-niche-publishing",
+    "publisher": {
+      "name": "Niche Media",
+      "url": "https://niche-media.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "that startup guy",
+        "url": "https://grant.beehiiv.com/subscribe",
+        "logo": "tsglogo.png"
+      }
+    ],
+    "tags": [
+      "Newsletter",
+      "Startups"
+    ],
+    "htmlFile": "/emails/how-top-sellers-are-winning-in-niche-publishing.html"
+  },
+  {
+    "id": "why-most-paywalls-fail",
+    "title": "🔐 Why Most Paywalls Fail",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Niche Media",
+    "date": "2025-09-25",
+    "hasAds": true,
+    "url": "https://niche-media.beehiiv.com/p/why-most-paywalls-fail",
+    "publisher": {
+      "name": "Niche Media",
+      "url": "https://niche-media.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "GURU",
+        "url": "https://guruconference.com/",
+        "logo": "https://guruconference.com/Content/favicon/android-icon-192x192.png"
+      }
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "htmlFile": "/emails/why-most-paywalls-fail.html"
+  },
+  {
+    "id": "computer",
+    "title": "🚀 The Startup Mindset Every Publisher Needs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Niche Media",
+    "date": "2025-09-18",
+    "hasAds": true,
+    "url": "https://niche-media.beehiiv.com/p/computer",
+    "publisher": {
+      "name": "Niche Media",
+      "url": "https://niche-media.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marpipe",
+        "url": "https://www.marpipe.com/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Masterworks",
+        "url": "https://www.masterworks.com/",
+        "logo": "logo_logo-03-01__8_.png"
+      }
+    ],
+    "tags": [
+      "Finance",
+      "Investing",
+      "Marketing",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/computer.html"
+  }
+]

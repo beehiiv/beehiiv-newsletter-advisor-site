@@ -1,0 +1,56 @@
+[
+  {
+    "id": "youve-earned-morning-steals-start-day",
+    "title": "You’ve Earned It – Morning Steals To Start Your Day!",
+    "category": "Digital Products",
+    "description": "Save BIG on Carhartt, iPads, power banks, & MORE!",
+    "author": "Fat Kid Deals",
+    "url": "https://newsletter.fatkiddeals.com/p/youve-earned-morning-steals-start-day",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ],
+    "date": "2024-09-17T17:58:23.670743Z",
+    "publisher": {
+      "name": "Fat Kid Deals",
+      "url": "https://newsletter.fatkiddeals.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ACTIVE",
+        "url": "https://www.amazon.com/stores/ACTIVE/page/2127346B-F8EB-47DB-BBE2-086932857940?store_ref=bl_ast_dp_brandLogo_sto",
+        "logo": "https://www.google.com/s2/favicons?domain=www.active.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/youve-earned-morning-steals-start-day.html"
+  },
+  {
+    "id": "morning-price-drops-dont-miss-big-savings",
+    "title": "🌤️ Morning Price Drops: Don't Miss Out on Big Savings! 🔥",
+    "category": "Digital Products",
+    "description": "HUGE price drops on Calvin Klein, adidas, computer chairs, & MORE!",
+    "author": "Fat Kid Deals",
+    "url": "https://newsletter.fatkiddeals.com/p/morning-price-drops-dont-miss-big-savings",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-05T17:06:48.402316Z",
+    "publisher": {
+      "name": "Fat Kid Deals",
+      "url": "https://newsletter.fatkiddeals.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/morning-price-drops-dont-miss-big-savings.html"
+  }
+]

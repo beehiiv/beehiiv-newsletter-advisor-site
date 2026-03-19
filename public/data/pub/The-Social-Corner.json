@@ -1,0 +1,261 @@
+[
+  {
+    "id": "why-content-creations-feels-so-hard",
+    "title": "Content lacking umpf?! #SAME",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-10-23",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/why-content-creations-feels-so-hard",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/why-content-creations-feels-so-hard.html"
+  },
+  {
+    "id": "3-lies-a-truth-smm-edition",
+    "title": "3 truths and a lie ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-10-09",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/3-lies-a-truth-smm-edition",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/3-lies-a-truth-smm-edition.html"
+  },
+  {
+    "id": "5-fun-ways-to-turn-social-followers-into-email-insiders",
+    "title": "How to (Legally) Steal Emails 📧 on Social Media ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-09-27",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/5-fun-ways-to-turn-social-followers-into-email-insiders",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/5-fun-ways-to-turn-social-followers-into-email-insiders.html"
+  },
+  {
+    "id": "stop-chasing-eyeballs-build-a-community",
+    "title": "Stop chasing eyeballs 👀...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-09-19",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/stop-chasing-eyeballs-build-a-community",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Every.io",
+        "url": "https://www.every.io/",
+        "logo": "dark.png"
+      }
+    ],
+    "tags": [
+      "Crypto",
+      "Finance"
+    ],
+    "htmlFile": "/emails/stop-chasing-eyeballs-build-a-community.html"
+  },
+  {
+    "id": "when-things-get-heavy",
+    "title": "When things get heavy...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-09-11",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/when-things-get-heavy",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "mavenagi.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/when-things-get-heavy.html"
+  },
+  {
+    "id": "how-to-build-your-influencer-campaign",
+    "title": "How to Build Your Influencer Campaign",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-09-05",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/how-to-build-your-influencer-campaign",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "tags": [
+      "Marketing"
+    ],
+    "htmlFile": "/emails/how-to-build-your-influencer-campaign.html"
+  },
+  {
+    "id": "the-swift-marketing-effect-explained",
+    "title": "The Swift Marketing Effect",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-08-28",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/the-swift-marketing-effect-explained",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "mavenagi.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "htmlFile": "/emails/the-swift-marketing-effect-explained.html"
+  },
+  {
+    "id": "the-organic-vs-paid-debate",
+    "title": "Organic 🫱🏼‍🫲🏽 Paid",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-06-11",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/the-organic-vs-paid-debate",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/the-organic-vs-paid-debate.html"
+  },
+  {
+    "id": "what-s-actually-working-on-social-media-why-your-reach-is-tanking",
+    "title": "It's not them, it's YOU, babes 🫣",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-05-28",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/what-s-actually-working-on-social-media-why-your-reach-is-tanking",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/what-s-actually-working-on-social-media-why-your-reach-is-tanking.html"
+  },
+  {
+    "id": "5-facebook-business-page-mistakes-how-to-shake-them-off",
+    "title": "🚨 Facebook Page Fails (And How to Fix) 🚨",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Social Corner",
+    "date": "2025-03-31",
+    "hasAds": true,
+    "url": "https://the-social-corner.beehiiv.com/p/5-facebook-business-page-mistakes-how-to-shake-them-off",
+    "publisher": {
+      "name": "The Social Corner",
+      "url": "https://the-social-corner.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "htmlFile": "/emails/5-facebook-business-page-mistakes-how-to-shake-them-off.html"
+  }
+]

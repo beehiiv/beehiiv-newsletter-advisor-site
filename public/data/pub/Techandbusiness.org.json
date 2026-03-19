@@ -1,0 +1,104 @@
+[
+  {
+    "id": "playing-it-safe-on-linkedin-is-costing-you-opportunities",
+    "title": "Playing It Safe on LinkedIn Is Costing You Opportunities",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Techandbusiness.org",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://www.techandbusiness.org/p/playing-it-safe-on-linkedin-is-costing-you-opportunities",
+    "publisher": {
+      "name": "Techandbusiness.org",
+      "url": "https://www.techandbusiness.org"
+    },
+    "advertisers": [
+      {
+        "name": "Stack Influence",
+        "url": "https://stackinfluence.com/",
+        "logo": "stackinfluence_black_logo_normal__2___2_.png"
+      }
+    ],
+    "htmlFile": "/emails/playing-it-safe-on-linkedin-is-costing-you-opportunities.html",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "business-automations-2dad",
+    "title": "Business Automations",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Techandbusiness.org",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://www.techandbusiness.org/p/business-automations-2dad",
+    "publisher": {
+      "name": "Techandbusiness.org",
+      "url": "https://www.techandbusiness.org"
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "longangle_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/business-automations-2dad.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "the-coming-shift-in-investment-banking-culture-ai-and-the-junior-analyst-dilemma",
+    "title": "The Coming Shift in Investment Banking: Culture, AI, and the Junior Analyst Dilemma",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Techandbusiness.org",
+    "date": "2025-08-04",
+    "hasAds": true,
+    "url": "https://www.techandbusiness.org/p/the-coming-shift-in-investment-banking-culture-ai-and-the-junior-analyst-dilemma",
+    "publisher": {
+      "name": "Techandbusiness.org",
+      "url": "https://www.techandbusiness.org"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/the-coming-shift-in-investment-banking-culture-ai-and-the-junior-analyst-dilemma.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "quantum-computing-s-next-flop-de77",
+    "title": "Quantum Computing's Next Flop",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Techandbusiness.org",
+    "date": "2025-07-08",
+    "hasAds": true,
+    "url": "https://www.techandbusiness.org/p/quantum-computing-s-next-flop-de77",
+    "publisher": {
+      "name": "Techandbusiness.org",
+      "url": "https://www.techandbusiness.org"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      }
+    ],
+    "htmlFile": "/emails/quantum-computing-s-next-flop-de77.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  }
+]

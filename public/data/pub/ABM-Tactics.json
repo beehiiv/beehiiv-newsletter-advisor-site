@@ -1,0 +1,177 @@
+[
+  {
+    "id": "more-channels-does-not-equal-better-abm-performance",
+    "title": "More ≠ Better",
+    "category": "Digital Products",
+    "description": "The multi-channel ABM myth",
+    "author": "ABM Tactics",
+    "url": "https://abmtactics.com",
+    "tags": [
+      "AI",
+      "Business",
+      "Productivity"
+    ],
+    "date": "2026-02-20T20:06:19.814288Z",
+    "publisher": {
+      "name": "ABM Tactics",
+      "url": "https://abmtactics.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/more-channels-does-not-equal-better-abm-performance.html",
+    "hasAds": true
+  },
+  {
+    "id": "abm-is-now-a-need-to-have",
+    "title": "ABM is now a need-to-have",
+    "category": "Digital Products",
+    "description": "And is seen as a must-have skill",
+    "author": "ABM Tactics",
+    "url": "https://abmtactics.com",
+    "tags": [
+      "AI",
+      "Productivity",
+      "Technology"
+    ],
+    "date": "2026-02-14T01:58:24.041865Z",
+    "publisher": {
+      "name": "ABM Tactics",
+      "url": "https://abmtactics.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      },
+      {
+        "name": "you.com",
+        "url": "https://you.com/home",
+        "logo": "https://cdn.prod.website-files.com/687f2dca0cbe61df74670d33/688bc528f3605c450d622b2f_webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/abm-is-now-a-need-to-have.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-abm-mindset-shift",
+    "title": "The ABM Mindset Shift for Success",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ABM Tactics",
+    "date": "2026-02-08",
+    "hasAds": true,
+    "url": "https://abmtactics.com/p/the-abm-mindset-shift",
+    "publisher": {
+      "name": "ABM Tactics",
+      "url": "https://abmtactics.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-abm-mindset-shift.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "this-is-my-abm-playbook",
+    "title": "This is my ABM Playbook",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ABM Tactics",
+    "date": "2026-02-01",
+    "hasAds": true,
+    "url": "https://abmtactics.com/p/this-is-my-abm-playbook",
+    "publisher": {
+      "name": "ABM Tactics",
+      "url": "https://abmtactics.com"
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "logo-full-dark.png"
+      }
+    ],
+    "htmlFile": "/emails/this-is-my-abm-playbook.html",
+    "tags": [
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "a-quick-note-from-derek-abm",
+    "title": "A quick note from Derek",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ABM Tactics",
+    "date": "2026-01-25",
+    "hasAds": true,
+    "url": "https://abmtactics.com/p/a-quick-note-from-derek-abm",
+    "publisher": {
+      "name": "ABM Tactics",
+      "url": "https://abmtactics.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      },
+      {
+        "name": "Gethookd",
+        "url": "https://www.gethookd.ai/",
+        "logo": "Hookd.png"
+      }
+    ],
+    "htmlFile": "/emails/a-quick-note-from-derek-abm.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-7-figure-crm-abm-audit",
+    "title": "🤑 The 7-Figure CRM Audit",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ABM Tactics",
+    "date": "2026-01-18",
+    "hasAds": true,
+    "url": "https://abmtactics.com/p/the-7-figure-crm-abm-audit",
+    "publisher": {
+      "name": "ABM Tactics",
+      "url": "https://abmtactics.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/the-7-figure-crm-abm-audit.html",
+    "tags": [
+      "SaaS"
+    ]
+  }
+]

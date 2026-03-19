@@ -1,0 +1,106 @@
+[
+  {
+    "id": "new-post-9a13",
+    "title": "The 5 Scariest Philosophical Viewpoints",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TheSocraticScroll",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://thesocraticscroll.beehiiv.com/p/new-post-9a13",
+    "publisher": {
+      "name": "TheSocraticScroll",
+      "url": "https://thesocraticscroll.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/new-post-9a13.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-theory-of-acquaintance",
+    "title": "The theory of acquaintance ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TheSocraticScroll",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://thesocraticscroll.beehiiv.com/p/the-theory-of-acquaintance",
+    "publisher": {
+      "name": "TheSocraticScroll",
+      "url": "https://thesocraticscroll.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-theory-of-acquaintance.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "hedonism",
+    "title": "Hedonism",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TheSocraticScroll",
+    "date": "2025-05-22",
+    "hasAds": true,
+    "url": "https://thesocraticscroll.beehiiv.com/p/hedonism",
+    "publisher": {
+      "name": "TheSocraticScroll",
+      "url": "https://thesocraticscroll.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/hedonism.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-experience-machine",
+    "title": "The Experience Machine",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TheSocraticScroll",
+    "date": "2025-05-14",
+    "hasAds": true,
+    "url": "https://thesocraticscroll.beehiiv.com/p/the-experience-machine",
+    "publisher": {
+      "name": "TheSocraticScroll",
+      "url": "https://thesocraticscroll.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-experience-machine.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

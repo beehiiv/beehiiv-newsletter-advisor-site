@@ -1,0 +1,286 @@
+[
+  {
+    "id": "the-altman-ive-connection",
+    "title": "The Altman-Ive Connection",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-06-12",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/the-altman-ive-connection",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-altman-ive-connection.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "branding-thoughts",
+    "title": "Branding Thoughts ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-06-05",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/branding-thoughts",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/branding-thoughts.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "figma-corleone",
+    "title": "Figma Corleone ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-05-15",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/figma-corleone",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/figma-corleone.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "live-from-config",
+    "title": "Live from Config",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-05-08",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/live-from-config",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/live-from-config.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "career-roadmap",
+    "title": "Career Roadmap",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-05-01",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/career-roadmap",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/career-roadmap.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "rebrands-are-funny",
+    "title": "Rebrands Are Funny",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-04-17",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/rebrands-are-funny",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "HoneyBook_Full_Word_Logo_2023.png"
+      }
+    ],
+    "htmlFile": "/emails/rebrands-are-funny.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "design-can-be-fun",
+    "title": "Design Can Be Fun  ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-04-03",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/design-can-be-fun",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/design-can-be-fun.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ai-isn-t-helping-google",
+    "title": "AI Isn't Helping Google",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-03-27",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/ai-isn-t-helping-google",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-isn-t-helping-google.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-best-logos",
+    "title": "The Best Logos  ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-03-20",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/the-best-logos",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/the-best-logos.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "shifting-design-winds",
+    "title": "Shifting Design Winds ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-03-13",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/shifting-design-winds",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/shifting-design-winds.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "cinematic-art",
+    "title": "Cinematic Art ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Design Breadcrumbs",
+    "date": "2025-03-06",
+    "hasAds": true,
+    "url": "https://designbreadcrumbs.beehiiv.com/p/cinematic-art",
+    "publisher": {
+      "name": "Design Breadcrumbs",
+      "url": "https://designbreadcrumbs.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/cinematic-art.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

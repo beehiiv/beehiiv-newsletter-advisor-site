@@ -1,0 +1,35 @@
+[
+  {
+    "id": "friday-funday",
+    "title": "☕️  Friday Funday",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Miss Lou Brew",
+    "date": "2025-08-08",
+    "hasAds": true,
+    "url": "https://missloubrew.beehiiv.com/p/friday-funday",
+    "publisher": {
+      "name": "Miss Lou Brew",
+      "url": "https://missloubrew.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "KeepCart-Logo-Full__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/friday-funday.html",
+    "tags": [
+      "E-commerce",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  }
+]

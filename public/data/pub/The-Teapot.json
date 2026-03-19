@@ -1,0 +1,503 @@
+[
+  {
+    "id": "dam",
+    "title": "Dam. 🦫",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-14T14:23:14.427931Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/dam.html",
+    "hasAds": true
+  },
+  {
+    "id": "blockbuster",
+    "title": "Blockbuster 🎥",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2026-02-08T07:32:28.588189Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/blockbuster.html",
+    "hasAds": true
+  },
+  {
+    "id": "land-baron",
+    "title": "Land baron ⛰️",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/land-baron",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-10T21:17:03.770946Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/land-baron.html"
+  },
+  {
+    "id": "targets-and-kpi-s",
+    "title": "Targets and KPI's 🎯",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/targets-and-kpi-s",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-07T12:56:23.249206Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/targets-and-kpi-s.html"
+  },
+  {
+    "id": "deck-the-teapot",
+    "title": "Deck the Teapot 🌲",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/deck-the-teapot",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-30T10:18:56.549265Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/deck-the-teapot.html"
+  },
+  {
+    "id": "twas-the-night-before-budget",
+    "title": "Twas the night before budget 💼",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/twas-the-night-before-budget",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-11-20T13:27:11.081996Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/twas-the-night-before-budget.html"
+  },
+  {
+    "id": "sandford-s-most-wanted",
+    "title": "Sandford's most wanted 🦢",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/sandford-s-most-wanted",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-11-15T16:38:51.569425Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sandford-s-most-wanted.html"
+  },
+  {
+    "id": "p-ssw0rd123",
+    "title": "P@ssw0rd123 ",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/p-ssw0rd123",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-11-09T06:53:28.037862Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SelectSoftware Reviews",
+        "url": "https://www.selectsoftwarereviews.com/",
+        "logo": "https://cdn.brandfetch.io/iducAcf4k4/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769987197264"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/p-ssw0rd123.html"
+  },
+  {
+    "id": "is-nothing-sacred",
+    "title": "Is nothing sacred? 🍫",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/is-nothing-sacred",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-10-26T07:05:25.384141Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/is-nothing-sacred.html"
+  },
+  {
+    "id": "crocs-away",
+    "title": "Crocs away! 🐊",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/crocs-away",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-10-19T15:36:33.912724Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "insightsoftware",
+        "url": "https://insightsoftware.com/",
+        "logo": "https://insightsoftware.com/wp-content/uploads/2024/05/cropped-ISW-Logo-insightsoftware-Social-512px-Icon-Transparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/crocs-away.html"
+  },
+  {
+    "id": "where-s-my-snorkel",
+    "title": "Where's my snorkel? 🤿",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/where-s-my-snorkel",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-10-11T12:58:52.749579Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Peak Bank",
+        "url": "https://www.peak.bank/peak-bank",
+        "logo": "https://peak.bank/resource/crblob/84542/a9dfc418eb6e60efdfd13a9d2c37f5b3/peak-favicon-data.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/where-s-my-snorkel.html"
+  },
+  {
+    "id": "say-it-ain-t-so",
+    "title": "Say it ain't so 🍺",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/say-it-ain-t-so",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-10-05T15:43:25.94848Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "insightsoftware",
+        "url": "https://insightsoftware.com/",
+        "logo": "https://insightsoftware.com/wp-content/uploads/2024/05/cropped-ISW-Logo-insightsoftware-Social-512px-Icon-Transparent-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/say-it-ain-t-so.html"
+  },
+  {
+    "id": "two-week-warning",
+    "title": "Two week warning 🚨",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/two-week-warning",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-03T08:08:33.931956Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/two-week-warning.html"
+  },
+  {
+    "id": "new-strawberries-please",
+    "title": "New strawberries, please 🍓",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/new-strawberries-please",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-07-06T14:54:31.808152Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/new-strawberries-please.html"
+  },
+  {
+    "id": "runaway-train",
+    "title": "Runaway train 🚂",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/runaway-train",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-06-25T17:21:30.82521Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/runaway-train.html",
+    "hasAds": true
+  },
+  {
+    "id": "run-it-back",
+    "title": "Run it back 🏃",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/run-it-back",
+    "tags": [
+      "Business",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-06-20T05:31:21.746927Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      },
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      },
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/run-it-back.html",
+    "hasAds": true
+  },
+  {
+    "id": "in-holy-matrimony",
+    "title": "In holy matrimony 👰‍♀️",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/in-holy-matrimony",
+    "tags": [
+      "AI",
+      "Education",
+      "Finance",
+      "SaaS"
+    ],
+    "date": "2025-06-08T10:44:31.701151Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "Wall Street Prep",
+        "url": "https://www.wallstreetprep.com/",
+        "logo": "https://www.wallstreetprep.com/learn-financial-modeling/wp-content/themes/wallstreetprep/assets/icons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/in-holy-matrimony.html"
+  },
+  {
+    "id": "everest-man",
+    "title": "Everest Man ⛰️",
+    "category": "Digital Products",
+    "description": "🫖 The Teapot Newsletter",
+    "author": "The Teapot",
+    "url": "https://theteapot.co/p/everest-man",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-06-01T13:07:06.833352Z",
+    "publisher": {
+      "name": "The Teapot",
+      "url": "https://theteapot.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "htmlFile": "/emails/everest-man.html",
+    "hasAds": true
+  }
+]

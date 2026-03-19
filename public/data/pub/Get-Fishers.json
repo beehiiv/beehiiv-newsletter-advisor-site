@@ -1,0 +1,164 @@
+[
+  {
+    "id": "kevin-found",
+    "title": "⛵Kevin found",
+    "category": "Digital Products",
+    "description": "PLUS: Carmels DORA, parks to visit this summer, and curated events",
+    "author": "Get Fishers",
+    "url": "https://newsletter.fishersdigest.com/p/kevin-found",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-27T15:18:19.58433Z",
+    "publisher": {
+      "name": "Get Fishers",
+      "url": "https://newsletter.fishersdigest.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kevin-found.html"
+  },
+  {
+    "id": "valentine-s-made-easy",
+    "title": "⛵Valentine’s made easy",
+    "category": "Digital Products",
+    "description": "PLUS: local pop-ups, grand openings, and community clubs",
+    "author": "Get Fishers",
+    "url": "https://newsletter.fishersdigest.com/p/valentine-s-made-easy",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-07T20:00:24.44725Z",
+    "publisher": {
+      "name": "Get Fishers",
+      "url": "https://newsletter.fishersdigest.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/valentine-s-made-easy.html"
+  },
+  {
+    "id": "community-center-pricing",
+    "title": "⛵Community center pricing",
+    "category": "Digital Products",
+    "description": "PLUS: Fishers new fire chief, early 50s cpa story, curated events",
+    "author": "Get Fishers",
+    "url": "https://newsletter.fishersdigest.com/p/community-center-pricing",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-24T14:39:01.812454Z",
+    "publisher": {
+      "name": "Get Fishers",
+      "url": "https://newsletter.fishersdigest.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/community-center-pricing.html"
+  },
+  {
+    "id": "where-to-get-beef-tallow-fries",
+    "title": "⛵Where to get beef tallow fries",
+    "category": "Digital Products",
+    "description": "PLUS: Devour Indy is back, 2 hour delay, and curated events",
+    "author": "Get Fishers",
+    "url": "https://newsletter.fishersdigest.com/p/where-to-get-beef-tallow-fries",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-19T18:03:53.579005Z",
+    "publisher": {
+      "name": "Get Fishers",
+      "url": "https://newsletter.fishersdigest.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/where-to-get-beef-tallow-fries.html"
+  },
+  {
+    "id": "rental-caps-coming",
+    "title": "⛵Rental Caps coming?",
+    "category": "Digital Products",
+    "description": "PLUS: Making a Europe trip at 60, your school board, and events",
+    "author": "Get Fishers",
+    "url": "https://newsletter.fishersdigest.com/p/rental-caps-coming",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-12T17:24:37.002661Z",
+    "publisher": {
+      "name": "Get Fishers",
+      "url": "https://newsletter.fishersdigest.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rental-caps-coming.html"
+  },
+  {
+    "id": "fishers-wrapped",
+    "title": "⛵ Fishers, wrapped",
+    "category": "Digital Products",
+    "description": "PLUS: FEC basketball court, new fire chief, and weekend events",
+    "author": "Get Fishers",
+    "url": "https://newsletter.fishersdigest.com/p/fishers-wrapped",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-05T15:24:13.103183Z",
+    "publisher": {
+      "name": "Get Fishers",
+      "url": "https://newsletter.fishersdigest.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fishers-wrapped.html"
+  }
+]

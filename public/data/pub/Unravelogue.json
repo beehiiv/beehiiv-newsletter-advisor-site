@@ -1,0 +1,135 @@
+[
+  {
+    "id": "we-keep-having-the-wrong-conversation-about-ai-books",
+    "title": "We keep having the wrong conversation about AI & books.",
+    "category": "Digital Products",
+    "description": "The book market isn't facing an unprecedented crisis. It's following a script that's already played out in every other creative industry AI has touched.",
+    "author": "Unravelogue",
+    "url": "https://community.anneliewendeberg.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-16T08:42:22.513237Z",
+    "publisher": {
+      "name": "Unravelogue",
+      "url": "https://community.anneliewendeberg.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/we-keep-having-the-wrong-conversation-about-ai-books.html",
+    "hasAds": true
+  },
+  {
+    "id": "moving-to-the-arctic",
+    "title": "We're Moving to the Arctic!",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unravelogue",
+    "url": "https://community.anneliewendeberg.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-11T07:31:08.593872Z",
+    "publisher": {
+      "name": "Unravelogue",
+      "url": "https://community.anneliewendeberg.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/moving-to-the-arctic.html",
+    "hasAds": true
+  },
+  {
+    "id": "why-writing-advice-sucks",
+    "title": "Why Writing Advice Sucks",
+    "category": "Digital Products",
+    "description": "There are two kinds of writing advice on the internet, and I don’t like either of them.",
+    "author": "Unravelogue",
+    "url": "https://community.anneliewendeberg.com/p/why-writing-advice-sucks",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-19T12:04:43.005241Z",
+    "publisher": {
+      "name": "Unravelogue",
+      "url": "https://community.anneliewendeberg.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-writing-advice-sucks.html"
+  },
+  {
+    "id": "re-learning-writing",
+    "title": "Why I'm Re-learning Writing",
+    "category": "Digital Products",
+    "description": "Because I learned it all wrong the first time around. But we're all allowed to make shitty art, right?",
+    "author": "Unravelogue",
+    "url": "https://community.anneliewendeberg.com/p/re-learning-writing",
+    "tags": [
+      "Lifestyle",
+      "Travel"
+    ],
+    "date": "2026-01-11T15:50:32.441716Z",
+    "publisher": {
+      "name": "Unravelogue",
+      "url": "https://community.anneliewendeberg.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intrepid Travel",
+        "url": "https://www.intrepidtravel.com",
+        "logo": "https://www.intrepidtravel.com/files/icons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/re-learning-writing.html"
+  },
+  {
+    "id": "your-permission-to-make-art",
+    "title": "Your Permission to Make Art.",
+    "category": "Digital Products",
+    "description": "On AI slop, goblins, and why our weird little stories and art matter.",
+    "author": "Unravelogue",
+    "url": "https://community.anneliewendeberg.com/p/your-permission-to-make-art",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2026-01-06T09:03:47.884302Z",
+    "publisher": {
+      "name": "Unravelogue",
+      "url": "https://community.anneliewendeberg.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "reMarkable",
+        "url": "https://remarkable.com/",
+        "logo": "https://remarkable.com/favicons/favicon-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/your-permission-to-make-art.html"
+  }
+]

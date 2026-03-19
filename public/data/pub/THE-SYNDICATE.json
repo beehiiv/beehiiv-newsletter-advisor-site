@@ -1,0 +1,55 @@
+[
+  {
+    "id": "5-the-opportunity",
+    "title": "#5 - The Opportunity for Single Family Rentals",
+    "category": "Digital Products",
+    "description": "Building a SFR portfolio in DC Metro's elite school districts",
+    "author": "THE SYNDICATE",
+    "url": "https://newsletter.sevillecps.com/p/5-the-opportunity",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-09-24T13:24:13.985982Z",
+    "publisher": {
+      "name": "THE SYNDICATE",
+      "url": "https://newsletter.sevillecps.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bullseye Trades",
+        "url": "https://bullseye.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/2ba217b9-6ced-4c79-b480-231a24a9d9f0/thumb_Screen_Shot_2023-02-12_at_12.11.00_PM.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-the-opportunity.html"
+  },
+  {
+    "id": "4-market",
+    "title": "#4 - The Market - SFR and Multi Family",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "THE SYNDICATE",
+    "date": "2024-09-05",
+    "hasAds": true,
+    "url": "https://newsletter.sevillecps.com/p/4-market",
+    "publisher": {
+      "name": "THE SYNDICATE",
+      "url": "https://newsletter.sevillecps.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/4-market.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

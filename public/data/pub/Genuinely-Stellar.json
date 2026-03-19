@@ -1,0 +1,833 @@
+[
+  {
+    "id": "beyond-the-comfort-zone",
+    "title": "Beyond the Comfort Zone",
+    "category": "Digital Products",
+    "description": "Women entrepreneurs stretching themselves to achieve their goals",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/beyond-the-comfort-zone",
+    "tags": [
+      "Finance",
+      "Health"
+    ],
+    "date": "2026-02-21T14:08:46.478688Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "https://www.google.com/s2/favicons?domain=www.betterment.com&sz=128"
+      },
+      {
+        "name": "SuppCo",
+        "url": "https://supp.co/",
+        "logo": "https://supp.co/images/pwa-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/beyond-the-comfort-zone.html",
+    "hasAds": true
+  },
+  {
+    "id": "dream-coats-in-technicolour",
+    "title": "Dream Coats in Technicolour",
+    "category": "Digital Products",
+    "description": "Colour and warmth with a healthy dose of winter style from woman-owned brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-11T17:31:59.823401Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/dream-coats-in-technicolour.html",
+    "hasAds": true
+  },
+  {
+    "id": "february-finds",
+    "title": "February Finds",
+    "category": "Digital Products",
+    "description": "Wonderful woman-owned brands to warm your soul on cold winter days",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-07T15:38:13.463028Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/february-finds.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-tastemaker-and-her-favourite-woman-owned-brands",
+    "title": "A Tastemaker and Her Favourite Woman-Owned Brands",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Genuinely Stellar",
+    "date": "2026-01-25",
+    "hasAds": true,
+    "url": "https://newsletter.genuinelystellar.com/p/a-tastemaker-and-her-favourite-woman-owned-brands",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-tastemaker-and-her-favourite-woman-owned-brands.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-giveaway",
+    "title": " A Giveaway!",
+    "category": "Digital Products",
+    "description": "And some dreamy January finds",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/a-giveaway",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-15T22:06:30.309217Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.thecbdistillery.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-giveaway.html"
+  },
+  {
+    "id": "trends-to-embrace-in-2026",
+    "title": "Trends to Embrace in 2026",
+    "category": "Digital Products",
+    "description": "Find comfort in an uncomfortable world with woman-owned brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/trends-to-embrace-in-2026",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-01-09T00:15:09.597414Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/trends-to-embrace-in-2026.html"
+  },
+  {
+    "id": "i-tried-it-i-loved-it",
+    "title": "I Tried It & I Loved It",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Genuinely Stellar",
+    "date": "2026-01-04",
+    "hasAds": true,
+    "url": "https://newsletter.genuinelystellar.com/p/i-tried-it-i-loved-it",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/i-tried-it-i-loved-it.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "take-a-quick-survey",
+    "title": "Take A Quick Survey",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/take-a-quick-survey",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-12-27T13:48:31.355196Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/take-a-quick-survey.html"
+  },
+  {
+    "id": "nye-style",
+    "title": "NYE Style",
+    "category": "Digital Products",
+    "description": "Sparkle and shine with woman-owned brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/nye-style",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-12-09T16:49:01.276935Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nye-style.html"
+  },
+  {
+    "id": "the-stocking-stuffer-issue",
+    "title": "The Stocking Stuffer Issue",
+    "category": "Digital Products",
+    "description": "Little things from woman-owned brands that will make their day!",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-stocking-stuffer-issue",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-27T16:35:52.630892Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "Relatable",
+        "url": "https://relatable.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=relatable.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-stocking-stuffer-issue.html"
+  },
+  {
+    "id": "the-gift-guide",
+    "title": "The Gift Guide",
+    "category": "Digital Products",
+    "description": "Holiday Gift Ideas from Canadian Woman-Owned Brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-gift-guide",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-11-20T18:51:43.312343Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Medik8",
+        "url": "https://www.medik8.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.medik8.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-gift-guide.html"
+  },
+  {
+    "id": "2025-all-stars",
+    "title": "2025 All Stars",
+    "category": "Digital Products",
+    "description": "Celebrate Women's Entrepreneurship Day by Shopping Women-Owned",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/2025-all-stars",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-11-15T12:38:52.818543Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "htmlFile": "/emails/2025-all-stars.html",
+    "hasAds": true
+  },
+  {
+    "id": "it-s-okay-blue-jays",
+    "title": "It's Okay Blue Jays!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Genuinely Stellar",
+    "date": "2025-11-02",
+    "hasAds": true,
+    "url": "https://newsletter.genuinelystellar.com/p/it-s-okay-blue-jays",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-okay-blue-jays.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "nuts-and-bolts",
+    "title": "Nuts and Bolts",
+    "category": "Digital Products",
+    "description": "How-tos and origin stories from women-owned brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/nuts-and-bolts",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-10-15T15:04:33.19439Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/nuts-and-bolts.html"
+  },
+  {
+    "id": "celebrating-indigenous-women",
+    "title": "Celebrating Indigenous Women",
+    "category": "Digital Products",
+    "description": "Brands with sustainability and tradition at their core",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/celebrating-indigenous-women",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-22T11:15:30.597563Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/celebrating-indigenous-women.html"
+  },
+  {
+    "id": "the-film-festival-issue",
+    "title": "The Film Festival Issue",
+    "category": "Digital Products",
+    "description": "Taking Inspiration from TIFF with Canadian Woman-Owned Brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-film-festival-issue",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-07T12:37:34.432474Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-film-festival-issue.html"
+  },
+  {
+    "id": "the-feel-good-issue",
+    "title": "The Feel Good Issue",
+    "category": "Digital Products",
+    "description": "Five women entrepreneurs in the business of making you feel great",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-feel-good-issue",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-06T17:59:21.592307Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Momentous",
+        "url": "https://www.livemomentous.com/",
+        "logo": "https://www.livemomentous.com/cdn/shop/t/1209/assets/apple-touch-icon_small.png?v=14811670991533047571772001808"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-feel-good-issue.html"
+  },
+  {
+    "id": "fall-trend-report",
+    "title": "Fall Trend Report",
+    "category": "Digital Products",
+    "description": "Canadian woman-owned brands serving up fall style",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/fall-trend-report",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-28T11:36:45.442378Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tangle",
+        "url": "https://www.readtangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.readtangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fall-trend-report.html"
+  },
+  {
+    "id": "september-reset",
+    "title": "September Reset",
+    "category": "Digital Products",
+    "description": "Some ideas to make the transition to fall a little easier",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/september-reset",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-19T13:57:43.943426Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/september-reset.html"
+  },
+  {
+    "id": "meet-bluboho-founder-maggie-aurocco",
+    "title": "Meet Bluboho Founder Maggie Aurocco",
+    "category": "Digital Products",
+    "description": "And get her brand recos in fashion, wellness, art and food",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/meet-bluboho-founder-maggie-aurocco",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-16T17:06:35.473693Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/meet-bluboho-founder-maggie-aurocco.html"
+  },
+  {
+    "id": "muskoka-moments",
+    "title": "Muskoka Moments",
+    "category": "Digital Products",
+    "description": "And other lakeside inspiration",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/muskoka-moments",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-08-06T12:13:55.36324Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/muskoka-moments.html"
+  },
+  {
+    "id": "summer-finds",
+    "title": "Summer Finds",
+    "category": "Digital Products",
+    "description": "Baubles, forget-me-nots, a healthy brew and more",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/summer-finds",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-07-30T20:12:34.026168Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/summer-finds.html"
+  },
+  {
+    "id": "the-fathers-and-daughters-issue",
+    "title": "The Fathers and Daughters Issue",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-fathers-and-daughters-issue",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2025-06-10T15:41:34.099391Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Quince",
+        "url": "https://www.quince.com/",
+        "logo": "https://cdn.brandfetch.io/idCjCj-xoq/w/433/h/433/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772014685735"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-fathers-and-daughters-issue.html"
+  },
+  {
+    "id": "what-to-wear-to-a-backyard-bbq",
+    "title": "What to Wear to a Backyard BBQ",
+    "category": "Digital Products",
+    "description": "And other backyard entertaining tips",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/what-to-wear-to-a-backyard-bbq",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-29T14:10:45.156708Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-to-wear-to-a-backyard-bbq.html"
+  },
+  {
+    "id": "the-copenhagen-issue",
+    "title": "The Copenhagen Issue",
+    "category": "Digital Products",
+    "description": "Women-owned brands to explore in Denmark",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-copenhagen-issue",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2025-05-22T17:41:53.311703Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "htmlFile": "/emails/the-copenhagen-issue.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-garden-issue",
+    "title": "The Garden Issue",
+    "category": "Digital Products",
+    "description": "Women-owned products inspired by or for the garden",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-garden-issue",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-04-29T19:07:47.334054Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "htmlFile": "/emails/the-garden-issue.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-cottage-issue",
+    "title": "The Cottage Issue",
+    "category": "Digital Products",
+    "description": "Long weekend living from women-owned brands",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/the-cottage-issue",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-04-29T19:07:07.637989Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-cottage-issue.html"
+  },
+  {
+    "id": "celebrating-black-women",
+    "title": "Celebrating Black Women",
+    "category": "Digital Products",
+    "description": "Five incredible women breaking barriers with brands to love",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/celebrating-black-women",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-18T17:07:18.886057Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/celebrating-black-women.html"
+  },
+  {
+    "id": "repurpose-ful",
+    "title": "Repurpose-ful",
+    "category": "Digital Products",
+    "description": "Women entrepreneurs upcycling for good",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/repurpose-ful",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-14T19:33:23.607918Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Authory",
+        "url": "https://authory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=authory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/repurpose-ful.html"
+  },
+  {
+    "id": "ring-in-the-new-year-f2b4",
+    "title": "Ring in the New Year  ",
+    "category": "Digital Products",
+    "description": "With women-owned brands that help you look and feel your best",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/ring-in-the-new-year-f2b4",
+    "tags": [
+      "Business",
+      "E-commerce"
+    ],
+    "date": "2024-12-12T16:57:30.009396Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Goody",
+        "url": "https://www.ongoody.com/",
+        "logo": "https://www.ongoody.com/logo512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ring-in-the-new-year-f2b4.html"
+  },
+  {
+    "id": "gooders",
+    "title": "Do Good-ers",
+    "category": "Digital Products",
+    "description": "Women-owned brands here to do good",
+    "author": "Genuinely Stellar",
+    "url": "https://newsletter.genuinelystellar.com/p/gooders",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-29T02:15:50.754955Z",
+    "publisher": {
+      "name": "Genuinely Stellar",
+      "url": "https://newsletter.genuinelystellar.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gooders.html"
+  }
+]

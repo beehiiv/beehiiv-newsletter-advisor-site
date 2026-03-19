@@ -1,0 +1,136 @@
+[
+  {
+    "id": "lsd-11-6-25dded6f4f36597f",
+    "title": "LSD - 11/13",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Ledger SD",
+    "url": "https://www.lomaledger.com/p/lsd-11-6-25dded6f4f36597f",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-11-13T18:24:20.044077Z",
+    "publisher": {
+      "name": "The Ledger SD",
+      "url": "https://www.lomaledger.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lsd-11-6-25dded6f4f36597f.html"
+  },
+  {
+    "id": "lsd-10-30-81f1681397424c2e",
+    "title": "LSD - 11/6",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Ledger SD",
+    "url": "https://www.lomaledger.com/p/lsd-10-30-81f1681397424c2e",
+    "tags": [
+      "E-commerce",
+      "Lifestyle"
+    ],
+    "date": "2024-11-06T18:34:35.171575Z",
+    "publisher": {
+      "name": "The Ledger SD",
+      "url": "https://www.lomaledger.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ACTIVE",
+        "url": "https://www.amazon.com/stores/ACTIVE/page/2127346B-F8EB-47DB-BBE2-086932857940?store_ref=bl_ast_dp_brandLogo_sto",
+        "logo": "https://www.google.com/s2/favicons?domain=www.active.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lsd-10-30-81f1681397424c2e.html"
+  },
+  {
+    "id": "lsd-918",
+    "title": "LSD - 9/18",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Ledger SD",
+    "url": "https://www.lomaledger.com/p/lsd-918",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-18T15:34:16.439874Z",
+    "publisher": {
+      "name": "The Ledger SD",
+      "url": "https://www.lomaledger.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lsd-918.html"
+  },
+  {
+    "id": "lsd-911",
+    "title": "LSD - 9/11",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Ledger SD",
+    "url": "https://www.lomaledger.com/p/lsd-911",
+    "tags": [
+      "Business"
+    ],
+    "date": "2024-09-11T16:03:39.270733Z",
+    "publisher": {
+      "name": "The Ledger SD",
+      "url": "https://www.lomaledger.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Queensboro",
+        "url": "https://www.queensboro.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.queensboro.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lsd-911.html"
+  },
+  {
+    "id": "lsd-85",
+    "title": "LSD - 8/5",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Ledger SD",
+    "url": "https://www.lomaledger.com/p/lsd-85",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-05T17:51:16.725814Z",
+    "publisher": {
+      "name": "The Ledger SD",
+      "url": "https://www.lomaledger.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lsd-85.html"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "may-28-2025-d59d",
+    "title": "May 28, 2025",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Birdie",
+    "url": "https://www.wearebirdie.com/p/may-28-2025-d59d",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2025-05-27T13:57:14.226984Z",
+    "publisher": {
+      "name": "Birdie",
+      "url": "https://wearebirdie.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Quince",
+        "url": "https://www.quince.com/",
+        "logo": "https://cdn.brandfetch.io/idCjCj-xoq/w/433/h/433/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1772014685735"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/may-28-2025-d59d.html"
+  },
+  {
+    "id": "december-6-2024",
+    "title": "December 6, 2024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Birdie",
+    "url": "https://www.wearebirdie.com/p/december-6-2024",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-12-05T18:30:57.075487Z",
+    "publisher": {
+      "name": "Birdie",
+      "url": "https://wearebirdie.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bettersleep.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/december-6-2024.html"
+  },
+  {
+    "id": "october-29-2024",
+    "title": "October 29, 2024",
+    "category": "Digital Products",
+    "description": "Tricks to tame the treats.",
+    "author": "Birdie",
+    "url": "https://www.wearebirdie.com/p/october-29-2024",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2024-10-25T15:03:31.493399Z",
+    "publisher": {
+      "name": "Birdie",
+      "url": "https://wearebirdie.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/october-29-2024.html"
+  },
+  {
+    "id": "october-22-2024",
+    "title": "October 22, 2024",
+    "category": "Digital Products",
+    "description": "Plus, spooky-easy dinners for a stress-free Halloween night! 🎃",
+    "author": "Birdie",
+    "url": "https://www.wearebirdie.com/p/october-22-2024",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-10-20T18:21:02.120142Z",
+    "publisher": {
+      "name": "Birdie",
+      "url": "https://wearebirdie.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/october-22-2024.html"
+  },
+  {
+    "id": "august-13-2024",
+    "title": "🍳 Genius Ground Beef Hack Inside!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Birdie",
+    "date": "2024-08-13",
+    "hasAds": true,
+    "url": "https://www.wearebirdie.com/p/august-13-2024",
+    "publisher": {
+      "name": "Birdie",
+      "url": "https://www.wearebirdie.com"
+    },
+    "advertisers": [
+      {
+        "name": "James Allen",
+        "url": "https://www.jamesallen.com/",
+        "logo": "james_allen.png"
+      }
+    ],
+    "htmlFile": "/emails/august-13-2024.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "august-6-2024",
+    "title": "6 Books to help COVID babies get ready for school",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Birdie",
+    "date": "2024-08-06",
+    "hasAds": true,
+    "url": "https://www.wearebirdie.com/p/august-6-2024",
+    "publisher": {
+      "name": "Birdie",
+      "url": "https://www.wearebirdie.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "Image_removebg_preview.png"
+      }
+    ],
+    "htmlFile": "/emails/august-6-2024.html",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ]
+  }
+]

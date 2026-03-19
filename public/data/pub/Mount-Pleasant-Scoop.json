@@ -1,0 +1,453 @@
+[
+  {
+    "id": "shellabration",
+    "title": "Shellabration",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/shellabration",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-23T00:00:00Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/shellabration.html",
+    "hasAds": true
+  },
+  {
+    "id": "crawlin-on-the-creek",
+    "title": "Crawlin' On The Creek",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-12T20:22:27.284383Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/crawlin-on-the-creek.html",
+    "hasAds": true
+  },
+  {
+    "id": "valentine-s-day-weekend",
+    "title": "Valentine's Day Weekend",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/valentine-s-day-weekend",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-04T01:46:37.435151Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/valentine-s-day-weekend.html"
+  },
+  {
+    "id": "mount-pleasant-scoop-dinner-club",
+    "title": "Mount Pleasant Scoop Dinner Club",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/mount-pleasant-scoop-dinner-club",
+    "tags": [
+      "Lifestyle",
+      "Travel"
+    ],
+    "date": "2026-01-15T18:53:46.778325Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intrepid Travel",
+        "url": "https://www.intrepidtravel.com",
+        "logo": "https://www.intrepidtravel.com/files/icons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mount-pleasant-scoop-dinner-club.html"
+  },
+  {
+    "id": "hot-coco-s-more-kids-night",
+    "title": "Hot Coco, S’more & Kids Night",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/hot-coco-s-more-kids-night",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-07T00:52:07.333408Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/hot-coco-s-more-kids-night.html",
+    "hasAds": true
+  },
+  {
+    "id": "oysters-on-the-point",
+    "title": "Oysters on the Point",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "date": "2026-01-05",
+    "hasAds": true,
+    "url": "https://mountpleasantscoop.com/p/oysters-on-the-point",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/oysters-on-the-point.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "the-game-s-afoot",
+    "title": "The Game's Afoot",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/the-game-s-afoot",
+    "tags": [
+      "Creativity",
+      "SaaS"
+    ],
+    "date": "2025-12-11T18:06:32.232824Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Riverside",
+        "url": "https://riverside.com/",
+        "logo": "https://cdn.prod.website-files.com/685be7dcd32275d3830651d3/685be7dcd32275d383065e48_RS_favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-game-s-afoot.html"
+  },
+  {
+    "id": "christmas-light-parade",
+    "title": "Christmas Light Parade",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/christmas-light-parade",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-04T20:41:09.678404Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/christmas-light-parade.html"
+  },
+  {
+    "id": "holiday-festival",
+    "title": "Holiday Festival",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/holiday-festival",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-28T01:10:34.461888Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/holiday-festival.html"
+  },
+  {
+    "id": "miracle-saltwater-cowboys",
+    "title": "Miracle @ Saltwater Cowboys",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/miracle-saltwater-cowboys",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-11-13T14:17:27.054945Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/miracle-saltwater-cowboys.html"
+  },
+  {
+    "id": "charleston-energetic-experience",
+    "title": "Charleston Energetic Experience",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/charleston-energetic-experience",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-11-02T15:16:42.705622Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "https://fintechtakes.com/wp-content/uploads/sites/8/2024/03/fav-icon-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/charleston-energetic-experience.html"
+  },
+  {
+    "id": "enchanting-gardens",
+    "title": "Enchanting Gardens",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/enchanting-gardens",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-10-28T00:40:28.701287Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "https://money.com/img/favicons/favicon-192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/enchanting-gardens.html"
+  },
+  {
+    "id": "oyster-roast",
+    "title": "Oyster Roast ",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "date": "2025-10-13",
+    "hasAds": true,
+    "url": "https://mountpleasantscoop.com/p/oyster-roast",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/oyster-roast.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "annual-business-community-expo",
+    "title": "Annual Business & Community Expo",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/annual-business-community-expo",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-14T14:08:02.552138Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/annual-business-community-expo.html"
+  },
+  {
+    "id": "dancing-on-the-cooper",
+    "title": "Dancing On The Cooper",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/dancing-on-the-cooper",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-04T20:35:35.069472Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dancing-on-the-cooper.html"
+  },
+  {
+    "id": "dog-day-splash-island",
+    "title": "Dog Day at Splash Island",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/dog-day-splash-island",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-04T02:02:33.928106Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dog-day-splash-island.html"
+  },
+  {
+    "id": "roller-skate-on-the-point",
+    "title": "Roller Skate on the Point",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Mount Pleasant Scoop",
+    "url": "https://mountpleasantscoop.com/p/roller-skate-on-the-point",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-24T14:12:12.660532Z",
+    "publisher": {
+      "name": "Mount Pleasant Scoop",
+      "url": "https://mountpleasantscoop.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/roller-skate-on-the-point.html"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "weekly-recap-market-volatility-persists-eth-underperforms",
+    "title": "💡 Weekly Recap: Market Volatility Persists, ETH Underperforms",
+    "category": "Digital Products",
+    "description": "PLUS: The meme coin taking the market by storm",
+    "author": "Digital Asset Insights ",
+    "url": "https://dai.beehiiv.com/p/weekly-recap-market-volatility-persists-eth-underperforms",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2025-04-12T00:11:10.949284Z",
+    "publisher": {
+      "name": "Digital Asset Insights ",
+      "url": "https://dai.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Consensus",
+        "url": "https://consensus2026.coindesk.com/",
+        "logo": "https://cdn.brandfetch.io/idqY_V9808/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764579371705"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/weekly-recap-market-volatility-persists-eth-underperforms.html"
+  },
+  {
+    "id": "weekly-recap-bitcoin-steady-as-equity-market-tanks",
+    "title": "💡 Weekly Recap: Bitcoin Steady as Equity Market Tanks",
+    "category": "Digital Products",
+    "description": "PLUS: Stablecoins receive new guidance from the SEC",
+    "author": "Digital Asset Insights ",
+    "url": "https://dai.beehiiv.com/p/weekly-recap-bitcoin-steady-as-equity-market-tanks",
+    "tags": [
+      "Crypto"
+    ],
+    "date": "2025-04-04T17:37:56.544046Z",
+    "publisher": {
+      "name": "Digital Asset Insights ",
+      "url": "https://dai.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Consensus",
+        "url": "https://consensus2026.coindesk.com/",
+        "logo": "https://cdn.brandfetch.io/idqY_V9808/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764579371705"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/weekly-recap-bitcoin-steady-as-equity-market-tanks.html"
+  },
+  {
+    "id": "weekly-recap-risk-on-rally-lifts-crypto-markets",
+    "title": "💡 Weekly Recap: Risk-On Rally Lifts Crypto Markets",
+    "category": "Digital Products",
+    "description": "PLUS: What coin is the HyperLiquid whale betting on next",
+    "author": "Digital Asset Insights ",
+    "url": "https://dai.beehiiv.com/p/weekly-recap-risk-on-rally-lifts-crypto-markets",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-03-14T22:44:33.470034Z",
+    "publisher": {
+      "name": "Digital Asset Insights ",
+      "url": "https://dai.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/weekly-recap-risk-on-rally-lifts-crypto-markets.html",
+    "hasAds": true
+  },
+  {
+    "id": "weekly-recap-largest-hack-in-crypto-history-coinbase-lawsuit-set-to-be-dismissed",
+    "title": "💡 Weekly Recap:  Largest Hack in Crypto History, Coinbase Lawsuit set to be Dismissed ",
+    "category": "Digital Products",
+    "description": "PLUS: Guess which celebrity is launching a coin next",
+    "author": "Digital Asset Insights ",
+    "url": "https://dai.beehiiv.com/p/weekly-recap-largest-hack-in-crypto-history-coinbase-lawsuit-set-to-be-dismissed",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-02-21T22:39:12.259561Z",
+    "publisher": {
+      "name": "Digital Asset Insights ",
+      "url": "https://dai.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Analytica Investor",
+        "url": "https://analyticainvestor.com/",
+        "logo": "https://analyticainvestor.com/wp-content/uploads/2021/10/Favicon-analyticalinvestor-2-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/weekly-recap-largest-hack-in-crypto-history-coinbase-lawsuit-set-to-be-dismissed.html"
+  },
+  {
+    "id": "smart-contracts-and-how-do-they-work",
+    "title": "What Are Smart Contracts and How Do They Work?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Digital Asset Insights ",
+    "url": "https://dai.beehiiv.com/p/smart-contracts-and-how-do-they-work",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-21T12:59:04.078365Z",
+    "publisher": {
+      "name": "Digital Asset Insights ",
+      "url": "https://dai.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/smart-contracts-and-how-do-they-work.html"
+  }
+]

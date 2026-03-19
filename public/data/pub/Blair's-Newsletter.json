@@ -1,0 +1,54 @@
+[
+  {
+    "id": "im-everywhere-hear",
+    "title": "I'm Everywhere! Did You Hear Me?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Blair's Newsletter",
+    "date": "2024-09-05",
+    "hasAds": true,
+    "url": "https://blairballin.beehiiv.com/p/im-everywhere-hear",
+    "publisher": {
+      "name": "Blair's Newsletter",
+      "url": "https://blairballin.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/im-everywhere-hear.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "market-still-going",
+    "title": "Is The Market Still Going Down?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Blair's Newsletter",
+    "date": "2024-08-16",
+    "hasAds": true,
+    "url": "https://blairballin.beehiiv.com/p/market-still-going",
+    "publisher": {
+      "name": "Blair's Newsletter",
+      "url": "https://blairballin.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/market-still-going.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

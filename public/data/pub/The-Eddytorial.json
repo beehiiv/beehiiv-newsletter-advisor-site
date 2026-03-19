@@ -1,0 +1,80 @@
+[
+  {
+    "id": "the-eddytorial-2-20-26",
+    "title": "🍦 The Eddytorial: 2/20/26",
+    "category": "Digital Products",
+    "description": "Remembering Richard Bennett: former owner of The Little Dairy Queen",
+    "author": "The Eddytorial",
+    "url": "https://eddytorial.wichitabyeb.com",
+    "tags": [
+      "Lifestyle"
+    ],
+    "date": "2026-02-20T05:59:04.535074Z",
+    "publisher": {
+      "name": "The Eddytorial",
+      "url": "https://eddytorial.wichitabyeb.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "JRNYS",
+        "url": "https://jrnys.com/",
+        "logo": "https://cdn.brandfetch.io/id4Eh0KGHE/w/441/h/441/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767110025732"
+      }
+    ],
+    "htmlFile": "/emails/the-eddytorial-2-20-26.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-eddytorial-dining-digest-2-16-26",
+    "title": "🍣 The Eddytorial Dining Digest: 2/16/26",
+    "category": "Digital Products",
+    "description": "Welcome to the Monday dining digest of the Eddytorial. A weekly newsletter completely dedicated to the local dining scene.",
+    "author": "The Eddytorial",
+    "url": "https://eddytorial.wichitabyeb.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-09T05:23:12.336991Z",
+    "publisher": {
+      "name": "The Eddytorial",
+      "url": "https://eddytorial.wichitabyeb.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/the-eddytorial-dining-digest-2-16-26.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-eddytorial-1-10-25",
+    "title": "The Eddytorial: 1/10/25",
+    "category": "Digital Products",
+    "description": "Snowed in? Let's catch you up on what's going on (and what's closed) around Wichita",
+    "author": "The Eddytorial",
+    "url": "https://eddytorial.wichitabyeb.com/p/the-eddytorial-1-10-25",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-10T01:34:21.939235Z",
+    "publisher": {
+      "name": "The Eddytorial",
+      "url": "https://eddytorial.wichitabyeb.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-eddytorial-1-10-25.html"
+  }
+]

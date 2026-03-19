@@ -1,0 +1,137 @@
+[
+  {
+    "id": "trump-delivers-historic-state-of-the-union-address",
+    "title": "🇺🇸 Trump Delivers Historic State of the Union Address",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Trump Tracker",
+    "url": "https://trump-tracker.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-25T12:55:21.20185Z",
+    "publisher": {
+      "name": "Trump Tracker",
+      "url": "https://trump-tracker.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/trump-delivers-historic-state-of-the-union-address.html",
+    "hasAds": true
+  },
+  {
+    "id": "trump-blames-democrats-as-shutdown-continues-1e7c",
+    "title": "🇺🇸 Trump Blames Democrats as Shutdown Continues",
+    "description": "",
+    "date": "2026-02-18",
+    "author": "Trump Tracker",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/trump-blames-democrats-as-shutdown-continues-1e7c",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Trump Tracker",
+      "url": "https://trump-tracker.beehiiv.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/trump-blames-democrats-as-shutdown-continues-1e7c.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "trump-slams-super-bowl-halftime-show",
+    "title": "🇺🇸 Trump Slams Super Bowl Halftime Show",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Trump Tracker",
+    "url": "https://trump-tracker.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-09T15:14:20.98942Z",
+    "publisher": {
+      "name": "Trump Tracker",
+      "url": "https://trump-tracker.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/trump-slams-super-bowl-halftime-show.html",
+    "hasAds": true
+  },
+  {
+    "id": "trump-admin-pulls-agents-from-minnesota",
+    "title": "🇺🇸 Trump Admin Pulls Agents from Minnesota",
+    "description": "",
+    "date": "2026-02-04",
+    "author": "Trump Tracker",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/trump-admin-pulls-agents-from-minnesota",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Trump Tracker",
+      "url": "https://trump-tracker.beehiiv.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/trump-admin-pulls-agents-from-minnesota.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "trump-to-end-government-shutdown",
+    "title": "🇺🇸 Trump to End Government Shutdown",
+    "description": "",
+    "date": "2026-02-03",
+    "author": "Trump Tracker",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/trump-to-end-government-shutdown",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Trump Tracker",
+      "url": "https://trump-tracker.beehiiv.com",
+      "logo": ""
+    },
+    "htmlFile": "/emails/trump-to-end-government-shutdown.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

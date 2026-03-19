@@ -1,0 +1,109 @@
+[
+  {
+    "id": "the-ot-algorithm-issue-07",
+    "title": "The OT Algorithm: Issue 07",
+    "description": "AI Fights Poverty, Perplexity Says NO to Ads, & Revealing Source Types",
+    "date": "2026-02-24",
+    "author": "The OT Algorithm",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/the-ot-algorithm-issue-07",
+    "hasHtml": true,
+    "publisher": {
+      "name": "The OT Algorithm",
+      "url": "",
+      "logo": ""
+    },
+    "htmlFile": "/emails/the-ot-algorithm-issue-07.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-ot-algorithm-issue-06",
+    "title": "The OT Algorithm: Issue 06",
+    "category": "Digital Products",
+    "description": "Switching Tools, Intensifying Work, & Verification Fatigue",
+    "author": "The OT Algorithm",
+    "url": "https://theotalgorithm.beehiiv.com",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter",
+      "Productivity",
+      "Technology"
+    ],
+    "date": "2026-02-18T02:38:13.041857Z",
+    "publisher": {
+      "name": "The OT Algorithm",
+      "url": "https://theotalgorithm.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neo",
+        "url": "https://neobrowser.ai/",
+        "logo": "https://framerusercontent.com/images/MW5d272dTRfC14rRCoM6ygjb4.png"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/the-ot-algorithm-issue-06.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-ot-algorithm-issue-05",
+    "title": "The OT Algorithm: Issue 05",
+    "category": "Digital Products",
+    "description": "Gemini > ChatGPT, Operating Room Concerns, & AI Citations",
+    "author": "The OT Algorithm",
+    "url": "https://theotalgorithm.beehiiv.com",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2026-02-10T20:18:17.054027Z",
+    "publisher": {
+      "name": "The OT Algorithm",
+      "url": "https://theotalgorithm.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/the-ot-algorithm-issue-05.html",
+    "hasAds": true
+  }
+]

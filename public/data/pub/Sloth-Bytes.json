@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "critical-react-vulnerability",
+    "title": "🦥 Bun has a new sugar daddy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-12-06",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/critical-react-vulnerability",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/critical-react-vulnerability.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "being-wrong-is-your-job",
+    "title": "🦥 Being Wrong Is Your Job",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-12-02",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/being-wrong-is-your-job",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "UDACITY.png"
+      }
+    ],
+    "htmlFile": "/emails/being-wrong-is-your-job.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "react-server-components",
+    "title": "🦥 React Server Components For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-11-26",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/react-server-components",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "QuarterZip",
+        "url": "https://www.quarterzip.ai/",
+        "logo": "quarterzip.png"
+      }
+    ],
+    "htmlFile": "/emails/react-server-components.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "cloudflare-shut-down",
+    "title": "🦥 Cloudflare had skill issues",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-11-20",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/cloudflare-shut-down",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bright Data",
+        "url": "https://brightdata.com/",
+        "logo": "Bright_Data.png"
+      }
+    ],
+    "htmlFile": "/emails/cloudflare-shut-down.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "ai-killed-frameworks",
+    "title": "🦥AI killed frameworks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-11-13",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/ai-killed-frameworks",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deepgram",
+        "url": "https://deepgram.com/",
+        "logo": "Deepgram-wordmark-black_2x.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-killed-frameworks.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "google-is-training-ai-in-space",
+    "title": "🦥 Google Is Training AI In Space?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-11-06",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/google-is-training-ai-in-space",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      }
+    ],
+    "htmlFile": "/emails/google-is-training-ai-in-space.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-future-of-software-engineering-interviews",
+    "title": "🦥AI Is Changing Software Engineering Interviews",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-10-28",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/the-future-of-software-engineering-interviews",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "ProtonMail.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/the-future-of-software-engineering-interviews.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Technology"
+    ]
+  },
+  {
+    "id": "random",
+    "title": "🦥 Random isn’t “Random”",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-09-30",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/random",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Dex",
+        "url": "https://meetdex.ai/",
+        "logo": "600x300.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/random.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "profilers",
+    "title": "🦥 Profilers For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-09-23",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/profilers",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Typeless",
+        "url": "https://www.typeless.com/",
+        "logo": "Typelesslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/profilers.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "sdks",
+    "title": "🦥SDKs For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-09-16",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/sdks",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/sdks.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "certifications-or-projects",
+    "title": "🦥 Certifications Or Projects?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-09-09",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/certifications-or-projects",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/certifications-or-projects.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-80-20-rule-of-programming",
+    "title": "🦥The 80/20 Rule Of Programming",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-09-03",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/the-80-20-rule-of-programming",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-80-20-rule-of-programming.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "two-factor-codes",
+    "title": "🦥 How Do Two-Factor Codes Work?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-08-26",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/two-factor-codes",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/two-factor-codes.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "environment-variable-leaks",
+    "title": "🦥 Environment Variable Leaks",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-08-20",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/environment-variable-leaks",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Shutterstock",
+        "url": "https://www.shutterstock.com/",
+        "logo": "Shutterstock.png"
+      }
+    ],
+    "htmlFile": "/emails/environment-variable-leaks.html",
+    "tags": [
+      "Creativity",
+      "Technology"
+    ]
+  },
+  {
+    "id": "redis",
+    "title": "🦥 Redis For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-08-13",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/redis",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Typeless",
+        "url": "https://www.typeless.com/",
+        "logo": "Typelesslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/redis.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "data-cleaning",
+    "title": "🦥 Data Cleaning For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-07-30",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/data-cleaning",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/data-cleaning.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "too-much-abstraction",
+    "title": "🦥 \"Too Much\" Abstraction",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-07-23",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/too-much-abstraction",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "Skej-Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/too-much-abstraction.html",
+    "tags": [
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "geohashing",
+    "title": "🦥 Geohashing: The Trick Behind Location Search",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-06-17",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/geohashing",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/geohashing.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "federated-learning",
+    "title": "🦥  Federated Learning: Train AI Without Collecting User Data",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/federated-learning",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Money.com",
+        "url": "https://money.com/",
+        "logo": "Money_Logo_Navy.png"
+      }
+    ],
+    "htmlFile": "/emails/federated-learning.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "memory-leaks",
+    "title": "🦥 What Is Memory and Why Does It Leak?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-06-03",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/memory-leaks",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/memory-leaks.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "graphql-for-dummies",
+    "title": "🦥 GraphQL for Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-05-27",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/graphql-for-dummies",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/graphql-for-dummies.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "cloud-files",
+    "title": "🦥 How Do Files Work In The Cloud?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-05-13",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/cloud-files",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/cloud-files.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "5-sql-tips",
+    "title": "🦥 5 SQL Tips That will Save Your Life",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-05-06",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/5-sql-tips",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/5-sql-tips.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "pure-functions",
+    "title": "🦥What Are Pure Functions?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-04-24",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/pure-functions",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/pure-functions.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "race-conditions",
+    "title": "🦥The Sneakiest Bug in Programming",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-04-15",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/race-conditions",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/race-conditions.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "cors",
+    "title": "🦥 Why Does Every Developer Hate CORS?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-03-19",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/cors",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/cors.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "copy-pasting",
+    "title": "🦥Copy and Pasting Code Nearly Ruined Me",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-03-11",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/copy-pasting",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/copy-pasting.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-do-passwords-actually-work",
+    "title": "🦥How Do Passwords Actually Work?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-03-04",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/how-do-passwords-actually-work",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-do-passwords-actually-work.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "test-doubles",
+    "title": "🦥 Unit Testing: Test Doubles",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-02-18",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/test-doubles",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/test-doubles.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "microservices",
+    "title": "🦥 Microservices For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-02-04",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/microservices",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/microservices.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "browser-storage",
+    "title": "🦥 Browser Storage For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2025-01-14",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/browser-storage",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      },
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "mavenagi.png"
+      }
+    ],
+    "htmlFile": "/emails/browser-storage.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "websockets",
+    "title": "🦥 WebSockets For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-12-31",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/websockets",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/websockets.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "console",
+    "title": "🦥 Beyond Console.log()",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-12-24",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/console",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/console.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "good-code-comments",
+    "title": "🦥 How To Write Good Code Comments",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-12-11",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/good-code-comments",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/good-code-comments.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "how-to-ask-better-programming-questions",
+    "title": "🦥 How To Ask Better Programming Questions",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-12-04",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/how-to-ask-better-programming-questions",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-ask-better-programming-questions.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "rate-limiting-for-dummies",
+    "title": "🦥Rate Limiting For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-11-26",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/rate-limiting-for-dummies",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/rate-limiting-for-dummies.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "react",
+    "title": "🦥Introduction To React",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-11-19",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/react",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "htmlFile": "/emails/react.html",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "error-handling",
+    "title": "🦥Error Handling For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-11-12",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/error-handling",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "Codeium_Logo_Wordmark__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/error-handling.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "sloth-search",
+    "title": " 🦥 Sloth Search",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-11-07",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/sloth-search",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "Codeium_Logo_Wordmark__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/sloth-search.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "mind-mapping",
+    "title": "🦥 Mind Mapping: Organize Your Thoughts Like a Pro",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-11-06",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/mind-mapping",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "Codeium_Logo_Wordmark__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/mind-mapping.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "does-programming-ever-get-easier",
+    "title": "🦥 Does Programming Ever Get Easier?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-10-29",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/does-programming-ever-get-easier",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/does-programming-ever-get-easier.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "cloud-computing",
+    "title": "🦥The Cloud for Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-10-22",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/cloud-computing",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/cloud-computing.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "game-development",
+    "title": "🦥 Game Development for Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-10-15",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/game-development",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/game-development.html",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "automate-your-life-with-python",
+    "title": "🦥 Python Automation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-10-08",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/automate-your-life-with-python",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/automate-your-life-with-python.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "data-structures-and-algorithms",
+    "title": "🦥 Data Structures and Algorithms For Dummies",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-09-24",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/data-structures-and-algorithms",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/data-structures-and-algorithms.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "sql",
+    "title": "🦥What the heck is SQL?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-09-17",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/sql",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/sql.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "wasm",
+    "title": "🦥The Future of Web Development?: Web Assembly (WASM)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Sloth Bytes",
+    "date": "2024-08-27",
+    "hasAds": true,
+    "url": "https://slothbytes.beehiiv.com/p/wasm",
+    "publisher": {
+      "name": "Sloth Bytes",
+      "url": "https://slothbytes.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/wasm.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

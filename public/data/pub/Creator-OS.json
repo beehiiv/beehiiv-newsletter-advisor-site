@@ -1,0 +1,159 @@
+[
+  {
+    "id": "6-ingredients-for-viral-content",
+    "title": "6 Ingredients for Viral Content",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Creator OS",
+    "date": "2026-01-14",
+    "hasAds": true,
+    "url": "https://getcreatoros.beehiiv.com/p/6-ingredients-for-viral-content",
+    "publisher": {
+      "name": "Creator OS",
+      "url": "https://getcreatoros.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/6-ingredients-for-viral-content.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-exact-roadmap-to-get-50k-views-based-on-what-actually-works",
+    "title": "What actually gets 50k+ views",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Creator OS",
+    "date": "2026-01-12",
+    "hasAds": true,
+    "url": "https://getcreatoros.beehiiv.com/p/the-exact-roadmap-to-get-50k-views-based-on-what-actually-works",
+    "publisher": {
+      "name": "Creator OS",
+      "url": "https://getcreatoros.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/the-exact-roadmap-to-get-50k-views-based-on-what-actually-works.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "the-4-pillars-every-creator-needs",
+    "title": "4 pillars every creator needs",
+    "category": "Digital Products",
+    "description": "Miss one, and progress stalls. Here’s how to lock all four in early.",
+    "author": "Creator OS",
+    "url": "https://getcreatoros.beehiiv.com/p/the-4-pillars-every-creator-needs",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-31",
+    "publisher": {
+      "name": "Creator OS",
+      "url": "https://getcreatoros.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-4-pillars-every-creator-needs.html",
+    "hasAds": true
+  },
+  {
+    "id": "8-ways-to-make-money-as-a-creator",
+    "title": "8 ways to make money as a Creator",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Creator OS",
+    "date": "2025-12-11",
+    "hasAds": true,
+    "url": "https://getcreatoros.beehiiv.com/p/8-ways-to-make-money-as-a-creator",
+    "publisher": {
+      "name": "Creator OS",
+      "url": "https://getcreatoros.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/8-ways-to-make-money-as-a-creator.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "how-to-earn-more-in-less-time",
+    "title": "How to earn more in less time",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Creator OS",
+    "date": "2025-12-08",
+    "hasAds": true,
+    "url": "https://getcreatoros.beehiiv.com/p/how-to-earn-more-in-less-time",
+    "publisher": {
+      "name": "Creator OS",
+      "url": "https://getcreatoros.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-earn-more-in-less-time.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "8-reasons-why-your-audience-isn-t-growing",
+    "title": "8 Reasons Why Your Audience Isn’t Growing",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Creator OS",
+    "date": "2025-12-03",
+    "hasAds": true,
+    "url": "https://getcreatoros.beehiiv.com/p/8-reasons-why-your-audience-isn-t-growing",
+    "publisher": {
+      "name": "Creator OS",
+      "url": "https://getcreatoros.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/8-reasons-why-your-audience-isn-t-growing.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

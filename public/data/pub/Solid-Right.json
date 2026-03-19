@@ -1,0 +1,104 @@
+[
+  {
+    "id": "etf-exodus",
+    "title": "ETF Exodus",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Solid Right",
+    "date": "2026-02-20",
+    "hasAds": true,
+    "url": "https://solidright.beehiiv.com/p/etf-exodus",
+    "publisher": {
+      "name": "Solid Right",
+      "url": "https://solidright.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "TDV_black.png"
+      }
+    ],
+    "htmlFile": "/emails/etf-exodus.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-leverage-execution",
+    "title": "The Leverage Execution",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Solid Right",
+    "date": "2026-02-13",
+    "hasAds": true,
+    "url": "https://solidright.beehiiv.com/p/the-leverage-execution",
+    "publisher": {
+      "name": "Solid Right",
+      "url": "https://solidright.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "CoW",
+        "url": "https://cow.fi/",
+        "logo": "cowswap_logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-leverage-execution.html",
+    "tags": [
+      "Crypto"
+    ]
+  },
+  {
+    "id": "the-etf-hangover",
+    "title": "The ETF Hangover",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Solid Right",
+    "date": "2026-02-06",
+    "hasAds": true,
+    "url": "https://solidright.beehiiv.com/p/the-etf-hangover",
+    "publisher": {
+      "name": "Solid Right",
+      "url": "https://solidright.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-etf-hangover.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2026-s-triple-threat",
+    "title": "2026’s Triple Threat",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Solid Right",
+    "date": "2026-01-30",
+    "hasAds": true,
+    "url": "https://solidright.beehiiv.com/p/2026-s-triple-threat",
+    "publisher": {
+      "name": "Solid Right",
+      "url": "https://solidright.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "FI__Green_Text__Outlined.png"
+      }
+    ],
+    "htmlFile": "/emails/2026-s-triple-threat.html",
+    "tags": [
+      "Finance"
+    ]
+  }
+]

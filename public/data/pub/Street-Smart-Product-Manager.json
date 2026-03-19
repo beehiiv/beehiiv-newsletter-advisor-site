@@ -1,0 +1,647 @@
+[
+  {
+    "id": "executive-messaging",
+    "title": "PMs who present like this become executives fast",
+    "description": "The strategic messaging framework that prepares you for senior-level responsibility.",
+    "date": "2026-02-17",
+    "author": "Street Smart Product Manager",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/executive-messaging",
+    "hasHtml": true,
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "",
+      "logo": ""
+    },
+    "htmlFile": "/emails/executive-messaging.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "alignment-decay",
+    "title": "Everyone Agreed... Then Forgot",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2026-01-31",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/alignment-decay",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      },
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "logo-full-dark.png"
+      }
+    ],
+    "htmlFile": "/emails/alignment-decay.html",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "2026-pm-survival-guide",
+    "title": "The 2026 Product Manager's Survival Guide",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2026-01-10",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/2026-pm-survival-guide",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "Gladly_Logo_RBG__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/2026-pm-survival-guide.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "urgent-vs-important",
+    "title": "Your Boss Won’t Tell You This",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-12-13",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/urgent-vs-important",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/urgent-vs-important.html",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "feature-bloat",
+    "title": "More Features Don't Create Product Success",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-12-06",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/feature-bloat",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "Asset_8-8.png"
+      },
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "Rippling_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/feature-bloat.html",
+    "tags": [
+      "Business",
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "ai-tech-debt",
+    "title": "AI is Supercharging Tech Debt",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-11-22",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/ai-tech-debt",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bright Data",
+        "url": "https://brightdata.com/",
+        "logo": "Bright_Data.png"
+      },
+      {
+        "name": "Deepgram",
+        "url": "https://deepgram.com/",
+        "logo": "Deepgram-wordmark-black_2x.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-tech-debt.html",
+    "tags": [
+      "AI",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "why-product-directors-fail",
+    "title": "You got the title. Now comes the hard part.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-11-15",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/why-product-directors-fail",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deepgram",
+        "url": "https://deepgram.com/",
+        "logo": "Deepgram-wordmark-black_2x.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/why-product-directors-fail.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "getting-promoted-to-director",
+    "title": "How to get promoted to Director",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-11-08",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/getting-promoted-to-director",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      },
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "ProtonMail.png"
+      }
+    ],
+    "htmlFile": "/emails/getting-promoted-to-director.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Technology"
+    ]
+  },
+  {
+    "id": "calculating-feature-impact",
+    "title": "Your Features Need to Pay Rent. Here’s How to Check If They Do.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-11-01",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/calculating-feature-impact",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/calculating-feature-impact.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "budgets",
+    "title": "Why Great Product Ideas Die in Budget Meetings",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-10-25",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/budgets",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "Enterpret.png"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "TheCodeSuperhuman.png"
+      }
+    ],
+    "htmlFile": "/emails/budgets.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "stop-whining",
+    "title": "This one behavior kills PM careers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-10-22",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/stop-whining",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "Enterpret.png"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "Mindstream_HSMedia.png"
+      },
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/stop-whining.html",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Newsletter",
+      "SaaS",
+      "Technology"
+    ]
+  },
+  {
+    "id": "tech-debt",
+    "title": "Turn tech debt into a strategic conversation",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-10-18",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/tech-debt",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "Enterpret.png"
+      }
+    ],
+    "htmlFile": "/emails/tech-debt.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "revenue-fluency-for-product-managers",
+    "title": "What your CFO wants you to know",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-10-11",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/revenue-fluency-for-product-managers",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/revenue-fluency-for-product-managers.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "pm-identity-crisis",
+    "title": "AI Isn't the Real Threat to Your PM Career",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/pm-identity-crisis",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "Enterpret.png"
+      }
+    ],
+    "htmlFile": "/emails/pm-identity-crisis.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-your-ceo-wants-you-to-know",
+    "title": "What your CEO wants you to know",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-10-04",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/what-your-ceo-wants-you-to-know",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/what-your-ceo-wants-you-to-know.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "play-the-game",
+    "title": "My most brutally honest post ever",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-09-30",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/play-the-game",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Dex",
+        "url": "https://meetdex.ai/",
+        "logo": "600x300.png"
+      }
+    ],
+    "htmlFile": "/emails/play-the-game.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "speak-revenue-get-a-seat-at-the-table",
+    "title": "I will make you a smarter PM with this email",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-09-27",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/speak-revenue-get-a-seat-at-the-table",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Dex",
+        "url": "https://meetdex.ai/",
+        "logo": "600x300.png"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/speak-revenue-get-a-seat-at-the-table.html",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "justifying-your-existence",
+    "title": "Prove your ROI — or else",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-09-20",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/justifying-your-existence",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/justifying-your-existence.html",
+    "tags": [
+      "Marketing",
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "commercial-acumen",
+    "title": "Don't Build Product",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-09-16",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/commercial-acumen",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "pacaso.png"
+      }
+    ],
+    "htmlFile": "/emails/commercial-acumen.html",
+    "tags": [
+      "Real Estate"
+    ]
+  },
+  {
+    "id": "ai-transformation-failure",
+    "title": "95% of AI pilots fail. Here’s why that’s great news for Product Managers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-09-02",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/ai-transformation-failure",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-transformation-failure.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "product-management-cant-make-engineering-go-faster",
+    "title": "You can't make Engineering go faster",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-08-30",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/product-management-cant-make-engineering-go-faster",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/product-management-cant-make-engineering-go-faster.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "thump-your-chest",
+    "title": "Why You're Not Getting Credit for Your Work",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Street Smart Product Manager",
+    "date": "2025-08-09",
+    "hasAds": true,
+    "url": "https://newsletter.streetsmartproductmanager.com/p/thump-your-chest",
+    "publisher": {
+      "name": "Street Smart Product Manager",
+      "url": "https://newsletter.streetsmartproductmanager.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/thump-your-chest.html",
+    "tags": [
+      "SaaS"
+    ]
+  }
+]

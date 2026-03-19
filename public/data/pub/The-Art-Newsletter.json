@@ -1,0 +1,55 @@
+[
+  {
+    "id": "art-on-trial-fashion-with-purpose-and-a-viral-music-video-breakdown",
+    "title": "Art on Trial, Fashion with Purpose, and a Viral Music Video Breakdown",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Art Newsletter",
+    "date": "2025-01-23",
+    "hasAds": true,
+    "url": "https://newsletter.theartnewsletter.com/p/art-on-trial-fashion-with-purpose-and-a-viral-music-video-breakdown",
+    "publisher": {
+      "name": "The Art Newsletter",
+      "url": "https://newsletter.theartnewsletter.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/art-on-trial-fashion-with-purpose-and-a-viral-music-video-breakdown.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "all-about-los-angeles",
+    "title": "All About Los Angeles ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Art Newsletter",
+    "url": "https://newsletter.theartnewsletter.com/p/all-about-los-angeles",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-15T12:44:25.12341Z",
+    "publisher": {
+      "name": "The Art Newsletter",
+      "url": "https://newsletter.theartnewsletter.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/all-about-los-angeles.html"
+  }
+]

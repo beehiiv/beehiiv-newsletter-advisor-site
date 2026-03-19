@@ -1,0 +1,80 @@
+[
+  {
+    "id": "you-can-learn-any-language-in-6-months-here-s-how",
+    "title": "You Can Learn Any Language in 6 Months — Do you want to know how?",
+    "category": "Digital Products",
+    "description": "If you read until the end, you will learn the 5 principles that can help you become fluent in English faster than you think.",
+    "author": "The English Zone",
+    "url": "https://theenglishzone.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-25T17:28:02.924013Z",
+    "publisher": {
+      "name": "The English Zone",
+      "url": "https://theenglishzone.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "https://drinkag1.com/icon.png"
+      }
+    ],
+    "htmlFile": "/emails/you-can-learn-any-language-in-6-months-here-s-how.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-book-that-changes-how-you-think-about-freedom-power-and-control",
+    "title": "A Book That Changes How You Think About Freedom, Power, and Control",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The English Zone",
+    "date": "2026-01-08",
+    "hasAds": true,
+    "url": "https://theenglishzone.beehiiv.com/p/a-book-that-changes-how-you-think-about-freedom-power-and-control",
+    "publisher": {
+      "name": "The English Zone",
+      "url": "https://theenglishzone.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "thepourover.png"
+      }
+    ],
+    "htmlFile": "/emails/a-book-that-changes-how-you-think-about-freedom-power-and-control.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-most-dangerous-behavior-and-how-to-stop-it",
+    "title": "The Most Dangerous Behavior and How to Stop it!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The English Zone",
+    "date": "2025-12-18",
+    "hasAds": true,
+    "url": "https://theenglishzone.beehiiv.com/p/the-most-dangerous-behavior-and-how-to-stop-it",
+    "publisher": {
+      "name": "The English Zone",
+      "url": "https://theenglishzone.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-most-dangerous-behavior-and-how-to-stop-it.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

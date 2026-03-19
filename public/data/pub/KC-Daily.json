@@ -1,0 +1,29 @@
+[
+  {
+    "id": "crown-town",
+    "title": "Crown Town 👑",
+    "category": "Digital Products",
+    "description": "The Nelson-Atkins Museum has launched an international design competition for a $170M expansion. Plus: pizza on the move, fall foliage, and the Royals advance!",
+    "author": "KC Daily",
+    "url": "https://www.kcdaily.com/p/crown-town",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-02T13:51:31.504153Z",
+    "publisher": {
+      "name": "KC Daily",
+      "url": "https://www.kcdaily.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/crown-town.html"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sony",
+    "title": "Sony",
+    "category": "Digital Products",
+    "description": "Sony's Picture Perfect Ads",
+    "author": "Neat Ads",
+    "url": "https://sponsor.beehiiv.com/p/sony",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-16T15:06:31.743455Z",
+    "publisher": {
+      "name": "Neat Ads",
+      "url": "https://sponsor.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sony.html"
+  },
+  {
+    "id": "lenovo",
+    "title": "Lenovo",
+    "category": "Digital Products",
+    "description": "Lenovo Ads Raising the Bar",
+    "author": "Neat Ads",
+    "url": "https://sponsor.beehiiv.com/p/lenovo",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-09-09T14:52:16.531219Z",
+    "publisher": {
+      "name": "Neat Ads",
+      "url": "https://sponsor.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lenovo.html"
+  },
+  {
+    "id": "qualcomm",
+    "title": "Qualcomm",
+    "category": "Digital Products",
+    "description": "Explore Qualcomm’s Tech-tacular Ads",
+    "author": "Neat Ads",
+    "url": "https://sponsor.beehiiv.com/p/qualcomm",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-08-21T11:56:52.274644Z",
+    "publisher": {
+      "name": "Neat Ads",
+      "url": "https://sponsor.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ClickFunnels",
+        "url": "https://www.clickfunnels.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.clickfunnels.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/qualcomm.html"
+  },
+  {
+    "id": "amd",
+    "title": "AMD",
+    "category": "Digital Products",
+    "description": "Power Up Your Ad Performance with AMD",
+    "author": "Neat Ads",
+    "url": "https://sponsor.beehiiv.com/p/amd",
+    "tags": [
+      "AI",
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2024-08-07T02:36:01.212129Z",
+    "publisher": {
+      "name": "Neat Ads",
+      "url": "https://sponsor.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      },
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/amd.html"
+  }
+]

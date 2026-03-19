@@ -1,0 +1,29 @@
+[
+  {
+    "id": "the-vantage-000-a61f56552eff23b9",
+    "title": "The Vantage LV #16",
+    "category": "Digital Products",
+    "description": "Market Days, Music Nights, and Mayhem on the Calendar",
+    "author": "The Vantage LV",
+    "url": "https://thevantagelv.com/p/the-vantage-000-a61f56552eff23b9",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-26T22:48:19.283312Z",
+    "publisher": {
+      "name": "The Vantage LV",
+      "url": "https://thevantagelv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-vantage-000-a61f56552eff23b9.html"
+  }
+]

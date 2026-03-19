@@ -1,0 +1,79 @@
+[
+  {
+    "id": "viral-newsletter-september-17-2024",
+    "title": "#VIRAL, The Newsletter: September 17, 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "#VIRAL, The Newsletter",
+    "date": "2024-09-17",
+    "hasAds": true,
+    "url": "https://viralthenewsletter.beehiiv.com/p/viral-newsletter-september-17-2024",
+    "publisher": {
+      "name": "#VIRAL, The Newsletter",
+      "url": "https://viralthenewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/viral-newsletter-september-17-2024.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "viral-newsletter-september-10-2024",
+    "title": "#VIRAL, The Newsletter: September 10, 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "#VIRAL, The Newsletter",
+    "date": "2024-09-10",
+    "hasAds": true,
+    "url": "https://viralthenewsletter.beehiiv.com/p/viral-newsletter-september-10-2024",
+    "publisher": {
+      "name": "#VIRAL, The Newsletter",
+      "url": "https://viralthenewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/viral-newsletter-september-10-2024.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "viral-newsletter-august-27-2024",
+    "title": "#VIRAL, The Newsletter: August 27, 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "#VIRAL, The Newsletter",
+    "date": "2024-08-27",
+    "hasAds": true,
+    "url": "https://viralthenewsletter.beehiiv.com/p/viral-newsletter-august-27-2024",
+    "publisher": {
+      "name": "#VIRAL, The Newsletter",
+      "url": "https://viralthenewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/viral-newsletter-august-27-2024.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "inspire-your-next-home-project-at-the-north-atlanta-home-show",
+    "title": "Inspire your next home project at the North Atlanta Home Show",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Hello Alpharetta",
+    "url": "https://helloalpharetta.lclfvr.com/p/inspire-your-next-home-project-at-the-north-atlanta-home-show",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-22T13:01:17.206908Z",
+    "publisher": {
+      "name": "Hello Alpharetta",
+      "url": "https://helloalpharetta.lclfvr.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KwaKwa",
+        "url": "https://kwakwa.com/",
+        "logo": "https://hey.kwakwa.com/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/inspire-your-next-home-project-at-the-north-atlanta-home-show.html",
+    "hasAds": true
+  },
+  {
+    "id": "christmas-countdown",
+    "title": "Christmas Countdown",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Hello Alpharetta",
+    "url": "https://helloalpharetta.lclfvr.com/p/christmas-countdown",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-12-18T18:28:30.047531Z",
+    "publisher": {
+      "name": "Hello Alpharetta",
+      "url": "https://helloalpharetta.lclfvr.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KwaKwa",
+        "url": "https://kwakwa.com/",
+        "logo": "https://hey.kwakwa.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/christmas-countdown.html"
+  }
+]

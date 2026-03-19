@@ -1,0 +1,337 @@
+[
+  {
+    "id": "this-week-in-milwaukee-2-19-26-2-25-26",
+    "title": "This Week in Milwaukee: 2/19/26 - 2/25/26",
+    "category": "Digital Products",
+    "description": "Bay View fuzz, Riverwest chaos, and an emo fest",
+    "author": "Milwaukee City Lights",
+    "url": "https://www.milwaukeecitylights.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-19T14:35:09.298273Z",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/this-week-in-milwaukee-2-19-26-2-25-26.html",
+    "hasAds": true
+  },
+  {
+    "id": "this-week-in-milwaukee-2-5-26-2-11-26",
+    "title": "This Week In Milwaukee: 2/5/26 - 2/11/26",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2026-02-05",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/this-week-in-milwaukee-2-5-26-2-11-26",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-in-milwaukee-2-5-26-2-11-26.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "tuesday-spotlight-swingin-door-exchange",
+    "title": "Tuesday Spotlight: Swingin' Door Exchange",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2026-02-03",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/tuesday-spotlight-swingin-door-exchange",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Kajabi",
+        "url": "https://kajabi.com/",
+        "logo": "kajabilogo.png"
+      }
+    ],
+    "htmlFile": "/emails/tuesday-spotlight-swingin-door-exchange.html",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "tuesday-spotlight-x-ray-arcade",
+    "title": "Tuesday Spotlight: X-Ray Arcade",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2026-01-27",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/tuesday-spotlight-x-ray-arcade",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/tuesday-spotlight-x-ray-arcade.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "this-week-in-milwaukee-1-22-26-1-29-26",
+    "title": "This Week in Milwaukee 1/22/26 – 1/29/26",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2026-01-22",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/this-week-in-milwaukee-1-22-26-1-29-26",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-in-milwaukee-1-22-26-1-29-26.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "regano-s-roman-coin-the-brady-street-corner-bar-that-stays-real",
+    "title": "Tuesday Spotlight: Regano’s Roman Coin",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2026-01-20",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/regano-s-roman-coin-the-brady-street-corner-bar-that-stays-real",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "CBDISTILLERY.png"
+      }
+    ],
+    "htmlFile": "/emails/regano-s-roman-coin-the-brady-street-corner-bar-that-stays-real.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "landmark-1850-inn-old-tavern-warmth-by-the-airport",
+    "title": "Tuesday Spotlight: Landmark 1850 Inn",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2026-01-13",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/landmark-1850-inn-old-tavern-warmth-by-the-airport",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "CBDISTILLERY.png"
+      }
+    ],
+    "htmlFile": "/emails/landmark-1850-inn-old-tavern-warmth-by-the-airport.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "new-year-s-eve-2025-milwaukee-city-lights-special-edition",
+    "title": "New Year’s Eve 2025: Milwaukee City Lights Special Edition",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2025-12-30",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/new-year-s-eve-2025-milwaukee-city-lights-special-edition",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/new-year-s-eve-2025-milwaukee-city-lights-special-edition.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "this-week-in-milwaukee-12-25-12-31",
+    "title": "This Week in Milwaukee 12/25 – 12/31",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2025-12-25",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/this-week-in-milwaukee-12-25-12-31",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Feed",
+        "url": "https://thefeedmedia.com/",
+        "logo": "TheFeedMediaLogo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-in-milwaukee-12-25-12-31.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "tuesday-spotlight-kegel-s-inn",
+    "title": "Tuesday Spotlight: Kegel’s Inn",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2025-12-23",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/tuesday-spotlight-kegel-s-inn",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/tuesday-spotlight-kegel-s-inn.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  },
+  {
+    "id": "this-week-in-milwaukee-12-18-12-24",
+    "title": "This Week in Milwaukee 12/18 - 12/24",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2025-12-18",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/this-week-in-milwaukee-12-18-12-24",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Riverside",
+        "url": "https://riverside.com/",
+        "logo": "Riversidelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-in-milwaukee-12-18-12-24.html",
+    "tags": [
+      "Creativity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "milwaukee-city-lights-tuesday-edition",
+    "title": "Milwaukee City Lights — Tuesday Spotlight",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2025-12-16",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/milwaukee-city-lights-tuesday-edition",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Riverside",
+        "url": "https://riverside.com/",
+        "logo": "Riversidelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/milwaukee-city-lights-tuesday-edition.html",
+    "tags": [
+      "Creativity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "this-week-in-milwaukee-12-11-12-17",
+    "title": "This Week in Milwaukee 12/11 - 12/17",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Milwaukee City Lights",
+    "date": "2025-12-11",
+    "hasAds": true,
+    "url": "https://www.milwaukeecitylights.com/p/this-week-in-milwaukee-12-11-12-17",
+    "publisher": {
+      "name": "Milwaukee City Lights",
+      "url": "https://www.milwaukeecitylights.com"
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "GoogleAdSense.png"
+      }
+    ],
+    "htmlFile": "/emails/this-week-in-milwaukee-12-11-12-17.html",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ]
+  }
+]

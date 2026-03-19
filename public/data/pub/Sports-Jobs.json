@@ -1,0 +1,101 @@
+[
+  {
+    "id": "sports-jobs-02-17-26",
+    "title": "Sports Jobs — 02/17/26",
+    "category": "Digital Products",
+    "description": "A list of jobs in the sports industry, curated by Olivia Witherite, who is focused on creating more lanes for diverse hires",
+    "author": "Sports Jobs",
+    "url": "https://sportsjobs.beehiiv.com",
+    "tags": [
+      "E-commerce",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T15:02:50.899638Z",
+    "publisher": {
+      "name": "Sports Jobs",
+      "url": "https://sportsjobs.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Go-to-Millions",
+        "url": "https://gotomillions.co/",
+        "logo": "https://gotomillions.co/wp-content/uploads/sites/9/2024/05/cropped-m2i8H7A0H7m2m2K9-removebg-preview-192x192.png"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/sports-jobs-02-17-26.html",
+    "hasAds": true
+  },
+  {
+    "id": "sports-jobs-02-09-26",
+    "title": "Sports Jobs — 02/09/26",
+    "category": "Digital Products",
+    "description": "A list of jobs in the sports industry, curated by Olivia Witherite, who is focused on creating more lanes for diverse hires",
+    "author": "Sports Jobs",
+    "url": "https://sportsjobs.beehiiv.com",
+    "tags": [
+      "AI",
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2026-02-09T13:07:49.385106Z",
+    "publisher": {
+      "name": "Sports Jobs",
+      "url": "https://sportsjobs.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/sports-jobs-02-09-26.html",
+    "hasAds": true
+  },
+  {
+    "id": "land-yourself-your-brands-on-podcasts",
+    "title": "Land Yourself & Your Brands on Podcasts",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Sports Jobs",
+    "url": "https://zudgvgyofd.beehiiv.com/p/land-yourself-your-brands-on-podcasts",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-29T20:10:12.596748Z",
+    "publisher": {
+      "name": "Sports Jobs",
+      "url": "https://zudgvgyofd.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/land-yourself-your-brands-on-podcasts.html",
+    "hasAds": true
+  }
+]

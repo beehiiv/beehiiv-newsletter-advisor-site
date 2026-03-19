@@ -1,0 +1,112 @@
+[
+  {
+    "id": "vol-37",
+    "title": "Know Your Scene - Stop Posting to Ghosts",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Industry Insider",
+    "date": "2025-06-04",
+    "hasAds": true,
+    "url": "https://industryinsider.v13.net/p/vol-37",
+    "publisher": {
+      "name": "Industry Insider",
+      "url": "https://industryinsider.v13.net"
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "MAG_HubspotMedia_col_stacked.png"
+      }
+    ],
+    "htmlFile": "/emails/vol-37.html",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "vol-36",
+    "title": "Content First Or Get Lost",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Industry Insider",
+    "date": "2025-05-28",
+    "hasAds": true,
+    "url": "https://industryinsider.v13.net/p/vol-36",
+    "publisher": {
+      "name": "Industry Insider",
+      "url": "https://industryinsider.v13.net"
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "Image_from_Google_User.jpg"
+      }
+    ],
+    "htmlFile": "/emails/vol-36.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "vol-7",
+    "title": "You can't do this alone",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Industry Insider",
+    "date": "2024-09-18",
+    "hasAds": true,
+    "url": "https://industryinsider.v13.net/p/vol-7",
+    "publisher": {
+      "name": "Industry Insider",
+      "url": "https://industryinsider.v13.net"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "MoodGummies.png"
+      }
+    ],
+    "htmlFile": "/emails/vol-7.html",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "vol-5",
+    "title": "Why playing it safe could be the biggest risk of your music career",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Industry Insider",
+    "date": "2024-09-04",
+    "hasAds": true,
+    "url": "https://industryinsider.v13.net/p/vol-5",
+    "publisher": {
+      "name": "Industry Insider",
+      "url": "https://industryinsider.v13.net"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/vol-5.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

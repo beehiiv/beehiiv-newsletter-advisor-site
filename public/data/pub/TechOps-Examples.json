@@ -1,0 +1,5913 @@
+[
+  {
+    "id": "how-to-implement-network-segmentation-in-azure-kubernetes-service-aks",
+    "title": "🍿 TechOps Examples #297 - 21 Feb 2026",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-20T15:55:29.290759Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/how-to-implement-network-segmentation-in-azure-kubernetes-service-aks.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-protect-aws-s3-buckets-and-prevent-data-leaks",
+    "title": "🍿 TechOps Examples #294 - 14 Feb 2026",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2026-02-14T06:39:32.225069Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "htmlFile": "/emails/how-to-protect-aws-s3-buckets-and-prevent-data-leaks.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-protect-kubernetes-using-namespaces",
+    "title": "🍿 TechOps Examples #292 - 10 Feb 2026",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com",
+    "tags": [
+      "AI",
+      "Technology"
+    ],
+    "date": "2026-02-10T05:46:25.227695Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "you.com",
+        "url": "https://you.com/home",
+        "logo": "https://cdn.prod.website-files.com/687f2dca0cbe61df74670d33/688bc528f3605c450d622b2f_webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-protect-kubernetes-using-namespaces.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-build-ansible-inventory-for-scalable-infrastructure",
+    "title": "How to Build Ansible Inventory for Scalable Infrastructure",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-build-ansible-inventory-for-scalable-infrastructure",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2026-02-07T05:57:34.616901Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-build-ansible-inventory-for-scalable-infrastructure.html"
+  },
+  {
+    "id": "how-to-design-kubernetes-monitoring-for-ci-cd-workflows",
+    "title": "🍿 TechOps Examples #288 - 31 Jan 2026",
+    "description": "",
+    "date": "2026-01-31",
+    "author": "TechOps Examples",
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/how-to-design-kubernetes-monitoring-for-ci-cd-workflows",
+    "hasHtml": true,
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "",
+      "logo": ""
+    },
+    "htmlFile": "/emails/how-to-design-kubernetes-monitoring-for-ci-cd-workflows.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-to-use-kubernetes-service-to-expose-your-application",
+    "title": "How to Use Kubernetes Service to Expose Your Application",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-use-kubernetes-service-to-expose-your-application",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2026-01-29T07:29:14.495958Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-use-kubernetes-service-to-expose-your-application.html"
+  },
+  {
+    "id": "how-to-use-kubernetes-port-forwarding-to-access-applications-in-a-cluster",
+    "title": "How to Use Kubernetes Port Forwarding to Access Applications in a Cluster",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-use-kubernetes-port-forwarding-to-access-applications-in-a-cluster",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-01-24T07:26:52.744863Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/how-to-use-kubernetes-port-forwarding-to-access-applications-in-a-cluster.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-implement-security-guardrails-in-aks-deployments",
+    "title": "How to Implement Security Guardrails in AKS Deployments",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-implement-security-guardrails-in-aks-deployments",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-01-15T07:16:17.852145Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-implement-security-guardrails-in-aks-deployments.html"
+  },
+  {
+    "id": "how-auto-scaling-works-in-aws",
+    "title": "How Auto Scaling Works in AWS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-auto-scaling-works-in-aws",
+    "tags": [
+      "Education"
+    ],
+    "date": "2026-01-02T05:03:26.176423Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-auto-scaling-works-in-aws.html"
+  },
+  {
+    "id": "how-istio-ambient-mode-secures-kubernetes-traffic-without-sidecars",
+    "title": "How Istio Ambient Mode Secures Kubernetes Traffic Without Sidecars",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-istio-ambient-mode-secures-kubernetes-traffic-without-sidecars",
+    "tags": [
+      "Education"
+    ],
+    "date": "2026-01-01T04:58:01.466154Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-istio-ambient-mode-secures-kubernetes-traffic-without-sidecars.html"
+  },
+  {
+    "id": "the-hidden-risk-of-zombie-workflows-in-github-actions",
+    "title": "The Hidden Risk of Zombie Workflows in GitHub Actions",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/the-hidden-risk-of-zombie-workflows-in-github-actions",
+    "tags": [
+      "Education"
+    ],
+    "date": "2025-12-30T05:23:32.138711Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-hidden-risk-of-zombie-workflows-in-github-actions.html"
+  },
+  {
+    "id": "how-load-balancing-works-in-kubernetes",
+    "title": "How Load Balancing Works in Kubernetes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-load-balancing-works-in-kubernetes",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-27T07:26:24.123736Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-load-balancing-works-in-kubernetes.html"
+  },
+  {
+    "id": "how-dns-routing-works-in-amazon-route-53-and-how-to-configure-it",
+    "title": "How DNS Routing Works in Amazon Route 53 and How to Configure It",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-dns-routing-works-in-amazon-route-53-and-how-to-configure-it",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-25T02:28:33.013551Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-dns-routing-works-in-amazon-route-53-and-how-to-configure-it.html"
+  },
+  {
+    "id": "how-to-manage-s3-server-access-logs-at-massive-scale",
+    "title": "How to Manage S3 Server Access Logs at Massive Scale",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-manage-s3-server-access-logs-at-massive-scale",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-12-23T04:36:02.435644Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-manage-s3-server-access-logs-at-massive-scale.html"
+  },
+  {
+    "id": "kubernetes-cluster-native-security-explained",
+    "title": "Kubernetes Cluster Native Security Explained",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-cluster-native-security-explained",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-20T06:23:38.320676Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-cluster-native-security-explained.html"
+  },
+  {
+    "id": "how-aws-builds-cloud-native-distributed-sql-databases",
+    "title": "How AWS Builds Cloud-Native Distributed SQL Databases",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-aws-builds-cloud-native-distributed-sql-databases",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-18T04:22:59.486287Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/how-aws-builds-cloud-native-distributed-sql-databases.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-automatically-block-suspicious-traffic-in-aws",
+    "title": "How to Automatically Block Suspicious Traffic in AWS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-automatically-block-suspicious-traffic-in-aws",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-16T03:26:55.26247Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-automatically-block-suspicious-traffic-in-aws.html"
+  },
+  {
+    "id": "kubernetes-sidecar-containers-practical-guide-with-architecture-designs",
+    "title": "Kubernetes Sidecar Containers Practical Guide with Architecture Designs",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-sidecar-containers-practical-guide-with-architecture-designs",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-13T04:40:51.260578Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-sidecar-containers-practical-guide-with-architecture-designs.html"
+  },
+  {
+    "id": "understanding-kube-proxy-modes",
+    "title": "Understanding Kube Proxy Modes ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kube-proxy-modes",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-11T05:28:49.297291Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/understanding-kube-proxy-modes.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-to-set-the-right-subnet-sizing-for-your-cloud-network",
+    "title": "How to Set the Right Subnet Sizing for Your Cloud Network",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-set-the-right-subnet-sizing-for-your-cloud-network",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-12-09T04:24:40.365099Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-set-the-right-subnet-sizing-for-your-cloud-network.html"
+  },
+  {
+    "id": "how-aws-cloud-traffic-routing-works",
+    "title": "How AWS Cloud Traffic Routing Works",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-aws-cloud-traffic-routing-works",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-12-06T04:23:47.742556Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-aws-cloud-traffic-routing-works.html"
+  },
+  {
+    "id": "how-to-design-multi-region-azure-kubernetes-service-aks-clusters",
+    "title": "How to Design Multi Region Azure Kubernetes Service (AKS) Clusters",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-design-multi-region-azure-kubernetes-service-aks-clusters",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-04T05:06:54.136973Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-design-multi-region-azure-kubernetes-service-aks-clusters.html"
+  },
+  {
+    "id": "gitops-ci-cd-patterns-with-aks",
+    "title": "GitOps CI/CD Patterns with AKS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/gitops-ci-cd-patterns-with-aks",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-28T03:42:07.517801Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gitops-ci-cd-patterns-with-aks.html"
+  },
+  {
+    "id": "nodeport-vs-loadbalancer-vs-ingress-controller",
+    "title": "NodePort vs. LoadBalancer vs. Ingress Controller",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/nodeport-vs-loadbalancer-vs-ingress-controller",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-27T03:44:03.839435Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/nodeport-vs-loadbalancer-vs-ingress-controller.html",
+    "hasAds": true
+  },
+  {
+    "id": "kata-vs-traditional-containers",
+    "title": "Kata vs Traditional Containers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kata-vs-traditional-containers",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-11-25T06:05:43.158586Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kata-vs-traditional-containers.html"
+  },
+  {
+    "id": "cri-o-vs-containerd-undersanding-kubernetes-container-runtimes",
+    "title": "CRI-O vs Containerd: Undersanding Kubernetes Container Runtimes ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/cri-o-vs-containerd-undersanding-kubernetes-container-runtimes",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-22T04:38:14.525895Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cri-o-vs-containerd-undersanding-kubernetes-container-runtimes.html"
+  },
+  {
+    "id": "how-to-design-azure-kubernetes-service-aks-cluster",
+    "title": "How to Design Azure Kubernetes Service (AKS) Cluster",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-design-azure-kubernetes-service-aks-cluster",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-20T04:27:46.461206Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-design-azure-kubernetes-service-aks-cluster.html"
+  },
+  {
+    "id": "why-on-prem-is-a-must-skill-for-devops-engineers",
+    "title": "Why On Prem Is a Must Skill for DevOps Engineers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-on-prem-is-a-must-skill-for-devops-engineers",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2025-11-18T06:13:18.149205Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Bright Data",
+        "url": "https://brightdata.com/",
+        "logo": "https://brightdata.com/wp-content/themes/brightdata/assets/images/favicon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-on-prem-is-a-must-skill-for-devops-engineers.html"
+  },
+  {
+    "id": "secret-patterns-for-modern-distributed-systems",
+    "title": "Secret Patterns for Modern Distributed Systems",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/secret-patterns-for-modern-distributed-systems",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-15T05:15:00.366517Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/secret-patterns-for-modern-distributed-systems.html"
+  },
+  {
+    "id": "mlops-architecture-patterns",
+    "title": "MLOps Architecture Patterns",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/mlops-architecture-patterns",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-13T03:29:24.362039Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mlops-architecture-patterns.html"
+  },
+  {
+    "id": "understanding-kubernetes-rbac",
+    "title": "Understanding Kubernetes RBAC ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kubernetes-rbac",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-11T04:05:40.586954Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/understanding-kubernetes-rbac.html",
+    "hasAds": true
+  },
+  {
+    "id": "kubernetes-multi-tenancy-models",
+    "title": "Kubernetes Multi Tenancy Models",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-multi-tenancy-models",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-11-08T06:00:48.373436Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-multi-tenancy-models.html"
+  },
+  {
+    "id": "uber-like-app-on-aws-serverless-cloud-architecture",
+    "title": "Uber like App on AWS Serverless Cloud Architecture",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/uber-like-app-on-aws-serverless-cloud-architecture",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-06T05:57:13.312493Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/uber-like-app-on-aws-serverless-cloud-architecture.html"
+  },
+  {
+    "id": "kubernetes-autoscaling-hpa-cluster-autoscaler",
+    "title": "Kubernetes Autoscaling - HPA, Cluster Autoscaler",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-autoscaling-hpa-cluster-autoscaler",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-31T06:49:15.201676Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "htmlFile": "/emails/kubernetes-autoscaling-hpa-cluster-autoscaler.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-rancher-simplifies-multi-cloud-gitops-kubernetes-management",
+    "title": "How Rancher Simplifies Multi Cloud GitOps Kubernetes Management",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-rancher-simplifies-multi-cloud-gitops-kubernetes-management",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-10-31T04:06:09.322899Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-rancher-simplifies-multi-cloud-gitops-kubernetes-management.html"
+  },
+  {
+    "id": "understanding-message-based-architectures-in-aws",
+    "title": "Understanding Message Based Architectures in AWS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-message-based-architectures-in-aws",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-10-29T06:08:38.277978Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-message-based-architectures-in-aws.html"
+  },
+  {
+    "id": "cluster-autoscaler-vs-karpenter-the-simplified-guide",
+    "title": "Cluster Autoscaler vs Karpenter: The Simplified Guide",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/cluster-autoscaler-vs-karpenter-the-simplified-guide",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-24T13:38:05.072516Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cluster-autoscaler-vs-karpenter-the-simplified-guide.html"
+  },
+  {
+    "id": "an-aws-outage-took-down-nearly-the-entire-internet-time-to-understand-aws-dns-resolution",
+    "title": "An AWS outage took down nearly the entire Internet. Time to Understand AWS DNS Resolution.",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/an-aws-outage-took-down-nearly-the-entire-internet-time-to-understand-aws-dns-resolution",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-22T13:37:50.553035Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/an-aws-outage-took-down-nearly-the-entire-internet-time-to-understand-aws-dns-resolution.html",
+    "hasAds": true
+  },
+  {
+    "id": "how-i-reduced-docker-image-size-from-588-mb-to-only-47-7-mb",
+    "title": "How I Reduced Docker Image Size from 588 MB to Only 47.7 MB",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-i-reduced-docker-image-size-from-588-mb-to-only-47-7-mb",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-20T05:49:30.119731Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-i-reduced-docker-image-size-from-588-mb-to-only-47-7-mb.html"
+  },
+  {
+    "id": "kubernetes-operator-vs-controller-which-one-to-choose",
+    "title": "Kubernetes Operator vs Controller - Which One to Choose?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-operator-vs-controller-which-one-to-choose",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-10-18T05:32:35.112046Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-operator-vs-controller-which-one-to-choose.html"
+  },
+  {
+    "id": "kubernetes-service-discovery-patterns",
+    "title": "Kubernetes Service Discovery Patterns",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-service-discovery-patterns",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-16T07:46:40.582304Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/kubernetes-service-discovery-patterns.html",
+    "hasAds": true
+  },
+  {
+    "id": "understanding-kubernetes-image-scanning-workflow",
+    "title": "Understanding Kubernetes Image Scanning Workflow ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kubernetes-image-scanning-workflow",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-11T07:04:54.157142Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/understanding-kubernetes-image-scanning-workflow.html",
+    "hasAds": true
+  },
+  {
+    "id": "helm-vs-kustomize-in-gitops-which-one-to-choose",
+    "title": "Helm vs Kustomize in GitOps – Which One to Choose?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/helm-vs-kustomize-in-gitops-which-one-to-choose",
+    "tags": [
+      "Careers",
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-08T11:59:55.375779Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "Ladders",
+        "url": "https://www.theladders.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.theladders.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/helm-vs-kustomize-in-gitops-which-one-to-choose.html"
+  },
+  {
+    "id": "how-to-keep-your-kubeconfig-file-tidy",
+    "title": "How to Keep Your KubeConfig File Tidy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-keep-your-kubeconfig-file-tidy",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-06T14:12:33.180228Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-keep-your-kubeconfig-file-tidy.html"
+  },
+  {
+    "id": "how-to-stop-overprovisioning-in-kubernetes",
+    "title": "How to Stop Overprovisioning in Kubernetes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-stop-overprovisioning-in-kubernetes",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-10-04T06:18:37.967173Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-stop-overprovisioning-in-kubernetes.html"
+  },
+  {
+    "id": "kubernetes-networking-with-nodeport-load-balancer-and-ingress-controller",
+    "title": "Kubernetes Networking With NodePort, Load Balancer and Ingress Controller ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-networking-with-nodeport-load-balancer-and-ingress-controller",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-10-01T05:36:39.653179Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      },
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-networking-with-nodeport-load-balancer-and-ingress-controller.html"
+  },
+  {
+    "id": "common-docker-misconfigurations-and-how-to-prevent-them",
+    "title": "Common Docker Misconfigurations and How to Prevent Them",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/common-docker-misconfigurations-and-how-to-prevent-them",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-09-30T06:10:40.34718Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Dex",
+        "url": "https://meetdex.ai/",
+        "logo": "https://www.google.com/s2/favicons?domain=meetdex.ai&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/common-docker-misconfigurations-and-how-to-prevent-them.html"
+  },
+  {
+    "id": "aws-direct-connect-what-is-it-and-how-it-works",
+    "title": "🍿 TechOps Examples #234 - 27 Sep 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-09-27",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-direct-connect-what-is-it-and-how-it-works",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "that startup guy",
+        "url": "https://grant.beehiiv.com/subscribe",
+        "logo": "tsglogo.png"
+      },
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-direct-connect-what-is-it-and-how-it-works.html",
+    "tags": [
+      "Business",
+      "Newsletter",
+      "Startups"
+    ]
+  },
+  {
+    "id": "understanding-kubernetes-custom-schedulers",
+    "title": "Understanding Kubernetes Custom Schedulers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kubernetes-custom-schedulers",
+    "tags": [
+      "Careers"
+    ],
+    "date": "2025-09-25T04:59:53.408232Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Ladders",
+        "url": "https://www.theladders.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.theladders.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-kubernetes-custom-schedulers.html"
+  },
+  {
+    "id": "how-to-gitops-your-terraform",
+    "title": "How To GitOps Your Terraform",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-gitops-your-terraform",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-09-19T08:17:39.65829Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Enterpret",
+        "url": "https://www.enterpret.com/",
+        "logo": "https://cdn.prod.website-files.com/68f131193c06d0856bf03af3/68ff817be6479a3557abeaf9_Final%20icon%20256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-gitops-your-terraform.html"
+  },
+  {
+    "id": "how-to-use-helm-to-deploy-a-kubernetes-application-to-multiple-environments",
+    "title": "How to Use Helm to Deploy a Kubernetes Application to Multiple Environments",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-use-helm-to-deploy-a-kubernetes-application-to-multiple-environments",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-09-17T06:25:42.95476Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-use-helm-to-deploy-a-kubernetes-application-to-multiple-environments.html",
+    "hasAds": true
+  },
+  {
+    "id": "circuit-breaker-pattern-in-aws",
+    "title": "Circuit Breaker Pattern in AWS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/circuit-breaker-pattern-in-aws",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-09-13T08:56:38.150833Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "https://contra.com/static/media/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/circuit-breaker-pattern-in-aws.html"
+  },
+  {
+    "id": "how-do-i-choose-kubernetes-ingress-vs-gateway-api-vs-service-mesh",
+    "title": "How Do I Choose? Kubernetes Ingress Vs Gateway API Vs Service Mesh",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-do-i-choose-kubernetes-ingress-vs-gateway-api-vs-service-mesh",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-09-11T04:55:13.999278Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "htmlFile": "/emails/how-do-i-choose-kubernetes-ingress-vs-gateway-api-vs-service-mesh.html",
+    "hasAds": true
+  },
+  {
+    "id": "understanding-kubernetes-crashloopbackoff",
+    "title": "Understanding Kubernetes CrashLoopBackOff",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kubernetes-crashloopbackoff",
+    "tags": [
+      "Investing"
+    ],
+    "date": "2025-09-06T13:57:46.784029Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Surf Lakes",
+        "url": "https://www.surflakes.com/",
+        "logo": "https://www.surflakes.com/wp-content/themes/surflakes/assets/images/favicons/apple-icon-precomposed.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-kubernetes-crashloopbackoff.html"
+  },
+  {
+    "id": "a-guide-to-aws-microservices-architectures",
+    "title": "A Guide to AWS Microservices Architectures",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/a-guide-to-aws-microservices-architectures",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-09-06T08:44:34.752341Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/a-guide-to-aws-microservices-architectures.html"
+  },
+  {
+    "id": "understanding-aws-vpc-peering-configurations",
+    "title": "Understanding AWS VPC Peering Configurations",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-aws-vpc-peering-configurations",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-09-04T07:16:06.404749Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fintech Takes",
+        "url": "https://fintechtakes.com/",
+        "logo": "https://fintechtakes.com/wp-content/uploads/sites/8/2024/03/fav-icon-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-aws-vpc-peering-configurations.html"
+  },
+  {
+    "id": "how-to-implement-kubernetes-immortal-namespaces",
+    "title": "How to Implement Kubernetes Immortal Namespaces",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-implement-kubernetes-immortal-namespaces",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-08-30T06:05:57.60805Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-implement-kubernetes-immortal-namespaces.html"
+  },
+  {
+    "id": "how-to-create-aws-high-availability-architecture",
+    "title": "How to Create AWS High Availability Architecture",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-create-aws-high-availability-architecture",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-08-28T07:33:44.915711Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "https://contra.com/static/media/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-create-aws-high-availability-architecture.html"
+  },
+  {
+    "id": "terraform-drift-detection-and-remediation",
+    "title": "Terraform Drift Detection and Remediation ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/terraform-drift-detection-and-remediation",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-08-22T06:35:49.622189Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "https://contra.com/static/media/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/terraform-drift-detection-and-remediation.html"
+  },
+  {
+    "id": "how-to-optimize-kubernetes-for-performance-and-cost",
+    "title": "How to Optimize Kubernetes for Performance and Cost",
+    "category": "Digital Products",
+    "description": "You thought you were covered.",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-optimize-kubernetes-for-performance-and-cost",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-08-21T13:38:52.999732Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-optimize-kubernetes-for-performance-and-cost.html"
+  },
+  {
+    "id": "mastering-aws-lambda-the-ultimate-guide-to-serverless-architectures",
+    "title": "Mastering AWS Lambda: The Ultimate Guide to Serverless Architectures",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/mastering-aws-lambda-the-ultimate-guide-to-serverless-architectures",
+    "tags": [
+      "Business",
+      "Real Estate"
+    ],
+    "date": "2025-08-21T07:31:56.701799Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Contra",
+        "url": "https://contra.com/indy?ref=producthunt",
+        "logo": "https://contra.com/static/media/apple-touch-icon.png"
+      },
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mastering-aws-lambda-the-ultimate-guide-to-serverless-architectures.html"
+  },
+  {
+    "id": "devsecops-with-terraform-and-cicd-pipelines",
+    "title": "DevSecOps with Terraform and CICD Pipelines",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/devsecops-with-terraform-and-cicd-pipelines",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-08-18T15:06:25.14169Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/devsecops-with-terraform-and-cicd-pipelines.html"
+  },
+  {
+    "id": "kubernetes-init-containers-and-sidecar-containers-use-cases",
+    "title": "How to Use Kubernetes Init Containers and Sidecar Containers Effectively",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-init-containers-and-sidecar-containers-use-cases",
+    "tags": [
+      "Finance",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-08-16T05:58:43.928045Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-init-containers-and-sidecar-containers-use-cases.html"
+  },
+  {
+    "id": "how-to-design-gaming-leaderboards-with-redis-sorted-sets-in-aws",
+    "title": "How to Design Gaming Leaderboards with Redis Sorted Sets in AWS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-design-gaming-leaderboards-with-redis-sorted-sets-in-aws",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-08-14T05:18:13.329662Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-design-gaming-leaderboards-with-redis-sorted-sets-in-aws.html"
+  },
+  {
+    "id": "most-useful-kubernetes-tricks",
+    "title": "Essential Kubernetes Tricks Every DevOps Engineer Needs",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/most-useful-kubernetes-tricks",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-12T05:01:50.579129Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/most-useful-kubernetes-tricks.html"
+  },
+  {
+    "id": "how-levels-fyi-cut-aws-costs-by-15-for-26m-users-without-performance-loss",
+    "title": "How Levels.fyi Cut AWS Costs by 15% for 26M Users Without Performance Loss",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-levels-fyi-cut-aws-costs-by-15-for-26m-users-without-performance-loss",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-09T07:27:33.422955Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-levels-fyi-cut-aws-costs-by-15-for-26m-users-without-performance-loss.html"
+  },
+  {
+    "id": "all-you-need-to-know-about-aws-s3-object-encryption",
+    "title": "Step-by-Step Guide to AWS S3 Object Encryption",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/all-you-need-to-know-about-aws-s3-object-encryption",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-08-07T05:05:35.982839Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/all-you-need-to-know-about-aws-s3-object-encryption.html"
+  },
+  {
+    "id": "how-to-run-kubernetes-in-air-gapped-networks",
+    "title": "How to Deploy Kubernetes in Air Gapped Networks",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-run-kubernetes-in-air-gapped-networks",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-05T07:06:10.035264Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-run-kubernetes-in-air-gapped-networks.html"
+  },
+  {
+    "id": "kubernetes-monitoring-pipeline-with-prometheus",
+    "title": "Kubernetes Monitoring with Prometheus and CICD Pipelines",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-monitoring-pipeline-with-prometheus",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-08-02T07:35:42.500572Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-monitoring-pipeline-with-prometheus.html"
+  },
+  {
+    "id": "7rs-cloud-migration-implementation",
+    "title": "A Guide to 7Rs for Effective Cloud Migration",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/7rs-cloud-migration-implementation",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-07-30T08:00:25.571513Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7rs-cloud-migration-implementation.html"
+  },
+  {
+    "id": "understanding-aws-vpc-flow-logs",
+    "title": "Understanding AWS VPC Flow Logs",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-aws-vpc-flow-logs",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-07-28T14:48:39.801301Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-aws-vpc-flow-logs.html"
+  },
+  {
+    "id": "kubernetes-anti-patterns-and-solutions",
+    "title": "Kubernetes Anti Patterns and Solutions",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-anti-patterns-and-solutions",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-26T07:06:39.117289Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-anti-patterns-and-solutions.html"
+  },
+  {
+    "id": "how-to-fix-kubectl-access-not-working-in-eks",
+    "title": "How to Fix Kubectl Access Not Working in EKS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-fix-kubectl-access-not-working-in-eks",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-07-20T05:25:50.444446Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Long Angle",
+        "url": "https://www.longangle.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.longangle.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-fix-kubectl-access-not-working-in-eks.html"
+  },
+  {
+    "id": "kubernetes-node-management-drain-cordon-and-uncordon",
+    "title": "Kubernetes Node Management - Drain, Cordon and Uncordon",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-node-management-drain-cordon-and-uncordon",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-07-19T06:42:20.481484Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "https://framerusercontent.com/images/W3zP48ABQ5JvFZqDFzSM0WCWKg.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-node-management-drain-cordon-and-uncordon.html"
+  },
+  {
+    "id": "how-to-use-ec2-placement-groups-for-high-availability",
+    "title": "How to Use EC2 Placement Groups for High Availability",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-use-ec2-placement-groups-for-high-availability",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-07-16T15:54:13.935078Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-use-ec2-placement-groups-for-high-availability.html"
+  },
+  {
+    "id": "aws-s3-performance-optimization-in-a-production-environment",
+    "title": "🍿 TechOps Examples #200 - 10 Jul 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-07-10",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-s3-performance-optimization-in-a-production-environment",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fellow",
+        "url": "https://fellow.ai/",
+        "logo": "Fellow_Wordmark_Grey_1500x405.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-s3-performance-optimization-in-a-production-environment.html",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "kubernetes-advanced-pod-scheduling-techniques",
+    "title": "Kubernetes Advanced Pod Scheduling Techniques",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-advanced-pod-scheduling-techniques",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-26T05:38:48.231887Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AI with Allie",
+        "url": "https://www.alliekmiller.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.alliekmiller.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-advanced-pod-scheduling-techniques.html"
+  },
+  {
+    "id": "aws-security-groups-vs-nacl-explained",
+    "title": "🍿 TechOps Examples #193 - 24 Jun 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-06-24",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-security-groups-vs-nacl-explained",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "AI with Allie",
+        "url": "https://www.alliekmiller.com/",
+        "logo": "AI_with_Allie_Logo_600px.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-security-groups-vs-nacl-explained.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-aws-blue-and-green-deployments-work",
+    "title": "How AWS Blue and Green Deployments Work",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-aws-blue-and-green-deployments-work",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-06-19T07:00:08.445927Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-aws-blue-and-green-deployments-work.html"
+  },
+  {
+    "id": "understanding-cidr",
+    "title": "Understanding CIDR ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-cidr",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2025-06-17T04:53:58.241174Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-cidr.html"
+  },
+  {
+    "id": "kubernetes-traffic-control-patterns",
+    "title": "Kubernetes Traffic Control Patterns",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-traffic-control-patterns",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-06-14T08:45:24.407091Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-traffic-control-patterns.html"
+  },
+  {
+    "id": "building-a-multi-cloud-gitops-automation",
+    "title": "Building a Multi Cloud GitOps Automation",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/building-a-multi-cloud-gitops-automation",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-31T02:05:26.395096Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/building-a-multi-cloud-gitops-automation.html"
+  },
+  {
+    "id": "how-kubernetes-connection-pooling-works",
+    "title": "How Kubernetes Connection Pooling Works",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-kubernetes-connection-pooling-works",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-05-22T06:22:24.810705Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-kubernetes-connection-pooling-works.html"
+  },
+  {
+    "id": "175th-edition-special-announcement",
+    "title": "175th Edition Special Announcement",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/175th-edition-special-announcement",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-13T05:56:20.38713Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/175th-edition-special-announcement.html"
+  },
+  {
+    "id": "how-kubernetes-observability-works-across-layers",
+    "title": "How Kubernetes Observability Works Across Layers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-kubernetes-observability-works-across-layers",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-05-10T07:03:16.57654Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-kubernetes-observability-works-across-layers.html"
+  },
+  {
+    "id": "aws-transit-gateway-topology-overview",
+    "title": "🍿 TechOps Examples #173 - 08 May 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-05-08",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-transit-gateway-topology-overview",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "HoneyBook_Full_Word_Logo_2023.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-transit-gateway-topology-overview.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "api-gateway-vs-load-balancer-what-s-the-difference",
+    "title": "API Gateway vs Load Balancer: What's The Difference",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/api-gateway-vs-load-balancer-what-s-the-difference",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-05T13:52:59.751154Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/api-gateway-vs-load-balancer-what-s-the-difference.html"
+  },
+  {
+    "id": "redis-sorted-sets-real-time-leaderboard-design",
+    "title": "Redis Sorted Sets – Real Time Leaderboard Design",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/redis-sorted-sets-real-time-leaderboard-design",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-03T06:24:51.162503Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/redis-sorted-sets-real-time-leaderboard-design.html"
+  },
+  {
+    "id": "kubernetes-resource-limits-simplified",
+    "title": "Kubernetes Resource Limits Simplified",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-resource-limits-simplified",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-05-01T05:38:41.561007Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Anvara",
+        "url": "https://www.anvara.com/",
+        "logo": "https://cdn.brandfetch.io/idZXeDNcew/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767627409450"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-resource-limits-simplified.html"
+  },
+  {
+    "id": "why-containers-are-designed-for-one-process-only",
+    "title": "Why Containers Are Designed for One Process Only",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-containers-are-designed-for-one-process-only",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-28T14:38:50.523805Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-containers-are-designed-for-one-process-only.html"
+  },
+  {
+    "id": "kubernetes-logs-breakdown",
+    "title": "Kubernetes Logs BreakDown",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-logs-breakdown",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-26T05:07:29.105017Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wistia",
+        "url": "https://wistia.com/",
+        "logo": "https://wistia.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-logs-breakdown.html"
+  },
+  {
+    "id": "multi-cloud-secrets-rotation-lifecycle",
+    "title": "Multi Cloud Secrets Rotation Lifecycle",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/multi-cloud-secrets-rotation-lifecycle",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-24T04:03:58.562989Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Notion",
+        "url": "https://www.notion.so/",
+        "logo": "https://www.notion.com/front-static/logo-ios.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/multi-cloud-secrets-rotation-lifecycle.html"
+  },
+  {
+    "id": "how-to-stay-within-aws-free-tier-limits-and-avoid-surprises",
+    "title": "How To Stay Within AWS Free Tier Limits and Avoid Surprises",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-stay-within-aws-free-tier-limits-and-avoid-surprises",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-19T04:43:18.728831Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-stay-within-aws-free-tier-limits-and-avoid-surprises.html"
+  },
+  {
+    "id": "why-ssl-certificates-scale-better-than-ssh",
+    "title": "Why SSL Certificates Scale Better Than SSH ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-ssl-certificates-scale-better-than-ssh",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-04-17T05:11:27.665578Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-ssl-certificates-scale-better-than-ssh.html"
+  },
+  {
+    "id": "argocd-powered-multi-cluster-kubernetes-architecture",
+    "title": "🍿 TechOps Examples #163 - 15 Apr 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-04-15",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/argocd-powered-multi-cluster-kubernetes-architecture",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "htmlFile": "/emails/argocd-powered-multi-cluster-kubernetes-architecture.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "why-every-devops-engineer-should-know-how-to-read-a-vulnerability-database",
+    "title": "Why Every DevOps Engineer Should Know How to Read a Vulnerability Database",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-every-devops-engineer-should-know-how-to-read-a-vulnerability-database",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-04-12T04:06:16.711829Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AISOAP",
+        "url": "https://aisoap.com/",
+        "logo": "https://cdn.brandfetch.io/idGeDpib4h/w/827/h/827/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1741014787168"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-every-devops-engineer-should-know-how-to-read-a-vulnerability-database.html"
+  },
+  {
+    "id": "kubernetes-port-forwarding-patterns",
+    "title": "Kubernetes Port Forwarding Patterns",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-port-forwarding-patterns",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-09T13:27:40.712789Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-port-forwarding-patterns.html"
+  },
+  {
+    "id": "why-you-shouldn-t-use-latest-tag",
+    "title": "Why You Shouldn’t Use :latest Tag",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-you-shouldn-t-use-latest-tag",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-08T02:49:13.343135Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-you-shouldn-t-use-latest-tag.html"
+  },
+  {
+    "id": "cloud-bursting-key-element-of-modern-hybrid-cloud-architectures",
+    "title": "Cloud Bursting – Key Element of Modern Hybrid Cloud Architectures",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/cloud-bursting-key-element-of-modern-hybrid-cloud-architectures",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-04-04T13:12:35.20764Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cloud-bursting-key-element-of-modern-hybrid-cloud-architectures.html"
+  },
+  {
+    "id": "ipv4-vs-ipv6-simplified-for-cloud-and-devops-engineers",
+    "title": "IPv4 vs IPv6 Simplified for Cloud and DevOps Engineers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/ipv4-vs-ipv6-simplified-for-cloud-and-devops-engineers",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-04-01T15:23:49.318722Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ipv4-vs-ipv6-simplified-for-cloud-and-devops-engineers.html"
+  },
+  {
+    "id": "running-kubernetes-in-locked-down-networks-with-talos-and-zarf",
+    "title": "Running Kubernetes in Locked Down Networks with Talos and Zarf",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/running-kubernetes-in-locked-down-networks-with-talos-and-zarf",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-25T04:57:29.712442Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/running-kubernetes-in-locked-down-networks-with-talos-and-zarf.html"
+  },
+  {
+    "id": "kubernetes-platform-engineering-automation",
+    "title": "Kubernetes Platform Engineering Automation",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-platform-engineering-automation",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-24T16:41:48.208981Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-platform-engineering-automation.html"
+  },
+  {
+    "id": "aws-iam-permissions-and-access-management-simplified",
+    "title": "🍿 TechOps Examples #152 - 19 Mar 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-03-19",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-iam-permissions-and-access-management-simplified",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-iam-permissions-and-access-management-simplified.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "function-as-a-service-faas",
+    "title": "Function as a Service (FaaS)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/function-as-a-service-faas",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-17T05:37:05.041053Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/function-as-a-service-faas.html"
+  },
+  {
+    "id": "kubernetes-scaling-strategies",
+    "title": "Kubernetes Scaling Strategies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-scaling-strategies",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-14T03:56:03.665461Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-scaling-strategies.html"
+  },
+  {
+    "id": "aws-ml-architecture-for-image-and-video-analysis",
+    "title": "🍿 TechOps Examples #149 - 12 Mar 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-03-12",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-ml-architecture-for-image-and-video-analysis",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/aws-ml-architecture-for-image-and-video-analysis.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "kubeconfig-cleanup-automation-with-kubetidy",
+    "title": "KubeConfig Cleanup Automation with Kubetidy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubeconfig-cleanup-automation-with-kubetidy",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-11T04:55:19.981382Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubeconfig-cleanup-automation-with-kubetidy.html"
+  },
+  {
+    "id": "understanding-aws-security-groups",
+    "title": "Understanding AWS Security Groups",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-aws-security-groups",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-10T05:32:12.611775Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-aws-security-groups.html"
+  },
+  {
+    "id": "container-resource-monitoring-with-docker-stats",
+    "title": "Container Resource Monitoring with Docker stats",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/container-resource-monitoring-with-docker-stats",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-07T05:13:10.893926Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/container-resource-monitoring-with-docker-stats.html"
+  },
+  {
+    "id": "kubernetes-patterns-part-2",
+    "title": "Kubernetes Patterns - Part 2",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-patterns-part-2",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-04T05:06:05.510181Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-patterns-part-2.html"
+  },
+  {
+    "id": "understanding-aws-lambda-s-reserved-concurrency-vs-provisioned-concurrency",
+    "title": "Understanding AWS Lambda's Reserved Concurrency vs Provisioned Concurrency",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-aws-lambda-s-reserved-concurrency-vs-provisioned-concurrency",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-02-28T16:26:45.39693Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "https://cdn.brandfetch.io/id4NSNrRnG/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737358622377"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-aws-lambda-s-reserved-concurrency-vs-provisioned-concurrency.html"
+  },
+  {
+    "id": "aws-ec2-guide",
+    "title": "🍿 TechOps Examples #142 - 28 Feb 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-02-28",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-ec2-guide",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/aws-ec2-guide.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-is-inside-the-git-folder",
+    "title": "What Is Inside the .git Folder?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/what-is-inside-the-git-folder",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-27T08:10:36.640565Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/what-is-inside-the-git-folder.html"
+  },
+  {
+    "id": "aws-dns-record-types-explained",
+    "title": "🍿 TechOps Examples #139 - 24 Feb 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-02-24",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-dns-record-types-explained",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-dns-record-types-explained.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "aws-vpc-peering-overview",
+    "title": "🍿 TechOps Examples #137 - 19 Feb 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-02-19",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-vpc-peering-overview",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-vpc-peering-overview.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "kubernetes-patterns-part-1",
+    "title": "Kubernetes Patterns - Part 1",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-patterns-part-1",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-14T05:42:59.441346Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-patterns-part-1.html"
+  },
+  {
+    "id": "kubernetes-crash-recovery-guide",
+    "title": "Kubernetes Crash Recovery Guide",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-crash-recovery-guide",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-13T07:23:18.917207Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-crash-recovery-guide.html"
+  },
+  {
+    "id": "types-of-ai-agents",
+    "title": "Types of AI Agents",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/types-of-ai-agents",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-12T07:05:49.15605Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/types-of-ai-agents.html"
+  },
+  {
+    "id": "understanding-ai-agents-workflow",
+    "title": "Understanding AI Agents Workflow",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-ai-agents-workflow",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-02-06T07:15:11.237559Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-ai-agents-workflow.html"
+  },
+  {
+    "id": "kubernetes-pod-yaml-practical-usage-guide",
+    "title": "Kubernetes pod.yaml Practical Usage Guide",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-pod-yaml-practical-usage-guide",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-05T06:00:42.548544Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-pod-yaml-practical-usage-guide.html"
+  },
+  {
+    "id": "kubernetes-mistakes-side-effects",
+    "title": "Kubernetes Mistakes Side Effects",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-mistakes-side-effects",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-04T06:27:03.603367Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-mistakes-side-effects.html"
+  },
+  {
+    "id": "terraform-state-locking-major-update",
+    "title": "Terraform State Locking - Major Update",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/terraform-state-locking-major-update",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-02-03T06:04:34.166558Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/terraform-state-locking-major-update.html"
+  },
+  {
+    "id": "behind-the-scenes-of-a-cloud-application",
+    "title": "Behind the Scenes of a Cloud Application",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/behind-the-scenes-of-a-cloud-application",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-01-31T06:21:07.295172Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Agree.com",
+        "url": "https://agree.com/",
+        "logo": "https://framerusercontent.com/images/P4DICf40m8trN03h9jcxkPX9Y.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/behind-the-scenes-of-a-cloud-application.html"
+  },
+  {
+    "id": "kubernetes-observability-ideal-dashboard-elements",
+    "title": "Kubernetes Observability Ideal Dashboard Elements",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-observability-ideal-dashboard-elements",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-29T13:07:28.414805Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-observability-ideal-dashboard-elements.html"
+  },
+  {
+    "id": "abcs-of-ai-agents",
+    "title": "ABCs of AI Agents",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/abcs-of-ai-agents",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-29T06:57:04.106884Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/abcs-of-ai-agents.html"
+  },
+  {
+    "id": "kubernetes-pod-troubleshooting-tactics",
+    "title": "Kubernetes POD Troubleshooting Tactics",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-pod-troubleshooting-tactics",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-27T14:59:34.601352Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-pod-troubleshooting-tactics.html"
+  },
+  {
+    "id": "terraform-graphs-explained",
+    "title": "Terraform Graphs Explained",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/terraform-graphs-explained",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-27T06:05:17.882575Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      },
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/terraform-graphs-explained.html"
+  },
+  {
+    "id": "how-to-start-devops-in-2025",
+    "title": "How to Start DevOps in 2025",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-start-devops-in-2025",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-24T05:44:17.755209Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-start-devops-in-2025.html"
+  },
+  {
+    "id": "9-essential-software-configuration-management-patterns",
+    "title": "🍿 TechOps Examples #120 - 23 Jan 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-01-23",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/9-essential-software-configuration-management-patterns",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/9-essential-software-configuration-management-patterns.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "best-tui-tools-for-devops-engineers",
+    "title": "Best TUI Tools for DevOps Engineers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/best-tui-tools-for-devops-engineers",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2025-01-22T05:15:50.155493Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/best-tui-tools-for-devops-engineers.html"
+  },
+  {
+    "id": "kubernetes-deployment-strategies",
+    "title": "Kubernetes Deployment Strategies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-deployment-strategies",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-21T06:40:36.324718Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-deployment-strategies.html"
+  },
+  {
+    "id": "the-3-layers-framework-of-cloud-cost-control",
+    "title": "The 3 Layers Framework of Cloud Cost Control",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/the-3-layers-framework-of-cloud-cost-control",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-01-19T13:32:16.082482Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-3-layers-framework-of-cloud-cost-control.html"
+  },
+  {
+    "id": "7rs-cloud-migration-strategies",
+    "title": "7Rs Cloud Migration Strategies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/7rs-cloud-migration-strategies",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-17T06:17:01.430652Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/7rs-cloud-migration-strategies.html"
+  },
+  {
+    "id": "steps-to-prevent-and-recover-lost-terraform-state-files",
+    "title": "Steps to Prevent and Recover Lost Terraform State Files",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/steps-to-prevent-and-recover-lost-terraform-state-files",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-15T13:40:08.89409Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "htmlFile": "/emails/steps-to-prevent-and-recover-lost-terraform-state-files.html",
+    "hasAds": true
+  },
+  {
+    "id": "ansible-roles-directory-structure-breakdown",
+    "title": "Ansible Roles Directory Structure BreakDown",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/ansible-roles-directory-structure-breakdown",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-14T13:24:47.388234Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ansible-roles-directory-structure-breakdown.html"
+  },
+  {
+    "id": "optimizing-kubernetes-costs-with-pod-disruption-budgets",
+    "title": "🍿 TechOps Examples #113 - 14 Jan 2025",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2025-01-14",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/optimizing-kubernetes-costs-with-pod-disruption-budgets",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/optimizing-kubernetes-costs-with-pod-disruption-budgets.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "load-balancer-realistic-use-cases",
+    "title": "Load Balancer Realistic Use Cases",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/load-balancer-realistic-use-cases",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-12T13:29:02.509119Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/load-balancer-realistic-use-cases.html"
+  },
+  {
+    "id": "cloud-dns-routing-policies-breakdown",
+    "title": "Cloud DNS Routing Policies BreakDown",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/cloud-dns-routing-policies-breakdown",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-09T14:03:51.598635Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cloud-dns-routing-policies-breakdown.html"
+  },
+  {
+    "id": "kubernetes-troubleshooting-commands-every-devops-engineer-must-know",
+    "title": "Kubernetes Troubleshooting Commands Every DevOps Engineer Must Know",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-troubleshooting-commands-every-devops-engineer-must-know",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-08T13:39:53.337634Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-troubleshooting-commands-every-devops-engineer-must-know.html"
+  },
+  {
+    "id": "terraform-components-crash-course",
+    "title": "Terraform Components Crash Course",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/terraform-components-crash-course",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-07T13:09:19.064422Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/terraform-components-crash-course.html"
+  },
+  {
+    "id": "kubernetes-autoscaling-hpa-vs-vpa-vs-keda",
+    "title": "Kubernetes Autoscaling - HPA vs VPA vs KEDA",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-autoscaling-hpa-vs-vpa-vs-keda",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-06T13:58:40.21096Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-autoscaling-hpa-vs-vpa-vs-keda.html"
+  },
+  {
+    "id": "simplifying-aws-data-transfer-costs",
+    "title": "Simplifying AWS Data Transfer Costs",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/simplifying-aws-data-transfer-costs",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-01-05T05:43:06.012956Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/simplifying-aws-data-transfer-costs.html"
+  },
+  {
+    "id": "should-you-use-ephemeral-containers-in-production-environments-or-not",
+    "title": "Should You Use Ephemeral Containers In Production Environments Or Not?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/should-you-use-ephemeral-containers-in-production-environments-or-not",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-23T05:52:10.6681Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/should-you-use-ephemeral-containers-in-production-environments-or-not.html"
+  },
+  {
+    "id": "using-kyverno-policies-with-argocd",
+    "title": "Using Kyverno policies with ArgoCD",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/using-kyverno-policies-with-argocd",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-19T13:55:10.710348Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/using-kyverno-policies-with-argocd.html"
+  },
+  {
+    "id": "the-problem-with-overusing-terraform-dynamic-blocks",
+    "title": "The Problem With Overusing Terraform Dynamic Blocks",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/the-problem-with-overusing-terraform-dynamic-blocks",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-18T13:45:15.455577Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-problem-with-overusing-terraform-dynamic-blocks.html"
+  },
+  {
+    "id": "100th-edition-special-giveaway",
+    "title": "🙏 100th Edition - Special Giveaway",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/100th-edition-special-giveaway",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-18T03:52:27.074474Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Maven AGI",
+        "url": "https://www.mavenagi.com/",
+        "logo": "https://cdn.prod.website-files.com/68f244980bd11555d6909a25/69215acff109d737416bdddf_mavenagi-brand-logo-color-112024_icon---purple.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/100th-edition-special-giveaway.html"
+  },
+  {
+    "id": "why-did-my-kubernetes-pod-stop-abruptly",
+    "title": "Why Did My Kubernetes Pod Stop Abruptly?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-did-my-kubernetes-pod-stop-abruptly",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-15T05:28:32.246097Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-did-my-kubernetes-pod-stop-abruptly.html"
+  },
+  {
+    "id": "why-crossplane-with-argocd-is-the-best-gitops",
+    "title": "Why Crossplane with ArgoCD is the Best GitOps",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-crossplane-with-argocd-is-the-best-gitops",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-12T13:47:35.82735Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-crossplane-with-argocd-is-the-best-gitops.html"
+  },
+  {
+    "id": "how-to-structure-your-kubernetes-project",
+    "title": "How to Structure Your Kubernetes Project",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-structure-your-kubernetes-project",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2024-12-11T13:06:48.419649Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "https://cdn.brandfetch.io/idpSkvQr-v/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1766517354403"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-structure-your-kubernetes-project.html"
+  },
+  {
+    "id": "how-to-manage-secrets-in-ci-cd-pipelines",
+    "title": "How to Manage Secrets in CI/CD Pipelines",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-manage-secrets-in-ci-cd-pipelines",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-10T13:20:50.38387Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-manage-secrets-in-ci-cd-pipelines.html"
+  },
+  {
+    "id": "aws-vpc-network-segmentation-break-down",
+    "title": "🍿 TechOps Examples #94 - 10 Dec 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2024-12-10",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-vpc-network-segmentation-break-down",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-vpc-network-segmentation-break-down.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "why-should-a-container-have-only-one-process",
+    "title": "Why should a container have only one process?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-should-a-container-have-only-one-process",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-08T05:44:19.098465Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-should-a-container-have-only-one-process.html"
+  },
+  {
+    "id": "semantic-versioning-automation-with-github-actions",
+    "title": "Semantic Versioning Automation with GitHub Actions",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/semantic-versioning-automation-with-github-actions",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-05T14:04:28.823336Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/semantic-versioning-automation-with-github-actions.html",
+    "hasAds": true
+  },
+  {
+    "id": "improving-kubernetes-latency-with-external-traffic-policy-and-session-affinity",
+    "title": "Improving Kubernetes Latency with External Traffic Policy and Session Affinity",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/improving-kubernetes-latency-with-external-traffic-policy-and-session-affinity",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-12-04T14:06:57.646865Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/improving-kubernetes-latency-with-external-traffic-policy-and-session-affinity.html"
+  },
+  {
+    "id": "securing-containers-with-seccomp",
+    "title": "Securing Containers with Seccomp",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/securing-containers-with-seccomp",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-12-03T13:24:35.399633Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/securing-containers-with-seccomp.html"
+  },
+  {
+    "id": "understanding-cross-zone-load-balancing",
+    "title": "Understanding Cross Zone Load Balancing",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-cross-zone-load-balancing",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-02T13:57:51.276871Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-cross-zone-load-balancing.html"
+  },
+  {
+    "id": "how-karpenter-feature-gates-helped",
+    "title": "How Karpenter Feature Gates Helped on Black Friday",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-karpenter-feature-gates-helped",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-29T09:48:22.955346Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-karpenter-feature-gates-helped.html"
+  },
+  {
+    "id": "cloudfront-signed-url-vs-s3-pre-signed-url-when-to-use-what",
+    "title": "CloudFront Signed URL vs S3 Pre Signed URL - When to Use What?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/cloudfront-signed-url-vs-s3-pre-signed-url-when-to-use-what",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-28T13:40:09.330441Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cloudfront-signed-url-vs-s3-pre-signed-url-when-to-use-what.html"
+  },
+  {
+    "id": "implementing-aws-single-sign-on-sso-crash-course",
+    "title": "Implementing AWS Single Sign-On (SSO) Crash Course",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/implementing-aws-single-sign-on-sso-crash-course",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-27T13:09:27.998424Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gamma",
+        "url": "https://gamma.app/?lng=en",
+        "logo": "https://www.google.com/s2/favicons?domain=gamma.app&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/implementing-aws-single-sign-on-sso-crash-course.html"
+  },
+  {
+    "id": "github-branching-strategy-for-multi-account-environments",
+    "title": "GitHub Branching Strategy for Multi Account Environments",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/github-branching-strategy-for-multi-account-environments",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-26T13:31:32.36753Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/github-branching-strategy-for-multi-account-environments.html"
+  },
+  {
+    "id": "multi-cluster-batch-job-scheduling-now-a-reality-with-kueue",
+    "title": "Multi Cluster Batch Job Scheduling Now a Reality with Kueue",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/multi-cluster-batch-job-scheduling-now-a-reality-with-kueue",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-25T14:06:55.177229Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/multi-cluster-batch-job-scheduling-now-a-reality-with-kueue.html"
+  },
+  {
+    "id": "kubernetes-upgrades-how-not-to-mess-up",
+    "title": "Kubernetes Upgrades - How Not to Mess Up?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-upgrades-how-not-to-mess-up",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-23T04:18:23.85455Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/kubernetes-upgrades-how-not-to-mess-up.html",
+    "hasAds": true
+  },
+  {
+    "id": "aws-internet-gateway-vs-nat-gateway-which-one-to-choose",
+    "title": "🍿 TechOps Examples #81 - 21 Nov 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2024-11-21",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-internet-gateway-vs-nat-gateway-which-one-to-choose",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "Codeium_Logo_Wordmark__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-internet-gateway-vs-nat-gateway-which-one-to-choose.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "when-microservices-architecture-becomes-a-bad-idea",
+    "title": "When Microservices Architecture Becomes a Bad Idea?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/when-microservices-architecture-becomes-a-bad-idea",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-19T17:33:48.878261Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-microservices-architecture-becomes-a-bad-idea.html"
+  },
+  {
+    "id": "pod-yaml-file-structure-breakdown",
+    "title": "pod.yaml File Structure Breakdown",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/pod-yaml-file-structure-breakdown",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-19T07:42:30.940107Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pod-yaml-file-structure-breakdown.html"
+  },
+  {
+    "id": "cloud-disaster-recovery-strategies",
+    "title": "Cloud Disaster Recovery Strategies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/cloud-disaster-recovery-strategies",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-15T07:47:53.635506Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/cloud-disaster-recovery-strategies.html"
+  },
+  {
+    "id": "conventional-vs-kubernetes-ci-cd-pipelines",
+    "title": "Conventional Vs Kubernetes CI/CD Pipelines",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/conventional-vs-kubernetes-ci-cd-pipelines",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-14T05:35:28.135648Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/conventional-vs-kubernetes-ci-cd-pipelines.html"
+  },
+  {
+    "id": "azure-durable-function-patterns",
+    "title": "🍿 TechOps Examples #75 - 13 Nov 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2024-11-13",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/azure-durable-function-patterns",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "Writer_Logo_Wordmark.png"
+      }
+    ],
+    "htmlFile": "/emails/azure-durable-function-patterns.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "understanding-kubernetes-logs-a-comprehensive-guide",
+    "title": "Understanding Kubernetes Logs - A Comprehensive Guide",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kubernetes-logs-a-comprehensive-guide",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-12T08:15:23.565786Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-kubernetes-logs-a-comprehensive-guide.html"
+  },
+  {
+    "id": "systemd-capabilities-and-kubernetes",
+    "title": "Systemd, Capabilities, and Kubernetes",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/systemd-capabilities-and-kubernetes",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-11T06:56:50.6128Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/systemd-capabilities-and-kubernetes.html"
+  },
+  {
+    "id": "aws-vpc-gateway-endpoints-the-most-underrated-cost-savers",
+    "title": "🍿 TechOps Examples #71 - 07 Nov 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2024-11-07",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-vpc-gateway-endpoints-the-most-underrated-cost-savers",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-vpc-gateway-endpoints-the-most-underrated-cost-savers.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "2024-promising-cncf-sandbox-cloud-native-projects",
+    "title": "2024 Promising CNCF Sandbox Cloud Native Projects",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/2024-promising-cncf-sandbox-cloud-native-projects",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-06T15:23:58.140006Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/2024-promising-cncf-sandbox-cloud-native-projects.html"
+  },
+  {
+    "id": "kubernetes-operator-vs-helm-which-one-to-choose",
+    "title": "Kubernetes Operator vs Helm - Which One to Choose ?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-operator-vs-helm-which-one-to-choose",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-06T04:53:23.242144Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-operator-vs-helm-which-one-to-choose.html"
+  },
+  {
+    "id": "kubernetes-runcontainererror-explained",
+    "title": "Kubernetes RunContainerError Explained",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-runcontainererror-explained",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-11-05T05:40:59.520353Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-runcontainererror-explained.html"
+  },
+  {
+    "id": "guide-to-a-well-structured-terraform-project",
+    "title": "Guide to a Well Structured Terraform Project",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/guide-to-a-well-structured-terraform-project",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-01T07:04:02.750382Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/guide-to-a-well-structured-terraform-project.html"
+  },
+  {
+    "id": "how-github-s-database-self-destructed-in-43-seconds",
+    "title": "How GitHub's Database Self-Destructed in 43 Seconds",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-github-s-database-self-destructed-in-43-seconds",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-11-01T02:20:33.378186Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Salesforge",
+        "url": "https://www.salesforge.ai/",
+        "logo": "https://cdn.prod.website-files.com/642bd4ac1fcf21f9f33d92ed/67c839fc20d0910e1b3dbe6f_sf-webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-github-s-database-self-destructed-in-43-seconds.html"
+  },
+  {
+    "id": "how-to-use-s3-buckets-securely-for-public-data-storage",
+    "title": "How to Use S3 Buckets Securely for Public Data Storage",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-use-s3-buckets-securely-for-public-data-storage",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-31T06:08:09.506628Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-use-s3-buckets-securely-for-public-data-storage.html"
+  },
+  {
+    "id": "gitops-push-vs-pull-architecture-which-one-to-choose",
+    "title": "GitOps Push vs. Pull Architecture – Which One to Choose?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/gitops-push-vs-pull-architecture-which-one-to-choose",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-30T05:46:34.476602Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gitops-push-vs-pull-architecture-which-one-to-choose.html"
+  },
+  {
+    "id": "how-to-choose-an-iac-tool",
+    "title": "How To Choose an IaC Tool",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-choose-an-iac-tool",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-28T04:49:27.658462Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-choose-an-iac-tool.html"
+  },
+  {
+    "id": "how-to-fix-kubernetes-node-disk-pressure",
+    "title": "How to Fix Kubernetes Node Disk Pressure",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-fix-kubernetes-node-disk-pressure",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-25T05:55:04.767215Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-fix-kubernetes-node-disk-pressure.html"
+  },
+  {
+    "id": "dockerfile-vs-docker-compose-what-you-should-know",
+    "title": "Dockerfile vs. Docker Compose: What You Should Know",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/dockerfile-vs-docker-compose-what-you-should-know",
+    "tags": [
+      "AI"
+    ],
+    "date": "2024-10-24T06:25:58.264779Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Convergence AI",
+        "url": "https://convergence.ai/",
+        "logo": "https://cdn.brandfetch.io/idhHdM4t22/w/346/h/314/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1733852330807"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dockerfile-vs-docker-compose-what-you-should-know.html"
+  },
+  {
+    "id": "how-a-pod-is-deleted-behind-the-scenes-breakdown",
+    "title": "How a Pod is Deleted - Behind the Scenes Breakdown",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-a-pod-is-deleted-behind-the-scenes-breakdown",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-23T04:15:06.88747Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-a-pod-is-deleted-behind-the-scenes-breakdown.html"
+  },
+  {
+    "id": "ansible-ping-pong-architecture",
+    "title": "Ansible Ping-Pong Architecture",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/ansible-ping-pong-architecture",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-21T13:52:07.196856Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "logo": "https://windsurf.com/favicon_512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ansible-ping-pong-architecture.html"
+  },
+  {
+    "id": "how-canva-processed-billions-of-events-with-olap-migration",
+    "title": "How Canva Processed Billions of Events with OLAP Migration",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-canva-processed-billions-of-events-with-olap-migration",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-20T05:21:35.059763Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-canva-processed-billions-of-events-with-olap-migration.html"
+  },
+  {
+    "id": "security-researcher-exposed-aws-keys-and-api-secrets-of-1b-vc-firm-in-5-clicks",
+    "title": "Security Researcher Exposed AWS Keys and API Secrets of $1B VC Firm in 5 Clicks",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/security-researcher-exposed-aws-keys-and-api-secrets-of-1b-vc-firm-in-5-clicks",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-18T05:48:58.616309Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/security-researcher-exposed-aws-keys-and-api-secrets-of-1b-vc-firm-in-5-clicks.html"
+  },
+  {
+    "id": "understanding-kata-containers",
+    "title": "Understanding Kata Containers ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kata-containers",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-10-16T15:40:57.313747Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pinata",
+        "url": "https://pinata.cloud/",
+        "logo": "https://www.google.com/s2/favicons?domain=pinata.cloud&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-kata-containers.html"
+  },
+  {
+    "id": "the-evolution-of-kubernetes-query-language",
+    "title": "The Evolution of Kubernetes Query Language",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/the-evolution-of-kubernetes-query-language",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-16T06:10:50.162517Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-evolution-of-kubernetes-query-language.html"
+  },
+  {
+    "id": "how-aws-handled-2024-prime-day-record-breaking-traffic",
+    "title": "How AWS Handled 2024 Prime Day’s Record Breaking Traffic",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-aws-handled-2024-prime-day-record-breaking-traffic",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-14T15:01:50.120983Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-aws-handled-2024-prime-day-record-breaking-traffic.html"
+  },
+  {
+    "id": "hidden-risk-of-relying-on-labels-in-kubernetes-security",
+    "title": "Hidden Risk Of Relying On Labels In Kubernetes Security",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/hidden-risk-of-relying-on-labels-in-kubernetes-security",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-09T16:08:07.603934Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hidden-risk-of-relying-on-labels-in-kubernetes-security.html"
+  },
+  {
+    "id": "50th-edition-special-giveaway",
+    "title": "🙏 50th Edition - Special Giveaway",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/50th-edition-special-giveaway",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-10-09T10:00:31.504283Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/50th-edition-special-giveaway.html"
+  },
+  {
+    "id": "kubeconfig-bloat-problem-and-remedy",
+    "title": "KubeConfig Bloat Problem and Remedy",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubeconfig-bloat-problem-and-remedy",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-10-07T13:58:26.751579Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubeconfig-bloat-problem-and-remedy.html"
+  },
+  {
+    "id": "epic-k8s-tools-for-solid-security-posture",
+    "title": "Epic K8s Tools For Solid Security Posture",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/epic-k8s-tools-for-solid-security-posture",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-03T14:18:57.594815Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "https://cdn.prod.website-files.com/67558e246490829b0a44ad8e/680f3c8cf4185727e41de2af_favicon%20large.png"
+      }
+    ],
+    "htmlFile": "/emails/epic-k8s-tools-for-solid-security-posture.html",
+    "hasAds": true
+  },
+  {
+    "id": "solve-aws-lambda-cost-performance-imbalance-with-power-tuning",
+    "title": "Solve AWS Lambda Cost-Performance Imbalance with Power Tuning",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/solve-aws-lambda-cost-performance-imbalance-with-power-tuning",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-10-02T14:29:03.328982Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/solve-aws-lambda-cost-performance-imbalance-with-power-tuning.html"
+  },
+  {
+    "id": "kubernetes-security-contexts-simplified",
+    "title": "Kubernetes Security Contexts Simplified",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-security-contexts-simplified",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-09-30T11:10:01.213882Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Writer",
+        "url": "https://writer.com/",
+        "logo": "https://writer.com/wp-content/uploads/2021/08/writer-w-logo-1.png?w=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-security-contexts-simplified.html"
+  },
+  {
+    "id": "bootc-introducing-bootable-containers",
+    "title": "bootc: Introducing Bootable Containers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/bootc-introducing-bootable-containers",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-29T06:13:19.327294Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bootc-introducing-bootable-containers.html"
+  },
+  {
+    "id": "best-devops-tools-that-are-good-for-the-planet",
+    "title": "Best DevOps Tools That Are Good for the Planet",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/best-devops-tools-that-are-good-for-the-planet",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-27T05:19:13.356474Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/best-devops-tools-that-are-good-for-the-planet.html"
+  },
+  {
+    "id": "how-one-bigquery-query-costs-shopify-1million-a-month",
+    "title": "How One BigQuery Query Costs Shopify $1,000,000 a Month?",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-one-bigquery-query-costs-shopify-1million-a-month",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-25T14:10:46.767921Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-one-bigquery-query-costs-shopify-1million-a-month.html"
+  },
+  {
+    "id": "hexagonal-architecture-in-aws",
+    "title": "Hexagonal Architecture in AWS",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/hexagonal-architecture-in-aws",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-24T16:51:09.858918Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hexagonal-architecture-in-aws.html"
+  },
+  {
+    "id": "why-cloud-isn-t-always-the-answer",
+    "title": "Why Cloud isn’t Always the Answer",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-cloud-isn-t-always-the-answer",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-24T07:04:47.686141Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-cloud-isn-t-always-the-answer.html"
+  },
+  {
+    "id": "understanding-kubernetes-createcontainererror",
+    "title": "Understanding Kubernetes CreateContainerError",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/understanding-kubernetes-createcontainererror",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2024-09-23T07:01:57.821243Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/understanding-kubernetes-createcontainererror.html"
+  },
+  {
+    "id": "detecting-and-mitigating-image-vulnerabilities-with-docker-scout",
+    "title": "Detecting and Mitigating Image Vulnerabilities with Docker Scout",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/detecting-and-mitigating-image-vulnerabilities-with-docker-scout",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2024-09-20T07:22:50.589931Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Stack Influence",
+        "url": "https://stackinfluence.com/",
+        "logo": "https://stackinfluence.com/wp-content/uploads/fbrfg/android-chrome-384x384.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/detecting-and-mitigating-image-vulnerabilities-with-docker-scout.html"
+  },
+  {
+    "id": "trunk-branching-strategy-for-multi-account-environments",
+    "title": "Trunk Branching Strategy for Multi Account Environments",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/trunk-branching-strategy-for-multi-account-environments",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-09-19T07:42:42.653714Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Rewardful",
+        "url": "https://www.rewardful.com/",
+        "logo": "https://cdn.prod.website-files.com/6041705a8ccb775007a2e651/6049b263ec3e5affbea8b06b_rw.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/trunk-branching-strategy-for-multi-account-environments.html"
+  },
+  {
+    "id": "kubernetes-pod-disruption-budget-practical-guide",
+    "title": "Kubernetes Pod Disruption Budget Practical Guide",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-pod-disruption-budget-practical-guide",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-18T07:22:02.616686Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-pod-disruption-budget-practical-guide.html"
+  },
+  {
+    "id": "aws-security-architecture-crash-course",
+    "title": "🍿 TechOps Examples #34 - 17 Sep 2024",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "TechOps Examples",
+    "date": "2024-09-17",
+    "hasAds": true,
+    "url": "https://www.techopsexamples.com/p/aws-security-architecture-crash-course",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/aws-security-architecture-crash-course.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "end-to-end-encryption-on-amazon-eks-with-cert-manager",
+    "title": "End-to-End Encryption on Amazon EKS with cert-manager",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/end-to-end-encryption-on-amazon-eks-with-cert-manager",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-13T07:20:14.167676Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/end-to-end-encryption-on-amazon-eks-with-cert-manager.html"
+  },
+  {
+    "id": "docker-build-cache-explained",
+    "title": "Docker Build Cache Explained",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/docker-build-cache-explained",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-05T07:51:03.003043Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/docker-build-cache-explained.html"
+  },
+  {
+    "id": "kubernetes-airgap-implementation-an-airplane-mode",
+    "title": "Kubernetes AirGap Implementation (An Airplane Mode)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-airgap-implementation-an-airplane-mode",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-09-04T07:23:10.909911Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-airgap-implementation-an-airplane-mode.html"
+  },
+  {
+    "id": "how-to-convert-existing-cloud-infrastructure-to-terraform",
+    "title": "How to Convert Existing Cloud Infrastructure To Terraform",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-convert-existing-cloud-infrastructure-to-terraform",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-03T06:24:39.550575Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-convert-existing-cloud-infrastructure-to-terraform.html"
+  },
+  {
+    "id": "github-actions-optimization-techniques",
+    "title": "GitHub Actions Optimization Techniques",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/github-actions-optimization-techniques",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-30T06:26:45.203081Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/github-actions-optimization-techniques.html"
+  },
+  {
+    "id": "keda-vs-karpenter-which-one-to-choose",
+    "title": "KEDA vs Karpenter - Which One to Choose",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/keda-vs-karpenter-which-one-to-choose",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-29T06:39:17.205386Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/keda-vs-karpenter-which-one-to-choose.html"
+  },
+  {
+    "id": "kubernetes-node-not-ready-how-to-fix-it",
+    "title": "Kubernetes Node Not Ready - How To Fix It",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-node-not-ready-how-to-fix-it",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-28T05:38:24.569729Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-node-not-ready-how-to-fix-it.html"
+  },
+  {
+    "id": "how-to-reduce-docker-image-size",
+    "title": "How to Reduce Docker Image Size",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-reduce-docker-image-size",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-25T07:47:11.935002Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-reduce-docker-image-size.html"
+  },
+  {
+    "id": "why-you-need-a-kubernetes-controller",
+    "title": "Why You Need a Kubernetes Controller",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/why-you-need-a-kubernetes-controller",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-20T18:29:24.868013Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/why-you-need-a-kubernetes-controller.html"
+  },
+  {
+    "id": "mlops-work-load-orchestration",
+    "title": "MLOps Work Load Orchestration (AWS Recommended)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/mlops-work-load-orchestration",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-20T07:59:39.857527Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mlops-work-load-orchestration.html"
+  },
+  {
+    "id": "kubernetes-dns-optimization",
+    "title": "Kubernetes DNS Optimization",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-dns-optimization",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-15T17:38:14.376621Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "ELEKS",
+        "url": "https://eleks.com/",
+        "logo": "https://eleks.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-dns-optimization.html"
+  },
+  {
+    "id": "kubernetes-rbac-simplified",
+    "title": "Kubernetes RBAC Simplified",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-rbac-simplified",
+    "tags": [
+      "SaaS",
+      "Technology"
+    ],
+    "date": "2024-08-15T17:35:02.583993Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Oneleet",
+        "url": "https://www.oneleet.com/",
+        "logo": "https://cdn.brandfetch.io/id-8uwfYeY/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1739884939313"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-rbac-simplified.html"
+  },
+  {
+    "id": "how-to-merge-terraform-tags",
+    "title": "How To Merge Terraform Tags",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/how-to-merge-terraform-tags",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-08-07T14:56:39.038492Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/how-to-merge-terraform-tags.html"
+  },
+  {
+    "id": "kubernetes-static-vs-dynamic-config-maps",
+    "title": "Kubernetes Static Vs Dynamic Config Maps",
+    "category": "Digital Products",
+    "description": "",
+    "author": "TechOps Examples",
+    "url": "https://www.techopsexamples.com/p/kubernetes-static-vs-dynamic-config-maps",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-08-05T15:42:33.102243Z",
+    "publisher": {
+      "name": "TechOps Examples",
+      "url": "https://www.techopsexamples.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/kubernetes-static-vs-dynamic-config-maps.html"
+  }
+]

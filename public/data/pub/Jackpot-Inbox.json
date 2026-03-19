@@ -1,0 +1,312 @@
+[
+  {
+    "id": "02-08-26",
+    "title": "🎰 Explore & Win The Jackpot!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2026-02-08",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/02-08-26",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/02-08-26.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "12-29-25",
+    "title": "🎰 10x Entires Available Right Now!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-12-29",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/12-29-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "MEDVi",
+        "url": "https://medvi.org/",
+        "logo": "MEDVi.png"
+      }
+    ],
+    "htmlFile": "/emails/12-29-25.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "09-09-25",
+    "title": "🎰 Bonus Entires To Win This Weeks Jackpot!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-09-09",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/09-09-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/09-09-25.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "08-19-25",
+    "title": "🎰 Jackpot Time! Ready To See If You Won?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-08-19",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/08-19-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/08-19-25.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "08-05-25",
+    "title": "🎰 First August Jackpot is in...",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-08-05",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/08-05-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/08-05-25.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "06-10-25",
+    "title": "🎰 June Jackpot!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-06-10",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/06-10-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/06-10-25.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "05-13-25",
+    "title": "🎰 New Jackpot Winner!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-05-13",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/05-13-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "TheHustle_HSMedia_copy.png"
+      }
+    ],
+    "htmlFile": "/emails/05-13-25.html",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "04-28-25",
+    "title": "🎰 Last Jackpot For April - Play Now!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-04-28",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/04-28-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/04-28-25.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "04-15-25",
+    "title": "🎰 New Jackpot - Plus Bonus Entires!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-04-15",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/04-15-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/04-15-25.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "04-07-25",
+    "title": "🎰 The Jackpot is Growing!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-04-07",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/04-07-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/04-07-25.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "03-18-25",
+    "title": "🎰 Jackpot Time! Open To Win!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Jackpot Inbox",
+    "date": "2025-03-18",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/03-18-25",
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/03-18-25.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "02-27-26",
+    "title": "🎰 February Close Out!",
+    "category": "Newsletter Ads",
+    "description": "Jackpot Winner Inside | Open To Win | ONE Winner Daily",
+    "author": "Jackpot Inbox",
+    "date": "",
+    "htmlFile": "/emails/02-27-26.html",
+    "hasAds": true,
+    "url": "https://www.jackpotinbox.com/p/02-27-26",
+    "advertisers": [
+      {
+        "name": "AG1",
+        "url": "https://drinkag1.com/",
+        "logo": "AG1_AG1_Green__1_.png"
+      }
+    ],
+    "publisher": {
+      "name": "Jackpot Inbox",
+      "url": "https://www.jackpotinbox.com"
+    },
+    "tags": [
+      "Health"
+    ]
+  }
+]

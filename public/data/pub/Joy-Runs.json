@@ -1,0 +1,388 @@
+[
+  {
+    "id": "running-is-forever",
+    "title": "Running is forever ❤️",
+    "category": "Digital Products",
+    "description": "Treat yourself or a running partner.",
+    "author": "Joy Runs",
+    "url": "https://mail.joyruns.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-13T20:26:40.755986Z",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/running-is-forever.html",
+    "hasAds": true
+  },
+  {
+    "id": "ups-downs",
+    "title": "Joy Run #44: Ups & Downs ⛰️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-06-16",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/ups-downs",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/ups-downs.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "wildlife",
+    "title": "Joy Run #43: Wildlife 🦊",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-06-09",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/wildlife",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "Beehiiv_Newsletter_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/wildlife.html",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  },
+  {
+    "id": "patterns",
+    "title": "Joy Run #39: Patterns 🌀",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-05-12",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/patterns",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "White_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/patterns.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "golden-hour",
+    "title": "Joy Run #34: Golden Hour 🌅",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-04-07",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/golden-hour",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/golden-hour.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "colour",
+    "title": "Joy Run #27: Colour 🌈",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-02-17",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/colour",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Lumen",
+        "url": "https://www.lumen.me/",
+        "logo": "Lumen_Logo_removebg.png"
+      }
+    ],
+    "htmlFile": "/emails/colour.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "spaces",
+    "title": "Joy Run #23: Spaces ⛲",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-01-20",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/spaces",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "Beehiiv_Newsletter_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/spaces.html",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  },
+  {
+    "id": "joy-run-22-stairs",
+    "title": "Joy Run #22: Stairs 📶",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2025-01-13",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/joy-run-22-stairs",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "DIRTEA",
+        "url": "https://us.dirteaworld.com/",
+        "logo": "Image_from_Google_User.png"
+      }
+    ],
+    "htmlFile": "/emails/joy-run-22-stairs.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "merry-joy-runs",
+    "title": "Merry Joy Runs – Your VIP Code",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-12-09",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/merry-joy-runs",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "nikelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/merry-joy-runs.html",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ]
+  },
+  {
+    "id": "xmas",
+    "title": "Joy Run #20: Xmas 🎅",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-12-02",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/xmas",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "BetterSleep",
+        "url": "https://www.bettersleep.com/",
+        "logo": "bslogo.png"
+      }
+    ],
+    "htmlFile": "/emails/xmas.html",
+    "tags": [
+      "Health"
+    ]
+  },
+  {
+    "id": "bridges",
+    "title": "Joy Run #19: Bridges 🌁",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-11-25",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/bridges",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "Beehiiv_Newsletter_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/bridges.html",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  },
+  {
+    "id": "joy-run-16-parks",
+    "title": "Joy Run #16: Parks 🏞️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-11-04",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/joy-run-16-parks",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "RunDot",
+        "url": "https://www.rundot.com/",
+        "logo": "Remove.bg_Image.png"
+      }
+    ],
+    "htmlFile": "/emails/joy-run-16-parks.html",
+    "tags": [
+      "Health",
+      "Sports"
+    ]
+  },
+  {
+    "id": "joy-run-14-rainy-runs",
+    "title": "Joy Run #14: Rainy Runs ☔",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-10-21",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/joy-run-14-rainy-runs",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "RunDot",
+        "url": "https://www.rundot.com/",
+        "logo": "Remove.bg_Image.png"
+      }
+    ],
+    "htmlFile": "/emails/joy-run-14-rainy-runs.html",
+    "tags": [
+      "Health",
+      "Sports"
+    ]
+  },
+  {
+    "id": "12-running-goals",
+    "title": "Joy Run #12: Running Goals 🏅",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/12-running-goals",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Branded Bills",
+        "url": "https://www.brandedbills.com/",
+        "logo": "Branded_Bills_BB_Logo_BLK__Transparent_.png"
+      }
+    ],
+    "htmlFile": "/emails/12-running-goals.html",
+    "tags": [
+      "E-commerce"
+    ]
+  },
+  {
+    "id": "leaves",
+    "title": "Joy Run #11: Leaves 🍂",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Joy Runs",
+    "date": "2024-09-30",
+    "hasAds": true,
+    "url": "https://mail.joyruns.com/p/leaves",
+    "publisher": {
+      "name": "Joy Runs",
+      "url": "https://mail.joyruns.com"
+    },
+    "advertisers": [
+      {
+        "name": "Tiege Hanley",
+        "url": "https://www.tiege.com/",
+        "logo": "Download__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/leaves.html",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "the-shoebox-is-not-a-system",
+    "title": "The Shoebox Is Not a System",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Deduct This!",
+    "url": "https://www.morningbrew.com/p/the-shoebox-is-not-a-system",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-25T00:00:00Z",
+    "publisher": {
+      "name": "Deduct This!",
+      "url": "https://www.morningbrew.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/the-shoebox-is-not-a-system.html",
+    "hasAds": true
+  },
+  {
+    "id": "does-your-p-l-say-you-re-fine-your-bank-account-disagrees",
+    "title": "Does your P&L say you’re fine? Your bank account disagrees.",
+    "category": "Digital Products",
+    "description": "Paper profits don't pay bills — real cash does",
+    "author": "Deduct This!",
+    "url": "https://deduct-this-203c40.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T17:28:00.877255Z",
+    "publisher": {
+      "name": "Deduct This!",
+      "url": "https://deduct-this-203c40.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/does-your-p-l-say-you-re-fine-your-bank-account-disagrees.html",
+    "hasAds": true
+  },
+  {
+    "id": "18-tax-mistakes-business-owners-make-every-year-filing-their-taxes",
+    "title": "18 Tax Mistakes Business Owners Make Every Year Filing their Taxes",
+    "category": "Digital Products",
+    "description": "Are you making any of them?",
+    "author": "Deduct This!",
+    "url": "https://deduct-this-203c40.beehiiv.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-10T04:42:20.864617Z",
+    "publisher": {
+      "name": "Deduct This!",
+      "url": "https://deduct-this-203c40.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/18-tax-mistakes-business-owners-make-every-year-filing-their-taxes.html",
+    "hasAds": true
+  },
+  {
+    "id": "messy-books-messy-decisions-here-s-how-to-fix-it",
+    "title": "Messy Books = Messy Decisions. Here’s How to Fix It.",
+    "category": "Digital Products",
+    "description": "If your books are messy or out of date, every decision takes longer and feels riskier.",
+    "author": "Deduct This!",
+    "url": "https://tappzq2ke7.beehiiv.com/p/messy-books-messy-decisions-here-s-how-to-fix-it",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-25T05:08:02.124866Z",
+    "publisher": {
+      "name": "Deduct This!",
+      "url": "https://tappzq2ke7.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/messy-books-messy-decisions-here-s-how-to-fix-it.html",
+    "hasAds": true
+  },
+  {
+    "id": "which-type-of-business-owner-are-you",
+    "title": "Which Type of Business Owner Are You?",
+    "category": "Digital Products",
+    "description": "You personality might be hurting your cashflow 😬",
+    "author": "Deduct This!",
+    "url": "https://tappzq2ke7.beehiiv.com/p/which-type-of-business-owner-are-you",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-20T21:06:24.542334Z",
+    "publisher": {
+      "name": "Deduct This!",
+      "url": "https://tappzq2ke7.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/which-type-of-business-owner-are-you.html"
+  }
+]

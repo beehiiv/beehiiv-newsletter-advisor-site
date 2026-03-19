@@ -1,0 +1,79 @@
+[
+  {
+    "id": "join-us-live-in-5-minutes",
+    "title": "Join us 📌Live in 5 minutes",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Project management teams",
+    "date": "2026-02-11",
+    "hasAds": true,
+    "url": "https://newsletter.projectmanagementforteams.com/p/join-us-live-in-5-minutes",
+    "publisher": {
+      "name": "Project management teams",
+      "url": "https://newsletter.projectmanagementforteams.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/join-us-live-in-5-minutes.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "less-busywork-more-real-work",
+    "title": "Less busywork. More real work.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Project management teams",
+    "date": "2026-02-11",
+    "hasAds": true,
+    "url": "https://newsletter.projectmanagementforteams.com/p/less-busywork-more-real-work",
+    "publisher": {
+      "name": "Project management teams",
+      "url": "https://newsletter.projectmanagementforteams.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/less-busywork-more-real-work.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "stop-feeding-systems",
+    "title": "Stop feeding systems",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Project management teams",
+    "date": "2026-02-10",
+    "hasAds": true,
+    "url": "https://newsletter.projectmanagementforteams.com/p/stop-feeding-systems",
+    "publisher": {
+      "name": "Project management teams",
+      "url": "https://newsletter.projectmanagementforteams.com"
+    },
+    "advertisers": [
+      {
+        "name": "Deel",
+        "url": "https://www.deel.com/",
+        "logo": "deel..png"
+      }
+    ],
+    "htmlFile": "/emails/stop-feeding-systems.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  }
+]

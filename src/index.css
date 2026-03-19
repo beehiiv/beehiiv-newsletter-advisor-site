@@ -1,0 +1,132 @@
+@import "tailwindcss";
+
+@theme {
+  /* Font families */
+  --font-display: 'Clash Grotesk', sans-serif;
+  --font-body: 'Satoshi', sans-serif;
+  --font-sans: 'Satoshi', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Brand colors */
+  --color-brand-ink: #ffffff;
+  --color-brand-accent: #60a5fa;
+  --color-brand-button: #3b82f6;
+  --color-brand-blue: #60a5fa;
+  --color-brand-purple: #1d4ed8;
+  --color-brand-peach: #bfdbfe;
+  --color-brand-flamingo: #3b82f6;
+  --color-brand-blush: #93c5fd;
+  --color-brand-lavender: #dbeafe;
+  --color-brand-ethereal: #f9fafb;
+  --color-brand-grey: #9D9EAA;
+  --color-brand-dark: #f9fafb;
+
+  /* Animations */
+  --animate-fade-slide-right: fade-slide-right 0.5s ease-out forwards;
+  --animate-typing: typing 2s steps(40, end) forwards;
+  --animate-fade-in-up: fade-in-up 0.6s ease-out forwards;
+
+  @keyframes fade-slide-right {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  @keyframes fade-in-up {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* Button Stack Hover Effect */
+.btn-stack {
+  position: relative;
+  transition:
+    transform 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+    background-color 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+    color 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+
+  transform: translate(0, 0);
+  box-shadow:
+    0 0 0 0 #0c0c0c,
+    0 0 0 0 #ffffff,
+    0 0 0 0 #0c0c0c,
+    0 0 0 0 #666666,
+    0 0 0 0 #0c0c0c;
+}
+
+.btn-stack::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: -5px;
+  bottom: -5px;
+  z-index: -1;
+  transition: right 0.3s cubic-bezier(0.16, 1, 0.3, 1), bottom 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@media (hover: hover) {
+  .btn-stack:hover::after {
+    right: -20px;
+    bottom: -20px;
+  }
+
+  .btn-stack:hover {
+    transform: translate(-12px, -12px);
+    z-index: 20;
+    box-shadow:
+      0 0 0 2px #0c0c0c,
+      6px 6px 0 0 #ffffff,
+      6px 6px 0 2px #0c0c0c,
+      12px 12px 0 0 #666666,
+      12px 12px 0 2px #0c0c0c;
+  }
+}
+
+@layer base {
+  body {
+    font-family: 'Satoshi', sans-serif;
+    color: #e5e5e5;
+    background-color: #0c0c0c;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Clash Grotesk', sans-serif;
+  }
+}
+
+/* Terminal styling */
+.terminal-block {
+  background: #111;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #333;
+}
+.terminal-header {
+  background: #1a1a1a;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #333;
+}
+.terminal-dots {
+  display: flex;
+  gap: 6px;
+}
+.terminal-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+}
+.terminal-body {
+  padding: 1.25rem 1.5rem;
+  overflow-x: auto;
+}

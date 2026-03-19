@@ -1,0 +1,150 @@
+[
+  {
+    "id": "issue-77",
+    "title": "Issue 77",
+    "category": "Digital Products",
+    "description": "HR as Risk Absorber: when the function becomes the shock buffer",
+    "author": "Professional Villain Era",
+    "url": "https://astutedge.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2026-02-19T18:44:38.615642Z",
+    "publisher": {
+      "name": "Professional Villain Era",
+      "url": "https://astutedge.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Flyover",
+        "url": "https://jointheflyover.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=jointheflyover.com&sz=128"
+      },
+      {
+        "name": "Haystack",
+        "url": "https://www.haystackteam.com/",
+        "logo": "https://cdn.prod.website-files.com/6164fed00f95dce87056b2bc/666c963ca49e956d3c8a1179_haystack.svg"
+      },
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/issue-77.html",
+    "hasAds": true
+  },
+  {
+    "id": "just-for-subscribers",
+    "title": "Just for Subscribers!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Professional Villain Era",
+    "date": "2025-11-20",
+    "hasAds": true,
+    "url": "https://astutedge.beehiiv.com/p/just-for-subscribers",
+    "publisher": {
+      "name": "Professional Villain Era",
+      "url": "https://astutedge.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/just-for-subscribers.html",
+    "tags": [
+      "Careers",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "grievances",
+    "title": "Grievances",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Professional Villain Era",
+    "date": "2025-10-08",
+    "hasAds": true,
+    "url": "https://astutedge.beehiiv.com/p/grievances",
+    "publisher": {
+      "name": "Professional Villain Era",
+      "url": "https://astutedge.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "ihih.png"
+      }
+    ],
+    "htmlFile": "/emails/grievances.html",
+    "tags": [
+      "Careers",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "surveys",
+    "title": "Surveys!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Professional Villain Era",
+    "date": "2025-10-02",
+    "hasAds": true,
+    "url": "https://astutedge.beehiiv.com/p/surveys",
+    "publisher": {
+      "name": "Professional Villain Era",
+      "url": "https://astutedge.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/surveys.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "content-feedback",
+    "title": "Reminder: Content Survey",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Professional Villain Era",
+    "date": "2025-03-07",
+    "hasAds": true,
+    "url": "https://astutedge.beehiiv.com/p/content-feedback",
+    "publisher": {
+      "name": "Professional Villain Era",
+      "url": "https://astutedge.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/content-feedback.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

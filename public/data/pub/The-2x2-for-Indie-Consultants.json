@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ama-what-s-in-my-tech-stack",
+    "title": "Update: this is everything I'm using today.",
+    "category": "Digital Products",
+    "description": "All the tools I tried for my consulting business — what I kept, what I skipped, and what YOU need.",
+    "author": "The 2x2 for Indie Consultants",
+    "url": "https://www.the2x2.com/p/ama-what-s-in-my-tech-stack",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-24T00:00:00Z",
+    "publisher": {
+      "name": "The 2x2 for Indie Consultants",
+      "url": "https://www.the2x2.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/ama-what-s-in-my-tech-stack.html",
+    "hasAds": true
+  },
+  {
+    "id": "fractional-formula-for-success",
+    "title": "You're worth more than $100/hr.",
+    "category": "Digital Products",
+    "description": "Breaking down why some fractionals succeed with Amanda Nizzere.",
+    "author": "The 2x2 for Indie Consultants",
+    "url": "https://www.the2x2.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-11T23:31:59.481322Z",
+    "publisher": {
+      "name": "The 2x2 for Indie Consultants",
+      "url": "https://www.the2x2.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/fractional-formula-for-success.html",
+    "hasAds": true
+  }
+]

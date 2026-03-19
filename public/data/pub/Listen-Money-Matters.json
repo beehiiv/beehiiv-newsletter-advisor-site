@@ -1,0 +1,56 @@
+[
+  {
+    "id": "the-golden-years",
+    "title": "🏅 The Golden Years",
+    "category": "Digital Products",
+    "description": "We barely survived another election season, and no matter who you voted for, there was one clear winner",
+    "author": "Listen Money Matters",
+    "url": "https://newsletter.listenmoneymatters.com/p/the-golden-years",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2024-12-10T04:07:23.016741Z",
+    "publisher": {
+      "name": "Listen Money Matters",
+      "url": "https://newsletter.listenmoneymatters.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Analytica Investor",
+        "url": "https://analyticainvestor.com/",
+        "logo": "https://analyticainvestor.com/wp-content/uploads/2021/10/Favicon-analyticalinvestor-2-300x300.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-golden-years.html"
+  },
+  {
+    "id": "red-white-and-gold",
+    "title": "🏅 Red, White and Gold",
+    "category": "Digital Products",
+    "description": "We barely survived another election season, and no matter who you voted for, there was one clear winner - GOLD!",
+    "author": "Listen Money Matters",
+    "url": "https://newsletter.listenmoneymatters.com/p/red-white-and-gold",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-07T02:39:47.686406Z",
+    "publisher": {
+      "name": "Listen Money Matters",
+      "url": "https://newsletter.listenmoneymatters.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/red-white-and-gold.html"
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "id": "a-creature-void-of-form",
+    "title": "A Creature Void of Form",
+    "category": "Digital Products",
+    "description": "Synthetic voices and the soul of audio",
+    "author": "Continuous Wave",
+    "url": "https://continuous-wave.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-26T04:15:40.716045Z",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/a-creature-void-of-form.html",
+    "hasAds": true
+  },
+  {
+    "id": "a-flick-of-the-long-tail",
+    "title": "A Flick of the Long Tail",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2026-01-29",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/a-flick-of-the-long-tail",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-flick-of-the-long-tail.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "carnies-vs-conjurers",
+    "title": "Carnies vs Conjurers",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2026-01-15",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/carnies-vs-conjurers",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/carnies-vs-conjurers.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "like-falling-off-a-pod",
+    "title": "Like Falling Off a Pod",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-11-13",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/like-falling-off-a-pod",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/like-falling-off-a-pod.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-three-minute-rule",
+    "title": "The Three-Minute Rule",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-10-23",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/the-three-minute-rule",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/the-three-minute-rule.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "good-tape-bad-tape",
+    "title": "Good Tape, Bad Tape",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-10-16",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/good-tape-bad-tape",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/good-tape-bad-tape.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "what-does-the-editor-do-sir",
+    "title": "“What Does the Editor Do, Sir?”",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-09-18",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/what-does-the-editor-do-sir",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/what-does-the-editor-do-sir.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-if-we-give-it-away",
+    "title": "What If We Give It Away?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-09-11",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/what-if-we-give-it-away",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/what-if-we-give-it-away.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "poetic-justice-0ad5a33375e11d5a",
+    "title": "Poetic Justice",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-08-28",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/poetic-justice-0ad5a33375e11d5a",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/poetic-justice-0ad5a33375e11d5a.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "podcast-guest-heal-thyself-8124270e5158614f",
+    "title": "Podcast Guest, Heal Thyself",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-08-21",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/podcast-guest-heal-thyself-8124270e5158614f",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/podcast-guest-heal-thyself-8124270e5158614f.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "infamous",
+    "title": "Infamous",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-08-14",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/infamous",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/infamous.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "half-a-century-in-the-wilderness",
+    "title": "Half a Century in the Wilderness",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-08-07",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/half-a-century-in-the-wilderness",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "Primary_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/half-a-century-in-the-wilderness.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "strike-d4d44e3eaf8decfa",
+    "title": "📝 Strike!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-07-31",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/strike-d4d44e3eaf8decfa",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/strike-d4d44e3eaf8decfa.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "a-digression-in-soapland-f278",
+    "title": "A digression in \"Soapland\"",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Continuous Wave",
+    "date": "2025-07-24",
+    "hasAds": true,
+    "url": "https://continuous-wave.beehiiv.com/p/a-digression-in-soapland-f278",
+    "publisher": {
+      "name": "Continuous Wave",
+      "url": "https://continuous-wave.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/a-digression-in-soapland-f278.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  }
+]

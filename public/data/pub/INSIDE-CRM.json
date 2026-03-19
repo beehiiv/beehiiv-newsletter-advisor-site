@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "newsletter-50",
+    "title": "(Panel insights) AI in CRM: What's actually working",
+    "category": "Digital Products",
+    "description": "How to get your CRM requests prioritized by engineering",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-08T13:33:41.412944Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-50.html",
+    "hasAds": true
+  },
+  {
+    "id": "meetup-21",
+    "title": "🎟️ Early access: Meetup #21 tickets are live!",
+    "description": "Early access to Berlin CRM Meetup",
+    "date": "2026-02-01",
+    "author": "INSIDE CRM",
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "url": "https://www.goodads.io/ads/meetup-21",
+    "hasHtml": true,
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "htmlFile": "/emails/meetup-21.html",
+    "category": "Digital Products",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "meetup-20",
+    "title": "Meetup #20",
+    "category": "Digital Products",
+    "description": "Early access to Berlin CRM Meetup",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/meetup-20",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ],
+    "date": "2026-01-19T12:46:03.155205Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Levanta",
+        "url": "https://levanta.io/",
+        "logo": "https://levanta.io/wp-content/uploads/2025/12/cropped-fav-icon-1-192x192.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/meetup-20.html"
+  },
+  {
+    "id": "newsletter-49",
+    "title": "Newsletter #49",
+    "category": "Digital Products",
+    "description": "How to get your CRM requests prioritized by engineering",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-49",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-11-23T12:42:47.439236Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-49.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-48",
+    "title": "Newsletter #48",
+    "category": "Digital Products",
+    "description": "WhatsApp opens up to other messengers...or not?",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-48",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-11-16T16:12:42.362766Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-48.html"
+  },
+  {
+    "id": "meetup-19",
+    "title": "Meetup #19",
+    "category": "Digital Products",
+    "description": "Early access to Berlin CRM Meetup",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/meetup-19",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-10-31T07:37:25.377493Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/meetup-19.html"
+  },
+  {
+    "id": "newsletter-47",
+    "title": "Newsletter #47",
+    "category": "Digital Products",
+    "description": "What a lot of people don’t know",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-47",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-27T18:54:44.976298Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Deep View",
+        "url": "https://www.thedeepview.co/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/d2f6c485-9e1f-4efe-8972-c44827c29219/thumb_PFP_2.jpg"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-47.html"
+  },
+  {
+    "id": "newsletter-46-warmup-1-1",
+    "title": "Newsletter #46 _ warmup (2)",
+    "category": "Digital Products",
+    "description": "Stop celebrating that delivery rate",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-46-warmup-1-1",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-22T06:27:08.447726Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-46-warmup-1-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-44-9b5a9d9ccdea7909",
+    "title": "Newsletter #44",
+    "category": "Digital Products",
+    "description": "Your challenge solved: the right print segment",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-44-9b5a9d9ccdea7909",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-06-29T12:24:06.756078Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AI with Allie",
+        "url": "https://www.alliekmiller.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.alliekmiller.com&sz=128"
+      },
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-44-9b5a9d9ccdea7909.html"
+  },
+  {
+    "id": "selected-272d078380a8c0af",
+    "title": "Selected",
+    "category": "Digital Products",
+    "description": "Exception alert: AI talks on a rooftop!",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/selected-272d078380a8c0af",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-15T15:02:47.034587Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/selected-272d078380a8c0af.html"
+  },
+  {
+    "id": "newsletter-42-8b51049c9f13bdea",
+    "title": "Newsletter #42",
+    "category": "Digital Products",
+    "description": "Hiring or job hunting or beer garden? 🚀🍻",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-42-8b51049c9f13bdea",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-06-14T14:57:47.149954Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-42-8b51049c9f13bdea.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-41-0a9bb0fbac6f1407",
+    "title": "Newsletter #41",
+    "category": "Digital Products",
+    "description": "Fix attribution and then meet in Berlin or Hamburg",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-41-0a9bb0fbac6f1407",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-29T14:17:06.156298Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      },
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-41-0a9bb0fbac6f1407.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-40-a42596cf5bb23499",
+    "title": "Newsletter #40",
+    "category": "Digital Products",
+    "description": "Summer Break? Not Really. Here's What's Next",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-40-a42596cf5bb23499",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-26T06:20:26.657592Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-40-a42596cf5bb23499.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-39-990faff8fad892db",
+    "title": "Newsletter #39",
+    "category": "Digital Products",
+    "description": "How Quandoo Boosted Retention by 35% With One Bold Migration Move",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-39-990faff8fad892db",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-11T10:52:32.521705Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-39-990faff8fad892db.html"
+  },
+  {
+    "id": "newsletter-38-4ff0ad000551c367",
+    "title": "Newsletter #38",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-38-4ff0ad000551c367",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-03T13:38:12.901526Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/newsletter-38-4ff0ad000551c367.html",
+    "hasAds": true
+  },
+  {
+    "id": "newsletter-37-f6f3d70ccedfc660",
+    "title": "Newsletter #37",
+    "category": "Digital Products",
+    "description": "The ROI Surprise Hiding in Your Mailbox",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-37-f6f3d70ccedfc660",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-27T13:09:44.525416Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-37-f6f3d70ccedfc660.html"
+  },
+  {
+    "id": "newsletter-36-w-o-berlin",
+    "title": "Newsletter #36_w/o_berlin",
+    "category": "Digital Products",
+    "description": "Chiara cut support tickets by 67%. Here’s how",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-36-w-o-berlin",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-04-15T07:21:53.55694Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "OneScreen",
+        "url": "https://www.onescreen.ai/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.onescreen.ai&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-36-w-o-berlin.html"
+  },
+  {
+    "id": "newsletter-36-681089c4f12fe9b2",
+    "title": "Newsletter #36",
+    "category": "Digital Products",
+    "description": "Chiara cut support tickets by 67%. Here’s how",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-36-681089c4f12fe9b2",
+    "tags": [
+      "AI",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-14T16:55:40.568309Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Ad_9_2.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-36-681089c4f12fe9b2.html"
+  },
+  {
+    "id": "newsletter-35-b605da14232b8ec9",
+    "title": "Newsletter #35",
+    "category": "Digital Products",
+    "description": "Which CRM Question Keeps You Up at Night?",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-35-b605da14232b8ec9",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-04-07T18:51:41.124486Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Prezi",
+        "url": "https://prezi.com/",
+        "logo": "https://assets.prezicdn.net/assets-versioned/staticpages-versioned/v1.0-389-g9e97a2d717-r22489864847a3/common/img/prezi-apple-touch-icon.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-35-b605da14232b8ec9.html"
+  },
+  {
+    "id": "newsletter-32",
+    "title": "Newsletter #32",
+    "category": "Digital Products",
+    "description": "CRM = Undervalued? Learn how to break the cycle",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-32",
+    "tags": [
+      "AI",
+      "Education",
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-16T13:54:14.158086Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "Email Based Course",
+        "url": "https://emailbasedcourse.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=emailbasedcourse.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-32.html"
+  },
+  {
+    "id": "newsletter-31",
+    "title": "Newsletter #31",
+    "category": "Digital Products",
+    "description": "How FOMO Boosted Retention 5X for mobile.de",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-31",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-03-09T16:20:11.55615Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-31.html"
+  },
+  {
+    "id": "newsletter-29",
+    "title": "Newsletter #29",
+    "category": "Digital Products",
+    "description": "Death to Boring CRM Trends: Real People Getting 50% More Engagement",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-29",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-02-15T18:38:23.465018Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-29.html"
+  },
+  {
+    "id": "newsletter-28",
+    "title": "Newsletter #28",
+    "category": "Digital Products",
+    "description": "Simple Google Sheets + treating messages as code = less manual work",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-28",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-07T19:00:05.728321Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-28.html"
+  },
+  {
+    "id": "newsletter-27",
+    "title": "Newsletter #27",
+    "category": "Digital Products",
+    "description": "I Tested 3 AI Tools to Write Subject Lines",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-27",
+    "tags": [
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-02-03T17:52:09.745254Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-27.html"
+  },
+  {
+    "id": "newsletter-26-w-o-berlin",
+    "title": "Newsletter #26 w/o Berlin",
+    "category": "Digital Products",
+    "description": "Why Only 11% of Businesses Use CLV",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-26-w-o-berlin",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-26T13:43:26.606128Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-26-w-o-berlin.html"
+  },
+  {
+    "id": "newsletter-24-w-o-berlin",
+    "title": "Newsletter #24 w/o Berlin",
+    "category": "Digital Products",
+    "description": "Revenue-First CRM: The Hidden Engine of Startup Success",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter-24-w-o-berlin",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-12T09:55:47.470434Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter-24-w-o-berlin.html"
+  },
+  {
+    "id": "newsletter24",
+    "title": "Newsletter #24",
+    "category": "Digital Products",
+    "description": "Revenue-First CRM: The Hidden Engine of Startup Success",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/newsletter24",
+    "tags": [
+      "AI",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-11T14:14:23.687083Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      },
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/newsletter24.html"
+  },
+  {
+    "id": "email-performance-240924-447843ba214eb2b4",
+    "title": "email_chatgpt_040125",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-447843ba214eb2b4",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter",
+      "SaaS"
+    ],
+    "date": "2025-01-04T14:32:13.805994Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-447843ba214eb2b4.html"
+  },
+  {
+    "id": "email-performance-240924-616cb37a9e737aac",
+    "title": "email_podcast6_171224",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-616cb37a9e737aac",
+    "tags": [
+      "AI",
+      "Marketing",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-12-15T12:20:17.412894Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      },
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-616cb37a9e737aac.html"
+  },
+  {
+    "id": "email-performance-240924-dbbde5698c19f6f1",
+    "title": "email_blinkist_101224",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-dbbde5698c19f6f1",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-07T12:47:56.846978Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-dbbde5698c19f6f1.html"
+  },
+  {
+    "id": "email-essentials-w-oberlin-031224",
+    "title": "email_essentials_w/oberlin_031224",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-essentials-w-oberlin-031224",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-02T19:57:10.55116Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-essentials-w-oberlin-031224.html"
+  },
+  {
+    "id": "email-performance-240924-49f757003cf66f84",
+    "title": "email_essentials_berlin_031224",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-49f757003cf66f84",
+    "tags": [
+      "AI",
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2024-12-01T15:30:12.888715Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "htmlFile": "/emails/email-performance-240924-49f757003cf66f84.html",
+    "hasAds": true
+  },
+  {
+    "id": "email-essentials-w-oberlin-271124",
+    "title": "email_essentials_w/oberlin_271124",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-essentials-w-oberlin-271124",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-11-24T14:45:22.200804Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-essentials-w-oberlin-271124.html"
+  },
+  {
+    "id": "email-performance-240924-ffbab8348e7889d8",
+    "title": "email_essentials_berlin_271124",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-ffbab8348e7889d8",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Newsletter",
+      "Technology"
+    ],
+    "date": "2024-11-24T11:38:17.968096Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      },
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-ffbab8348e7889d8.html"
+  },
+  {
+    "id": "email-performance-240924-a7f946d368a51554",
+    "title": "email_podcast5_berlin_191124",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-a7f946d368a51554",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-11-17T10:17:08.159023Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-a7f946d368a51554.html"
+  },
+  {
+    "id": "email-ainocode-w-oberlin-121124",
+    "title": "email_ainocode_w/oberlin_121124",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-ainocode-w-oberlin-121124",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-11-10T14:54:43.819307Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-ainocode-w-oberlin-121124.html"
+  },
+  {
+    "id": "email-performance-240924-7694fc1767020123",
+    "title": "email_ainocode_berlin_121124",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-7694fc1767020123",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-11-09T10:30:58.369044Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-7694fc1767020123.html"
+  },
+  {
+    "id": "email-performance-240924-964911cc1a50b9ea",
+    "title": "email_news_berlin_051124",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-964911cc1a50b9ea",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-11-03T12:23:30.753044Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-964911cc1a50b9ea.html"
+  },
+  {
+    "id": "email-rfm-w-oberlin-291024",
+    "title": "email_rfm_w/oberlin_291024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-rfm-w-oberlin-291024",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-27T13:32:33.921179Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-rfm-w-oberlin-291024.html"
+  },
+  {
+    "id": "email-performance-240924-1c438be91cabb395",
+    "title": "email_rfm_berlin_291024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-1c438be91cabb395",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2024-10-27T10:56:41.513382Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "https://cdn.prod.website-files.com/6802890d11be431be270f24b/683ed340e91ae2703348d249_9ea41927662556070305fa55f3f5ceab_HB_webclip_256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-1c438be91cabb395.html"
+  },
+  {
+    "id": "email-nps-w-oberlin-221024",
+    "title": "email_nps_w/oberlin_221024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-nps-w-oberlin-221024",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-10-21T19:29:24.494607Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-nps-w-oberlin-221024.html"
+  },
+  {
+    "id": "email-performance-240924-2bd080bc48a6dc44",
+    "title": "email_podcast4_berlin_151024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-2bd080bc48a6dc44",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2024-10-12T16:44:25.256545Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-2bd080bc48a6dc44.html"
+  },
+  {
+    "id": "email-performance-240924-6af8f345bf9767e6",
+    "title": "email_cx_berlin_081024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-6af8f345bf9767e6",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-06T15:53:15.245802Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-6af8f345bf9767e6.html"
+  },
+  {
+    "id": "email-performance-240924-8ac2fbeeddeb26af",
+    "title": "email_impactgame_berlin_011024",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924-8ac2fbeeddeb26af",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-29T10:49:24.577699Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924-8ac2fbeeddeb26af.html"
+  },
+  {
+    "id": "email-performance-240924",
+    "title": "email_performance_240924",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/email-performance-240924",
+    "tags": [
+      "Education"
+    ],
+    "date": "2024-09-22T18:19:35.009696Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "https://cdn.brandfetch.io/idSdzcysk-/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1767347456648"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/email-performance-240924.html"
+  },
+  {
+    "id": "emailpodcastberlin240917",
+    "title": "email_podcast_berlin_240917",
+    "category": "Digital Products",
+    "description": "#3 Alexander Seiler | Ideal Organisation | Berlin Bubble | Tooling",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/emailpodcastberlin240917",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-15T14:26:42.138356Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/emailpodcastberlin240917.html"
+  },
+  {
+    "id": "emailpersonalisationberlin240910",
+    "title": "email_personalisation_berlin_240910",
+    "category": "Digital Products",
+    "description": "",
+    "author": "INSIDE CRM",
+    "url": "https://www.insidecrm.io/p/emailpersonalisationberlin240910",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-07T13:09:51.611188Z",
+    "publisher": {
+      "name": "INSIDE CRM",
+      "url": "https://www.insidecrm.io",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/emailpersonalisationberlin240910.html"
+  }
+]

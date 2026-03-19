@@ -1,0 +1,28 @@
+[
+  {
+    "id": "9-patuvanje-so-ai",
+    "title": "Како да испланираш патување со AI",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "aitekka",
+    "date": "2025-05-28",
+    "hasAds": true,
+    "url": "https://aitekka.com/p/9-patuvanje-so-ai",
+    "publisher": {
+      "name": "aitekka",
+      "url": "https://aitekka.com"
+    },
+    "advertisers": [
+      {
+        "name": "Superhuman AI",
+        "url": "https://www.superhuman.ai/",
+        "logo": "SHAI.png"
+      }
+    ],
+    "htmlFile": "/emails/9-patuvanje-so-ai.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  }
+]

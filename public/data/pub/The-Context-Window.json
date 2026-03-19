@@ -1,0 +1,1470 @@
+[
+  {
+    "id": "seedance-2-0",
+    "title": "Seedance 2.0 — AI Video from TikTok's Founders. The Risk vs. Reward.",
+    "category": "Digital Products",
+    "description": "Deepfakes, data privacy, and a real business opportunity — all in the same tool.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/seedance-2-0",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-24T00:00:00Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/seedance-2-0.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-7-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 7: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "Docker's AI assistant gets hijacked. Cursor's sandbox breaks again. Google catches nation-states cloning Gemini.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2026-02-20T17:41:53.574156Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/week-7-2026-3x3-ai-security-brief.html",
+    "hasAds": true
+  },
+  {
+    "id": "superbowl-60-ai-ads",
+    "title": "America Watched $120 Million in AI Ads. Few of Them Worked.",
+    "category": "Digital Products",
+    "description": "15 ads. $120 million. And a 37-point gap between what the industry believes and what consumers actually think.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2026-02-16T20:12:27.314751Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/superbowl-60-ai-ads.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-6-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 6: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "OpenClaw's security tab comes due. 300 million AI chats leak. Deepfake fraud hits industrial scale.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-02-14T19:28:44.15614Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/week-6-2026-3x3-ai-security-brief.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-verdict-voiceflow",
+    "title": "The Verdict | Voiceflow",
+    "category": "Digital Products",
+    "description": "Multi-Channel Voice and Chat AI Agents from one platform",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-10T10:58:12.622373Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/the-verdict-voiceflow.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-5-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 5: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "An AWS takeover in 8 minutes. 18,000 terabytes leaked to AI tools.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-5-2026-3x3-ai-security-brief",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-02-06T15:40:10.456836Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-5-2026-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "openclaw",
+    "title": "OpenClaw (Clawdbot? Moltbot? 🦞)",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Context Window",
+    "date": "2026-02-02",
+    "hasAds": true,
+    "url": "https://ctxwindow.com/p/openclaw",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com"
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "Attio_black_long.png"
+      }
+    ],
+    "htmlFile": "/emails/openclaw.html",
+    "tags": [
+      "SaaS"
+    ]
+  },
+  {
+    "id": "week-4-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 4: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "100% vulnerable. Davos alarmed. Malware walked right in.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-4-2026-3x3-ai-security-brief",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2026-01-30T20:57:08.566243Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mindstream",
+        "url": "https://www.mindstream.news/",
+        "logo": "https://cdn.brandfetch.io/id1afhbUaU/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1759707381753"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-4-2026-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "ai-talks-your-team-nods",
+    "title": "AI Talks. Your Team Nods.",
+    "category": "Digital Products",
+    "description": "The blind trust problem executives aren't seeing.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-talks-your-team-nods",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-26T15:24:31.951505Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/ai-talks-your-team-nods.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-3-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 3: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "Copilot leaks data. Malware learns. Most aren't prepared.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-3-2026-3x3-ai-security-brief",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-23T16:16:42.434641Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-3-2026-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "claude-cowork",
+    "title": "Claude Cowork",
+    "category": "Digital Products",
+    "description": "AI Just Built Its Own Coworker. It Took 10 Days.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/claude-cowork",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-18T22:54:13.922805Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/claude-cowork.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-2-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 2: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "Legacy systems meet AI agents. Regulators meet deadlines. And your security model meets obsolescence.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-2-2026-3x3-ai-security-brief",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-16T23:55:37.558428Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/week-2-2026-3x3-ai-security-brief.html",
+    "hasAds": true
+  },
+  {
+    "id": "when-ai-tools-gets-acquired",
+    "title": "What Happens When Your AI Tool Gets Acquired?",
+    "category": "Digital Products",
+    "description": "Two recent deals highlight a risk most organizations haven't planned for.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/when-ai-tools-gets-acquired",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2026-01-11T22:15:11.486828Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Attio",
+        "url": "https://attio.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=attio.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/when-ai-tools-gets-acquired.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-1-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 1: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "AI agents just became insider threats. Most orgs can't pull the plug.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-1-2026-3x3-ai-security-brief",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-09T20:29:35.873108Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-1-2026-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "three-big-shifts-in-ai-for-2026",
+    "title": "Three Big Shifts in AI for 2026",
+    "category": "Digital Products",
+    "description": "a16z and Google Cloud want business leaders to keep an eye out for these",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/three-big-shifts-in-ai-for-2026",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2026-01-04T15:13:26.166144Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Gladly.ai",
+        "url": "https://www.gladly.ai/",
+        "logo": "https://www.gladly.ai/web-app-manifest-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/three-big-shifts-in-ai-for-2026.html"
+  },
+  {
+    "id": "leap-71",
+    "title": "LEAP 71: Two Engineers and an AI Are Building Rocket Engines",
+    "category": "Digital Products",
+    "description": "The AI for engineering you haven't heard of.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/leap-71",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-29T00:02:33.242864Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/leap-71.html",
+    "hasAds": true
+  },
+  {
+    "id": "mickey-cutting-deals-serving-lawsuits",
+    "title": "Mickey's Cutting Deals and Serving Lawsuits",
+    "category": "Digital Products",
+    "description": "The happiest place on earth handed OpenAI a billion dollars and Google a cease-and-desist — on the same day.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/mickey-cutting-deals-serving-lawsuits",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-21T20:17:14.719942Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Axios HQ",
+        "url": "https://www.axioshq.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.axioshq.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mickey-cutting-deals-serving-lawsuits.html"
+  },
+  {
+    "id": "welcome-in-let-me-get-you-caught-up-9e0f",
+    "title": "Welcome in - Let me get you caught up",
+    "category": "Digital Products",
+    "description": "3 AI stories to get you started",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/welcome-in-let-me-get-you-caught-up-9e0f",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2025-12-21T13:30:05.706809Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/welcome-in-let-me-get-you-caught-up-9e0f.html"
+  },
+  {
+    "id": "week-51-3x3-ai-security-brief",
+    "title": "🛡️Week 51: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "Uncle Sam's coming for state AI laws, hackers got the goods, and your coding assistant can't tell who's boss",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-51-3x3-ai-security-brief",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-18T11:44:44.479022Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-51-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "welcome-in-let-me-get-you-caught-up",
+    "title": "Welcome in - Let me get you caught up",
+    "category": "Digital Products",
+    "description": "3 AI stories to get you started",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/welcome-in-let-me-get-you-caught-up",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-17T02:01:45.329468Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/welcome-in-let-me-get-you-caught-up.html"
+  },
+  {
+    "id": "not-mclovin-it",
+    "title": "Not McLovin' It — AI Served Up Soggy Fries",
+    "category": "Digital Products",
+    "description": "This week, AI got sent back to the kitchen.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/not-mclovin-it",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-14T19:55:45.158433Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/not-mclovin-it.html"
+  },
+  {
+    "id": "week-50-3x3-ai-security-brief",
+    "title": "🛡️Week 50: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "Blind governance, broken defenses, backdoored dev tools",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-50-3x3-ai-security-brief",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-10T20:49:40.953367Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-50-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "google-workspace-studio",
+    "title": "Google Workspace Studio Lets Anyone Build AI Agents",
+    "category": "Digital Products",
+    "description": "Google's latest play to consolidate AI into the productivity suite.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/google-workspace-studio",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-12-07T20:47:07.882976Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/google-workspace-studio.html"
+  },
+  {
+    "id": "week-49-3x3-ai-security-brief",
+    "title": "🛡️Week 49: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "A # broke your browser, and malware learned to lie",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-49-3x3-ai-security-brief",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-12-03T03:03:27.379445Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-49-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "ai-13-000x-accelerator",
+    "title": "AI Just Got a 13,000x Accelerator",
+    "category": "Digital Products",
+    "description": "Two Google breakthroughs. One week apart. One overlooked connection.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-13-000x-accelerator",
+    "tags": [
+      "Education"
+    ],
+    "date": "2025-11-30T21:04:26.728541Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Udacity",
+        "url": "https://www.udacity.com/",
+        "logo": "https://www.udacity.com/favicon/android-chrome-512x512.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-13-000x-accelerator.html"
+  },
+  {
+    "id": "week-48-3x3-ai-security-brief",
+    "title": "🛡️Week 48: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "AI espionage, and copy-paste is hacking you",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-48-3x3-ai-security-brief",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-11-26T18:08:03.307724Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.intercom.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-48-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "project-prometheus",
+    "title": "AI Gets Physical 🤔",
+    "category": "Digital Products",
+    "description": "Inside Jeff Bezos's $6.2B bet on the next wave of AI",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/project-prometheus",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-11-23T20:25:45.273429Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.intercom.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/project-prometheus.html"
+  },
+  {
+    "id": "week-47-3x3-ai-security-brief",
+    "title": "🛡️Week 47: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "Supply chains, leaky AI, and governance gaps",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-47-3x3-ai-security-brief",
+    "tags": [
+      "SaaS"
+    ],
+    "date": "2025-11-18T03:26:27.170406Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intercom",
+        "url": "https://www.intercom.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.intercom.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-47-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "ikea-made-1-4-billion-with-ai",
+    "title": "IKEA Made $1.4 Billion With AI",
+    "category": "Digital Products",
+    "description": "And there we zero jobs lost as a result",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ikea-made-1-4-billion-with-ai",
+    "tags": [
+      "Productivity",
+      "SaaS"
+    ],
+    "date": "2025-11-16T18:03:02.205591Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "guidde",
+        "url": "https://www.guidde.com/",
+        "logo": "https://cdn.prod.website-files.com/610004329b339defd1cf0578/644575400445a253c181d858_web-clip_guidde.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ikea-made-1-4-billion-with-ai.html"
+  },
+  {
+    "id": "week-46-3x3-ai-security-brief",
+    "title": "🛡️Week 46: 3x3 AI Security Brief",
+    "category": "Digital Products",
+    "description": "A new wave of research reveals AI's true impact on the workforce—and it's not what you think.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/week-46-3x3-ai-security-brief",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-11-12T02:19:34.192029Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/week-46-3x3-ai-security-brief.html"
+  },
+  {
+    "id": "did-you-miss-there-ai-bangers",
+    "title": "You Ghosted Us. We're Not Mad—Here's Your Catch-Up",
+    "category": "Digital Products",
+    "description": "3 AI stories every business leader should know about—no fluff, just what matters",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/did-you-miss-there-ai-bangers",
+    "tags": [
+      "Business",
+      "SaaS"
+    ],
+    "date": "2025-11-09T22:25:02.567616Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Rippling",
+        "url": "https://www.rippling.com/",
+        "logo": "https://www.rippling.com/favicons/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/did-you-miss-there-ai-bangers.html"
+  },
+  {
+    "id": "ai-agents-real-work",
+    "title": "🚨 AI agents can only handle 2.5% of real work—the data is illuminating",
+    "category": "Digital Products",
+    "description": "A new wave of research reveals AI's true impact on the workforce—and it's not what you think.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-agents-real-work",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-05T16:13:12.769133Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-agents-real-work.html"
+  },
+  {
+    "id": "hospital-bill-got-slashed-with-claude",
+    "title": "A $195K Hospital Bill Got Slashed to $37K—With a $20 Claude Subscription",
+    "category": "Digital Products",
+    "description": "How one person used AI to fight predatory billing—and why you should too",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/hospital-bill-got-slashed-with-claude",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-11-02T03:35:06.974443Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hospital-bill-got-slashed-with-claude.html"
+  },
+  {
+    "id": "security-threats-of-ai-powered-browsers",
+    "title": "⚠️ The Security Threats of AI-Powered Browsers 🌐",
+    "category": "Digital Products",
+    "description": "What every CISO and CIO needs to know!",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/security-threats-of-ai-powered-browsers",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-31T20:24:17.506503Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/security-threats-of-ai-powered-browsers.html"
+  },
+  {
+    "id": "openai-atlas-browser",
+    "title": "🌐 OpenAI Launched Their Atlas Browser: Your Business's Digital Strategy Needs Rethinking",
+    "category": "Digital Products",
+    "description": "OpenAI's Atlas launch signals a fundamental shift in how users access information—and how businesses need to think about digital presence",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/openai-atlas-browser",
+    "tags": [
+      "Business"
+    ],
+    "date": "2025-10-26T21:04:48.6327Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "logo": "https://belaysolutions.com/wp-content/uploads/2022/04/cropped-cropped-go-belay-fav.png-192x192.webp"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/openai-atlas-browser.html"
+  },
+  {
+    "id": "landing-ai-ade",
+    "title": "AI Can Finally Read Messy Handwriting Like a Human ",
+    "category": "Digital Products",
+    "description": "Landing AI's breakthrough is already saving businesses millions",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/landing-ai-ade",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-10-19T16:21:25.279855Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Code",
+        "url": "https://codenewsletter.ai/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/5f7ce6e3-9a71-416b-99a7-606c5f7e2447/thumb_Group_1000004746.png"
+      }
+    ],
+    "htmlFile": "/emails/landing-ai-ade.html",
+    "hasAds": true
+  },
+  {
+    "id": "agentkit",
+    "title": "OpenAI's AgentKit Is Here: Build Your First AI Agent Today",
+    "category": "Digital Products",
+    "description": "Build AI Agents by Dragging and Dropping",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/agentkit",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-12T00:19:47.080722Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/agentkit.html"
+  },
+  {
+    "id": "ai-agents-not-optional",
+    "title": "Why You Should Deploy AI Agents in Your Business TODAY (Not Tomorrow)",
+    "category": "Digital Products",
+    "description": "AI agents now cost less than your coffee budget. Not using them is not an option.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-agents-not-optional",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-10-05T13:52:48.82055Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Typeless",
+        "url": "https://www.typeless.com/",
+        "logo": "https://www.typeless.com/logo_152.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-agents-not-optional.html"
+  },
+  {
+    "id": "5-important-reasons-everyone-needs-to-try-vibe-coding",
+    "title": "5 Important Reasons Everyone Needs to Try Vibe Coding",
+    "category": "Digital Products",
+    "description": "Vibe coding is for everyone, even the execs. You need to pay attention.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/5-important-reasons-everyone-needs-to-try-vibe-coding",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-09-28T20:50:23.12336Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-important-reasons-everyone-needs-to-try-vibe-coding.html"
+  },
+  {
+    "id": "5-ways-to-get-your-business-ranked-1-when-people-ask-ai",
+    "title": "5 Ways to Get Your Business Ranked #1 When People Ask AI for Recommendations",
+    "category": "Digital Products",
+    "description": "Your competitors are getting recommended by ChatGPT. You're not. Let's change that.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/5-ways-to-get-your-business-ranked-1-when-people-ask-ai",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-09-21T23:23:40.740605Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/5-ways-to-get-your-business-ranked-1-when-people-ask-ai.html"
+  },
+  {
+    "id": "mcp",
+    "title": "MCP: The Bridge Between AI and Your Actual Business",
+    "category": "Digital Products",
+    "description": "What it is, why it matters, and how it's changing everything about enterprise AI",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/mcp",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-09-14T21:55:20.57122Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mcp.html"
+  },
+  {
+    "id": "you-missed-some-bangers",
+    "title": "You Missed Some Bangers 🔥",
+    "category": "Digital Products",
+    "description": "But only because you were busy being awesome!",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/you-missed-some-bangers",
+    "tags": [
+      "Real Estate"
+    ],
+    "date": "2025-09-11T23:21:20.929168Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pacaso",
+        "url": "https://www.pacaso.com/",
+        "logo": "https://www.pacaso.com/apple-touch-icon.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/you-missed-some-bangers.html"
+  },
+  {
+    "id": "microsoft-365-copilot-5-practical-use-cases-to-boost-your-productivity",
+    "title": "Microsoft 365 Copilot: 5 Practical Use Cases to Boost Your Productivity",
+    "category": "Digital Products",
+    "description": "A deep dive guide to getting some serious efficency.",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/microsoft-365-copilot-5-practical-use-cases-to-boost-your-productivity",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-09-07T17:51:45.11043Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/microsoft-365-copilot-5-practical-use-cases-to-boost-your-productivity.html"
+  },
+  {
+    "id": "when-ai-becomes-a-drug-designer",
+    "title": "🧬 When AI Becomes a Drug Designer",
+    "category": "Digital Products",
+    "description": "MIT just cracked a holy grail—with AI",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/when-ai-becomes-a-drug-designer",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-23T22:36:32.52622Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/when-ai-becomes-a-drug-designer.html"
+  },
+  {
+    "id": "notebooklm",
+    "title": "NotebookLM: Your Next Competitive Edge",
+    "category": "Digital Products",
+    "description": "The secret AI tool smart business leaders are using to dominate",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/notebooklm",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-17T16:14:27.10332Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/notebooklm.html"
+  },
+  {
+    "id": "it-s-time-to-catch-up",
+    "title": "It's Time to Catch Up!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Context Window",
+    "date": "2025-08-11",
+    "hasAds": true,
+    "url": "https://ctxwindow.com/p/it-s-time-to-catch-up",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com"
+    },
+    "advertisers": [
+      {
+        "name": "Syllaby.io",
+        "url": "https://syllaby.io/",
+        "logo": "Syllaby_BlackText__1___1_.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-time-to-catch-up.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "claude-code-your-fast-track-in-search-ranking",
+    "title": "🔍 Claude Code: Your Fast Track to #1 in Search Ranking and Revenue",
+    "category": "Digital Products",
+    "description": "A practical guide to help your business grow with Claude Code",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/claude-code-your-fast-track-in-search-ranking",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2025-08-09T14:33:57.214426Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Skej",
+        "url": "https://skej.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=skej.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/claude-code-your-fast-track-in-search-ranking.html"
+  },
+  {
+    "id": "chatgpt-agent",
+    "title": "✍️ ChatGPT Just Got Hands: ChatGPT Agent",
+    "category": "Digital Products",
+    "description": "How OpenAI Turned 200+ Million Users Into AI Power Users Overnight",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/chatgpt-agent",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-03T20:22:56.432902Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/chatgpt-agent.html"
+  },
+  {
+    "id": "did-you-miss-these-629a80f90c899a9b",
+    "title": "Did You Miss These?",
+    "category": "Digital Products",
+    "description": "Five (5) awesome articles you should catch up on!",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/did-you-miss-these-629a80f90c899a9b",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-28T15:20:47.58244Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/did-you-miss-these-629a80f90c899a9b.html"
+  },
+  {
+    "id": "5-step-plan-to-launch-an-ai-powered-side-hustle-today",
+    "title": "5-Step Plan to Launch an AI-Powered Side Hustle Today! 💥",
+    "category": "Digital Products",
+    "description": "Pocket $1,000–$5,000 a Month in 90 Days with AI Side Hustles That Don’t Suck",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/5-step-plan-to-launch-an-ai-powered-side-hustle-today",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-06-22T15:25:51.438731Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "htmlFile": "/emails/5-step-plan-to-launch-an-ai-powered-side-hustle-today.html",
+    "hasAds": true
+  },
+  {
+    "id": "ai-implementation-for-business-growth-part-3",
+    "title": "🚀 AI Implementation for Business Growth: Part 3",
+    "category": "Digital Products",
+    "description": "Scaling Success - Building an AI-Powered Organization",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-implementation-for-business-growth-part-3",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-06-14T22:53:56.998481Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-implementation-for-business-growth-part-3.html",
+    "hasAds": true
+  },
+  {
+    "id": "five-types-of-ai-agents-5",
+    "title": "The Five Types of AI Agents 5️⃣",
+    "category": "Digital Products",
+    "description": "Master These AI Agents to Save Time, Boost Profits, and Win at Business",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/five-types-of-ai-agents-5",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-06-14T01:04:23.845795Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/five-types-of-ai-agents-5.html"
+  },
+  {
+    "id": "ai-implementation-for-business-growth-part-2",
+    "title": "🚀 AI Implementation for Business Growth: Part 2",
+    "category": "Digital Products",
+    "description": "From Pilot to Production",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-implementation-for-business-growth-part-2",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-07T18:42:28.742541Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ai-implementation-for-business-growth-part-2.html"
+  },
+  {
+    "id": "ai-implementation-for-business-growth-part-1",
+    "title": "🚀 AI Implementation for Business Growth: Part 1",
+    "category": "Digital Products",
+    "description": "Finding Your Starting Point",
+    "author": "The Context Window",
+    "url": "https://ctxwindow.com/p/ai-implementation-for-business-growth-part-1",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-31T19:01:16.902924Z",
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/ai-implementation-for-business-growth-part-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "week-8-2026-3x3-ai-security-brief",
+    "title": "🛡️Week 8: 3x3 AI Security Brief",
+    "category": "Newsletter Ads",
+    "description": "Malware calls Gemini for help. 300K ChatGPT logins hit the dark web. 83% deploy AI agents, 29% can secure them.",
+    "author": "The Context Window",
+    "date": "",
+    "htmlFile": "/emails/week-8-2026-3x3-ai-security-brief.html",
+    "hasAds": true,
+    "url": "https://ctxwindow.com/p/week-8-2026-3x3-ai-security-brief",
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "publisher": {
+      "name": "The Context Window",
+      "url": "https://ctxwindow.com"
+    },
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  }
+]

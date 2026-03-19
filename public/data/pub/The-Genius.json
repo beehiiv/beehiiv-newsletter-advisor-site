@@ -1,0 +1,964 @@
+[
+  {
+    "id": "cool-self",
+    "title": "Cool Self",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-11-01",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/cool-self",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/cool-self.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-to-deconstruct-yourself-afd1",
+    "title": "How to Deconstruct Yourself",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-31",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/how-to-deconstruct-yourself-afd1",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "Black_pill__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-deconstruct-yourself-afd1.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-puzzle-around-you",
+    "title": "The Puzzle Around You",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-30",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/the-puzzle-around-you",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "image1.png"
+      }
+    ],
+    "htmlFile": "/emails/the-puzzle-around-you.html",
+    "tags": [
+      "Finance",
+      "Investing"
+    ]
+  },
+  {
+    "id": "best-things-in-life-are-all-backwards",
+    "title": "Best Things in Life Are All Backwards",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-29",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/best-things-in-life-are-all-backwards",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "AI_Tool_Report.png"
+      }
+    ],
+    "htmlFile": "/emails/best-things-in-life-are-all-backwards.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "risk-of-discovery",
+    "title": "Risk of Discovery",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-26",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/risk-of-discovery",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/risk-of-discovery.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "it-s-time-to-build-a453",
+    "title": "It’s Time to Build",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-25",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/it-s-time-to-build-a453",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-time-to-build-a453.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-top-of-my-todo-list",
+    "title": "The Top of My Todo List",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-23",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/the-top-of-my-todo-list",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/the-top-of-my-todo-list.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "on-the-pursuit-of-less-enough",
+    "title": "Enough is Enough!",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-22",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/on-the-pursuit-of-less-enough",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "HoneyBook_Full_Word_Logo_2023.png"
+      }
+    ],
+    "htmlFile": "/emails/on-the-pursuit-of-less-enough.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "uniqueness-and-normalcy",
+    "title": "Uniqueness and Normalcy",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-18",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/uniqueness-and-normalcy",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/uniqueness-and-normalcy.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "how-to-deconstruct-yourself",
+    "title": "How to Deconstruct Yourself",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-17",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/how-to-deconstruct-yourself",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-deconstruct-yourself.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "harder-than-it-looks-not-as-fun-as-it-seems",
+    "title": "Harder Than It Looks, Not As Fun as It Seems",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-16",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/harder-than-it-looks-not-as-fun-as-it-seems",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/harder-than-it-looks-not-as-fun-as-it-seems.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "the-right-kind-of-stubborn",
+    "title": "The Right Kind of Stubborn",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-15",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/the-right-kind-of-stubborn",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "HoneyBook",
+        "url": "http://www.honeybook.com/",
+        "logo": "HoneyBook_Full_Word_Logo_2023.png"
+      }
+    ],
+    "htmlFile": "/emails/the-right-kind-of-stubborn.html",
+    "tags": [
+      "Business",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "it-s-time-to-build-0937",
+    "title": "It’s Time to Build",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-11",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/it-s-time-to-build-0937",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-time-to-build-0937.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "the-but-therefore-rule",
+    "title": "The But & Therefore Rule",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-10",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/the-but-therefore-rule",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-but-therefore-rule.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-lesson-to-unlearn",
+    "title": "The Lesson to Unlearn",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-09",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/the-lesson-to-unlearn",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      }
+    ],
+    "htmlFile": "/emails/the-lesson-to-unlearn.html",
+    "tags": [
+      "AI",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "few-beliefs",
+    "title": "Few Beliefs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-07",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/few-beliefs",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Email Based Course",
+        "url": "https://emailbasedcourse.com/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/few-beliefs.html",
+    "tags": [
+      "Education",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "when-to-do-what-you-love",
+    "title": "When To Do What You Love",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-05",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/when-to-do-what-you-love",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/when-to-do-what-you-love.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "price-relativity",
+    "title": "Price Relativity",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-04",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/price-relativity",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/price-relativity.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "smart-goals-are-not-so-smart",
+    "title": "SMART goals are not so smart",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-03",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/smart-goals-are-not-so-smart",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "Beehiiv_logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/smart-goals-are-not-so-smart.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "nine-infinite-games-to-play-with-your-career",
+    "title": "Nine Infinite Games to Play with Your Career",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-02",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/nine-infinite-games-to-play-with-your-career",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/nine-infinite-games-to-play-with-your-career.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "psychology-of-social-status-a32b",
+    "title": "Psychology of Social Status",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-10-01",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/psychology-of-social-status-a32b",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/psychology-of-social-status-a32b.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "the-need-to-read",
+    "title": "The Need to Read",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-24",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/the-need-to-read",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "RokuAdsManagerlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-need-to-read.html",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ]
+  },
+  {
+    "id": "it-s-time-to-build",
+    "title": "It’s Time to Build",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-23",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/it-s-time-to-build",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "neurons.png"
+      },
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "logo1.png"
+      }
+    ],
+    "htmlFile": "/emails/it-s-time-to-build.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "Marketing",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "many-gifts-awkward-silence",
+    "title": "The many gifts of awkward SILENCE.",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-20",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/many-gifts-awkward-silence",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/many-gifts-awkward-silence.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "break-daily-news-boosts-wellbeing",
+    "title": "Break from Daily News Boosts Well-being",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-19",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/break-daily-news-boosts-wellbeing",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Email Based Course",
+        "url": "https://emailbasedcourse.com/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/break-daily-news-boosts-wellbeing.html",
+    "tags": [
+      "Education",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "alien-truth",
+    "title": "Alien Truth",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-18",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/alien-truth",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/alien-truth.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "what-s-on-your-mind-in-the-shower",
+    "title": "What’s on Your Mind in the Shower?",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-14",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/what-s-on-your-mind-in-the-shower",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/what-s-on-your-mind-in-the-shower.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "psychology-of-social-status",
+    "title": "Psychology of Social Status",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-13",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/psychology-of-social-status",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "HubSpotlogo.png"
+      }
+    ],
+    "htmlFile": "/emails/psychology-of-social-status.html",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "effort-whats-interesting",
+    "title": "Effort is what’s most interesting",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-12",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/effort-whats-interesting",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Email Based Course",
+        "url": "https://emailbasedcourse.com/",
+        "logo": "logo.png"
+      }
+    ],
+    "htmlFile": "/emails/effort-whats-interesting.html",
+    "tags": [
+      "Education",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "make-brand-stick",
+    "title": "Make Your Brand Stick",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-11",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/make-brand-stick",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/make-brand-stick.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "your-idea-is-brilliant-your-idea-needs-work",
+    "title": "Your Idea Is Brilliant, Your Idea Needs Work",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-06",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/your-idea-is-brilliant-your-idea-needs-work",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/your-idea-is-brilliant-your-idea-needs-work.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "how-to-make-your-brand-stick",
+    "title": "How to Make Your Brand Stick",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-03",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/how-to-make-your-brand-stick",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/how-to-make-your-brand-stick.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "nikita-bier-s-guide-to-viral-success-by-lenny-rachitsky",
+    "title": "Nikita Bier’s Guide to Viral Success",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-09-02",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/nikita-bier-s-guide-to-viral-success-by-lenny-rachitsky",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/nikita-bier-s-guide-to-viral-success-by-lenny-rachitsky.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "risk-discovery",
+    "title": "The Risk of Discovery",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-08-08",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/risk-discovery",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Stack Influence",
+        "url": "https://stackinfluence.com/",
+        "logo": "stackinfluence_black_logo_normal__2___2_.png"
+      }
+    ],
+    "htmlFile": "/emails/risk-discovery.html",
+    "tags": [
+      "E-commerce",
+      "Marketing"
+    ]
+  },
+  {
+    "id": "idea-maze",
+    "title": "The idea maze",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-08-07",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/idea-maze",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "AQ_Logo_Horizontal_Light_BG_Oversize.png"
+      }
+    ],
+    "htmlFile": "/emails/idea-maze.html",
+    "tags": [
+      "Marketing"
+    ]
+  },
+  {
+    "id": "infinite-player",
+    "title": "Being an Infinite Player",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-08-06",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/infinite-player",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/infinite-player.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "climbing-wrong-hill",
+    "title": "Climbing the wrong hill",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "The Genius",
+    "date": "2024-08-05",
+    "hasAds": true,
+    "url": "https://the-genius.beehiiv.com/p/climbing-wrong-hill",
+    "publisher": {
+      "name": "The Genius",
+      "url": "https://the-genius.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Black Crow AI",
+        "url": "https://www.blackcrow.ai/",
+        "logo": "Black_Crow_-_Beehiiv_-_Transparent_Logo__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/climbing-wrong-hill.html",
+    "tags": [
+      "AI",
+      "E-commerce"
+    ]
+  }
+]

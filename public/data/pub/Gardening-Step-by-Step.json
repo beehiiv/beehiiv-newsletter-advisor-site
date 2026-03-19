@@ -1,0 +1,87 @@
+[
+  {
+    "id": "winter-garden-and-early-blooms",
+    "title": "Winter garden and early blooms",
+    "category": "Digital Products",
+    "description": "Why leaving seed heads and stems standing through winter benefits wildlife and creates lasting beauty",
+    "author": "Gardening Step by Step",
+    "url": "https://gardeningstepbystep.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-16T14:13:04.565879Z",
+    "publisher": {
+      "name": "Gardening Step by Step",
+      "url": "https://gardeningstepbystep.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SuppCo",
+        "url": "https://supp.co/",
+        "logo": "https://supp.co/images/pwa-512x512.png"
+      },
+      {
+        "name": "Allara",
+        "url": "https://www.allarahealth.com/",
+        "logo": "https://cdn.prod.website-files.com/637f55cdd2e0aa051d497c52/64093d20a31020bb963b9d96_webclip2.png"
+      }
+    ],
+    "htmlFile": "/emails/winter-garden-and-early-blooms.html",
+    "hasAds": true
+  },
+  {
+    "id": "what-can-we-do-now",
+    "title": "What can we do now?",
+    "category": "Digital Products",
+    "description": "What gardeners can do in February despite the weather",
+    "author": "Gardening Step by Step",
+    "url": "https://gardeningstepbystep.beehiiv.com",
+    "tags": [
+      "AI",
+      "Productivity"
+    ],
+    "date": "2026-02-13T10:24:00.711678Z",
+    "publisher": {
+      "name": "Gardening Step by Step",
+      "url": "https://gardeningstepbystep.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Wispr Flow",
+        "url": "https://wisprflow.ai/",
+        "logo": "https://cdn.brandfetch.io/idNv9hvkb5/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1769066711797"
+      }
+    ],
+    "htmlFile": "/emails/what-can-we-do-now.html",
+    "hasAds": true
+  },
+  {
+    "id": "dig-deeper-into-your-garden-soil",
+    "title": "It's time to dig deeper: how you can really get to know your garden soil",
+    "category": "Digital Products",
+    "description": "It's not about what's above ground right now. Here's why the next few weeks are crucial for your soil—and everything you'll grow this year",
+    "author": "Gardening Step by Step",
+    "url": "https://gardeningstepbystep.beehiiv.com",
+    "tags": [
+      "Lifestyle",
+      "Travel"
+    ],
+    "date": "2026-02-08T18:05:32.980881Z",
+    "publisher": {
+      "name": "Gardening Step by Step",
+      "url": "https://gardeningstepbystep.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Intrepid Travel",
+        "url": "https://www.intrepidtravel.com",
+        "logo": "https://www.intrepidtravel.com/files/icons/apple-touch-icon.png"
+      }
+    ],
+    "htmlFile": "/emails/dig-deeper-into-your-garden-soil.html",
+    "hasAds": true
+  }
+]

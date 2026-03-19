@@ -1,0 +1,134 @@
+[
+  {
+    "id": "live-like-the-future-you-already-exists",
+    "title": "Live Like the Future You Already Exists",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unkonfined Minds",
+    "url": "https://unkonfinedminds.beehiiv.com",
+    "tags": [
+      "Careers",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-19T20:36:37.228774Z",
+    "publisher": {
+      "name": "Unkonfined Minds",
+      "url": "https://unkonfinedminds.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      },
+      {
+        "name": "Morning Brew",
+        "url": "https://www.morningbrew.com/daily",
+        "logo": "https://cdn.brandfetch.io/idy6eUbK1k/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1767952834114"
+      }
+    ],
+    "htmlFile": "/emails/live-like-the-future-you-already-exists.html",
+    "hasAds": true
+  },
+  {
+    "id": "fear-of-what-they-dont-understand",
+    "title": "Fear of What They Don't Understand",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unkonfined Minds",
+    "url": "https://unkonfinedminds.beehiiv.com",
+    "tags": [
+      "Careers",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-17T21:08:05.410155Z",
+    "publisher": {
+      "name": "Unkonfined Minds",
+      "url": "https://unkonfinedminds.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      },
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/fear-of-what-they-dont-understand.html",
+    "hasAds": true
+  },
+  {
+    "id": "the-power-of-the-unspoken",
+    "title": "The Power of the Unspoken",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unkonfined Minds",
+    "url": "https://unkonfinedminds.beehiiv.com",
+    "tags": [
+      "Careers",
+      "Health",
+      "Newsletter"
+    ],
+    "date": "2026-02-11T20:39:27.449134Z",
+    "publisher": {
+      "name": "Unkonfined Minds",
+      "url": "https://unkonfinedminds.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "I Hate It Here",
+        "url": "https://hateithere.co/",
+        "logo": "https://hateithere.co/wp-content/uploads/sites/7/2024/03/ihh-fav-300x300.png"
+      },
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/the-power-of-the-unspoken.html",
+    "hasAds": true
+  },
+  {
+    "id": "trust-the-fire-inside-you",
+    "title": "Trust the Fire Inside You",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Unkonfined Minds",
+    "url": "https://unkonfinedminds.beehiiv.com",
+    "tags": [
+      "Health",
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-10T16:58:24.549651Z",
+    "publisher": {
+      "name": "Unkonfined Minds",
+      "url": "https://unkonfinedminds.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Pour Over",
+        "url": "https://thepourover.org/",
+        "logo": "https://thepourover.org/wp-content/uploads/2026/02/cropped-KettleRTransparent-192x192.png"
+      },
+      {
+        "name": "Inflow",
+        "url": "https://www.getinflow.io/",
+        "logo": "https://cdn.prod.website-files.com/623a0043a408ef2cbfc81880/634e7ede38bd64082d9c3403_Icon%20Light256.png"
+      }
+    ],
+    "htmlFile": "/emails/trust-the-fire-inside-you.html",
+    "hasAds": true
+  }
+]

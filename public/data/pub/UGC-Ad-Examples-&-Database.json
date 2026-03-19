@@ -1,0 +1,35 @@
+[
+  {
+    "id": "looking-for-ugc-ads",
+    "title": "Looking For UGC Ads",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "UGC Ad Examples & Database",
+    "date": "2024-10-21",
+    "hasAds": true,
+    "url": "https://ugcads.beehiiv.com/p/looking-for-ugc-ads",
+    "publisher": {
+      "name": "UGC Ad Examples & Database",
+      "url": "https://ugcads.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Synthflow",
+        "url": "https://synthflow.ai/",
+        "logo": "Logo.png"
+      },
+      {
+        "name": "Vinovest",
+        "url": "https://www.vinovest.co/",
+        "logo": "image1.png"
+      }
+    ],
+    "htmlFile": "/emails/looking-for-ugc-ads.html",
+    "tags": [
+      "AI",
+      "Finance",
+      "Investing",
+      "SaaS"
+    ]
+  }
+]

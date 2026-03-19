@@ -1,0 +1,256 @@
+[
+  {
+    "id": "puzzlebookplaybook",
+    "title": "Puzzle Book Playbook",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-09-26",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/puzzlebookplaybook",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/puzzlebookplaybook.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "podcast-power-playbook",
+    "title": "Podcast Power Playbook",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-09-24",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/podcast-power-playbook",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/podcast-power-playbook.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "digitaldust",
+    "title": "Get Rid of Your Digital Dust Hustl",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-09-19",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/digitaldust",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/digitaldust.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "playground",
+    "title": "Earn From the Playground",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-09-10",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/playground",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/playground.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "aiinfluencer",
+    "title": "Easy AI Influencer Playbook",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-09-05",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/aiinfluencer",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/aiinfluencer.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "googlebooks",
+    "title": "The Grand Google Books Hustl",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-09-03",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/googlebooks",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/googlebooks.html",
+    "tags": [
+      "Education"
+    ]
+  },
+  {
+    "id": "motviationandai",
+    "title": "Motivation + AI = $$$",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-08-29",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/motviationandai",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/motviationandai.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ah6",
+    "title": "The AI Pinterest Playbook",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-08-22",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/ah6",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "Rundown_Logo.png"
+      }
+    ],
+    "htmlFile": "/emails/ah6.html",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "ah5",
+    "title": "Your Faceless Profits Hustl",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-08-15",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/ah5",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "Betterment-wordmark-logo.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/ah5.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "ai-digital-product-treasure-map",
+    "title": "Your AI Digital Product Treasure Map💰💰",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "ai hustl",
+    "date": "2024-08-08",
+    "hasAds": true,
+    "url": "https://aihustl.beehiiv.com/p/ai-digital-product-treasure-map",
+    "publisher": {
+      "name": "ai hustl",
+      "url": "https://aihustl.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Growth School",
+        "url": "https://growthschool.io",
+        "logo": "GS_Logo_Full__2_.png"
+      }
+    ],
+    "htmlFile": "/emails/ai-digital-product-treasure-map.html",
+    "tags": [
+      "Education"
+    ]
+  }
+]

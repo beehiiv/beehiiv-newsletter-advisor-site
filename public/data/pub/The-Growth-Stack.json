@@ -1,0 +1,54 @@
+[
+  {
+    "id": "why-asking-for-referrals-doesn-t-scale-and-what-does-1",
+    "title": "🌐 Beware: The AI Speed Trap",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Growth Stack",
+    "url": "https://www.thegrowthstack.info",
+    "tags": [
+      "Finance"
+    ],
+    "date": "2026-02-16T15:24:13.759356Z",
+    "publisher": {
+      "name": "The Growth Stack",
+      "url": "https://www.thegrowthstack.info",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Fisher Investments",
+        "url": "https://www.fisherinvestments.com/en-us",
+        "logo": "https://cdn.brandfetch.io/idcHUGQC_0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764941550929"
+      }
+    ],
+    "htmlFile": "/emails/why-asking-for-referrals-doesn-t-scale-and-what-does-1.html",
+    "hasAds": true
+  },
+  {
+    "id": "why-asking-for-referrals-doesn-t-scale-and-what-does",
+    "title": "🌐 Why “Asking for Referrals'” Doesn't Scale (and what does)",
+    "category": "Digital Products",
+    "description": "",
+    "author": "The Growth Stack",
+    "url": "https://www.thegrowthstack.info",
+    "tags": [
+      "Technology"
+    ],
+    "date": "2026-02-09T14:39:12.450986Z",
+    "publisher": {
+      "name": "The Growth Stack",
+      "url": "https://www.thegrowthstack.info",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Proton",
+        "url": "https://proton.me/mail",
+        "logo": "https://proton.me/favicons/android-chrome-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/why-asking-for-referrals-doesn-t-scale-and-what-does.html",
+    "hasAds": true
+  }
+]

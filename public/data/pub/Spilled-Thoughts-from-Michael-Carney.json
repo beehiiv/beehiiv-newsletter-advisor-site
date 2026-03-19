@@ -1,0 +1,79 @@
+[
+  {
+    "id": "gave-word",
+    "title": "You Gave Them Your Word",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spilled Thoughts from Michael Carney",
+    "date": "2024-09-18",
+    "hasAds": true,
+    "url": "https://michaelcarneysnewsletter.beehiiv.com/p/gave-word",
+    "publisher": {
+      "name": "Spilled Thoughts from Michael Carney",
+      "url": "https://michaelcarneysnewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "Artisan_Logo_horizontal__1_.png"
+      }
+    ],
+    "htmlFile": "/emails/gave-word.html",
+    "tags": [
+      "AI",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "wrestling-inner-critic-1",
+    "title": "Getting that Critical Time Back",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spilled Thoughts from Michael Carney",
+    "date": "2024-08-28",
+    "hasAds": true,
+    "url": "https://michaelcarneysnewsletter.beehiiv.com/p/wrestling-inner-critic-1",
+    "publisher": {
+      "name": "Spilled Thoughts from Michael Carney",
+      "url": "https://michaelcarneysnewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Betterment",
+        "url": "https://www.betterment.com",
+        "logo": "Betterment-wordmark-logo.svg.png"
+      }
+    ],
+    "htmlFile": "/emails/wrestling-inner-critic-1.html",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "id": "wrestling-inner-critic",
+    "title": "Wrestling with My Inner Critic",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Spilled Thoughts from Michael Carney",
+    "date": "2024-08-12",
+    "hasAds": true,
+    "url": "https://michaelcarneysnewsletter.beehiiv.com/p/wrestling-inner-critic",
+    "publisher": {
+      "name": "Spilled Thoughts from Michael Carney",
+      "url": "https://michaelcarneysnewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Bill.com",
+        "url": "https://www.bill.com/",
+        "logo": "Logo-Bill-Full-Color.png"
+      }
+    ],
+    "htmlFile": "/emails/wrestling-inner-critic.html",
+    "tags": [
+      "Finance",
+      "SaaS"
+    ]
+  }
+]

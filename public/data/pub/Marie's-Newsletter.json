@@ -1,0 +1,2349 @@
+[
+  {
+    "id": "lemon-sugar",
+    "title": "Lemon & Sugar",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://mariesnewsletter.beehiiv.com",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2026-02-24T20:30:44.235847Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://mariesnewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "htmlFile": "/emails/lemon-sugar.html",
+    "hasAds": true
+  },
+  {
+    "id": "black-poodle-ink",
+    "title": "Black Poodle Ink",
+    "category": "Digital Products",
+    "description": "Dani Dash, Southpaw Piercer",
+    "author": "Marie's Newsletter",
+    "url": "https://mariesnewsletter.beehiiv.com/p/black-poodle-ink",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-24T00:00:00Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://mariesnewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "SuppCo",
+        "url": "https://supp.co/",
+        "logo": "https://supp.co/images/pwa-512x512.png"
+      }
+    ],
+    "htmlFile": "/emails/black-poodle-ink.html",
+    "hasAds": true
+  },
+  {
+    "id": "los-muelles",
+    "title": "Los Muelles",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://mariesnewsletter.beehiiv.com/p/los-muelles",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-22T00:00:00Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://mariesnewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/los-muelles.html",
+    "hasAds": true
+  },
+  {
+    "id": "kapadokia-grill",
+    "title": "Kapadokia Grill",
+    "category": "Digital Products",
+    "description": "Mediterranean Turkish",
+    "author": "Marie's Newsletter",
+    "url": "https://mariesnewsletter.beehiiv.com",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-02-17T21:44:21.192933Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://mariesnewsletter.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "htmlFile": "/emails/kapadokia-grill.html",
+    "hasAds": true
+  },
+  {
+    "id": "first-class-luxury-lounge",
+    "title": "First Class Luxury Lounge",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/first-class-luxury-lounge",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-21T02:26:56.938545Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.thecbdistillery.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/first-class-luxury-lounge.html",
+    "hasAds": true
+  },
+  {
+    "id": "miki-bowls",
+    "title": "Miki Bowls ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/miki-bowls",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-21T02:26:56.332087Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "CBDistillery",
+        "url": "https://www.thecbdistillery.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.thecbdistillery.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/miki-bowls.html"
+  },
+  {
+    "id": "tampopo-ramen-hibachi",
+    "title": "Tampopo Ramen & Hibachi ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/tampopo-ramen-hibachi",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-14T02:13:39.652658Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/tampopo-ramen-hibachi.html"
+  },
+  {
+    "id": "san-luis-ii",
+    "title": "San Luis II",
+    "category": "Digital Products",
+    "description": "Local Mexican Staple",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/san-luis-ii",
+    "tags": [
+      "Health"
+    ],
+    "date": "2026-01-07T01:03:11.818386Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/san-luis-ii.html"
+  },
+  {
+    "id": "scratch-fried-chicken",
+    "title": "Scratch Fried Chicken",
+    "category": "Digital Products",
+    "description": "Double Fried Chicken",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/scratch-fried-chicken",
+    "tags": [
+      "Finance",
+      "Newsletter"
+    ],
+    "date": "2025-12-31T00:11:20.684539Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Daily Upside",
+        "url": "https://www.thedailyupside.com/",
+        "logo": "https://www.thedailyupside.com/wp-content/uploads/2023/05/cropped-sunstrisk-400x400.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/scratch-fried-chicken.html"
+  },
+  {
+    "id": "taqueria-el-torito",
+    "title": "Taqueria El Torito",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/taqueria-el-torito",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-24T02:15:05.784437Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/taqueria-el-torito.html"
+  },
+  {
+    "id": "icecream-factory",
+    "title": "Icecream Factory",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/icecream-factory",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-12-17T01:48:02.930598Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/icecream-factory.html"
+  },
+  {
+    "id": "creek-stone-bar-grille",
+    "title": "Creek Stone Bar & Grille ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/creek-stone-bar-grille",
+    "tags": [
+      "Marketing",
+      "Technology"
+    ],
+    "date": "2025-12-10T02:00:04.307238Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Google AdSense",
+        "url": "http://adsense.google.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=google.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/creek-stone-bar-grille.html",
+    "hasAds": true
+  },
+  {
+    "id": "mizumi",
+    "title": "Mizumi",
+    "category": "Digital Products",
+    "description": "Greensboro’s Best Sushi",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/mizumi",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-12-03T02:02:25.98213Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mizumi.html"
+  },
+  {
+    "id": "gusgueras-mariscos-bar-grill-2",
+    "title": "Gusgueras Mariscos Bar & Grill #2",
+    "category": "Digital Products",
+    "description": "Specializing in Mexican Seafood",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/gusgueras-mariscos-bar-grill-2",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-11-26T04:28:25.215804Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/gusgueras-mariscos-bar-grill-2.html"
+  },
+  {
+    "id": "mr-tokyo",
+    "title": "Mr. Tokyo",
+    "category": "Digital Products",
+    "description": "All You Can Eat Sushi",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/mr-tokyo",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-11-18T23:18:37.302249Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lindy.ai",
+        "url": "https://www.lindy.ai/",
+        "logo": "https://cdn.prod.website-files.com/63e15df811f9df22b231e58f/6733c56c500492bf748bb383_256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mr-tokyo.html"
+  },
+  {
+    "id": "boza-creamery",
+    "title": "Boza Creamery",
+    "category": "Digital Products",
+    "description": "Fresh Local Ice Cream",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/boza-creamery",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-11-10T21:39:04.485428Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Pique Life",
+        "url": "https://www.piquelife.com/",
+        "logo": "https://www.piquelife.com/cdn/shop/t/786/assets/apple-touch-icon.png?v=75037368517923097801772084651"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/boza-creamery.html"
+  },
+  {
+    "id": "dear-dad-s-5a7b",
+    "title": "Dear Dad’s",
+    "category": "Digital Products",
+    "description": "One of Greensboro’s Most Popular Restaurants",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/dear-dad-s-5a7b",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2025-11-05T00:43:55.568972Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dear-dad-s-5a7b.html"
+  },
+  {
+    "id": "hangry-joe-s",
+    "title": "Hangry Joe’s",
+    "category": "Digital Products",
+    "description": "Dave’s Hot Chicken Competitor",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/hangry-joe-s",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-21T23:41:54.866294Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/hangry-joe-s.html"
+  },
+  {
+    "id": "the-lao-kitchen",
+    "title": "The Lao Kitchen",
+    "category": "Digital Products",
+    "description": "Inside the Alounemay Market",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/the-lao-kitchen",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-10-16T15:25:00.428544Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-lao-kitchen.html"
+  },
+  {
+    "id": "dave-s-hot-chicken",
+    "title": "Dave’s Hot Chicken",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/dave-s-hot-chicken",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-14T23:59:12.786401Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/dave-s-hot-chicken.html"
+  },
+  {
+    "id": "slices-by-tony",
+    "title": "Slices By Tony",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/slices-by-tony",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-10-08T01:04:26.929214Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/slices-by-tony.html"
+  },
+  {
+    "id": "september-2025-recap",
+    "title": "September 2025 Recap",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/september-2025-recap",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-10-01T01:11:37.694073Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/september-2025-recap.html"
+  },
+  {
+    "id": "thai-square",
+    "title": "Thai Square",
+    "category": "Digital Products",
+    "description": "Thai On Battleground",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/thai-square",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-09-23T20:00:29.931993Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/thai-square.html"
+  },
+  {
+    "id": "house-divided",
+    "title": "House Divided ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/house-divided",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2025-09-17T05:27:27.386477Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/house-divided.html"
+  },
+  {
+    "id": "whataburger",
+    "title": "Whataburger",
+    "category": "Digital Products",
+    "description": "Greensboro’s First Whataburger",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/whataburger",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-09-10T00:18:34.975361Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/whataburger.html"
+  },
+  {
+    "id": "first-watch",
+    "title": "First Watch",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/first-watch",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-09-02T22:56:37.94456Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/first-watch.html"
+  },
+  {
+    "id": "the-bodega",
+    "title": "The Bodega",
+    "category": "Digital Products",
+    "description": "Downtown Greensboro’s Bodega",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/the-bodega",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-08-26T01:02:18.343037Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-bodega.html"
+  },
+  {
+    "id": "the-sub-spot",
+    "title": "The Sub Spot",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/the-sub-spot",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-20T02:13:33.024602Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-sub-spot.html"
+  },
+  {
+    "id": "mid-month-check-in",
+    "title": "Mid-Month Check In",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/mid-month-check-in",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-08-16T00:58:08.425511Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mid-month-check-in.html"
+  },
+  {
+    "id": "wall-street-deli",
+    "title": "Wall Street Deli",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/wall-street-deli",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-08-12T21:27:10.794314Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/wall-street-deli.html"
+  },
+  {
+    "id": "skippers",
+    "title": "Skippers",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/skippers",
+    "tags": [
+      "Business",
+      "Newsletter"
+    ],
+    "date": "2025-08-06T02:29:31.917756Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Hustle",
+        "url": "https://thehustle.co/",
+        "logo": "https://cdn.brandfetch.io/id44i5-KlO/w/387/h/387/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1769468402241"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/skippers.html"
+  },
+  {
+    "id": "end-of-july",
+    "title": "End of July",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/end-of-july",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-27T19:43:57.131632Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/end-of-july.html"
+  },
+  {
+    "id": "flavoures",
+    "title": "Flavoures",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/flavoures",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-27T19:33:06.46463Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/flavoures.html"
+  },
+  {
+    "id": "jay-s-deli",
+    "title": "Jay’s Deli",
+    "category": "Digital Products",
+    "description": "Friendly Center’s Deli of Decades",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/jay-s-deli",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-23T00:20:51.392647Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jay-s-deli.html"
+  },
+  {
+    "id": "jam-s-deli-9099",
+    "title": "Jam’s Deli",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/jam-s-deli-9099",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-16T14:28:34.894404Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/jam-s-deli-9099.html"
+  },
+  {
+    "id": "first-carolina-deli",
+    "title": "First Carolina Deli",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/first-carolina-deli",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-07-09T01:04:21.242904Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/first-carolina-deli.html",
+    "hasAds": true
+  },
+  {
+    "id": "new-york-pizza-battleground",
+    "title": "New York Pizza Battleground ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/new-york-pizza-battleground",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-06-25T12:40:23.82633Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Marketing Millennials",
+        "url": "https://themarketingmillennials.com/",
+        "logo": "https://themarketingmillennials.com/wp-content/uploads/sites/4/2024/01/cropped-favfire-192x192.png"
+      }
+    ],
+    "htmlFile": "/emails/new-york-pizza-battleground.html",
+    "hasAds": true
+  },
+  {
+    "id": "coopers-bbq-haven",
+    "title": "Coopers BBQ Haven",
+    "category": "Digital Products",
+    "description": "My First Food Truck Review",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/coopers-bbq-haven",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-06-25T12:35:50.865866Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "AdQuick",
+        "url": "https://www.adquick.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.adquick.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/coopers-bbq-haven.html",
+    "hasAds": true
+  },
+  {
+    "id": "emma-keys",
+    "title": "Emma Keys",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/emma-keys",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-18T01:56:10.348402Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/emma-keys.html"
+  },
+  {
+    "id": "bangkok-cafe",
+    "title": "Bangkok Cafe",
+    "category": "Digital Products",
+    "description": "Far East Authenticity",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/bangkok-cafe",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-10T23:51:16.66746Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bangkok-cafe.html"
+  },
+  {
+    "id": "dear-dad-s",
+    "title": "Dear Dad’s ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/dear-dad-s",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-06-04T00:36:50.973061Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/dear-dad-s.html",
+    "hasAds": true
+  },
+  {
+    "id": "recap-of-may-ec2f",
+    "title": "Recap of May",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/recap-of-may-ec2f",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-31T17:44:52.222989Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/recap-of-may-ec2f.html",
+    "hasAds": true
+  },
+  {
+    "id": "binh-minh",
+    "title": "Binh Minh",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/binh-minh",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-05-27T23:33:47.397985Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/binh-minh.html"
+  },
+  {
+    "id": "in-other-food-news",
+    "title": "In Other Food News",
+    "category": "Digital Products",
+    "description": "National Chains Popping Up",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/in-other-food-news",
+    "tags": [
+      "Marketing",
+      "Newsletter"
+    ],
+    "date": "2025-05-23T13:50:05.35013Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Marketing Against The Grain",
+        "url": "https://marketingagainstthegrain.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=marketingagainstthegrain.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/in-other-food-news.html",
+    "hasAds": true
+  },
+  {
+    "id": "merchandise-checking-in",
+    "title": "Merchandise/Checking In",
+    "category": "Digital Products",
+    "description": "Grab a tshirt or something",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/merchandise-checking-in",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2025-05-21T15:27:06.882665Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/merchandise-checking-in.html"
+  },
+  {
+    "id": "the-sage-mule",
+    "title": "The Sage Mule",
+    "category": "Digital Products",
+    "description": "Downtown’s Best Brunch",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/the-sage-mule",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2025-05-20T02:22:28.192062Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-sage-mule.html"
+  },
+  {
+    "id": "the-corner-slice",
+    "title": "The Corner Slice",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/the-corner-slice",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2025-05-14T12:24:56.14324Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "KeepCart",
+        "url": "https://www.keepcart.co/",
+        "logo": "https://cdn.prod.website-files.com/64467f5d1f692e0ac55bcdbd/6912602ae2b7594f276c5c19_KC_LOGO-NEW-favi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-corner-slice.html"
+  },
+  {
+    "id": "scrambled",
+    "title": "Scrambled ",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/scrambled",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-05-06T17:43:30.795189Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/scrambled.html",
+    "hasAds": true
+  },
+  {
+    "id": "captain-s-catch",
+    "title": "Captain’s Catch",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/captain-s-catch",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-04-30T02:02:49.946719Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "htmlFile": "/emails/captain-s-catch.html",
+    "hasAds": true
+  },
+  {
+    "id": "la-casita",
+    "title": "La Casita",
+    "category": "Digital Products",
+    "description": "Authentic Taco Tuesday",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/la-casita",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-24T19:47:36.300905Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/la-casita.html"
+  },
+  {
+    "id": "porterhouse-burger",
+    "title": "PorterHouse Burger ",
+    "category": "Digital Products",
+    "description": "Build Your Own Burger",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/porterhouse-burger",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-04-14T23:20:24.601795Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/porterhouse-burger.html"
+  },
+  {
+    "id": "astro-dogs",
+    "title": "Astro Dogs",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "date": "2025-04-03",
+    "hasAds": true,
+    "url": "https://mariesnewsletter.beehiiv.com/p/astro-dogs",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://mariesnewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/astro-dogs.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "lindley-park-filling-station",
+    "title": "Lindley Park Filling Station",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/lindley-park-filling-station",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-19T00:55:14.140528Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/lindley-park-filling-station.html"
+  },
+  {
+    "id": "mythos-grill",
+    "title": "Mythos Grill",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/mythos-grill",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-03-04T23:52:33.10988Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/mythos-grill.html"
+  },
+  {
+    "id": "feedback-please-6",
+    "title": "Feedback Please #6 ",
+    "category": "Digital Products",
+    "description": "Your Opinion Matters",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/feedback-please-6",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-02-27T23:00:50.485443Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feedback-please-6.html"
+  },
+  {
+    "id": "ghassan-s",
+    "title": "Ghassan’s",
+    "category": "Digital Products",
+    "description": "Fresh Mediterranean Eats",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/ghassan-s",
+    "tags": [
+      "Food & Beverage"
+    ],
+    "date": "2025-02-19T00:10:48.290902Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Tovala",
+        "url": "https://www.tovala.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=tovala.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/ghassan-s.html"
+  },
+  {
+    "id": "la-coste-ita",
+    "title": "La Costeñita",
+    "category": "Digital Products",
+    "description": "Best Birria in Greensboro",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/la-coste-ita",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-02-12T04:19:52.278889Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/la-coste-ita.html"
+  },
+  {
+    "id": "cugino-forno",
+    "title": "Cugino Forno",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "date": "2025-02-05",
+    "hasAds": true,
+    "url": "https://mariesnewsletter.beehiiv.com/p/cugino-forno",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://mariesnewsletter.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/cugino-forno.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "feedback-please-5",
+    "title": "Feedback Please #5",
+    "category": "Digital Products",
+    "description": "Your Opinion Matters (Jan 2025)",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/feedback-please-5",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-29T15:05:17.699441Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The AI Report",
+        "url": "https://aitoolreport.beehiiv.com/",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/31a7c576-0eb2-4ef3-abc7-bc75ede786fe/thumb_upscaile-icon-color-rgb-1920px-w-72ppi.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feedback-please-5.html"
+  },
+  {
+    "id": "shinjuku-station",
+    "title": "Shinjuku Station",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/shinjuku-station",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2025-01-29T01:58:50.132261Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/shinjuku-station.html"
+  },
+  {
+    "id": "homeslice-pizza-subs",
+    "title": "Homeslice Pizza & Subs",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/homeslice-pizza-subs",
+    "tags": [
+      "AI",
+      "SaaS"
+    ],
+    "date": "2025-01-22T02:13:47.807887Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Artisan",
+        "url": "https://artisan.co/",
+        "logo": "https://www.google.com/s2/favicons?domain=artisan.co&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/homeslice-pizza-subs.html"
+  },
+  {
+    "id": "bender-s-tavern",
+    "title": "Bender’s Tavern",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/bender-s-tavern",
+    "tags": [
+      "Health"
+    ],
+    "date": "2025-01-15T01:58:18.663802Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bender-s-tavern.html"
+  },
+  {
+    "id": "nazareth-bread-company",
+    "title": "Nazareth Bread Company",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/nazareth-bread-company",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2025-01-08T01:45:44.081796Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/nazareth-bread-company.html",
+    "hasAds": true
+  },
+  {
+    "id": "fig-and-olive-cafe",
+    "title": "Fig and Olive Cafe",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/fig-and-olive-cafe",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2025-01-01T02:39:03.793508Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "htmlFile": "/emails/fig-and-olive-cafe.html",
+    "hasAds": true
+  },
+  {
+    "id": "feedback-please-4",
+    "title": "Feedback Please #4",
+    "category": "Digital Products",
+    "description": "Your Opinion Matters",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/feedback-please-4",
+    "tags": [
+      "AI",
+      "Newsletter"
+    ],
+    "date": "2024-12-18T20:42:43.950725Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "The Rundown AI",
+        "url": "https://www.therundown.ai/subscribe",
+        "logo": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/4d03390d-2481-4299-b949-ffd8b38b4c38/thumb_rundownlogonewsize.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feedback-please-4.html"
+  },
+  {
+    "id": "shortstops",
+    "title": "Shortstops",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/shortstops",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-12-14T18:46:46.733226Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/shortstops.html"
+  },
+  {
+    "id": "mario-s-pizza-feat-lys-marie-charcuterie",
+    "title": "Mario's Pizza feat. Lys Marie Charcuterie ",
+    "category": "Digital Products",
+    "description": "My Favorite Local Pizza Chain/The Best Board",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/mario-s-pizza-feat-lys-marie-charcuterie",
+    "tags": [
+      "E-commerce",
+      "Health"
+    ],
+    "date": "2024-12-14T16:04:52.612368Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Huel",
+        "url": "https://huel.com/",
+        "logo": "https://cdn.brandfetch.io/idoIpYq1zg/w/360/h/360/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1685193046719"
+      }
+    ],
+    "htmlFile": "/emails/mario-s-pizza-feat-lys-marie-charcuterie.html",
+    "hasAds": true
+  },
+  {
+    "id": "sushi-republic",
+    "title": "Sushi Republic ",
+    "category": "Digital Products",
+    "description": "The best thing on Tate Street",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/sushi-republic",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-11T00:03:27.093105Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sushi-republic.html"
+  },
+  {
+    "id": "rascals-tavern",
+    "title": "Rascals Tavern",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/rascals-tavern",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-12-03T23:40:48.205685Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/rascals-tavern.html"
+  },
+  {
+    "id": "feedback-please-3",
+    "title": "Feedback Please #3",
+    "category": "Digital Products",
+    "description": "Your Opinion Matters",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/feedback-please-3",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-11-29T16:06:57.366344Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feedback-please-3.html"
+  },
+  {
+    "id": "sammy-s-sliders",
+    "title": "Sammy's Sliders",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/sammy-s-sliders",
+    "tags": [
+      "Marketing"
+    ],
+    "date": "2024-11-20T23:40:00.276805Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "PodPitch",
+        "url": "https://www.podpitch.com/",
+        "logo": "https://www.podpitch.com/webflow/images/webclip.png"
+      }
+    ],
+    "htmlFile": "/emails/sammy-s-sliders.html",
+    "hasAds": true
+  },
+  {
+    "id": "pho-hien-vuong",
+    "title": "Pho Hien Vuong",
+    "category": "Digital Products",
+    "description": "The Most Popular Pho Around",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/pho-hien-vuong",
+    "tags": [
+      "Entertainment",
+      "Technology"
+    ],
+    "date": "2024-11-13T18:08:50.628864Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Roku",
+        "url": "https://www.roku.com/",
+        "logo": "https://cdn.brandfetch.io/idgsqETs2x/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1714125180049"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pho-hien-vuong.html"
+  },
+  {
+    "id": "fat-dogs-grille-pub",
+    "title": "Fat Dogs Grille & Pub",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/fat-dogs-grille-pub",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-11-13T01:39:23.98811Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "https://www.hungryroot.com/springroll/favicon-180.D7yz0Z7T.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/fat-dogs-grille-pub.html"
+  },
+  {
+    "id": "el-camino-real",
+    "title": "El Camino Real",
+    "category": "Digital Products",
+    "description": "Local Mexican Flavor",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/el-camino-real",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-11-06T00:47:35.797171Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Lysted",
+        "url": "https://lysted.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=lysted.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/el-camino-real.html"
+  },
+  {
+    "id": "bites-and-pints",
+    "title": "Bites and Pints",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/bites-and-pints",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-10-11T12:16:57.730573Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/bites-and-pints.html"
+  },
+  {
+    "id": "aladdin-s-shawarma",
+    "title": "Aladdin’s Shawarma",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/aladdin-s-shawarma",
+    "tags": [
+      "E-commerce"
+    ],
+    "date": "2024-10-10T20:49:58.129199Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Brad's Deals",
+        "url": "https://www.bradsdeals.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.bradsdeals.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/aladdin-s-shawarma.html"
+  },
+  {
+    "id": "feedback-please-2",
+    "title": "Feedback Please #2",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/feedback-please-2",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2024-10-09T16:29:08.856162Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hubspot",
+        "url": "https://www.hubspot.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.hubspot.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feedback-please-2.html"
+  },
+  {
+    "id": "taaza-bistro",
+    "title": "Taaza Bistro",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/taaza-bistro",
+    "tags": [
+      "AI",
+      "Marketing"
+    ],
+    "date": "2024-10-09T00:46:32.900554Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Neurons",
+        "url": "https://www.neuronsinc.com/",
+        "logo": "https://cdn.prod.website-files.com/6246d2921358dd41407dc44a/62fdfc5bae05caf42b78c4ce_web.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/taaza-bistro.html"
+  },
+  {
+    "id": "healthy-nation",
+    "title": "Healthy Nation",
+    "category": "Digital Products",
+    "description": "Colorful Antioxidants",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/healthy-nation",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-25T01:11:33.676882Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/healthy-nation.html"
+  },
+  {
+    "id": "the-dog-house",
+    "title": "The Dog House",
+    "category": "Digital Products",
+    "description": "Serving High Point Since 1942",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/the-dog-house",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-09-25T01:09:29.102515Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/the-dog-house.html"
+  },
+  {
+    "id": "feedback-please-1",
+    "title": "Feedback Please #1",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/feedback-please-1",
+    "tags": [
+      "Food & Beverage"
+    ],
+    "date": "2024-09-24T14:53:22.887659Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "brodo",
+        "url": "https://www.brodo.com/",
+        "logo": "https://i0.wp.com/www.brodo.com/wp-content/uploads/2021/11/cropped-cropped-favicon-1.png?fit=192%2C192&#038;quality=80&#038;ssl=1&#038;w=192&#038;h=192"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/feedback-please-1.html"
+  },
+  {
+    "id": "sarah-s-kabob-shop",
+    "title": "Sarah's Kabob Shop",
+    "category": "Digital Products",
+    "description": "A Local Greek Favorite",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/sarah-s-kabob-shop",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-09-24T14:16:12.361061Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/sarah-s-kabob-shop.html"
+  },
+  {
+    "id": "sir-pizza",
+    "title": "Sir Pizza",
+    "category": "Digital Products",
+    "description": "Squares of Nostalgia",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/sir-pizza",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-09-12T20:05:22.21265Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "htmlFile": "/emails/sir-pizza.html",
+    "hasAds": true
+  },
+  {
+    "id": "spring-garden-bakery-coffeehouse",
+    "title": "Spring Garden Bakery & Coffeehouse",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/spring-garden-bakery-coffeehouse",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-09-10T22:56:15.2893Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "https://www.hungryroot.com/springroll/favicon-180.D7yz0Z7T.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/spring-garden-bakery-coffeehouse.html"
+  },
+  {
+    "id": "pantry-fried-chicken",
+    "title": "Pantry Fried Chicken",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/pantry-fried-chicken",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-08-29T13:22:44.969826Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "https://www.hungryroot.com/springroll/favicon-180.D7yz0Z7T.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/pantry-fried-chicken.html"
+  },
+  {
+    "id": "juice-shop-smoothies",
+    "title": "Juice Shop Smoothies",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/juice-shop-smoothies",
+    "tags": [
+      "Food & Beverage",
+      "Health"
+    ],
+    "date": "2024-08-27T23:02:25.907685Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Hungryroot",
+        "url": "https://www.hungryroot.com/",
+        "logo": "https://www.hungryroot.com/springroll/favicon-180.D7yz0Z7T.png"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/juice-shop-smoothies.html"
+  },
+  {
+    "id": "van-loi-ii",
+    "title": "Van Loi II",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/van-loi-ii",
+    "tags": [
+      "Health"
+    ],
+    "date": "2024-08-09T17:14:25.251209Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "Mood Gummies",
+        "url": "https://hellomood.co/",
+        "logo": "https://mood.com/android-chrome-256x256.png"
+      }
+    ],
+    "htmlFile": "/emails/van-loi-ii.html",
+    "hasAds": true
+  },
+  {
+    "id": "blue-rock-pizza-tap",
+    "title": "Blue Rock Pizza & Tap",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Marie's Newsletter",
+    "url": "https://0qbtqmmrkp.beehiiv.com/p/blue-rock-pizza-tap",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2024-07-31T02:03:09.814046Z",
+    "publisher": {
+      "name": "Marie's Newsletter",
+      "url": "https://0qbtqmmrkp.beehiiv.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/blue-rock-pizza-tap.html"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "edition-20-the-focus-sprint-formula",
+    "title": "Edition #20: The Focus Sprint Formula",
+    "category": "Digital Products",
+    "description": "Build a bulletproof morning sprint that gets real work done.",
+    "author": "Hack Morning",
+    "url": "https://www.hackmorning.com/p/edition-20-the-focus-sprint-formula",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-07-15T12:21:15.110906Z",
+    "publisher": {
+      "name": "Hack Morning",
+      "url": "https://hackmorning.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/edition-20-the-focus-sprint-formula.html"
+  },
+  {
+    "id": "edition-18-the-mid-year-check",
+    "title": "Edition #18: The Mid-Year Check",
+    "category": "Digital Products",
+    "description": "Reflect. Refocus. Build the back half.",
+    "author": "Hack Morning",
+    "url": "https://www.hackmorning.com/p/edition-18-the-mid-year-check",
+    "tags": [
+      "E-commerce",
+      "SaaS"
+    ],
+    "date": "2025-06-30T12:29:22.987417Z",
+    "publisher": {
+      "name": "Hack Morning",
+      "url": "https://www.hackmorning.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "inFlow Inventory",
+        "url": "https://inflowinventory.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=inflowinventory.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/edition-18-the-mid-year-check.html"
+  },
+  {
+    "id": "edition-17-not-in-the-mood",
+    "title": "Edition #17: Not In The Mood",
+    "category": "Digital Products",
+    "description": "No hype, no excuses: just get it done.",
+    "author": "Hack Morning",
+    "url": "https://www.hackmorning.com/p/edition-17-not-in-the-mood",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-06-22T20:00:58.055447Z",
+    "publisher": {
+      "name": "Hack Morning",
+      "url": "https://www.hackmorning.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/edition-17-not-in-the-mood.html"
+  },
+  {
+    "id": "am-brain-fog-let-s-fix-that-fast",
+    "title": "Edition #5: AM Brain Fog? Let's Fix That",
+    "category": "Digital Products",
+    "description": "Mastering Mental Clarity",
+    "author": "Hack Morning",
+    "url": "https://www.hackmorning.com/p/am-brain-fog-let-s-fix-that-fast",
+    "tags": [
+      "News",
+      "Newsletter"
+    ],
+    "date": "2025-03-25T07:13:15.759404Z",
+    "publisher": {
+      "name": "Hack Morning",
+      "url": "https://hackmorning.com",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "https://join1440.com/favicon.ico?favicon.5382cf62.ico"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/am-brain-fog-let-s-fix-that-fast.html"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "issue-1-13-26",
+    "title": "Issue 1.13.26",
+    "category": "Digital Products",
+    "description": "",
+    "author": "Interview Hub",
+    "url": "https://www.interviewhub.co/p/issue-1-13-26",
+    "tags": [
+      "Marketing",
+      "SaaS"
+    ],
+    "date": "2026-01-12T19:06:43.504767Z",
+    "publisher": {
+      "name": "Interview Hub",
+      "url": "https://www.interviewhub.co",
+      "logo": ""
+    },
+    "advertisers": [
+      {
+        "name": "beehiiv",
+        "url": "http://www.beehiiv.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.beehiiv.com&sz=128"
+      }
+    ],
+    "hasAds": true,
+    "htmlFile": "/emails/issue-1-13-26.html"
+  }
+]

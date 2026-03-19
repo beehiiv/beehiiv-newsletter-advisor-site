@@ -1,0 +1,183 @@
+[
+  {
+    "id": "mastering-the-nomadic-life",
+    "title": "Mastering the Nomadic Life",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2025-03-11",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/mastering-the-nomadic-life",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/mastering-the-nomadic-life.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "make-your-rental-your-sanctuary",
+    "title": "Make Your Rental Your Sanctuary",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2025-03-04",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/make-your-rental-your-sanctuary",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/make-your-rental-your-sanctuary.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "maximizing-your-rental-s-occupancy",
+    "title": "Maximizing Your Rental's Occupancy 🎯",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2025-02-25",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/maximizing-your-rental-s-occupancy",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "EnergySage",
+        "url": "https://www.energysage.com/",
+        "logo": "https://www.google.com/s2/favicons?domain=www.energysage.com&sz=128"
+      }
+    ],
+    "htmlFile": "/emails/maximizing-your-rental-s-occupancy.html",
+    "tags": [
+      "Technology"
+    ]
+  },
+  {
+    "id": "your-home-away-from-home",
+    "title": "Your Home Away from Home",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2025-02-18",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/your-home-away-from-home",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Fyxer AI",
+        "url": "https://www.fyxer.ai/",
+        "logo": "fyxer.png"
+      }
+    ],
+    "htmlFile": "/emails/your-home-away-from-home.html",
+    "tags": [
+      "AI",
+      "Productivity"
+    ]
+  },
+  {
+    "id": "time-to-hit-the-slopes",
+    "title": "Time to Hit the Slopes⛷️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2025-01-22",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/time-to-hit-the-slopes",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "1440 Media",
+        "url": "https://www.join1440.com",
+        "logo": "1440_Primary_Brandmark_RBG_Black.png"
+      }
+    ],
+    "htmlFile": "/emails/time-to-hit-the-slopes.html",
+    "tags": [
+      "News",
+      "Newsletter"
+    ]
+  },
+  {
+    "id": "the-los-angeles-fires",
+    "title": "The Los Angeles Fires",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2025-01-14",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/the-los-angeles-fires",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "nikelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-los-angeles-fires.html",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ]
+  },
+  {
+    "id": "the-perfect-holiday-party-recipe",
+    "title": "The Perfect Holiday Party Recipe 🍽️",
+    "category": "Newsletter Ads",
+    "description": "",
+    "author": "FLXlease",
+    "date": "2024-12-17",
+    "hasAds": true,
+    "url": "https://flxlease.beehiiv.com/p/the-perfect-holiday-party-recipe",
+    "publisher": {
+      "name": "FLXlease",
+      "url": "https://flxlease.beehiiv.com"
+    },
+    "advertisers": [
+      {
+        "name": "Nike",
+        "url": "https://www.nike.com/",
+        "logo": "nikelogo.png"
+      }
+    ],
+    "htmlFile": "/emails/the-perfect-holiday-party-recipe.html",
+    "tags": [
+      "E-commerce",
+      "Sports"
+    ]
+  }
+]
