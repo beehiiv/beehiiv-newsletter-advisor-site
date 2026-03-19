@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowRight, Copy, Check, Download, Terminal, Zap, TrendingUp, BarChart3, Target, Mail, Users, Megaphone, Settings, BookOpen } from 'lucide-react';
+import { ArrowRight, Copy, Check, Download, Terminal, TrendingUp, BarChart3, Target, Mail, Users, Megaphone, Settings, BookOpen } from 'lucide-react';
 
 const Header: React.FC = () => (
   <header className="bg-[#0c0c0c]">
