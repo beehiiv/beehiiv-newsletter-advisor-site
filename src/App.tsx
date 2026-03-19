@@ -1,10 +1,17 @@
 import React, { useState } from 'react';
 import { ArrowRight, Copy, Check, Download, Terminal, TrendingUp, BarChart3, Target, Mail, Users, Megaphone, Settings, BookOpen } from 'lucide-react';
 
+const NAV_LINKS = [
+  { label: 'Install', href: '#install' },
+  { label: 'Features', href: '#features' },
+  { label: 'Niches', href: '#niches' },
+  { label: 'How It Works', href: '#how-it-works' },
+];
+
 const Header: React.FC = () => (
-  <header className="bg-[#0c0c0c]">
+  <header className="bg-[#0c0c0c] sticky top-0 z-50">
     <div className="max-w-[1280px] mx-auto px-6 lg:px-8">
-      <div className="flex items-center justify-between h-14 md:h-24">
+      <div className="flex items-center justify-between h-14 md:h-20">
         <a href="/" className="flex items-center gap-2">
           <img
             src="https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/dc06754c-3d68-414e-8c9f-d8091d529feb/Gemini_Generated_Image_37yx9o37yx9o37yx_1.png"
@@ -12,6 +19,13 @@ const Header: React.FC = () => (
             className="h-10 md:h-14"
           />
         </a>
+        <nav className="hidden md:flex items-center gap-6">
+          {NAV_LINKS.map((link) => (
+            <a key={link.href} href={link.href} className="text-[#888] hover:text-white text-sm font-medium transition-colors">
+              {link.label}
+            </a>
+          ))}
+        </nav>
         <div className="flex items-center gap-3">
           <a
             href="https://github.com/beehiiv/beehiiv-newsletter-advisor"
@@ -109,7 +123,7 @@ const App: React.FC = () => {
         </div>
 
         {/* Install Section */}
-        <div id="install" className="max-w-3xl mx-auto w-full px-6 lg:px-8 pt-12 pb-8">
+        <div id="install" className="max-w-3xl mx-auto w-full px-6 lg:px-8 pt-12 pb-8 scroll-mt-24">
           {/* Platform tabs */}
           <div className="flex gap-0 border-b border-[#333] mb-0">
             {Object.keys(INSTALL_COMMANDS).map((p) => (
@@ -181,7 +195,7 @@ const App: React.FC = () => {
         </div>
 
         {/* Features Grid */}
-        <div className="max-w-[1280px] mx-auto w-full px-6 lg:px-8 py-12">
+        <div id="features" className="max-w-[1280px] mx-auto w-full px-6 lg:px-8 py-12 scroll-mt-24">
           <h2 className="font-display text-3xl md:text-4xl font-bold text-white uppercase text-center mb-2">
             What It Knows
           </h2>
@@ -205,7 +219,7 @@ const App: React.FC = () => {
         </div>
 
         {/* Niches */}
-        <div className="max-w-[1280px] mx-auto w-full px-6 lg:px-8 py-12">
+        <div id="niches" className="max-w-[1280px] mx-auto w-full px-6 lg:px-8 py-12 scroll-mt-24">
           <h2 className="font-display text-3xl md:text-4xl font-bold text-white uppercase text-center mb-2">
             Every Niche
           </h2>
@@ -221,7 +235,7 @@ const App: React.FC = () => {
         </div>
 
         {/* How It Works */}
-        <div className="max-w-[1280px] mx-auto w-full px-6 lg:px-8 py-12">
+        <div id="how-it-works" className="max-w-[1280px] mx-auto w-full px-6 lg:px-8 py-12 scroll-mt-24">
           <h2 className="font-display text-3xl md:text-4xl font-bold text-white uppercase text-center mb-10">
             How It Works
           </h2>
