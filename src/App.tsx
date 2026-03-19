@@ -11,22 +11,22 @@ const NAV_LINKS = [
 const Header: React.FC = () => (
   <header className="bg-[#0c0c0c] sticky top-0 z-50">
     <div className="max-w-[1280px] mx-auto px-6 lg:px-8">
-      <div className="flex items-center justify-between h-14 md:h-20">
-        <a href="/" className="flex items-center gap-2">
+      <div className="relative flex items-center justify-between h-14 md:h-20">
+        <a href="/" className="flex items-center gap-2 z-10">
           <img
             src="https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/asset/file/dc06754c-3d68-414e-8c9f-d8091d529feb/Gemini_Generated_Image_37yx9o37yx9o37yx_1.png"
             alt="beehiiv Newsletter Advisor"
             className="h-10 md:h-14"
           />
         </a>
-        <nav className="hidden md:flex items-center gap-6">
+        <nav className="hidden md:flex items-center gap-6 absolute left-1/2 -translate-x-1/2">
           {NAV_LINKS.map((link) => (
             <a key={link.href} href={link.href} className="text-[#888] hover:text-white text-sm font-medium transition-colors">
               {link.label}
             </a>
           ))}
         </nav>
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3 z-10">
           <a
             href="https://github.com/beehiiv/beehiiv-newsletter-advisor"
             target="_blank"
