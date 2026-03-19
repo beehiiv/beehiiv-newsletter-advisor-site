@@ -33,7 +33,7 @@ const Header: React.FC = () => (
 const INSTALL_COMMANDS: Record<string, { command: string; note?: string }> = {
   'Claude Code': { command: 'git clone https://github.com/beehiiv/beehiiv-newsletter-advisor.git ~/.claude/skills/beehiiv-newsletter-advisor' },
   'Claude': { command: '' },
-  'Cursor': { command: 'git clone https://github.com/beehiiv/beehiiv-newsletter-advisor.git ~/.cursor/skills/beehiiv-newsletter-advisor' },
+  'Cursor': { command: 'git clone https://github.com/beehiiv/beehiiv-newsletter-advisor.git .cursor/rules/beehiiv-newsletter-advisor' },
   'Manual': { command: 'curl -L https://github.com/beehiiv/beehiiv-newsletter-advisor/archive/main.tar.gz | tar xz' },
 };
 
